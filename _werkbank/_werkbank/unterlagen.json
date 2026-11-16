@@ -1,0 +1,46 @@
+[
+ {
+  "ziel": "menue",
+  "quelle": "_werkbank/heute/menue.pdf",
+  "name": "Das Menu des Restaurants Bareiss",
+  "gruppe": "Die Karten",
+  "seiten": 0,
+  "b": 210,
+  "h": 297,
+  "dazu": "",
+  "fehlt": ""
+ },
+ {
+  "ziel": "dorfstuben",
+  "quelle": "_werkbank/heute/dorfstuben.pdf",
+  "name": "Die Dorfstuben",
+  "gruppe": "Die Karten",
+  "seiten": 0,
+  "b": 210,
+  "h": 297,
+  "dazu": "",
+  "fehlt": ""
+ },
+ {
+  "ziel": "preisliste",
+  "quelle": "_werkbank/heute/preisliste.pdf",
+  "name": "Zimmer und Preise",
+  "gruppe": "Die Preise",
+  "seiten": 0,
+  "b": 210,
+  "h": 297,
+  "dazu": "",
+  "fehlt": ""
+ },
+ {
+  "ziel": "kinder",
+  "quelle": "_werkbank/heute/kinder.pdf",
+  "name": "Kinder und Familie",
+  "gruppe": "Familie",
+  "seiten": 0,
+  "b": 210,
+  "h": 297,
+  "dazu": "",
+  "fehlt": ""
+ }
+]

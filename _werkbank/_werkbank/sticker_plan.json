@@ -1,0 +1,297 @@
+{
+ "etiketten": [
+  {
+   "id": "s01",
+   "b": 46,
+   "h": 46,
+   "name": "Das Wappen auf Tanne",
+   "satz": "Eckig, 46 mm. Das Wappen HB mit drei Kugeln in Hausgold.",
+   "form": "M3 0H43A3 3 0 0 1 46 3V43A3 3 0 0 1 43 46H3A3 3 0 0 1 0 43V3A3 3 0 0 1 3 0Z"
+  },
+  {
+   "id": "s02",
+   "b": 100,
+   "h": 22,
+   "name": "Haben Sie Freude.",
+   "satz": "Kapsel, 100 mm. Der Anfang Ihres Grußes auf der Startseite.",
+   "form": "M11.0 0H89.0A11.0 11.0 0 0 1 100 11.0V11.0A11.0 11.0 0 0 1 89.0 22H11.0A11.0 11.0 0 0 1 0 11.0V11.0A11.0 11.0 0 0 1 11.0 0Z"
+  },
+  {
+   "id": "s03",
+   "b": 56,
+   "h": 80,
+   "name": "Die Raute",
+   "satz": "Raute, 56 × 80 mm, wie das Rautenfenster im Restaurant Bareiss. Das Wappen auf Hausgold.",
+   "form": "M28.0 0.6L55.4 40.0L28.0 79.4L.6 40.0Z"
+  },
+  {
+   "id": "s04",
+   "b": 60,
+   "h": 60,
+   "name": "Foto: das Haus am Teich",
+   "satz": "Eckig, 60 mm. Das Haus am Naturschwimmteich mit dem Tal dahinter.",
+   "form": "M2.4 0H57.6A2.4 2.4 0 0 1 60 2.4V57.6A2.4 2.4 0 0 1 57.6 60H2.4A2.4 2.4 0 0 1 0 57.6V2.4A2.4 2.4 0 0 1 2.4 0Z"
+  },
+  {
+   "id": "s05",
+   "b": 44,
+   "h": 62,
+   "name": "Zu Gast in der Familie.",
+   "satz": "Als Bogen, 44 × 62 mm, auf Tanne.",
+   "form": "M0 22.0A22.0 22.0 0 0 1 44 22.0V59A3 3 0 0 1 41 62H3A3 3 0 0 1 0 59Z"
+  },
+  {
+   "id": "s06",
+   "b": 80,
+   "h": 40,
+   "name": "Herzlich willkommen.",
+   "satz": "Eckig, 80 × 40 mm, für den Koffer, wie das Herz an der Zimmertür.",
+   "form": "M3 0H77A3 3 0 0 1 80 3V37A3 3 0 0 1 77 40H3A3 3 0 0 1 0 37V3A3 3 0 0 1 3 0Z"
+  },
+  {
+   "id": "s07",
+   "b": 44,
+   "h": 44,
+   "name": "34 °C",
+   "satz": "Eckig, 44 mm. Das Meerwasser, ganzjährig.",
+   "form": "M3 0H41A3 3 0 0 1 44 3V41A3 3 0 0 1 41 44H3A3 3 0 0 1 0 41V3A3 3 0 0 1 3 0Z"
+  },
+  {
+   "id": "s08",
+   "b": 44,
+   "h": 44,
+   "name": "90 °C",
+   "satz": "Eckig, 44 mm, auf Salbei. Die Finnische Sauna.",
+   "form": "M3 0H41A3 3 0 0 1 44 3V41A3 3 0 0 1 41 44H3A3 3 0 0 1 0 41V3A3 3 0 0 1 3 0Z"
+  },
+  {
+   "id": "s09",
+   "b": 60,
+   "h": 60,
+   "name": "Foto: das Meerwasser-Außenbecken",
+   "satz": "Eckig, 60 mm.",
+   "form": "M2.4 0H57.6A2.4 2.4 0 0 1 60 2.4V57.6A2.4 2.4 0 0 1 57.6 60H2.4A2.4 2.4 0 0 1 0 57.6V2.4A2.4 2.4 0 0 1 2.4 0Z"
+  },
+  {
+   "id": "s10",
+   "b": 90,
+   "h": 26,
+   "name": "Baiersbronn-Mitteltal",
+   "satz": "Kapsel, 90 mm.",
+   "form": "M13.0 0H77.0A13.0 13.0 0 0 1 90 13.0V13.0A13.0 13.0 0 0 1 77.0 26H13.0A13.0 13.0 0 0 1 0 13.0V13.0A13.0 13.0 0 0 1 13.0 0Z"
+  },
+  {
+   "id": "s11",
+   "b": 44,
+   "h": 62,
+   "name": "Seit 1951",
+   "satz": "Als Bogen, 44 × 62 mm. Am 1. Mai 1951 eröffnet Hermine Bareiss das Kurhotel Mitteltal.",
+   "form": "M0 22.0A22.0 22.0 0 0 1 44 22.0V59A3 3 0 0 1 41 62H3A3 3 0 0 1 0 59Z"
+  },
+  {
+   "id": "s12",
+   "b": 56,
+   "h": 80,
+   "name": "Drei Sterne",
+   "satz": "Raute, 56 × 80 mm, auf Salbei. Das Restaurant Bareiss, drei Michelin-Sterne seit 2007.",
+   "form": "M28.0 0.6L55.4 40.0L28.0 79.4L.6 40.0Z"
+  },
+  {
+   "id": "s13",
+   "b": 60,
+   "h": 60,
+   "name": "Foto: ein Tisch im Restaurant Bareiss",
+   "satz": "Eckig, 60 mm.",
+   "form": "M2.4 0H57.6A2.4 2.4 0 0 1 60 2.4V57.6A2.4 2.4 0 0 1 57.6 60H2.4A2.4 2.4 0 0 1 0 57.6V2.4A2.4 2.4 0 0 1 2.4 0Z"
+  },
+  {
+   "id": "s14",
+   "b": 44,
+   "h": 62,
+   "name": "Der Kulinarische Ferientag",
+   "satz": "Als Bogen, 44 × 62 mm. Von 7.00 Uhr in der Pooloase bis zum Mitternachtsimbiss.",
+   "form": "M0 22.0A22.0 22.0 0 0 1 44 22.0V59A3 3 0 0 1 41 62H3A3 3 0 0 1 0 59Z"
+  },
+  {
+   "id": "s15",
+   "b": 100,
+   "h": 30,
+   "name": "Der kleine, feine Unterschied.",
+   "satz": "Kapsel, 100 mm. Die Überschrift des Restaurants Bareiss.",
+   "form": "M15.0 0H85.0A15.0 15.0 0 0 1 100 15.0V15.0A15.0 15.0 0 0 1 85.0 30H15.0A15.0 15.0 0 0 1 0 15.0V15.0A15.0 15.0 0 0 1 15.0 0Z"
+  },
+  {
+   "id": "s16",
+   "b": 56,
+   "h": 56,
+   "name": "5 Sterne Superior",
+   "satz": "Eckig, 56 mm, mit den fünf Sternen der Sterne-Linie des Logos.",
+   "form": "M3 0H53A3 3 0 0 1 56 3V53A3 3 0 0 1 53 56H3A3 3 0 0 1 0 53V3A3 3 0 0 1 3 0Z"
+  },
+  {
+   "id": "s17",
+   "b": 60,
+   "h": 60,
+   "name": "Foto: die Ponys",
+   "satz": "Eckig, 60 mm. Die Ponys im Reiterhöfle.",
+   "form": "M2.4 0H57.6A2.4 2.4 0 0 1 60 2.4V57.6A2.4 2.4 0 0 1 57.6 60H2.4A2.4 2.4 0 0 1 0 57.6V2.4A2.4 2.4 0 0 1 2.4 0Z"
+  },
+  {
+   "id": "s18",
+   "b": 80,
+   "h": 40,
+   "name": "Gutschein",
+   "satz": "Eckig, 80 × 40 mm, für das Geschenk mit dem Gutschein.",
+   "form": "M3 0H77A3 3 0 0 1 80 3V37A3 3 0 0 1 77 40H3A3 3 0 0 1 0 37V3A3 3 0 0 1 3 0Z"
+  },
+  {
+   "id": "s19",
+   "b": 40,
+   "h": 40,
+   "name": "Das Wappen in Hausgold",
+   "satz": "Eckig, 40 mm.",
+   "form": "M3 0H37A3 3 0 0 1 40 3V37A3 3 0 0 1 37 40H3A3 3 0 0 1 0 37V3A3 3 0 0 1 3 0Z"
+  },
+  {
+   "id": "s20",
+   "b": 56,
+   "h": 56,
+   "name": "Minis, Maxis, Teens",
+   "satz": "Eckig, 56 mm. Die drei Gruppen der Kinder im Haus.",
+   "form": "M3 0H53A3 3 0 0 1 56 3V53A3 3 0 0 1 53 56H3A3 3 0 0 1 0 53V3A3 3 0 0 1 3 0Z"
+  },
+  {
+   "id": "s21",
+   "b": 90,
+   "h": 26,
+   "name": "Seit 1951 in der Familie",
+   "satz": "Kapsel, 90 mm.",
+   "form": "M13.0 0H77.0A13.0 13.0 0 0 1 90 13.0V13.0A13.0 13.0 0 0 1 77.0 26H13.0A13.0 13.0 0 0 1 0 13.0V13.0A13.0 13.0 0 0 1 13.0 0Z"
+  },
+  {
+   "id": "s22",
+   "b": 60,
+   "h": 60,
+   "name": "Foto: die Wanderhütte Sattelei",
+   "satz": "Eckig, 60 mm.",
+   "form": "M2.4 0H57.6A2.4 2.4 0 0 1 60 2.4V57.6A2.4 2.4 0 0 1 57.6 60H2.4A2.4 2.4 0 0 1 0 57.6V2.4A2.4 2.4 0 0 1 2.4 0Z"
+  },
+  {
+   "id": "s23",
+   "b": 52,
+   "h": 70,
+   "name": "Weltbestes Hotel für Kinder",
+   "satz": "Als Bogen, 52 × 70 mm.",
+   "form": "M0 26.0A26.0 26.0 0 0 1 52 26.0V67A3 3 0 0 1 49 70H3A3 3 0 0 1 0 67Z"
+  },
+  {
+   "id": "s24",
+   "b": 56,
+   "h": 56,
+   "name": "Forellenhof Buhlbach",
+   "satz": "Eckig, 56 mm. Vom Ei bis zur Veredelung, alles vor Ort.",
+   "form": "M3 0H53A3 3 0 0 1 56 3V53A3 3 0 0 1 53 56H3A3 3 0 0 1 0 53V3A3 3 0 0 1 3 0Z"
+  },
+  {
+   "id": "s25",
+   "b": 100,
+   "h": 30,
+   "name": "Die Stuben",
+   "satz": "Kapsel, 100 mm, auf Salbei.",
+   "form": "M15.0 0H85.0A15.0 15.0 0 0 1 100 15.0V15.0A15.0 15.0 0 0 1 85.0 30H15.0A15.0 15.0 0 0 1 0 15.0V15.0A15.0 15.0 0 0 1 15.0 0Z"
+  },
+  {
+   "id": "s26",
+   "b": 56,
+   "h": 56,
+   "name": "Bareiss kann süchtig machen.",
+   "satz": "Eckig, 56 mm. Eine Stimme von Gästen, im Wortlaut Ihrer Seite.",
+   "form": "M3 0H53A3 3 0 0 1 56 3V53A3 3 0 0 1 53 56H3A3 3 0 0 1 0 53V3A3 3 0 0 1 3 0Z"
+  },
+  {
+   "id": "s27",
+   "b": 60,
+   "h": 60,
+   "name": "Foto: das Ufer in der Sommernacht",
+   "satz": "Eckig, 60 mm.",
+   "form": "M2.4 0H57.6A2.4 2.4 0 0 1 60 2.4V57.6A2.4 2.4 0 0 1 57.6 60H2.4A2.4 2.4 0 0 1 0 57.6V2.4A2.4 2.4 0 0 1 2.4 0Z"
+  },
+  {
+   "id": "s28",
+   "b": 80,
+   "h": 40,
+   "name": "Morlokhof",
+   "satz": "Eckig, 80 × 40 mm. Der historische Bauernhof, erbaut anno 1789.",
+   "form": "M3 0H77A3 3 0 0 1 80 3V37A3 3 0 0 1 77 40H3A3 3 0 0 1 0 37V3A3 3 0 0 1 3 0Z"
+  },
+  {
+   "id": "s29",
+   "b": 56,
+   "h": 80,
+   "name": "Der Schriftzug in der Raute",
+   "satz": "Raute, 56 × 80 mm. Der Schriftzug Bareiss aus dem Logo.",
+   "form": "M28.0 0.6L55.4 40.0L28.0 79.4L.6 40.0Z"
+  },
+  {
+   "id": "s30",
+   "b": 64,
+   "h": 64,
+   "name": "Wappen und Schriftzug",
+   "satz": "Eckig, 64 mm. Das Logo des Hauses, Wappen über dem Schriftzug.",
+   "form": "M3 0H61A3 3 0 0 1 64 3V61A3 3 0 0 1 61 64H3A3 3 0 0 1 0 61V3A3 3 0 0 1 3 0Z"
+  },
+  {
+   "id": "s31",
+   "b": 60,
+   "h": 60,
+   "name": "Foto: die Kaminstube",
+   "satz": "Eckig, 60 mm. Eine Blume am Tisch der Kaminstube.",
+   "form": "M2.4 0H57.6A2.4 2.4 0 0 1 60 2.4V57.6A2.4 2.4 0 0 1 57.6 60H2.4A2.4 2.4 0 0 1 0 57.6V2.4A2.4 2.4 0 0 1 2.4 0Z"
+  },
+  {
+   "id": "s32",
+   "b": 56,
+   "h": 80,
+   "name": "Ab 7.00 Uhr",
+   "satz": "Raute, 56 × 80 mm, auf Leinen. Der Anfang des Kulinarischen Ferientags in der Pooloase.",
+   "form": "M28.0 0.6L55.4 40.0L28.0 79.4L.6 40.0Z"
+  },
+  {
+   "id": "s33",
+   "b": 60,
+   "h": 60,
+   "name": "Foto: das Wildgehege",
+   "satz": "Eckig, 60 mm. Das Damwild im eigenen Wildgehege.",
+   "form": "M2.4 0H57.6A2.4 2.4 0 0 1 60 2.4V57.6A2.4 2.4 0 0 1 57.6 60H2.4A2.4 2.4 0 0 1 0 57.6V2.4A2.4 2.4 0 0 1 2.4 0Z"
+  },
+  {
+   "id": "s34",
+   "b": 100,
+   "h": 22,
+   "name": "Donnerstag bis Sonntag",
+   "satz": "Kapsel, 100 mm. Die Tage, an denen das Restaurant Bareiss geöffnet ist.",
+   "form": "M11.0 0H89.0A11.0 11.0 0 0 1 100 11.0V11.0A11.0 11.0 0 0 1 89.0 22H11.0A11.0 11.0 0 0 1 0 11.0V11.0A11.0 11.0 0 0 1 11.0 0Z"
+  },
+  {
+   "id": "s35",
+   "b": 60,
+   "h": 60,
+   "name": "Foto: Forellen vom Forellenhof",
+   "satz": "Eckig, 60 mm. Aus der eigenen Fischzucht in Buhlbach.",
+   "form": "M2.4 0H57.6A2.4 2.4 0 0 1 60 2.4V57.6A2.4 2.4 0 0 1 57.6 60H2.4A2.4 2.4 0 0 1 0 57.6V2.4A2.4 2.4 0 0 1 2.4 0Z"
+  },
+  {
+   "id": "s36",
+   "b": 44,
+   "h": 62,
+   "name": "Nationalpark Schwarzwald",
+   "satz": "Als Bogen, 44 × 62 mm, auf Salbei.",
+   "form": "M0 22.0A22.0 22.0 0 0 1 44 22.0V59A3 3 0 0 1 41 62H3A3 3 0 0 1 0 59Z"
+  }
+ ],
+ "boegen": 3,
+ "masse": [
+  22,
+  100
+ ]
+}

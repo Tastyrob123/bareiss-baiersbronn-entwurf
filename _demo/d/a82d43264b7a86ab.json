@@ -1,0 +1,5705 @@
+{
+ "haus": "Hotel Bareiss",
+ "ort": "Baiersbronn-Mitteltal",
+ "fotos": [
+  {
+   "k": "teich-tag",
+   "t": {
+    "de": "Das Hotel Bareiss am Naturschwimmteich, dahinter das Tal"
+   },
+   "b": "haus",
+   "s": "jahr",
+   "f": "quer",
+   "w": 2560,
+   "h": 1709,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/teich-tag-1920.webp",
+   "fm": "../../assets/img/teich-tag-1200.webp",
+   "fs": "../../assets/img/teich-tag-640.webp"
+  },
+  {
+   "k": "teich-nacht",
+   "t": {
+    "de": "Das Hotel Bareiss in einer Sommernacht, die Fenster erleuchtet"
+   },
+   "b": "haus",
+   "s": "jahr",
+   "f": "quer",
+   "w": 2560,
+   "h": 1707,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/teich-nacht-1920.webp",
+   "fm": "../../assets/img/teich-nacht-1200.webp",
+   "fs": "../../assets/img/teich-nacht-640.webp"
+  },
+  {
+   "k": "teich-liegen",
+   "t": {
+    "de": "Liegen am Naturbadeteich"
+   },
+   "b": "haus",
+   "s": "jahr",
+   "f": "quer",
+   "w": 2560,
+   "h": 1709,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/teich-liegen-1920.webp",
+   "fm": "../../assets/img/teich-liegen-1200.webp",
+   "fs": "../../assets/img/teich-liegen-640.webp"
+  },
+  {
+   "k": "herz-tuer",
+   "t": {
+    "de": "Ein rotes Herz mit «Herzlich willkommen» an einer Zimmertür"
+   },
+   "b": "haus",
+   "s": "jahr",
+   "f": "quer",
+   "w": 2550,
+   "h": 1702,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/herz-tuer-1920.webp",
+   "fm": "../../assets/img/herz-tuer-1200.webp",
+   "fs": "../../assets/img/herz-tuer-640.webp"
+  },
+  {
+   "k": "vorfahrt",
+   "t": {
+    "de": "Vorfahrt am Eingang des Hotel Bareiss"
+   },
+   "b": "haus",
+   "s": "jahr",
+   "f": "quer",
+   "w": 3251,
+   "h": 2167,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/vorfahrt-1920.webp",
+   "fm": "../../assets/img/vorfahrt-1200.webp",
+   "fs": "../../assets/img/vorfahrt-640.webp"
+  },
+  {
+   "k": "familie",
+   "t": {
+    "de": "Familie Bareiss: Hermann Bareiss, Britta und Hannes Bareiss"
+   },
+   "b": "gastgeber",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1201,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/familie-1800.webp",
+   "fm": "../../assets/img/familie-1200.webp",
+   "fs": "../../assets/img/familie-640.webp"
+  },
+  {
+   "k": "garten-licht",
+   "t": {
+    "de": "Der Garten des Hauses im Morgenlicht"
+   },
+   "b": "haus",
+   "s": "jahr",
+   "f": "quer",
+   "w": 2560,
+   "h": 1707,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/garten-licht-1920.webp",
+   "fm": "../../assets/img/garten-licht-1200.webp",
+   "fs": "../../assets/img/garten-licht-640.webp"
+  },
+  {
+   "k": "z-einzel",
+   "t": {
+    "de": "Einzelzimmer"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 3302,
+   "h": 2202,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/z-einzel-1920.webp",
+   "fm": "../../assets/img/z-einzel-1200.webp",
+   "fs": "../../assets/img/z-einzel-640.webp"
+  },
+  {
+   "k": "z-doppel",
+   "t": {
+    "de": "Doppelzimmer"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 2560,
+   "h": 1707,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/z-doppel-1920.webp",
+   "fm": "../../assets/img/z-doppel-1200.webp",
+   "fs": "../../assets/img/z-doppel-640.webp"
+  },
+  {
+   "k": "z-doppel2",
+   "t": {
+    "de": "Ein helles Doppelzimmer mit Sitzecke und Blick ins Grüne"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 3838,
+   "h": 2560,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/z-doppel2-1920.webp",
+   "fm": "../../assets/img/z-doppel2-1200.webp",
+   "fs": "../../assets/img/z-doppel2-640.webp"
+  },
+  {
+   "k": "z-gross",
+   "t": {
+    "de": "Großes Doppelzimmer Bergmosis"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 2560,
+   "h": 1708,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/z-gross-1920.webp",
+   "fm": "../../assets/img/z-gross-1200.webp",
+   "fs": "../../assets/img/z-gross-640.webp"
+  },
+  {
+   "k": "z-gross2",
+   "t": {
+    "de": "Großes Doppelzimmer Weißenbachtal"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 2560,
+   "h": 1689,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/z-gross2-1920.webp",
+   "fm": "../../assets/img/z-gross2-1200.webp",
+   "fs": "../../assets/img/z-gross2-640.webp"
+  },
+  {
+   "k": "z-appartement",
+   "t": {
+    "de": "Doppelzimmer-Appartement Eulengrund und Weißenbachtal"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 2560,
+   "h": 1707,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/z-appartement-1920.webp",
+   "fm": "../../assets/img/z-appartement-1200.webp",
+   "fs": "../../assets/img/z-appartement-640.webp"
+  },
+  {
+   "k": "z-appartement2",
+   "t": {
+    "de": "Doppelzimmer-Appartement"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 2560,
+   "h": 1707,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/z-appartement2-1920.webp",
+   "fm": "../../assets/img/z-appartement2-1200.webp",
+   "fs": "../../assets/img/z-appartement2-640.webp"
+  },
+  {
+   "k": "z-appartement3",
+   "t": {
+    "de": "Doppelzimmer-Appartement Gartenflügel"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 2560,
+   "h": 1708,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/z-appartement3-1920.webp",
+   "fm": "../../assets/img/z-appartement3-1200.webp",
+   "fs": "../../assets/img/z-appartement3-640.webp"
+  },
+  {
+   "k": "z-appartement4",
+   "t": {
+    "de": "Doppelzimmer-Appartement"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 2560,
+   "h": 1683,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/z-appartement4-1920.webp",
+   "fm": "../../assets/img/z-appartement4-1200.webp",
+   "fs": "../../assets/img/z-appartement4-640.webp"
+  },
+  {
+   "k": "z-familie",
+   "t": {
+    "de": "Familien-Appartement"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 3838,
+   "h": 2560,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/z-familie-1920.webp",
+   "fm": "../../assets/img/z-familie-1200.webp",
+   "fs": "../../assets/img/z-familie-640.webp"
+  },
+  {
+   "k": "z-familie2",
+   "t": {
+    "de": "Familien-Appartement Orspach II"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 2560,
+   "h": 1707,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/z-familie2-1920.webp",
+   "fm": "../../assets/img/z-familie2-1200.webp",
+   "fs": "../../assets/img/z-familie2-640.webp"
+  },
+  {
+   "k": "z-familie3",
+   "t": {
+    "de": "Familien-Appartement Orspach I"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 2560,
+   "h": 1518,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/z-familie3-1920.webp",
+   "fm": "../../assets/img/z-familie3-1200.webp",
+   "fs": "../../assets/img/z-familie3-640.webp"
+  },
+  {
+   "k": "z-suite",
+   "t": {
+    "de": "Penthouse Suite Gartenflügel"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 2560,
+   "h": 1708,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/z-suite-1920.webp",
+   "fm": "../../assets/img/z-suite-1200.webp",
+   "fs": "../../assets/img/z-suite-640.webp"
+  },
+  {
+   "k": "z-landhaussuite",
+   "t": {
+    "de": "Suite im Landhausstil"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 2560,
+   "h": 1709,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/z-landhaussuite-1920.webp",
+   "fm": "../../assets/img/z-landhaussuite-1200.webp",
+   "fs": "../../assets/img/z-landhaussuite-640.webp"
+  },
+  {
+   "k": "z-landhaussuite2",
+   "t": {
+    "de": "Landhaus-Suite II"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 2560,
+   "h": 1707,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/z-landhaussuite2-1920.webp",
+   "fm": "../../assets/img/z-landhaussuite2-1200.webp",
+   "fs": "../../assets/img/z-landhaussuite2-640.webp"
+  },
+  {
+   "k": "z-penthouse",
+   "t": {
+    "de": "Penthouse"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 2560,
+   "h": 1708,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/z-penthouse-1920.webp",
+   "fm": "../../assets/img/z-penthouse-1200.webp",
+   "fs": "../../assets/img/z-penthouse-640.webp"
+  },
+  {
+   "k": "z-penthouse2",
+   "t": {
+    "de": "Penthouse 103, Schlafbereich"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 2560,
+   "h": 1707,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/z-penthouse2-1920.webp",
+   "fm": "../../assets/img/z-penthouse2-1200.webp",
+   "fs": "../../assets/img/z-penthouse2-640.webp"
+  },
+  {
+   "k": "z-landhaus-einzel",
+   "t": {
+    "de": "Einzelzimmer im Landhaus"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 2560,
+   "h": 1707,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/z-landhaus-einzel-1920.webp",
+   "fm": "../../assets/img/z-landhaus-einzel-1200.webp",
+   "fs": "../../assets/img/z-landhaus-einzel-640.webp"
+  },
+  {
+   "k": "z-landhaus-doppel",
+   "t": {
+    "de": "Doppelzimmer"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 2560,
+   "h": 1707,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/z-landhaus-doppel-1920.webp",
+   "fm": "../../assets/img/z-landhaus-doppel-1200.webp",
+   "fs": "../../assets/img/z-landhaus-doppel-640.webp"
+  },
+  {
+   "k": "z-landhaus-gross",
+   "t": {
+    "de": "Großes Doppelzimmer Landhaus I"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 2560,
+   "h": 1686,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/z-landhaus-gross-1920.webp",
+   "fm": "../../assets/img/z-landhaus-gross-1200.webp",
+   "fs": "../../assets/img/z-landhaus-gross-640.webp"
+  },
+  {
+   "k": "z-landhaus-app",
+   "t": {
+    "de": "Doppelzimmer-Appartement Landhaus II"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 2560,
+   "h": 1707,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/z-landhaus-app-1920.webp",
+   "fm": "../../assets/img/z-landhaus-app-1200.webp",
+   "fs": "../../assets/img/z-landhaus-app-640.webp"
+  },
+  {
+   "k": "t-pool-morgen",
+   "t": {
+    "de": "Service mit Tablett in der Pooloase am Morgen"
+   },
+   "b": "ferientag",
+   "s": "jahr",
+   "f": "quer",
+   "w": 2560,
+   "h": 1707,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/t-pool-morgen-1920.webp",
+   "fm": "../../assets/img/t-pool-morgen-1200.webp",
+   "fs": "../../assets/img/t-pool-morgen-640.webp"
+  },
+  {
+   "k": "t-fruehstueck",
+   "t": {
+    "de": "Ein gedeckter Frühstückstisch mit Gebäck und Saft"
+   },
+   "b": "ferientag",
+   "s": "jahr",
+   "f": "quer",
+   "w": 7360,
+   "h": 4912,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/t-fruehstueck-1920.webp",
+   "fm": "../../assets/img/t-fruehstueck-1200.webp",
+   "fs": "../../assets/img/t-fruehstueck-640.webp"
+  },
+  {
+   "k": "t-dinner",
+   "t": {
+    "de": "Der Wintergarten des Hotel-Restaurants, festlich gedeckt"
+   },
+   "b": "ferientag",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1981,
+   "h": 1321,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/t-dinner-1920.webp",
+   "fm": "../../assets/img/t-dinner-1200.webp",
+   "fs": "../../assets/img/t-dinner-640.webp"
+  },
+  {
+   "k": "t-bar",
+   "t": {
+    "de": "Die Hotelbar mit Kamin"
+   },
+   "b": "ferientag",
+   "s": "jahr",
+   "f": "quadrat",
+   "w": 1500,
+   "h": 1500,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/t-bar-1500.webp",
+   "fm": "../../assets/img/t-bar-1200.webp",
+   "fs": "../../assets/img/t-bar-640.webp"
+  },
+  {
+   "k": "r-saal",
+   "t": {
+    "de": "Das Restaurant Bareiss mit Kamin und Rautenfenstern"
+   },
+   "b": "restaurant",
+   "s": "jahr",
+   "f": "quer",
+   "w": 3302,
+   "h": 2161,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/r-saal-1920.webp",
+   "fm": "../../assets/img/r-saal-1200.webp",
+   "fs": "../../assets/img/r-saal-640.webp"
+  },
+  {
+   "k": "r-tisch",
+   "t": {
+    "de": "Ein gedeckter Tisch im Restaurant Bareiss vor dem Rautenfenster"
+   },
+   "b": "restaurant",
+   "s": "jahr",
+   "f": "quer",
+   "w": 3276,
+   "h": 2198,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/r-tisch-1920.webp",
+   "fm": "../../assets/img/r-tisch-1200.webp",
+   "fs": "../../assets/img/r-tisch-640.webp"
+  },
+  {
+   "k": "r-lumpp",
+   "t": {
+    "de": "Claus-Peter Lumpp, Küchenchef des Restaurants Bareiss"
+   },
+   "b": "restaurant",
+   "s": "jahr",
+   "f": "hoch",
+   "w": 1500,
+   "h": 2174,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/r-lumpp-1500.webp",
+   "fm": "../../assets/img/r-lumpp-1200.webp",
+   "fs": "../../assets/img/r-lumpp-640.webp"
+  },
+  {
+   "k": "r-team",
+   "t": {
+    "de": "Claus-Peter Lumpp mit Team im Restaurant"
+   },
+   "b": "restaurant",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1201,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/r-team-1800.webp",
+   "fm": "../../assets/img/r-team-1200.webp",
+   "fs": "../../assets/img/r-team-640.webp"
+  },
+  {
+   "k": "r-gruen",
+   "t": {
+    "de": "Gericht auf grünem Grund"
+   },
+   "b": "restaurant",
+   "s": "jahr",
+   "f": "hoch",
+   "w": 4526,
+   "h": 5658,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/r-gruen-1920.webp",
+   "fm": "../../assets/img/r-gruen-1200.webp",
+   "fs": "../../assets/img/r-gruen-640.webp"
+  },
+  {
+   "k": "r-taube",
+   "t": {
+    "de": "Gericht auf dunklem Teller"
+   },
+   "b": "restaurant",
+   "s": "jahr",
+   "f": "quer",
+   "w": 5901,
+   "h": 3934,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/r-taube-1920.webp",
+   "fm": "../../assets/img/r-taube-1200.webp",
+   "fs": "../../assets/img/r-taube-640.webp"
+  },
+  {
+   "k": "r-kaviar",
+   "t": {
+    "de": "Gericht mit Kaviar und Blüten"
+   },
+   "b": "restaurant",
+   "s": "jahr",
+   "f": "quer",
+   "w": 4809,
+   "h": 3847,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/r-kaviar-1920.webp",
+   "fm": "../../assets/img/r-kaviar-1200.webp",
+   "fs": "../../assets/img/r-kaviar-640.webp"
+  },
+  {
+   "k": "r-blatt",
+   "t": {
+    "de": "Dessert"
+   },
+   "b": "restaurant",
+   "s": "jahr",
+   "f": "quer",
+   "w": 4944,
+   "h": 3954,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/r-blatt-1920.webp",
+   "fm": "../../assets/img/r-blatt-1200.webp",
+   "fs": "../../assets/img/r-blatt-640.webp"
+  },
+  {
+   "k": "r-kueche",
+   "t": {
+    "de": "Claus-Peter Lumpp mit seiner Küchenmannschaft"
+   },
+   "b": "restaurant",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1124,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/r-kueche-1500.webp",
+   "fm": "../../assets/img/r-kueche-1200.webp",
+   "fs": "../../assets/img/r-kueche-640.webp"
+  },
+  {
+   "k": "r-pass",
+   "t": {
+    "de": "Am Pass der Küche"
+   },
+   "b": "restaurant",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1125,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/r-pass-1500.webp",
+   "fm": "../../assets/img/r-pass-1200.webp",
+   "fs": "../../assets/img/r-pass-640.webp"
+  },
+  {
+   "k": "r-leitner",
+   "t": {
+    "de": "Ein Dessert von Stefan Leitner"
+   },
+   "b": "restaurant",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1125,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/r-leitner-1500.webp",
+   "fm": "../../assets/img/r-leitner-1200.webp",
+   "fs": "../../assets/img/r-leitner-640.webp"
+  },
+  {
+   "k": "r-mezda",
+   "t": {
+    "de": "Sommelier Teoman Mezda im Weinkeller"
+   },
+   "b": "restaurant",
+   "s": "jahr",
+   "f": "quer",
+   "w": 2944,
+   "h": 1965,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/r-mezda-1920.webp",
+   "fm": "../../assets/img/r-mezda-1200.webp",
+   "fs": "../../assets/img/r-mezda-640.webp"
+  },
+  {
+   "k": "r-brandt",
+   "t": {
+    "de": "Maître Thomas Brandt im Restaurant Bareiss"
+   },
+   "b": "restaurant",
+   "s": "jahr",
+   "f": "quer",
+   "w": 3249,
+   "h": 2166,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/r-brandt-1920.webp",
+   "fm": "../../assets/img/r-brandt-1200.webp",
+   "fs": "../../assets/img/r-brandt-640.webp"
+  },
+  {
+   "k": "s-kaminstube",
+   "t": {
+    "de": "Die Kaminstube, eine Rose auf dem Tisch"
+   },
+   "b": "stuben",
+   "s": "jahr",
+   "f": "quer",
+   "w": 4019,
+   "h": 2679,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/s-kaminstube-1920.webp",
+   "fm": "../../assets/img/s-kaminstube-1200.webp",
+   "fs": "../../assets/img/s-kaminstube-640.webp"
+  },
+  {
+   "k": "s-dorfstube",
+   "t": {
+    "de": "Ein gedeckter Tisch in den Dorfstuben"
+   },
+   "b": "stuben",
+   "s": "jahr",
+   "f": "quer",
+   "w": 2560,
+   "h": 1704,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/s-dorfstube-1920.webp",
+   "fm": "../../assets/img/s-dorfstube-1200.webp",
+   "fs": "../../assets/img/s-dorfstube-640.webp"
+  },
+  {
+   "k": "s-weinkeller",
+   "t": {
+    "de": "Der Sommelier im Weinkeller"
+   },
+   "b": "stuben",
+   "s": "jahr",
+   "f": "quer",
+   "w": 2560,
+   "h": 1760,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/s-weinkeller-1920.webp",
+   "fm": "../../assets/img/s-weinkeller-1200.webp",
+   "fs": "../../assets/img/s-weinkeller-640.webp"
+  },
+  {
+   "k": "s-kaminstube-dessert",
+   "t": {
+    "de": "Ein Dessert mit Kirschen aus der Kaminstube"
+   },
+   "b": "stuben",
+   "s": "jahr",
+   "f": "quer",
+   "w": 2560,
+   "h": 1707,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/s-kaminstube-dessert-1920.webp",
+   "fm": "../../assets/img/s-kaminstube-dessert-1200.webp",
+   "fs": "../../assets/img/s-kaminstube-dessert-640.webp"
+  },
+  {
+   "k": "w-meerwasser",
+   "t": {
+    "de": "Das Meerwasser-Außenbecken"
+   },
+   "b": "wasser",
+   "s": "jahr",
+   "f": "quer",
+   "w": 2560,
+   "h": 1781,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/w-meerwasser-1920.webp",
+   "fm": "../../assets/img/w-meerwasser-1200.webp",
+   "fs": "../../assets/img/w-meerwasser-640.webp"
+  },
+  {
+   "k": "w-pool",
+   "t": {
+    "de": "Das Meerwasser-Außenbecken mit Schwallbrause und Sonnenschirmen"
+   },
+   "b": "wasser",
+   "s": "jahr",
+   "f": "quer",
+   "w": 2560,
+   "h": 1707,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/w-pool-1920.webp",
+   "fm": "../../assets/img/w-pool-1200.webp",
+   "fs": "../../assets/img/w-pool-640.webp"
+  },
+  {
+   "k": "w-abend",
+   "t": {
+    "de": "Das Außenbecken im Abendlicht, dahinter die Kirche von Mitteltal"
+   },
+   "b": "wasser",
+   "s": "jahr",
+   "f": "quer",
+   "w": 2560,
+   "h": 1709,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/w-abend-1920.webp",
+   "fm": "../../assets/img/w-abend-1200.webp",
+   "fs": "../../assets/img/w-abend-640.webp"
+  },
+  {
+   "k": "w-ruhe",
+   "t": {
+    "de": "Der Ruheraum der Saunawelt"
+   },
+   "b": "wasser",
+   "s": "jahr",
+   "f": "quer",
+   "w": 5950,
+   "h": 3955,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/w-ruhe-1920.webp",
+   "fm": "../../assets/img/w-ruhe-1200.webp",
+   "fs": "../../assets/img/w-ruhe-640.webp"
+  },
+  {
+   "k": "w-aerial",
+   "t": {
+    "de": "Das Hotel Bareiss mit Gärten, Becken und Naturschwimmteich von oben"
+   },
+   "b": "haus",
+   "s": "jahr",
+   "f": "quer",
+   "w": 2152,
+   "h": 1443,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/w-aerial-1920.webp",
+   "fm": "../../assets/img/w-aerial-1200.webp",
+   "fs": "../../assets/img/w-aerial-640.webp"
+  },
+  {
+   "k": "k-baelle",
+   "t": {
+    "de": "Kinder im Bällebad der Villa Kunterbunt"
+   },
+   "b": "familie",
+   "s": "jahr",
+   "f": "quer",
+   "w": 2560,
+   "h": 1709,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/k-baelle-1920.webp",
+   "fm": "../../assets/img/k-baelle-1200.webp",
+   "fs": "../../assets/img/k-baelle-640.webp"
+  },
+  {
+   "k": "k-wasser",
+   "t": {
+    "de": "Ein Mädchen am Wasserspielplatz im Waldpark"
+   },
+   "b": "familie",
+   "s": "jahr",
+   "f": "quer",
+   "w": 2250,
+   "h": 1500,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/k-wasser-1920.webp",
+   "fm": "../../assets/img/k-wasser-1200.webp",
+   "fs": "../../assets/img/k-wasser-640.webp"
+  },
+  {
+   "k": "k-kochen",
+   "t": {
+    "de": "Kinder backen in der Kinderküche"
+   },
+   "b": "familie",
+   "s": "jahr",
+   "f": "hoch",
+   "w": 2560,
+   "h": 3840,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/k-kochen-1920.webp",
+   "fm": "../../assets/img/k-kochen-1200.webp",
+   "fs": "../../assets/img/k-kochen-640.webp"
+  },
+  {
+   "k": "k-schiff",
+   "t": {
+    "de": "Das hölzerne Piratenschiff auf dem Abenteuerspielplatz"
+   },
+   "b": "familie",
+   "s": "jahr",
+   "f": "quer",
+   "w": 2560,
+   "h": 1707,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/k-schiff-1920.webp",
+   "fm": "../../assets/img/k-schiff-1200.webp",
+   "fs": "../../assets/img/k-schiff-640.webp"
+  },
+  {
+   "k": "k-pferd",
+   "t": {
+    "de": "Ein Kind mit Reithelm auf einem Schimmel im Reiterhöfle"
+   },
+   "b": "familie",
+   "s": "jahr",
+   "f": "quer",
+   "w": 2560,
+   "h": 1707,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/k-pferd-1920.webp",
+   "fm": "../../assets/img/k-pferd-1200.webp",
+   "fs": "../../assets/img/k-pferd-640.webp"
+  },
+  {
+   "k": "k-billard",
+   "t": {
+    "de": "Jugendliche beim Billard im Haus der Spiele"
+   },
+   "b": "familie",
+   "s": "jahr",
+   "f": "quer",
+   "w": 2560,
+   "h": 1707,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/k-billard-1920.webp",
+   "fm": "../../assets/img/k-billard-1200.webp",
+   "fs": "../../assets/img/k-billard-640.webp"
+  },
+  {
+   "k": "k-club",
+   "t": {
+    "de": "Jugendliche in der Lounge des Teens-Clubs"
+   },
+   "b": "familie",
+   "s": "jahr",
+   "f": "quadrat",
+   "w": 1500,
+   "h": 1500,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/k-club-1500.webp",
+   "fm": "../../assets/img/k-club-1200.webp",
+   "fs": "../../assets/img/k-club-640.webp"
+  },
+  {
+   "k": "k-kicker",
+   "t": {
+    "de": "Jugendliche am Tischfußball"
+   },
+   "b": "familie",
+   "s": "jahr",
+   "f": "quadrat",
+   "w": 1500,
+   "h": 1500,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/k-kicker-1500.webp",
+   "fm": "../../assets/img/k-kicker-1200.webp",
+   "fs": "../../assets/img/k-kicker-640.webp"
+  },
+  {
+   "k": "k-baumhaus",
+   "t": {
+    "de": "Zwei Kinder in roten Schlafsäcken im Baumhaus"
+   },
+   "b": "familie",
+   "s": "jahr",
+   "f": "hoch",
+   "w": 2560,
+   "h": 3840,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/k-baumhaus-1920.webp",
+   "fm": "../../assets/img/k-baumhaus-1200.webp",
+   "fs": "../../assets/img/k-baumhaus-640.webp"
+  },
+  {
+   "k": "k-ponys",
+   "t": {
+    "de": "Drei Ponys am Zaun"
+   },
+   "b": "familie",
+   "s": "jahr",
+   "f": "quer",
+   "w": 2560,
+   "h": 1707,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/k-ponys-1920.webp",
+   "fm": "../../assets/img/k-ponys-1200.webp",
+   "fs": "../../assets/img/k-ponys-640.webp"
+  },
+  {
+   "k": "k-damwild",
+   "t": {
+    "de": "Damwild im Wildgehege"
+   },
+   "b": "familie",
+   "s": "jahr",
+   "f": "quer",
+   "w": 2560,
+   "h": 1700,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/k-damwild-1920.webp",
+   "fm": "../../assets/img/k-damwild-1200.webp",
+   "fs": "../../assets/img/k-damwild-640.webp"
+  },
+  {
+   "k": "k-ziegen-schnee",
+   "t": {
+    "de": "Zwergziegen im Streichelzoo im Winter"
+   },
+   "b": "familie",
+   "s": "jahr",
+   "f": "quer",
+   "w": 6720,
+   "h": 4480,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/k-ziegen-schnee-1920.webp",
+   "fm": "../../assets/img/k-ziegen-schnee-1200.webp",
+   "fs": "../../assets/img/k-ziegen-schnee-640.webp"
+  },
+  {
+   "k": "g-britta-hannes",
+   "t": {
+    "de": "Britta und Hannes Bareiss"
+   },
+   "b": "gastgeber",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1126,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/g-britta-hannes-1500.webp",
+   "fm": "../../assets/img/g-britta-hannes-1200.webp",
+   "fs": "../../assets/img/g-britta-hannes-640.webp"
+  },
+  {
+   "k": "g-winter",
+   "t": {
+    "de": "Das Hotel Bareiss im Winter"
+   },
+   "b": "gastgeber",
+   "s": "jahr",
+   "f": "quer",
+   "w": 6583,
+   "h": 4389,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/g-winter-1920.webp",
+   "fm": "../../assets/img/g-winter-1200.webp",
+   "fs": "../../assets/img/g-winter-640.webp"
+  },
+  {
+   "k": "tal-buhlbach",
+   "t": {
+    "de": "Das Tal bei Buhlbach von oben, Wiesen, Wald und der Forellenhof"
+   },
+   "b": "tal",
+   "s": "jahr",
+   "f": "quer",
+   "w": 2186,
+   "h": 1456,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/tal-buhlbach-1920.webp",
+   "fm": "../../assets/img/tal-buhlbach-1200.webp",
+   "fs": "../../assets/img/tal-buhlbach-640.webp"
+  },
+  {
+   "k": "tal-nationalpark",
+   "t": {
+    "de": "Ein dunkler See im Nationalpark Schwarzwald"
+   },
+   "b": "tal",
+   "s": "jahr",
+   "f": "quer",
+   "w": 2560,
+   "h": 1707,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/tal-nationalpark-1920.webp",
+   "fm": "../../assets/img/tal-nationalpark-1200.webp",
+   "fs": "../../assets/img/tal-nationalpark-640.webp"
+  },
+  {
+   "k": "tal-forellenhof",
+   "t": {
+    "de": "Forellenhof Buhlbach"
+   },
+   "b": "tal",
+   "s": "jahr",
+   "f": "quer",
+   "w": 2560,
+   "h": 1709,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/tal-forellenhof-1920.webp",
+   "fm": "../../assets/img/tal-forellenhof-1200.webp",
+   "fs": "../../assets/img/tal-forellenhof-640.webp"
+  },
+  {
+   "k": "tal-sattelei",
+   "t": {
+    "de": "Wanderhütte Sattelei"
+   },
+   "b": "tal",
+   "s": "jahr",
+   "f": "quer",
+   "w": 2361,
+   "h": 1500,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/tal-sattelei-1920.webp",
+   "fm": "../../assets/img/tal-sattelei-1200.webp",
+   "fs": "../../assets/img/tal-sattelei-640.webp"
+  },
+  {
+   "k": "tal-morlokhof",
+   "t": {
+    "de": "Morlokhof"
+   },
+   "b": "tal",
+   "s": "jahr",
+   "f": "quer",
+   "w": 2250,
+   "h": 1500,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/tal-morlokhof-1920.webp",
+   "fm": "../../assets/img/tal-morlokhof-1200.webp",
+   "fs": "../../assets/img/tal-morlokhof-640.webp"
+  },
+  {
+   "k": "tal-wandern",
+   "t": {
+    "de": "Wandern im Baiersbronner Wanderhimmel"
+   },
+   "b": "tal",
+   "s": "jahr",
+   "f": "quer",
+   "w": 2560,
+   "h": 1709,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/tal-wandern-1920.webp",
+   "fm": "../../assets/img/tal-wandern-1200.webp",
+   "fs": "../../assets/img/tal-wandern-640.webp"
+  },
+  {
+   "k": "t-kuchen",
+   "t": {
+    "de": "Kaffee und Kuchen am Nachmittag"
+   },
+   "b": "ferientag",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1452,
+   "h": 968,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/t-kuchen-1452.webp",
+   "fm": "../../assets/img/t-kuchen-1200.webp",
+   "fs": "../../assets/img/t-kuchen-640.webp"
+  },
+  {
+   "k": "g-hermann",
+   "t": {
+    "de": "Hermann Bareiss"
+   },
+   "b": "gastgeber",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1013,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/g-hermann-1800.webp",
+   "fm": "../../assets/img/g-hermann-1200.webp",
+   "fs": "../../assets/img/g-hermann-640.webp"
+  },
+  {
+   "k": "k-baumhaus-aussen",
+   "t": {
+    "de": "Kinder auf der Treppe zum Baumhaus"
+   },
+   "b": "familie",
+   "s": "jahr",
+   "f": "hoch",
+   "w": 2560,
+   "h": 3840,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/k-baumhaus-aussen-1920.webp",
+   "fm": "../../assets/img/k-baumhaus-aussen-1200.webp",
+   "fs": "../../assets/img/k-baumhaus-aussen-640.webp"
+  },
+  {
+   "k": "u-kamin",
+   "t": {
+    "de": "Die Kaminstube mit Kamin"
+   },
+   "b": "stuben",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1351,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/u-kamin-1800.webp",
+   "fm": "../../assets/img/u-kamin-1200.webp",
+   "fs": "../../assets/img/u-kamin-640.webp"
+  },
+  {
+   "k": "u-kamin-service",
+   "t": {
+    "de": "Service in der Kaminstube"
+   },
+   "b": "stuben",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1198,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/u-kamin-service-1800.webp",
+   "fm": "../../assets/img/u-kamin-service-1200.webp",
+   "fs": "../../assets/img/u-kamin-service-640.webp"
+  },
+  {
+   "k": "u-kamin-oel",
+   "t": {
+    "de": "Ein gedeckter Tisch in der Kaminstube"
+   },
+   "b": "stuben",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1351,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/u-kamin-oel-1800.webp",
+   "fm": "../../assets/img/u-kamin-oel-1200.webp",
+   "fs": "../../assets/img/u-kamin-oel-640.webp"
+  },
+  {
+   "k": "u-dorfstuben",
+   "t": {
+    "de": "Die Dorfstuben"
+   },
+   "b": "stuben",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1196,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/u-dorfstuben-1800.webp",
+   "fm": "../../assets/img/u-dorfstuben-1200.webp",
+   "fs": "../../assets/img/u-dorfstuben-640.webp"
+  },
+  {
+   "k": "u-dorfstuben3",
+   "t": {
+    "de": "Ein gedeckter Tisch in den Dorfstuben"
+   },
+   "b": "stuben",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1013,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/u-dorfstuben3-1800.webp",
+   "fm": "../../assets/img/u-dorfstuben3-1200.webp",
+   "fs": "../../assets/img/u-dorfstuben3-640.webp"
+  },
+  {
+   "k": "u-bar",
+   "t": {
+    "de": "Die Hotelbar am späten Abend"
+   },
+   "b": "ferientag",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1200,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/u-bar-1800.webp",
+   "fm": "../../assets/img/u-bar-1200.webp",
+   "fs": "../../assets/img/u-bar-640.webp"
+  },
+  {
+   "k": "u-hotelgast",
+   "t": {
+    "de": "Gäste beim Dinner im Hotel-Restaurant"
+   },
+   "b": "ferientag",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1200,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/u-hotelgast-1800.webp",
+   "fm": "../../assets/img/u-hotelgast-1200.webp",
+   "fs": "../../assets/img/u-hotelgast-640.webp"
+  },
+  {
+   "k": "u-hermine-stube",
+   "t": {
+    "de": "Die Hermine-Bareiss-Stube, festlich gedeckt"
+   },
+   "b": "stuben",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1202,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/u-hermine-stube-1800.webp",
+   "fm": "../../assets/img/u-hermine-stube-1200.webp",
+   "fs": "../../assets/img/u-hermine-stube-640.webp"
+  },
+  {
+   "k": "u-poolbar",
+   "t": {
+    "de": "Gedeckte Tische an der Poolbar"
+   },
+   "b": "ferientag",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1201,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/u-poolbar-1800.webp",
+   "fm": "../../assets/img/u-poolbar-1200.webp",
+   "fs": "../../assets/img/u-poolbar-640.webp"
+  },
+  {
+   "k": "u-oase",
+   "t": {
+    "de": "Liegen im Garten an der Pooloase"
+   },
+   "b": "wasser",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1202,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/u-oase-1800.webp",
+   "fm": "../../assets/img/u-oase-1200.webp",
+   "fs": "../../assets/img/u-oase-640.webp"
+  },
+  {
+   "k": "u-gericht",
+   "t": {
+    "de": "Ein Gericht von Claus-Peter Lumpp"
+   },
+   "b": "restaurant",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1201,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/u-gericht-1800.webp",
+   "fm": "../../assets/img/u-gericht-1200.webp",
+   "fs": "../../assets/img/u-gericht-640.webp"
+  },
+  {
+   "k": "u-dessert",
+   "t": {
+    "de": "Ein Dessert im Restaurant Bareiss"
+   },
+   "b": "restaurant",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1201,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/u-dessert-1800.webp",
+   "fm": "../../assets/img/u-dessert-1200.webp",
+   "fs": "../../assets/img/u-dessert-640.webp"
+  },
+  {
+   "k": "u-pulpo",
+   "t": {
+    "de": "Ein Gericht mit Pulpo"
+   },
+   "b": "restaurant",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1020,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/u-pulpo-1800.webp",
+   "fm": "../../assets/img/u-pulpo-1200.webp",
+   "fs": "../../assets/img/u-pulpo-640.webp"
+  },
+  {
+   "k": "u-leitner",
+   "t": {
+    "de": "Pâtissier Stefan Leitner"
+   },
+   "b": "restaurant",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1400,
+   "h": 1052,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/u-leitner-1400.webp",
+   "fm": "../../assets/img/u-leitner-1200.webp",
+   "fs": "../../assets/img/u-leitner-640.webp"
+  },
+  {
+   "k": "u-sauna",
+   "t": {
+    "de": "Die finnische Sauna mit Aufgusskübel"
+   },
+   "b": "wasser",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1202,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/u-sauna-1800.webp",
+   "fm": "../../assets/img/u-sauna-1200.webp",
+   "fs": "../../assets/img/u-sauna-640.webp"
+  },
+  {
+   "k": "u-biosauna",
+   "t": {
+    "de": "Die Biosauna"
+   },
+   "b": "wasser",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1179,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/u-biosauna-1800.webp",
+   "fm": "../../assets/img/u-biosauna-1200.webp",
+   "fs": "../../assets/img/u-biosauna-640.webp"
+  },
+  {
+   "k": "u-ruhe-sauna",
+   "t": {
+    "de": "Der Ruhebereich der Saunawelt"
+   },
+   "b": "wasser",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1201,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/u-ruhe-sauna-1800.webp",
+   "fm": "../../assets/img/u-ruhe-sauna-1200.webp",
+   "fs": "../../assets/img/u-ruhe-sauna-640.webp"
+  },
+  {
+   "k": "u-whirlpool",
+   "t": {
+    "de": "Der Whirlpool in der Badelandschaft"
+   },
+   "b": "wasser",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1201,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/u-whirlpool-1800.webp",
+   "fm": "../../assets/img/u-whirlpool-1200.webp",
+   "fs": "../../assets/img/u-whirlpool-640.webp"
+  },
+  {
+   "k": "u-meer-innen",
+   "t": {
+    "de": "Das Meerwasser-Innenbecken"
+   },
+   "b": "wasser",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1021,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/u-meer-innen-1500.webp",
+   "fm": "../../assets/img/u-meer-innen-1200.webp",
+   "fs": "../../assets/img/u-meer-innen-640.webp"
+  },
+  {
+   "k": "u-beauty",
+   "t": {
+    "de": "Im Beauty-Bereich"
+   },
+   "b": "wasser",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1260,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/u-beauty-1800.webp",
+   "fm": "../../assets/img/u-beauty-1200.webp",
+   "fs": "../../assets/img/u-beauty-640.webp"
+  },
+  {
+   "k": "u-massage",
+   "t": {
+    "de": "Eine Gesichtsbehandlung"
+   },
+   "b": "wasser",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1202,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/u-massage-1800.webp",
+   "fm": "../../assets/img/u-massage-1200.webp",
+   "fs": "../../assets/img/u-massage-640.webp"
+  },
+  {
+   "k": "u-yoga",
+   "t": {
+    "de": "Yoga auf dem Steg im Waldpark"
+   },
+   "b": "wasser",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1202,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/u-yoga-1800.webp",
+   "fm": "../../assets/img/u-yoga-1200.webp",
+   "fs": "../../assets/img/u-yoga-640.webp"
+  },
+  {
+   "k": "u-aussenwhirl",
+   "t": {
+    "de": "Die Sauna-Whirlpools im Außenbereich"
+   },
+   "b": "wasser",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1202,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/u-aussenwhirl-1800.webp",
+   "fm": "../../assets/img/u-aussenwhirl-1200.webp",
+   "fs": "../../assets/img/u-aussenwhirl-640.webp"
+  },
+  {
+   "k": "u-villa",
+   "t": {
+    "de": "Die Villa Kunterbunt mit Garten von oben"
+   },
+   "b": "familie",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1165,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/u-villa-1800.webp",
+   "fm": "../../assets/img/u-villa-1200.webp",
+   "fs": "../../assets/img/u-villa-640.webp"
+  },
+  {
+   "k": "u-villa-aussen",
+   "t": {
+    "de": "Die Villa Kunterbunt im Garten"
+   },
+   "b": "familie",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 964,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/u-villa-aussen-1500.webp",
+   "fm": "../../assets/img/u-villa-aussen-1200.webp",
+   "fs": "../../assets/img/u-villa-aussen-640.webp"
+  },
+  {
+   "k": "u-baumhaus",
+   "t": {
+    "de": "Das runde Baumhaus im Waldpark"
+   },
+   "b": "familie",
+   "s": "jahr",
+   "f": "quadrat",
+   "w": 1500,
+   "h": 1502,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/u-baumhaus-1500.webp",
+   "fm": "../../assets/img/u-baumhaus-1200.webp",
+   "fs": "../../assets/img/u-baumhaus-640.webp"
+  },
+  {
+   "k": "u-hds",
+   "t": {
+    "de": "Spieleabend im Haus der Spiele"
+   },
+   "b": "familie",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1202,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/u-hds-1800.webp",
+   "fm": "../../assets/img/u-hds-1200.webp",
+   "fs": "../../assets/img/u-hds-640.webp"
+  },
+  {
+   "k": "u-zoo",
+   "t": {
+    "de": "Ponys im Streichelzoo"
+   },
+   "b": "familie",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1000,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/u-zoo-1500.webp",
+   "fm": "../../assets/img/u-zoo-1200.webp",
+   "fs": "../../assets/img/u-zoo-640.webp"
+  },
+  {
+   "k": "u-reiten",
+   "t": {
+    "de": "Ein Mädchen mit einem Schimmel am Reiterhöfle"
+   },
+   "b": "familie",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1201,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/u-reiten-1800.webp",
+   "fm": "../../assets/img/u-reiten-1200.webp",
+   "fs": "../../assets/img/u-reiten-640.webp"
+  },
+  {
+   "k": "u-reitplatz",
+   "t": {
+    "de": "Kinder auf dem Reitplatz"
+   },
+   "b": "familie",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1194,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/u-reitplatz-1800.webp",
+   "fm": "../../assets/img/u-reitplatz-1200.webp",
+   "fs": "../../assets/img/u-reitplatz-640.webp"
+  },
+  {
+   "k": "u-mikroskop",
+   "t": {
+    "de": "Zwei Kinder am Mikroskop"
+   },
+   "b": "familie",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1239,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/u-mikroskop-1800.webp",
+   "fm": "../../assets/img/u-mikroskop-1200.webp",
+   "fs": "../../assets/img/u-mikroskop-640.webp"
+  },
+  {
+   "k": "u-vorfahrt2",
+   "t": {
+    "de": "Der Wagenmeister trägt das Gepäck zur Vorfahrt am Hotel"
+   },
+   "b": "haus",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1201,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/u-vorfahrt2-1800.webp",
+   "fm": "../../assets/img/u-vorfahrt2-1200.webp",
+   "fs": "../../assets/img/u-vorfahrt2-640.webp"
+  },
+  {
+   "k": "u-oldtimerbus",
+   "t": {
+    "de": "Der historische Bus des Kurhotel Mitteltal"
+   },
+   "b": "gastgeber",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1002,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/u-oldtimerbus-1500.webp",
+   "fm": "../../assets/img/u-oldtimerbus-1200.webp",
+   "fs": "../../assets/img/u-oldtimerbus-640.webp"
+  },
+  {
+   "k": "u-limousine",
+   "t": {
+    "de": "Die Limousine des Hotels am Abend vor dem Eingang"
+   },
+   "b": "haus",
+   "s": "jahr",
+   "f": "quer",
+   "w": 2944,
+   "h": 1965,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/u-limousine-1920.webp",
+   "fm": "../../assets/img/u-limousine-1200.webp",
+   "fs": "../../assets/img/u-limousine-640.webp"
+  },
+  {
+   "k": "u-wegweiser",
+   "t": {
+    "de": "Ein Wegweiser im Baiersbronner Wanderhimmel"
+   },
+   "b": "tal",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1201,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/u-wegweiser-1800.webp",
+   "fm": "../../assets/img/u-wegweiser-1200.webp",
+   "fs": "../../assets/img/u-wegweiser-640.webp"
+  },
+  {
+   "k": "u-waldweg",
+   "t": {
+    "de": "Ein Waldweg im Schwarzwald"
+   },
+   "b": "tal",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1201,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/u-waldweg-1800.webp",
+   "fm": "../../assets/img/u-waldweg-1200.webp",
+   "fs": "../../assets/img/u-waldweg-640.webp"
+  },
+  {
+   "k": "u-np2",
+   "t": {
+    "de": "Farne und Moos im Nationalpark"
+   },
+   "b": "tal",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1201,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/u-np2-1800.webp",
+   "fm": "../../assets/img/u-np2-1200.webp",
+   "fs": "../../assets/img/u-np2-640.webp"
+  },
+  {
+   "k": "u-forellen",
+   "t": {
+    "de": "Forellen im Teich am Forellenhof Buhlbach"
+   },
+   "b": "tal",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1201,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/u-forellen-1800.webp",
+   "fm": "../../assets/img/u-forellen-1200.webp",
+   "fs": "../../assets/img/u-forellen-640.webp"
+  },
+  {
+   "k": "u-fischgericht",
+   "t": {
+    "de": "Ein Fischgericht aus dem Forellenhof"
+   },
+   "b": "tal",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1159,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/u-fischgericht-1800.webp",
+   "fm": "../../assets/img/u-fischgericht-1200.webp",
+   "fs": "../../assets/img/u-fischgericht-640.webp"
+  },
+  {
+   "k": "u-forellenhof2",
+   "t": {
+    "de": "Der Forellenhof im Sommer, an den Hang gebaut"
+   },
+   "b": "tal",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1125,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/u-forellenhof2-1500.webp",
+   "fm": "../../assets/img/u-forellenhof2-1200.webp",
+   "fs": "../../assets/img/u-forellenhof2-640.webp"
+  },
+  {
+   "k": "u-kraeuter",
+   "t": {
+    "de": "Frische Kräuter in der Hand"
+   },
+   "b": "tal",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1001,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/u-kraeuter-1500.webp",
+   "fm": "../../assets/img/u-kraeuter-1200.webp",
+   "fs": "../../assets/img/u-kraeuter-640.webp"
+  },
+  {
+   "k": "u-morlok-stube",
+   "t": {
+    "de": "Die grüne Stube im Morlokhof"
+   },
+   "b": "tal",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1201,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/u-morlok-stube-1800.webp",
+   "fm": "../../assets/img/u-morlok-stube-1200.webp",
+   "fs": "../../assets/img/u-morlok-stube-640.webp"
+  },
+  {
+   "k": "u-morlok-heuboden",
+   "t": {
+    "de": "Kaffeetafel auf dem Heuboden"
+   },
+   "b": "tal",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1201,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/u-morlok-heuboden-1800.webp",
+   "fm": "../../assets/img/u-morlok-heuboden-1200.webp",
+   "fs": "../../assets/img/u-morlok-heuboden-640.webp"
+  },
+  {
+   "k": "u-morlok-dach",
+   "t": {
+    "de": "Der Dachboden des Morlokhofs, festlich gedeckt"
+   },
+   "b": "tal",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1201,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/u-morlok-dach-1800.webp",
+   "fm": "../../assets/img/u-morlok-dach-1200.webp",
+   "fs": "../../assets/img/u-morlok-dach-640.webp"
+  },
+  {
+   "k": "u-hermann2",
+   "t": {
+    "de": "Hermann Bareiss in der Bibliothek"
+   },
+   "b": "gastgeber",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1201,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/u-hermann2-1800.webp",
+   "fm": "../../assets/img/u-hermann2-1200.webp",
+   "fs": "../../assets/img/u-hermann2-640.webp"
+  },
+  {
+   "k": "u-sattelei2",
+   "t": {
+    "de": "Die Wanderhütte Sattelei mit Blick ins Tal"
+   },
+   "b": "tal",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1126,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/u-sattelei2-1500.webp",
+   "fm": "../../assets/img/u-sattelei2-1200.webp",
+   "fs": "../../assets/img/u-sattelei2-640.webp"
+  },
+  {
+   "k": "f-terrasse",
+   "t": {
+    "de": "Eine Etagere mit Gebäck auf der Terrasse im Garten"
+   },
+   "b": "ferientag",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1201,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/f-terrasse-1800.webp",
+   "fm": "../../assets/img/f-terrasse-1200.webp",
+   "fs": "../../assets/img/f-terrasse-640.webp"
+  },
+  {
+   "k": "f-biedermeier",
+   "t": {
+    "de": "Das Biedermeierzimmer des Hotel-Restaurants"
+   },
+   "b": "ferientag",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 773,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/f-biedermeier-1800.webp",
+   "fm": "../../assets/img/f-biedermeier-1200.webp",
+   "fs": "../../assets/img/f-biedermeier-640.webp"
+  },
+  {
+   "k": "f-hotelgast3",
+   "t": {
+    "de": "Ein gedeckter Tisch in den Hotelgast-Restaurants"
+   },
+   "b": "ferientag",
+   "s": "jahr",
+   "f": "quadrat",
+   "w": 1500,
+   "h": 1500,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/f-hotelgast3-1500.webp",
+   "fm": "../../assets/img/f-hotelgast3-1200.webp",
+   "fs": "../../assets/img/f-hotelgast3-640.webp"
+  },
+  {
+   "k": "f-dinerabend",
+   "t": {
+    "de": "Ein Dinner am Abend im Hotel-Restaurant"
+   },
+   "b": "ferientag",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1140,
+   "h": 646,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/f-dinerabend-1140.webp",
+   "fm": "../../assets/img/f-dinerabend-1140.webp",
+   "fs": "../../assets/img/f-dinerabend-640.webp"
+  },
+  {
+   "k": "f-terrasse-ku",
+   "t": {
+    "de": "Die Hotelterrasse unter Sonnenschirmen"
+   },
+   "b": "ferientag",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 998,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/f-terrasse-ku-1500.webp",
+   "fm": "../../assets/img/f-terrasse-ku-1200.webp",
+   "fs": "../../assets/img/f-terrasse-ku-640.webp"
+  },
+  {
+   "k": "f-kaffee2",
+   "t": {
+    "de": "Kuchen und Gebäck am Nachmittag"
+   },
+   "b": "ferientag",
+   "s": "jahr",
+   "f": "quadrat",
+   "w": 1500,
+   "h": 1500,
+   "art": "haus",
+   "q": "Website des Hauses (bareiss.com), in der Größe der Seite",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/f-kaffee2-1500.webp",
+   "fm": "../../assets/img/f-kaffee2-1200.webp",
+   "fs": "../../assets/img/f-kaffee2-640.webp"
+  },
+  {
+   "k": "tal-forellenhof-oben",
+   "t": {
+    "de": "Der Forellenhof Buhlbach im Tal von oben"
+   },
+   "b": "tal",
+   "s": "jahr",
+   "f": "quer",
+   "w": 2186,
+   "h": 1456,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/tal-forellenhof-oben-1920.webp",
+   "fm": "../../assets/img/tal-forellenhof-oben-1200.webp",
+   "fs": "../../assets/img/tal-forellenhof-oben-640.webp"
+  },
+  {
+   "k": "zi-ez-eulengrund-0",
+   "t": {
+    "de": "Einblick in das Schlafzimmer mit Einzelbett im Einzelzimmer «Eulengrund»"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1001,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Einzelzimmer «Eulengrund»",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/einzelzimmer-eulengrund.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-ez-eulengrund-0-1500.webp",
+   "fm": "../../assets/img/zi-ez-eulengrund-0-1200.webp",
+   "fs": "../../assets/img/zi-ez-eulengrund-0-640.webp"
+  },
+  {
+   "k": "zi-ez-eulengrund-plan0",
+   "t": {
+    "de": "Grundriss · Einzelzimmer «Eulengrund»"
+   },
+   "b": "grundrisse",
+   "s": "jahr",
+   "f": "hoch",
+   "w": 1500,
+   "h": 2305,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Einzelzimmer «Eulengrund»",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/einzelzimmer-eulengrund.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-ez-eulengrund-plan0-1500.webp",
+   "fm": "../../assets/img/zi-ez-eulengrund-plan0-1200.webp",
+   "fs": "../../assets/img/zi-ez-eulengrund-plan0-640.webp"
+  },
+  {
+   "k": "zi-ez-app-0",
+   "t": {
+    "de": "Einblick in das Schlafzimmer mit angrenzendem Wohnbereich der Einzelzimmer Appartement «Weißenbachtal», «Penthouse» und «Ellbachtal»"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 991,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Einzelzimmer-Appartement «Weißenbachtal» und «Ellbachtal»",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/einzelzimmer-appartement-weissenbachtal-penthouse-ellbachtal.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-ez-app-0-1500.webp",
+   "fm": "../../assets/img/zi-ez-app-0-1200.webp",
+   "fs": "../../assets/img/zi-ez-app-0-640.webp"
+  },
+  {
+   "k": "zi-ez-app-1",
+   "t": {
+    "de": "Gemütliche Sitzecke mit beiger Couch im Einzelzimmer Appartement «Weißenbachtal», «Penthouse» und «Ellbachtal»"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1021,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Einzelzimmer-Appartement «Weißenbachtal» und «Ellbachtal»",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/einzelzimmer-appartement-weissenbachtal-penthouse-ellbachtal.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-ez-app-1-1500.webp",
+   "fm": "../../assets/img/zi-ez-app-1-1200.webp",
+   "fs": "../../assets/img/zi-ez-app-1-640.webp"
+  },
+  {
+   "k": "zi-ez-app-3",
+   "t": {
+    "de": "Einzelzimmer-Appartement «Weißenbachtal» und «Ellbachtal», Ansicht 4"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1201,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Einzelzimmer-Appartement «Weißenbachtal» und «Ellbachtal»",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/einzelzimmer-appartement-weissenbachtal-penthouse-ellbachtal.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-ez-app-3-1800.webp",
+   "fm": "../../assets/img/zi-ez-app-3-1200.webp",
+   "fs": "../../assets/img/zi-ez-app-3-640.webp"
+  },
+  {
+   "k": "zi-ez-app-4",
+   "t": {
+    "de": "Einzelzimmer-Appartement «Weißenbachtal» und «Ellbachtal», Ansicht 5"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1001,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Einzelzimmer-Appartement «Weißenbachtal» und «Ellbachtal»",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/einzelzimmer-appartement-weissenbachtal-penthouse-ellbachtal.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-ez-app-4-1500.webp",
+   "fm": "../../assets/img/zi-ez-app-4-1200.webp",
+   "fs": "../../assets/img/zi-ez-app-4-640.webp"
+  },
+  {
+   "k": "zi-ez-app-5",
+   "t": {
+    "de": "Gemütliche Ecke mit Schreibtisch in den Einzelzimmer Appartements «Weißenbachtal», «Penthouse» und «Ellbachtal»"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1021,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Einzelzimmer-Appartement «Weißenbachtal» und «Ellbachtal»",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/einzelzimmer-appartement-weissenbachtal-penthouse-ellbachtal.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-ez-app-5-1500.webp",
+   "fm": "../../assets/img/zi-ez-app-5-1200.webp",
+   "fs": "../../assets/img/zi-ez-app-5-640.webp"
+  },
+  {
+   "k": "zi-ez-app-plan0",
+   "t": {
+    "de": "Grundriss · Einzelzimmer-Appartement «Weißenbachtal» und «Ellbachtal»"
+   },
+   "b": "grundrisse",
+   "s": "jahr",
+   "f": "hoch",
+   "w": 1500,
+   "h": 4355,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Einzelzimmer-Appartement «Weißenbachtal» und «Ellbachtal»",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/einzelzimmer-appartement-weissenbachtal-penthouse-ellbachtal.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-ez-app-plan0-1500.webp",
+   "fm": "../../assets/img/zi-ez-app-plan0-1200.webp",
+   "fs": "../../assets/img/zi-ez-app-plan0-640.webp"
+  },
+  {
+   "k": "zi-ez-landhaus-0",
+   "t": {
+    "de": "Einblick in den Wohnbereich eines Zimmers im Landhaus"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 983,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Einzelzimmer Landhaus",
+   "u": "https://www.bareiss.com/zimmer-suiten/landhaus/einzelzimmer-landhaus.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-ez-landhaus-0-1500.webp",
+   "fm": "../../assets/img/zi-ez-landhaus-0-1200.webp",
+   "fs": "../../assets/img/zi-ez-landhaus-0-640.webp"
+  },
+  {
+   "k": "zi-ez-landhaus-1",
+   "t": {
+    "de": "Aufnahme eines Bettes mit blauem Samtkissen in einem Einzelzimmer im Landhaus"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1125,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Einzelzimmer Landhaus",
+   "u": "https://www.bareiss.com/zimmer-suiten/landhaus/einzelzimmer-landhaus.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-ez-landhaus-1-1500.webp",
+   "fm": "../../assets/img/zi-ez-landhaus-1-1200.webp",
+   "fs": "../../assets/img/zi-ez-landhaus-1-640.webp"
+  },
+  {
+   "k": "zi-ez-landhaus-2",
+   "t": {
+    "de": "Einblick in das Badezimmer des Einzelzimmers Landhaus"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1126,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Einzelzimmer Landhaus",
+   "u": "https://www.bareiss.com/zimmer-suiten/landhaus/einzelzimmer-landhaus.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-ez-landhaus-2-1500.webp",
+   "fm": "../../assets/img/zi-ez-landhaus-2-1200.webp",
+   "fs": "../../assets/img/zi-ez-landhaus-2-640.webp"
+  },
+  {
+   "k": "zi-ez-landhaus-plan0",
+   "t": {
+    "de": "Grundriss · Einzelzimmer Landhaus"
+   },
+   "b": "grundrisse",
+   "s": "jahr",
+   "f": "hoch",
+   "w": 1500,
+   "h": 2305,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Einzelzimmer Landhaus",
+   "u": "https://www.bareiss.com/zimmer-suiten/landhaus/einzelzimmer-landhaus.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-ez-landhaus-plan0-1500.webp",
+   "fm": "../../assets/img/zi-ez-landhaus-plan0-1200.webp",
+   "fs": "../../assets/img/zi-ez-landhaus-plan0-640.webp"
+  },
+  {
+   "k": "zi-dz-wob-0",
+   "t": {
+    "de": "Einblick in den Schlafbereich mit angrenzendem geräumigen Wohnbereich in den Doppelzimmern «Weißenbachtal», «Orspach» und «Eulengrund»"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1007,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Doppelzimmer «Weißenbachtal», «Orspach» und «Eulengrund»",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/doppelzimmer-weissenbachtal-orspach-und-eulengrund.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-dz-wob-0-1500.webp",
+   "fm": "../../assets/img/zi-dz-wob-0-1200.webp",
+   "fs": "../../assets/img/zi-dz-wob-0-640.webp"
+  },
+  {
+   "k": "zi-dz-wob-1",
+   "t": {
+    "de": "Aufnahme des Doppelbettes in den Doppelzimmern «Weißenbachtal», «Orspach» und «Eulengrund»"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1000,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Doppelzimmer «Weißenbachtal», «Orspach» und «Eulengrund»",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/doppelzimmer-weissenbachtal-orspach-und-eulengrund.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-dz-wob-1-1500.webp",
+   "fm": "../../assets/img/zi-dz-wob-1-1200.webp",
+   "fs": "../../assets/img/zi-dz-wob-1-640.webp"
+  },
+  {
+   "k": "zi-dz-wob-2",
+   "t": {
+    "de": "Einblick in das Badezimmer mit Schachbrettmuster-Fliesen der Doppelzimmer «Weißenbachtal», «Orspach» und «Eulengrund»"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1001,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Doppelzimmer «Weißenbachtal», «Orspach» und «Eulengrund»",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/doppelzimmer-weissenbachtal-orspach-und-eulengrund.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-dz-wob-2-1500.webp",
+   "fm": "../../assets/img/zi-dz-wob-2-1200.webp",
+   "fs": "../../assets/img/zi-dz-wob-2-640.webp"
+  },
+  {
+   "k": "zi-dz-wob-plan0",
+   "t": {
+    "de": "Grundriss · Doppelzimmer «Weißenbachtal», «Orspach» und «Eulengrund»"
+   },
+   "b": "grundrisse",
+   "s": "jahr",
+   "f": "hoch",
+   "w": 1500,
+   "h": 2526,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Doppelzimmer «Weißenbachtal», «Orspach» und «Eulengrund»",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/doppelzimmer-weissenbachtal-orspach-und-eulengrund.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-dz-wob-plan0-1500.webp",
+   "fm": "../../assets/img/zi-dz-wob-plan0-1200.webp",
+   "fs": "../../assets/img/zi-dz-wob-plan0-640.webp"
+  },
+  {
+   "k": "zi-dz-oe-plan0",
+   "t": {
+    "de": "Grundriss · Doppelzimmer «Orspach» und «Eulengrund»"
+   },
+   "b": "grundrisse",
+   "s": "jahr",
+   "f": "quadrat",
+   "w": 1500,
+   "h": 1498,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Doppelzimmer «Orspach» und «Eulengrund»",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/doppelzimmer-orspach-und-eulengrund.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-dz-oe-plan0-1500.webp",
+   "fm": "../../assets/img/zi-dz-oe-plan0-1200.webp",
+   "fs": "../../assets/img/zi-dz-oe-plan0-640.webp"
+  },
+  {
+   "k": "zi-gdz-bergmosis-1",
+   "t": {
+    "de": "Großes Doppelzimmer «Bergmosis», Ansicht 2"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1001,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Großes Doppelzimmer «Bergmosis»",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/grosses-doppelzimmer-bergmosis.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-gdz-bergmosis-1-1500.webp",
+   "fm": "../../assets/img/zi-gdz-bergmosis-1-1200.webp",
+   "fs": "../../assets/img/zi-gdz-bergmosis-1-640.webp"
+  },
+  {
+   "k": "zi-gdz-bergmosis-2",
+   "t": {
+    "de": "Großes Doppelzimmer «Bergmosis», Ansicht 3"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1001,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Großes Doppelzimmer «Bergmosis»",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/grosses-doppelzimmer-bergmosis.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-gdz-bergmosis-2-1500.webp",
+   "fm": "../../assets/img/zi-gdz-bergmosis-2-1200.webp",
+   "fs": "../../assets/img/zi-gdz-bergmosis-2-640.webp"
+  },
+  {
+   "k": "zi-gdz-bergmosis-3",
+   "t": {
+    "de": "Einblick in das weiße Badezimmer des großen Doppelzimmers «Bergmosis»"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1000,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Großes Doppelzimmer «Bergmosis»",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/grosses-doppelzimmer-bergmosis.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-gdz-bergmosis-3-1500.webp",
+   "fm": "../../assets/img/zi-gdz-bergmosis-3-1200.webp",
+   "fs": "../../assets/img/zi-gdz-bergmosis-3-640.webp"
+  },
+  {
+   "k": "zi-gdz-bergmosis-plan0",
+   "t": {
+    "de": "Grundriss · Großes Doppelzimmer «Bergmosis»"
+   },
+   "b": "grundrisse",
+   "s": "jahr",
+   "f": "hoch",
+   "w": 1500,
+   "h": 4575,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Großes Doppelzimmer «Bergmosis»",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/grosses-doppelzimmer-bergmosis.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-gdz-bergmosis-plan0-1500.webp",
+   "fm": "../../assets/img/zi-gdz-bergmosis-plan0-1200.webp",
+   "fs": "../../assets/img/zi-gdz-bergmosis-plan0-640.webp"
+  },
+  {
+   "k": "zi-gdz-wb1-0",
+   "t": {
+    "de": "Eiblick in das geräumige Schlafzimmer mit Durchgang zum Wohnzimmer im großen Doppelzimmer «Weißenbachtal I»"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1002,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Großes Doppelzimmer «Weißenbachtal I»",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/grosses-doppelzimmer-weissenbachtal-i.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-gdz-wb1-0-1500.webp",
+   "fm": "../../assets/img/zi-gdz-wb1-0-1200.webp",
+   "fs": "../../assets/img/zi-gdz-wb1-0-640.webp"
+  },
+  {
+   "k": "zi-gdz-wb1-1",
+   "t": {
+    "de": "Großes Doppelzimmer «Weißenbachtal I», Ansicht 2"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 844,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Großes Doppelzimmer «Weißenbachtal I»",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/grosses-doppelzimmer-weissenbachtal-i.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-gdz-wb1-1-1500.webp",
+   "fm": "../../assets/img/zi-gdz-wb1-1-1200.webp",
+   "fs": "../../assets/img/zi-gdz-wb1-1-640.webp"
+  },
+  {
+   "k": "zi-gdz-wb1-2",
+   "t": {
+    "de": "Einblick in das Badezimmer des großen Doppelzimmers «Weißenbachtal I»"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 843,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Großes Doppelzimmer «Weißenbachtal I»",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/grosses-doppelzimmer-weissenbachtal-i.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-gdz-wb1-2-1500.webp",
+   "fm": "../../assets/img/zi-gdz-wb1-2-1200.webp",
+   "fs": "../../assets/img/zi-gdz-wb1-2-640.webp"
+  },
+  {
+   "k": "zi-gdz-wb1-plan0",
+   "t": {
+    "de": "Grundriss · Großes Doppelzimmer «Weißenbachtal I»"
+   },
+   "b": "grundrisse",
+   "s": "jahr",
+   "f": "hoch",
+   "w": 1500,
+   "h": 2079,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Großes Doppelzimmer «Weißenbachtal I»",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/grosses-doppelzimmer-weissenbachtal-i.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-gdz-wb1-plan0-1500.webp",
+   "fm": "../../assets/img/zi-gdz-wb1-plan0-1200.webp",
+   "fs": "../../assets/img/zi-gdz-wb1-plan0-640.webp"
+  },
+  {
+   "k": "zi-gdz-wb2-plan0",
+   "t": {
+    "de": "Grundriss · Großes Doppelzimmer «Weißenbachtal II»"
+   },
+   "b": "grundrisse",
+   "s": "jahr",
+   "f": "hoch",
+   "w": 1500,
+   "h": 2010,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Großes Doppelzimmer «Weißenbachtal II»",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/grosses-doppelzimmer-weissenbachtal-ii.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-gdz-wb2-plan0-1500.webp",
+   "fm": "../../assets/img/zi-gdz-wb2-plan0-1200.webp",
+   "fs": "../../assets/img/zi-gdz-wb2-plan0-640.webp"
+  },
+  {
+   "k": "zi-dza-ew-0",
+   "t": {
+    "de": "Aufnahme einer gemütlichen Sitzecke mit einem gelben Sofa und Sessel in den Doppelzimmer Appartements «Eulengrund» und «Weißenbachtal»"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1001,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Doppelzimmer-Appartement «Eulengrund» und «Weißenbachtal»",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/doppelzimmer-appartement-eulengrund-und-weissenbachtal.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-dza-ew-0-1500.webp",
+   "fm": "../../assets/img/zi-dza-ew-0-1200.webp",
+   "fs": "../../assets/img/zi-dza-ew-0-640.webp"
+  },
+  {
+   "k": "zi-dza-ew-1",
+   "t": {
+    "de": "Doppelzimmer-Appartement «Eulengrund» und «Weißenbachtal», Ansicht 2"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1201,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Doppelzimmer-Appartement «Eulengrund» und «Weißenbachtal»",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/doppelzimmer-appartement-eulengrund-und-weissenbachtal.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-dza-ew-1-1800.webp",
+   "fm": "../../assets/img/zi-dza-ew-1-1200.webp",
+   "fs": "../../assets/img/zi-dza-ew-1-640.webp"
+  },
+  {
+   "k": "zi-dza-ew-2",
+   "t": {
+    "de": "Einblick in den Wohn- und Aufenthaltsbereich der Doppelzimmer Appartements «Eulengrund» und «Weißenbachtal» im Haupthaus"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 999,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Doppelzimmer-Appartement «Eulengrund» und «Weißenbachtal»",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/doppelzimmer-appartement-eulengrund-und-weissenbachtal.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-dza-ew-2-1500.webp",
+   "fm": "../../assets/img/zi-dza-ew-2-1200.webp",
+   "fs": "../../assets/img/zi-dza-ew-2-640.webp"
+  },
+  {
+   "k": "zi-dza-ew-3",
+   "t": {
+    "de": "Einblick in das Badezimmer mit separatem Toilettenbereich der Doppelzimmer Appartements «Eulengrund» und «Weißenbachtal»"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1000,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Doppelzimmer-Appartement «Eulengrund» und «Weißenbachtal»",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/doppelzimmer-appartement-eulengrund-und-weissenbachtal.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-dza-ew-3-1500.webp",
+   "fm": "../../assets/img/zi-dza-ew-3-1200.webp",
+   "fs": "../../assets/img/zi-dza-ew-3-640.webp"
+  },
+  {
+   "k": "zi-dza-ew-plan0",
+   "t": {
+    "de": "Grundriss · Doppelzimmer-Appartement «Eulengrund» und «Weißenbachtal»"
+   },
+   "b": "grundrisse",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1409,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Doppelzimmer-Appartement «Eulengrund» und «Weißenbachtal»",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/doppelzimmer-appartement-eulengrund-und-weissenbachtal.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-dza-ew-plan0-1500.webp",
+   "fm": "../../assets/img/zi-dza-ew-plan0-1200.webp",
+   "fs": "../../assets/img/zi-dza-ew-plan0-640.webp"
+  },
+  {
+   "k": "zi-dza-ellbachtal-0",
+   "t": {
+    "de": "Einblick in den Wohn- und Schlafbereich des Doppelzimmer Appartements «Ellbachtal»"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 970,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Doppelzimmer-Appartement «Ellbachtal»",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/doppelzimmer-appartement-ellbachtal.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-dza-ellbachtal-0-1500.webp",
+   "fm": "../../assets/img/zi-dza-ellbachtal-0-1200.webp",
+   "fs": "../../assets/img/zi-dza-ellbachtal-0-640.webp"
+  },
+  {
+   "k": "zi-dza-ellbachtal-1",
+   "t": {
+    "de": "Doppelbett im Doppelzimmer Appartement «Ellbachtal»"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1001,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Doppelzimmer-Appartement «Ellbachtal»",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/doppelzimmer-appartement-ellbachtal.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-dza-ellbachtal-1-1500.webp",
+   "fm": "../../assets/img/zi-dza-ellbachtal-1-1200.webp",
+   "fs": "../../assets/img/zi-dza-ellbachtal-1-640.webp"
+  },
+  {
+   "k": "zi-dza-ellbachtal-2",
+   "t": {
+    "de": "Einblick in das Badezimmer des Doppelzimmer Appartements «Ellbachtal» im Haupthaus"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1001,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Doppelzimmer-Appartement «Ellbachtal»",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/doppelzimmer-appartement-ellbachtal.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-dza-ellbachtal-2-1500.webp",
+   "fm": "../../assets/img/zi-dza-ellbachtal-2-1200.webp",
+   "fs": "../../assets/img/zi-dza-ellbachtal-2-640.webp"
+  },
+  {
+   "k": "zi-dza-ellbachtal-plan0",
+   "t": {
+    "de": "Grundriss · Doppelzimmer-Appartement «Ellbachtal»"
+   },
+   "b": "grundrisse",
+   "s": "jahr",
+   "f": "hoch",
+   "w": 1500,
+   "h": 3298,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Doppelzimmer-Appartement «Ellbachtal»",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/doppelzimmer-appartement-ellbachtal.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-dza-ellbachtal-plan0-1500.webp",
+   "fm": "../../assets/img/zi-dza-ellbachtal-plan0-1200.webp",
+   "fs": "../../assets/img/zi-dza-ellbachtal-plan0-640.webp"
+  },
+  {
+   "k": "zi-dza-garten-1",
+   "t": {
+    "de": "Doppelzimmer-Appartement «Gartenflügel», Ansicht 2"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1001,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Doppelzimmer-Appartement «Gartenflügel»",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/doppelzimmer-appartement-gartenfluegel.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-dza-garten-1-1500.webp",
+   "fm": "../../assets/img/zi-dza-garten-1-1200.webp",
+   "fs": "../../assets/img/zi-dza-garten-1-640.webp"
+  },
+  {
+   "k": "zi-dza-garten-2",
+   "t": {
+    "de": "Doppelzimmer-Appartement «Gartenflügel», Ansicht 3"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1001,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Doppelzimmer-Appartement «Gartenflügel»",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/doppelzimmer-appartement-gartenfluegel.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-dza-garten-2-1500.webp",
+   "fm": "../../assets/img/zi-dza-garten-2-1200.webp",
+   "fs": "../../assets/img/zi-dza-garten-2-640.webp"
+  },
+  {
+   "k": "zi-dza-garten-3",
+   "t": {
+    "de": "Doppelzimmer-Appartement «Gartenflügel», Ansicht 4"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1001,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Doppelzimmer-Appartement «Gartenflügel»",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/doppelzimmer-appartement-gartenfluegel.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-dza-garten-3-1500.webp",
+   "fm": "../../assets/img/zi-dza-garten-3-1200.webp",
+   "fs": "../../assets/img/zi-dza-garten-3-640.webp"
+  },
+  {
+   "k": "zi-dza-rundbau-0",
+   "t": {
+    "de": "Einblick in den Wohn- und Aufenthaltsbereich des Rundbau Appartements «Ellbachtal» im Haupthaus"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1001,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Rundbau-Appartement «Ellbachtal»",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/rundbau-appartement-ellbachtal.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-dza-rundbau-0-1500.webp",
+   "fm": "../../assets/img/zi-dza-rundbau-0-1200.webp",
+   "fs": "../../assets/img/zi-dza-rundbau-0-640.webp"
+  },
+  {
+   "k": "zi-dza-rundbau-1",
+   "t": {
+    "de": "Aufnahme des großen Doppelbettes im Rundbau Appartement «Ellbachtal» im Haupthaus"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1001,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Rundbau-Appartement «Ellbachtal»",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/rundbau-appartement-ellbachtal.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-dza-rundbau-1-1500.webp",
+   "fm": "../../assets/img/zi-dza-rundbau-1-1200.webp",
+   "fs": "../../assets/img/zi-dza-rundbau-1-640.webp"
+  },
+  {
+   "k": "zi-dza-rundbau-2",
+   "t": {
+    "de": "Einblick in das gelb-weiße Badezimmer des Rundbau Appartements «Ellbachtal»"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1000,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Rundbau-Appartement «Ellbachtal»",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/rundbau-appartement-ellbachtal.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-dza-rundbau-2-1500.webp",
+   "fm": "../../assets/img/zi-dza-rundbau-2-1200.webp",
+   "fs": "../../assets/img/zi-dza-rundbau-2-640.webp"
+  },
+  {
+   "k": "zi-dza-rundbau-plan0",
+   "t": {
+    "de": "Grundriss · Rundbau-Appartement «Ellbachtal»"
+   },
+   "b": "grundrisse",
+   "s": "jahr",
+   "f": "hoch",
+   "w": 1500,
+   "h": 1739,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Rundbau-Appartement «Ellbachtal»",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/rundbau-appartement-ellbachtal.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-dza-rundbau-plan0-1500.webp",
+   "fm": "../../assets/img/zi-dza-rundbau-plan0-1200.webp",
+   "fs": "../../assets/img/zi-dza-rundbau-plan0-640.webp"
+  },
+  {
+   "k": "zi-fa-orspach1-0",
+   "t": {
+    "de": "Einblick in das Schlafzimmer des Familien Appartements «Orspach I»"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 910,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Familien-Appartement «Orspach I»",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/familien-appartement-orspach-i.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-fa-orspach1-0-1500.webp",
+   "fm": "../../assets/img/zi-fa-orspach1-0-1200.webp",
+   "fs": "../../assets/img/zi-fa-orspach1-0-640.webp"
+  },
+  {
+   "k": "zi-fa-orspach1-plan0",
+   "t": {
+    "de": "Grundriss · Familien-Appartement «Orspach I»"
+   },
+   "b": "grundrisse",
+   "s": "jahr",
+   "f": "hoch",
+   "w": 1500,
+   "h": 2009,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Familien-Appartement «Orspach I»",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/familien-appartement-orspach-i.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-fa-orspach1-plan0-1500.webp",
+   "fm": "../../assets/img/zi-fa-orspach1-plan0-1200.webp",
+   "fs": "../../assets/img/zi-fa-orspach1-plan0-640.webp"
+  },
+  {
+   "k": "zi-fa-orspach2-0",
+   "t": {
+    "de": "Ein Doppelbett mit roter Decke in dem Familien-Appartement im Hotel Bareiss"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 892,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Familien-Appartement «Orspach II»",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/familien-appartement-orspach-ii.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-fa-orspach2-0-1500.webp",
+   "fm": "../../assets/img/zi-fa-orspach2-0-1200.webp",
+   "fs": "../../assets/img/zi-fa-orspach2-0-640.webp"
+  },
+  {
+   "k": "zi-fa-orspach2-plan0",
+   "t": {
+    "de": "Grundriss · Familien-Appartement «Orspach II»"
+   },
+   "b": "grundrisse",
+   "s": "jahr",
+   "f": "hoch",
+   "w": 1500,
+   "h": 2150,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Familien-Appartement «Orspach II»",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/familien-appartement-orspach-ii.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-fa-orspach2-plan0-1500.webp",
+   "fm": "../../assets/img/zi-fa-orspach2-plan0-1200.webp",
+   "fs": "../../assets/img/zi-fa-orspach2-plan0-640.webp"
+  },
+  {
+   "k": "zi-fa-orspach3-0",
+   "t": {
+    "de": "Familien-Appartement «Orspach III», Ansicht 1"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1001,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Familien-Appartement «Orspach III»",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/familien-appartement-orspach-iii.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-fa-orspach3-0-1500.webp",
+   "fm": "../../assets/img/zi-fa-orspach3-0-1200.webp",
+   "fs": "../../assets/img/zi-fa-orspach3-0-640.webp"
+  },
+  {
+   "k": "zi-fa-orspach3-1",
+   "t": {
+    "de": "Familien-Appartement «Orspach III», Ansicht 2"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1001,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Familien-Appartement «Orspach III»",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/familien-appartement-orspach-iii.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-fa-orspach3-1-1500.webp",
+   "fm": "../../assets/img/zi-fa-orspach3-1-1200.webp",
+   "fs": "../../assets/img/zi-fa-orspach3-1-640.webp"
+  },
+  {
+   "k": "zi-fa-orspach3-2",
+   "t": {
+    "de": "Familien-Appartement «Orspach III», Ansicht 3"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1001,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Familien-Appartement «Orspach III»",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/familien-appartement-orspach-iii.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-fa-orspach3-2-1500.webp",
+   "fm": "../../assets/img/zi-fa-orspach3-2-1200.webp",
+   "fs": "../../assets/img/zi-fa-orspach3-2-640.webp"
+  },
+  {
+   "k": "zi-fa-garten-0",
+   "t": {
+    "de": "Einblick in den Wohn- und Schlafbereich des Familienappartments"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 994,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Familien-Appartement «Gartenflügel»",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/familien-appartement-gartenfluegel.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-fa-garten-0-1500.webp",
+   "fm": "../../assets/img/zi-fa-garten-0-1200.webp",
+   "fs": "../../assets/img/zi-fa-garten-0-640.webp"
+  },
+  {
+   "k": "zi-fa-garten-1",
+   "t": {
+    "de": "Einblick in das Extra-Einzelzimmer des Familien Appartements «Gartenflügel» im Haupthaus"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1020,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Familien-Appartement «Gartenflügel»",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/familien-appartement-gartenfluegel.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-fa-garten-1-1500.webp",
+   "fm": "../../assets/img/zi-fa-garten-1-1200.webp",
+   "fs": "../../assets/img/zi-fa-garten-1-640.webp"
+  },
+  {
+   "k": "zi-fa-garten-2",
+   "t": {
+    "de": "Einblick in das Badezimmer mit Glasdusche des Familien Appartements «Gartenflügel»"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1020,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Familien-Appartement «Gartenflügel»",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/familien-appartement-gartenfluegel.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-fa-garten-2-1500.webp",
+   "fm": "../../assets/img/zi-fa-garten-2-1200.webp",
+   "fs": "../../assets/img/zi-fa-garten-2-640.webp"
+  },
+  {
+   "k": "zi-fa-garten-plan0",
+   "t": {
+    "de": "Grundriss · Familien-Appartement «Gartenflügel»"
+   },
+   "b": "grundrisse",
+   "s": "jahr",
+   "f": "hoch",
+   "w": 1500,
+   "h": 1950,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Familien-Appartement «Gartenflügel»",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/familien-appartement-gartenfluegel.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-fa-garten-plan0-1500.webp",
+   "fm": "../../assets/img/zi-fa-garten-plan0-1200.webp",
+   "fs": "../../assets/img/zi-fa-garten-plan0-640.webp"
+  },
+  {
+   "k": "zi-su-landhausstil-0",
+   "t": {
+    "de": "Einblick in den Schlafbereich der «Bareiss Suite im Landhausstil» im Haupthaus"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1001,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Bareiss Suite im Landhausstil",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/bareiss-suite-im-landhausstil.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-su-landhausstil-0-1500.webp",
+   "fm": "../../assets/img/zi-su-landhausstil-0-1200.webp",
+   "fs": "../../assets/img/zi-su-landhausstil-0-640.webp"
+  },
+  {
+   "k": "zi-su-landhausstil-1",
+   "t": {
+    "de": "Gemütliche Sitzecke im Wohnbereich der «Bareiss Suite im Landhausstil»"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1000,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Bareiss Suite im Landhausstil",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/bareiss-suite-im-landhausstil.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-su-landhausstil-1-1500.webp",
+   "fm": "../../assets/img/zi-su-landhausstil-1-1200.webp",
+   "fs": "../../assets/img/zi-su-landhausstil-1-640.webp"
+  },
+  {
+   "k": "zi-su-landhausstil-2",
+   "t": {
+    "de": "Einblick in das Badezimmer der «Bareiss Suite im Landhausstil» im Haupthaus"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1001,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Bareiss Suite im Landhausstil",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/bareiss-suite-im-landhausstil.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-su-landhausstil-2-1500.webp",
+   "fm": "../../assets/img/zi-su-landhausstil-2-1200.webp",
+   "fs": "../../assets/img/zi-su-landhausstil-2-640.webp"
+  },
+  {
+   "k": "zi-su-landhausstil-plan0",
+   "t": {
+    "de": "Grundriss · Bareiss Suite im Landhausstil"
+   },
+   "b": "grundrisse",
+   "s": "jahr",
+   "f": "quadrat",
+   "w": 1500,
+   "h": 1500,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Bareiss Suite im Landhausstil",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/bareiss-suite-im-landhausstil.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-su-landhausstil-plan0-1500.webp",
+   "fm": "../../assets/img/zi-su-landhausstil-plan0-1200.webp",
+   "fs": "../../assets/img/zi-su-landhausstil-plan0-640.webp"
+  },
+  {
+   "k": "zi-su-pg1-plan0",
+   "t": {
+    "de": "Grundriss · Penthouse Suite Gartenflügel I"
+   },
+   "b": "grundrisse",
+   "s": "jahr",
+   "f": "quadrat",
+   "w": 1500,
+   "h": 1500,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Penthouse Suite Gartenflügel I",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/penthouse-suite-gartenfluegel-i.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-su-pg1-plan0-1500.webp",
+   "fm": "../../assets/img/zi-su-pg1-plan0-1200.webp",
+   "fs": "../../assets/img/zi-su-pg1-plan0-640.webp"
+  },
+  {
+   "k": "zi-su-pg2-plan0",
+   "t": {
+    "de": "Grundriss · Penthouse Suite Gartenflügel II"
+   },
+   "b": "grundrisse",
+   "s": "jahr",
+   "f": "quadrat",
+   "w": 1500,
+   "h": 1500,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Penthouse Suite Gartenflügel II",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/penthouse-suite-gartenfluegel-ii.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-su-pg2-plan0-1500.webp",
+   "fm": "../../assets/img/zi-su-pg2-plan0-1200.webp",
+   "fs": "../../assets/img/zi-su-pg2-plan0-640.webp"
+  },
+  {
+   "k": "zi-su-panorama-plan0",
+   "t": {
+    "de": "Grundriss · Bareiss Luxus Panorama-Suite"
+   },
+   "b": "grundrisse",
+   "s": "jahr",
+   "f": "quadrat",
+   "w": 1500,
+   "h": 1500,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Bareiss Luxus Panorama-Suite",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/bareiss-luxus-panorama-suite.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-su-panorama-plan0-1500.webp",
+   "fm": "../../assets/img/zi-su-panorama-plan0-1200.webp",
+   "fs": "../../assets/img/zi-su-panorama-plan0-640.webp"
+  },
+  {
+   "k": "zi-su-familien-plan0",
+   "t": {
+    "de": "Grundriss · Bareiss Luxus Familien-Suite"
+   },
+   "b": "grundrisse",
+   "s": "jahr",
+   "f": "quadrat",
+   "w": 1500,
+   "h": 1500,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Bareiss Luxus Familien-Suite",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/bareiss-luxus-familien-suite.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-su-familien-plan0-1500.webp",
+   "fm": "../../assets/img/zi-su-familien-plan0-1200.webp",
+   "fs": "../../assets/img/zi-su-familien-plan0-640.webp"
+  },
+  {
+   "k": "zi-su-familien-plan1",
+   "t": {
+    "de": "Grundriss · Bareiss Luxus Familien-Suite"
+   },
+   "b": "grundrisse",
+   "s": "jahr",
+   "f": "quadrat",
+   "w": 1500,
+   "h": 1500,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Bareiss Luxus Familien-Suite",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/bareiss-luxus-familien-suite.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-su-familien-plan1-1500.webp",
+   "fm": "../../assets/img/zi-su-familien-plan1-1200.webp",
+   "fs": "../../assets/img/zi-su-familien-plan1-640.webp"
+  },
+  {
+   "k": "zi-su-wellness-plan0",
+   "t": {
+    "de": "Grundriss · Bareiss Luxus Wellness-Suite"
+   },
+   "b": "grundrisse",
+   "s": "jahr",
+   "f": "quadrat",
+   "w": 1500,
+   "h": 1500,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Bareiss Luxus Wellness-Suite",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/bareiss-luxus-wellness-suite.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-su-wellness-plan0-1500.webp",
+   "fm": "../../assets/img/zi-su-wellness-plan0-1200.webp",
+   "fs": "../../assets/img/zi-su-wellness-plan0-640.webp"
+  },
+  {
+   "k": "zi-ph-1-plan0",
+   "t": {
+    "de": "Grundriss · Penthouse I"
+   },
+   "b": "grundrisse",
+   "s": "jahr",
+   "f": "quadrat",
+   "w": 1500,
+   "h": 1500,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Penthouse I",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/doppelzimmer-appartement-penthouse-i-2.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-ph-1-plan0-1500.webp",
+   "fm": "../../assets/img/zi-ph-1-plan0-1200.webp",
+   "fs": "../../assets/img/zi-ph-1-plan0-640.webp"
+  },
+  {
+   "k": "zi-ph-2-plan0",
+   "t": {
+    "de": "Grundriss · Penthouse II"
+   },
+   "b": "grundrisse",
+   "s": "jahr",
+   "f": "quadrat",
+   "w": 1500,
+   "h": 1500,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Penthouse II",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/doppelzimmer-appartement-penthouse-ii-1.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-ph-2-plan0-1500.webp",
+   "fm": "../../assets/img/zi-ph-2-plan0-1200.webp",
+   "fs": "../../assets/img/zi-ph-2-plan0-640.webp"
+  },
+  {
+   "k": "zi-ph-3-plan0",
+   "t": {
+    "de": "Grundriss · Penthouse III"
+   },
+   "b": "grundrisse",
+   "s": "jahr",
+   "f": "quadrat",
+   "w": 1500,
+   "h": 1500,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Penthouse III",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/doppelzimmer-appartement-penthouse-iii-1.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-ph-3-plan0-1500.webp",
+   "fm": "../../assets/img/zi-ph-3-plan0-1200.webp",
+   "fs": "../../assets/img/zi-ph-3-plan0-640.webp"
+  },
+  {
+   "k": "zi-ph-4-plan0",
+   "t": {
+    "de": "Grundriss · Penthouse IV"
+   },
+   "b": "grundrisse",
+   "s": "jahr",
+   "f": "quadrat",
+   "w": 1500,
+   "h": 1500,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Penthouse IV",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/doppelzimmer-appartement-penthouse-iv-1.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-ph-4-plan0-1500.webp",
+   "fm": "../../assets/img/zi-ph-4-plan0-1200.webp",
+   "fs": "../../assets/img/zi-ph-4-plan0-640.webp"
+  },
+  {
+   "k": "zi-ph-5-plan0",
+   "t": {
+    "de": "Grundriss · Penthouse V"
+   },
+   "b": "grundrisse",
+   "s": "jahr",
+   "f": "quadrat",
+   "w": 1500,
+   "h": 1500,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Penthouse V",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/doppelzimmer-appartement-penthouse-v.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-ph-5-plan0-1500.webp",
+   "fm": "../../assets/img/zi-ph-5-plan0-1200.webp",
+   "fs": "../../assets/img/zi-ph-5-plan0-640.webp"
+  },
+  {
+   "k": "zi-lh-dz-0",
+   "t": {
+    "de": "Aufnahme des gemütlichen Doppelbettes im Doppelzimmer Landhaus"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1000,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Doppelzimmer Landhaus",
+   "u": "https://www.bareiss.com/zimmer-suiten/landhaus/doppelzimmer-landhaus.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-lh-dz-0-1500.webp",
+   "fm": "../../assets/img/zi-lh-dz-0-1200.webp",
+   "fs": "../../assets/img/zi-lh-dz-0-640.webp"
+  },
+  {
+   "k": "zi-lh-dz-1",
+   "t": {
+    "de": "Nahaufnahme von Kissen in einem Doppelzimmer im Landhaus"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1001,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Doppelzimmer Landhaus",
+   "u": "https://www.bareiss.com/zimmer-suiten/landhaus/doppelzimmer-landhaus.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-lh-dz-1-1500.webp",
+   "fm": "../../assets/img/zi-lh-dz-1-1200.webp",
+   "fs": "../../assets/img/zi-lh-dz-1-640.webp"
+  },
+  {
+   "k": "zi-lh-dz-2",
+   "t": {
+    "de": "Einblick in das Badezimmer eines Doppelzimmers im Landhaus"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1001,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Doppelzimmer Landhaus",
+   "u": "https://www.bareiss.com/zimmer-suiten/landhaus/doppelzimmer-landhaus.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-lh-dz-2-1500.webp",
+   "fm": "../../assets/img/zi-lh-dz-2-1200.webp",
+   "fs": "../../assets/img/zi-lh-dz-2-640.webp"
+  },
+  {
+   "k": "zi-lh-dz-plan0",
+   "t": {
+    "de": "Grundriss · Doppelzimmer Landhaus"
+   },
+   "b": "grundrisse",
+   "s": "jahr",
+   "f": "hoch",
+   "w": 1500,
+   "h": 2678,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Doppelzimmer Landhaus",
+   "u": "https://www.bareiss.com/zimmer-suiten/landhaus/doppelzimmer-landhaus.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-lh-dz-plan0-1500.webp",
+   "fm": "../../assets/img/zi-lh-dz-plan0-1200.webp",
+   "fs": "../../assets/img/zi-lh-dz-plan0-640.webp"
+  },
+  {
+   "k": "zi-lh-gdz-1",
+   "t": {
+    "de": "Einblick in das Badezimmer mit blauen Fliesen eines großen Doppelzimmers im Landhaus I"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1022,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Großes Doppelzimmer «Landhaus I»",
+   "u": "https://www.bareiss.com/zimmer-suiten/landhaus/grosses-doppelzimmer-landhaus-i.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-lh-gdz-1-1500.webp",
+   "fm": "../../assets/img/zi-lh-gdz-1-1200.webp",
+   "fs": "../../assets/img/zi-lh-gdz-1-640.webp"
+  },
+  {
+   "k": "zi-lh-gdz-2",
+   "t": {
+    "de": "Einblick in das Badezimmer eines großen Doppelzimmers im Landhaus I"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 978,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Großes Doppelzimmer «Landhaus I»",
+   "u": "https://www.bareiss.com/zimmer-suiten/landhaus/grosses-doppelzimmer-landhaus-i.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-lh-gdz-2-1500.webp",
+   "fm": "../../assets/img/zi-lh-gdz-2-1200.webp",
+   "fs": "../../assets/img/zi-lh-gdz-2-640.webp"
+  },
+  {
+   "k": "zi-lh-gdz-plan0",
+   "t": {
+    "de": "Grundriss · Großes Doppelzimmer «Landhaus I»"
+   },
+   "b": "grundrisse",
+   "s": "jahr",
+   "f": "hoch",
+   "w": 1500,
+   "h": 1753,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Großes Doppelzimmer «Landhaus I»",
+   "u": "https://www.bareiss.com/zimmer-suiten/landhaus/grosses-doppelzimmer-landhaus-i.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-lh-gdz-plan0-1500.webp",
+   "fm": "../../assets/img/zi-lh-gdz-plan0-1200.webp",
+   "fs": "../../assets/img/zi-lh-gdz-plan0-640.webp"
+  },
+  {
+   "k": "zi-lh-app-0",
+   "t": {
+    "de": "Der Schlafbereich des Landhauses im Hotel Bareiss"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1000,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Doppelzimmer-Appartement «Landhaus II»",
+   "u": "https://www.bareiss.com/zimmer-suiten/landhaus/doppelzimmer-rundbau-appartment-landhaus-ii.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-lh-app-0-1500.webp",
+   "fm": "../../assets/img/zi-lh-app-0-1200.webp",
+   "fs": "../../assets/img/zi-lh-app-0-640.webp"
+  },
+  {
+   "k": "zi-lh-app-1",
+   "t": {
+    "de": "Aufnahme der gemütlichen Sitzecke im Doppelzimmer Appartement «Landhaus II»"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1000,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Doppelzimmer-Appartement «Landhaus II»",
+   "u": "https://www.bareiss.com/zimmer-suiten/landhaus/doppelzimmer-rundbau-appartment-landhaus-ii.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-lh-app-1-1500.webp",
+   "fm": "../../assets/img/zi-lh-app-1-1200.webp",
+   "fs": "../../assets/img/zi-lh-app-1-640.webp"
+  },
+  {
+   "k": "zi-lh-app-2",
+   "t": {
+    "de": "Einblick in das Badezimmer des Doppelzimmer Appartements «Landhaus II»"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1000,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Doppelzimmer-Appartement «Landhaus II»",
+   "u": "https://www.bareiss.com/zimmer-suiten/landhaus/doppelzimmer-rundbau-appartment-landhaus-ii.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-lh-app-2-1500.webp",
+   "fm": "../../assets/img/zi-lh-app-2-1200.webp",
+   "fs": "../../assets/img/zi-lh-app-2-640.webp"
+  },
+  {
+   "k": "zi-lh-app-plan0",
+   "t": {
+    "de": "Grundriss · Doppelzimmer-Appartement «Landhaus II»"
+   },
+   "b": "grundrisse",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1372,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Doppelzimmer-Appartement «Landhaus II»",
+   "u": "https://www.bareiss.com/zimmer-suiten/landhaus/doppelzimmer-rundbau-appartment-landhaus-ii.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-lh-app-plan0-1500.webp",
+   "fm": "../../assets/img/zi-lh-app-plan0-1200.webp",
+   "fs": "../../assets/img/zi-lh-app-plan0-640.webp"
+  },
+  {
+   "k": "zi-lh-s1-1",
+   "t": {
+    "de": "Landhaus-Suite I, Ansicht 2"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 984,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Landhaus-Suite I",
+   "u": "https://www.bareiss.com/zimmer-suiten/landhaus/landhaus-suite-i.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-lh-s1-1-1500.webp",
+   "fm": "../../assets/img/zi-lh-s1-1-1200.webp",
+   "fs": "../../assets/img/zi-lh-s1-1-640.webp"
+  },
+  {
+   "k": "zi-lh-s1-2",
+   "t": {
+    "de": "Einblick in das Badezimmer der Landhaus Suite I"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 986,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Landhaus-Suite I",
+   "u": "https://www.bareiss.com/zimmer-suiten/landhaus/landhaus-suite-i.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-lh-s1-2-1500.webp",
+   "fm": "../../assets/img/zi-lh-s1-2-1200.webp",
+   "fs": "../../assets/img/zi-lh-s1-2-640.webp"
+  },
+  {
+   "k": "zi-lh-s1-plan0",
+   "t": {
+    "de": "Grundriss · Landhaus-Suite I"
+   },
+   "b": "grundrisse",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1148,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Landhaus-Suite I",
+   "u": "https://www.bareiss.com/zimmer-suiten/landhaus/landhaus-suite-i.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-lh-s1-plan0-1500.webp",
+   "fm": "../../assets/img/zi-lh-s1-plan0-1200.webp",
+   "fs": "../../assets/img/zi-lh-s1-plan0-640.webp"
+  },
+  {
+   "k": "zi-lh-s2-0",
+   "t": {
+    "de": "Einblick in den Schlafbereich einer Suite im Landhaus des Hotels"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1038,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Landhaus-Suite II",
+   "u": "https://www.bareiss.com/zimmer-suiten/landhaus/landhaus-suite-ii.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-lh-s2-0-1500.webp",
+   "fm": "../../assets/img/zi-lh-s2-0-1200.webp",
+   "fs": "../../assets/img/zi-lh-s2-0-640.webp"
+  },
+  {
+   "k": "zi-lh-s2-plan0",
+   "t": {
+    "de": "Grundriss · Landhaus-Suite II"
+   },
+   "b": "grundrisse",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1099,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Landhaus-Suite II",
+   "u": "https://www.bareiss.com/zimmer-suiten/landhaus/landhaus-suite-ii.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-lh-s2-plan0-1500.webp",
+   "fm": "../../assets/img/zi-lh-s2-plan0-1200.webp",
+   "fs": "../../assets/img/zi-lh-s2-plan0-640.webp"
+  },
+  {
+   "k": "zi-ph-1-0",
+   "t": {
+    "de": "Penthouse I, Ansicht 1"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quadrat",
+   "w": 1500,
+   "h": 1500,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Penthouse I",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/doppelzimmer-appartement-penthouse-i-2.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-ph-1-0-1500.webp",
+   "fm": "../../assets/img/zi-ph-1-0-1200.webp",
+   "fs": "../../assets/img/zi-ph-1-0-640.webp"
+  },
+  {
+   "k": "zi-ph-1-1",
+   "t": {
+    "de": "Penthouse I, Ansicht 2"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1001,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Penthouse I",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/doppelzimmer-appartement-penthouse-i-2.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-ph-1-1-1500.webp",
+   "fm": "../../assets/img/zi-ph-1-1-1200.webp",
+   "fs": "../../assets/img/zi-ph-1-1-640.webp"
+  },
+  {
+   "k": "zi-ph-1-2",
+   "t": {
+    "de": "Penthouse I, Ansicht 3"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1001,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Penthouse I",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/doppelzimmer-appartement-penthouse-i-2.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-ph-1-2-1500.webp",
+   "fm": "../../assets/img/zi-ph-1-2-1200.webp",
+   "fs": "../../assets/img/zi-ph-1-2-640.webp"
+  },
+  {
+   "k": "zi-ph-1-3",
+   "t": {
+    "de": "Penthouse I, Ansicht 4"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1210,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Penthouse I",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/doppelzimmer-appartement-penthouse-i-2.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-ph-1-3-1800.webp",
+   "fm": "../../assets/img/zi-ph-1-3-1200.webp",
+   "fs": "../../assets/img/zi-ph-1-3-640.webp"
+  },
+  {
+   "k": "zi-ph-1-4",
+   "t": {
+    "de": "Penthouse I, Ansicht 5"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 991,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Penthouse I",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/doppelzimmer-appartement-penthouse-i-2.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-ph-1-4-1500.webp",
+   "fm": "../../assets/img/zi-ph-1-4-1200.webp",
+   "fs": "../../assets/img/zi-ph-1-4-640.webp"
+  },
+  {
+   "k": "zi-ph-1-5",
+   "t": {
+    "de": "Penthouse I, Ansicht 6"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1201,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Penthouse I",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/doppelzimmer-appartement-penthouse-i-2.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-ph-1-5-1800.webp",
+   "fm": "../../assets/img/zi-ph-1-5-1200.webp",
+   "fs": "../../assets/img/zi-ph-1-5-640.webp"
+  },
+  {
+   "k": "zi-ph-2-0",
+   "t": {
+    "de": "Penthouse II, Ansicht 1"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1201,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Penthouse II",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/doppelzimmer-appartement-penthouse-ii-1.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-ph-2-0-1800.webp",
+   "fm": "../../assets/img/zi-ph-2-0-1200.webp",
+   "fs": "../../assets/img/zi-ph-2-0-640.webp"
+  },
+  {
+   "k": "zi-ph-2-1",
+   "t": {
+    "de": "Penthouse II, Ansicht 2"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1201,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Penthouse II",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/doppelzimmer-appartement-penthouse-ii-1.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-ph-2-1-1800.webp",
+   "fm": "../../assets/img/zi-ph-2-1-1200.webp",
+   "fs": "../../assets/img/zi-ph-2-1-640.webp"
+  },
+  {
+   "k": "zi-ph-2-2",
+   "t": {
+    "de": "Penthouse II, Ansicht 3"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1201,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Penthouse II",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/doppelzimmer-appartement-penthouse-ii-1.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-ph-2-2-1800.webp",
+   "fm": "../../assets/img/zi-ph-2-2-1200.webp",
+   "fs": "../../assets/img/zi-ph-2-2-640.webp"
+  },
+  {
+   "k": "zi-ph-2-3",
+   "t": {
+    "de": "Penthouse II, Ansicht 4"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1201,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Penthouse II",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/doppelzimmer-appartement-penthouse-ii-1.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-ph-2-3-1800.webp",
+   "fm": "../../assets/img/zi-ph-2-3-1200.webp",
+   "fs": "../../assets/img/zi-ph-2-3-640.webp"
+  },
+  {
+   "k": "zi-ph-3-0",
+   "t": {
+    "de": "Penthouse III, Ansicht 1"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 2557,
+   "h": 1438,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Penthouse III",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/doppelzimmer-appartement-penthouse-iii-1.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-ph-3-0-1920.webp",
+   "fm": "../../assets/img/zi-ph-3-0-1200.webp",
+   "fs": "../../assets/img/zi-ph-3-0-640.webp"
+  },
+  {
+   "k": "zi-ph-3-1",
+   "t": {
+    "de": "Penthouse III, Ansicht 2"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1201,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Penthouse III",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/doppelzimmer-appartement-penthouse-iii-1.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-ph-3-1-1800.webp",
+   "fm": "../../assets/img/zi-ph-3-1-1200.webp",
+   "fs": "../../assets/img/zi-ph-3-1-640.webp"
+  },
+  {
+   "k": "zi-ph-3-2",
+   "t": {
+    "de": "Penthouse III, Ansicht 3"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1201,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Penthouse III",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/doppelzimmer-appartement-penthouse-iii-1.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-ph-3-2-1800.webp",
+   "fm": "../../assets/img/zi-ph-3-2-1200.webp",
+   "fs": "../../assets/img/zi-ph-3-2-640.webp"
+  },
+  {
+   "k": "zi-ph-3-3",
+   "t": {
+    "de": "Penthouse III, Ansicht 4"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1201,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Penthouse III",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/doppelzimmer-appartement-penthouse-iii-1.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-ph-3-3-1800.webp",
+   "fm": "../../assets/img/zi-ph-3-3-1200.webp",
+   "fs": "../../assets/img/zi-ph-3-3-640.webp"
+  },
+  {
+   "k": "zi-ph-3-4",
+   "t": {
+    "de": "Penthouse III, Ansicht 5"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1201,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Penthouse III",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/doppelzimmer-appartement-penthouse-iii-1.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-ph-3-4-1800.webp",
+   "fm": "../../assets/img/zi-ph-3-4-1200.webp",
+   "fs": "../../assets/img/zi-ph-3-4-640.webp"
+  },
+  {
+   "k": "zi-ph-4-0",
+   "t": {
+    "de": "Penthouse IV, Ansicht 1"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 2556,
+   "h": 1438,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Penthouse IV",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/doppelzimmer-appartement-penthouse-iv-1.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-ph-4-0-1920.webp",
+   "fm": "../../assets/img/zi-ph-4-0-1200.webp",
+   "fs": "../../assets/img/zi-ph-4-0-640.webp"
+  },
+  {
+   "k": "zi-ph-4-1",
+   "t": {
+    "de": "Penthouse IV, Ansicht 2"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1201,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Penthouse IV",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/doppelzimmer-appartement-penthouse-iv-1.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-ph-4-1-1800.webp",
+   "fm": "../../assets/img/zi-ph-4-1-1200.webp",
+   "fs": "../../assets/img/zi-ph-4-1-640.webp"
+  },
+  {
+   "k": "zi-ph-4-2",
+   "t": {
+    "de": "Penthouse IV, Ansicht 3"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1201,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Penthouse IV",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/doppelzimmer-appartement-penthouse-iv-1.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-ph-4-2-1800.webp",
+   "fm": "../../assets/img/zi-ph-4-2-1200.webp",
+   "fs": "../../assets/img/zi-ph-4-2-640.webp"
+  },
+  {
+   "k": "zi-ph-4-3",
+   "t": {
+    "de": "Penthouse IV, Ansicht 4"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1201,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Penthouse IV",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/doppelzimmer-appartement-penthouse-iv-1.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-ph-4-3-1800.webp",
+   "fm": "../../assets/img/zi-ph-4-3-1200.webp",
+   "fs": "../../assets/img/zi-ph-4-3-640.webp"
+  },
+  {
+   "k": "zi-ph-4-4",
+   "t": {
+    "de": "Penthouse IV, Ansicht 5"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1201,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Penthouse IV",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/doppelzimmer-appartement-penthouse-iv-1.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-ph-4-4-1800.webp",
+   "fm": "../../assets/img/zi-ph-4-4-1200.webp",
+   "fs": "../../assets/img/zi-ph-4-4-640.webp"
+  },
+  {
+   "k": "zi-ph-5-0",
+   "t": {
+    "de": "Penthouse V, Ansicht 1"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 2557,
+   "h": 1438,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Penthouse V",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/doppelzimmer-appartement-penthouse-v.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-ph-5-0-1920.webp",
+   "fm": "../../assets/img/zi-ph-5-0-1200.webp",
+   "fs": "../../assets/img/zi-ph-5-0-640.webp"
+  },
+  {
+   "k": "zi-ph-5-1",
+   "t": {
+    "de": "Penthouse V, Ansicht 2"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1201,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Penthouse V",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/doppelzimmer-appartement-penthouse-v.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-ph-5-1-1800.webp",
+   "fm": "../../assets/img/zi-ph-5-1-1200.webp",
+   "fs": "../../assets/img/zi-ph-5-1-640.webp"
+  },
+  {
+   "k": "zi-ph-5-2",
+   "t": {
+    "de": "Penthouse V, Ansicht 3"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1201,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Penthouse V",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/doppelzimmer-appartement-penthouse-v.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-ph-5-2-1800.webp",
+   "fm": "../../assets/img/zi-ph-5-2-1200.webp",
+   "fs": "../../assets/img/zi-ph-5-2-640.webp"
+  },
+  {
+   "k": "zi-ph-5-3",
+   "t": {
+    "de": "Penthouse V, Ansicht 4"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1201,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Penthouse V",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/doppelzimmer-appartement-penthouse-v.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-ph-5-3-1800.webp",
+   "fm": "../../assets/img/zi-ph-5-3-1200.webp",
+   "fs": "../../assets/img/zi-ph-5-3-640.webp"
+  },
+  {
+   "k": "zi-ph-5-4",
+   "t": {
+    "de": "Penthouse V, Ansicht 5"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1201,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Penthouse V",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/doppelzimmer-appartement-penthouse-v.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-ph-5-4-1800.webp",
+   "fm": "../../assets/img/zi-ph-5-4-1200.webp",
+   "fs": "../../assets/img/zi-ph-5-4-640.webp"
+  },
+  {
+   "k": "zi-su-pg1-0",
+   "t": {
+    "de": "Penthouse Suite Gartenflügel I, Ansicht 1"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1201,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Penthouse Suite Gartenflügel I",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/penthouse-suite-gartenfluegel-i.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-su-pg1-0-1800.webp",
+   "fm": "../../assets/img/zi-su-pg1-0-1200.webp",
+   "fs": "../../assets/img/zi-su-pg1-0-640.webp"
+  },
+  {
+   "k": "zi-su-pg1-1",
+   "t": {
+    "de": "Penthouse Suite Gartenflügel I, Ansicht 2"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quadrat",
+   "w": 1500,
+   "h": 1500,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Penthouse Suite Gartenflügel I",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/penthouse-suite-gartenfluegel-i.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-su-pg1-1-1500.webp",
+   "fm": "../../assets/img/zi-su-pg1-1-1200.webp",
+   "fs": "../../assets/img/zi-su-pg1-1-640.webp"
+  },
+  {
+   "k": "zi-su-pg1-2",
+   "t": {
+    "de": "Penthouse Suite Gartenflügel I, Ansicht 3"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1201,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Penthouse Suite Gartenflügel I",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/penthouse-suite-gartenfluegel-i.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-su-pg1-2-1800.webp",
+   "fm": "../../assets/img/zi-su-pg1-2-1200.webp",
+   "fs": "../../assets/img/zi-su-pg1-2-640.webp"
+  },
+  {
+   "k": "zi-su-pg1-3",
+   "t": {
+    "de": "Penthouse Suite Gartenflügel I, Ansicht 4"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1201,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Penthouse Suite Gartenflügel I",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/penthouse-suite-gartenfluegel-i.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-su-pg1-3-1800.webp",
+   "fm": "../../assets/img/zi-su-pg1-3-1200.webp",
+   "fs": "../../assets/img/zi-su-pg1-3-640.webp"
+  },
+  {
+   "k": "zi-su-pg2-0",
+   "t": {
+    "de": "Penthouse Suite Gartenflügel II, Ansicht 1"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 2557,
+   "h": 1438,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Penthouse Suite Gartenflügel II",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/penthouse-suite-gartenfluegel-ii.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-su-pg2-0-1920.webp",
+   "fm": "../../assets/img/zi-su-pg2-0-1200.webp",
+   "fs": "../../assets/img/zi-su-pg2-0-640.webp"
+  },
+  {
+   "k": "zi-su-pg2-1",
+   "t": {
+    "de": "Penthouse Suite Gartenflügel II, Ansicht 2"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1001,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Penthouse Suite Gartenflügel II",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/penthouse-suite-gartenfluegel-ii.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-su-pg2-1-1500.webp",
+   "fm": "../../assets/img/zi-su-pg2-1-1200.webp",
+   "fs": "../../assets/img/zi-su-pg2-1-640.webp"
+  },
+  {
+   "k": "zi-su-pg2-2",
+   "t": {
+    "de": "Penthouse Suite Gartenflügel II, Ansicht 3"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1201,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Penthouse Suite Gartenflügel II",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/penthouse-suite-gartenfluegel-ii.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-su-pg2-2-1800.webp",
+   "fm": "../../assets/img/zi-su-pg2-2-1200.webp",
+   "fs": "../../assets/img/zi-su-pg2-2-640.webp"
+  },
+  {
+   "k": "zi-su-pg2-3",
+   "t": {
+    "de": "Penthouse Suite Gartenflügel II, Ansicht 4"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1001,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Penthouse Suite Gartenflügel II",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/penthouse-suite-gartenfluegel-ii.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-su-pg2-3-1500.webp",
+   "fm": "../../assets/img/zi-su-pg2-3-1200.webp",
+   "fs": "../../assets/img/zi-su-pg2-3-640.webp"
+  },
+  {
+   "k": "zi-su-familien-0",
+   "t": {
+    "de": "Bareiss Luxus Familien-Suite, Ansicht 1"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 2557,
+   "h": 1438,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Bareiss Luxus Familien-Suite",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/bareiss-luxus-familien-suite.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-su-familien-0-1920.webp",
+   "fm": "../../assets/img/zi-su-familien-0-1200.webp",
+   "fs": "../../assets/img/zi-su-familien-0-640.webp"
+  },
+  {
+   "k": "zi-su-familien-1",
+   "t": {
+    "de": "Bareiss Luxus Familien-Suite, Ansicht 2"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1201,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Bareiss Luxus Familien-Suite",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/bareiss-luxus-familien-suite.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-su-familien-1-1800.webp",
+   "fm": "../../assets/img/zi-su-familien-1-1200.webp",
+   "fs": "../../assets/img/zi-su-familien-1-640.webp"
+  },
+  {
+   "k": "zi-su-familien-2",
+   "t": {
+    "de": "Bareiss Luxus Familien-Suite, Ansicht 3"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1201,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Bareiss Luxus Familien-Suite",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/bareiss-luxus-familien-suite.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-su-familien-2-1800.webp",
+   "fm": "../../assets/img/zi-su-familien-2-1200.webp",
+   "fs": "../../assets/img/zi-su-familien-2-640.webp"
+  },
+  {
+   "k": "zi-su-familien-3",
+   "t": {
+    "de": "Bareiss Luxus Familien-Suite, Ansicht 4"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1201,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Bareiss Luxus Familien-Suite",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/bareiss-luxus-familien-suite.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-su-familien-3-1800.webp",
+   "fm": "../../assets/img/zi-su-familien-3-1200.webp",
+   "fs": "../../assets/img/zi-su-familien-3-640.webp"
+  },
+  {
+   "k": "zi-su-familien-4",
+   "t": {
+    "de": "Bareiss Luxus Familien-Suite, Ansicht 5"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1001,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Bareiss Luxus Familien-Suite",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/bareiss-luxus-familien-suite.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-su-familien-4-1500.webp",
+   "fm": "../../assets/img/zi-su-familien-4-1200.webp",
+   "fs": "../../assets/img/zi-su-familien-4-640.webp"
+  },
+  {
+   "k": "zi-su-familien-5",
+   "t": {
+    "de": "Bareiss Luxus Familien-Suite, Ansicht 6"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1201,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Bareiss Luxus Familien-Suite",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/bareiss-luxus-familien-suite.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-su-familien-5-1800.webp",
+   "fm": "../../assets/img/zi-su-familien-5-1200.webp",
+   "fs": "../../assets/img/zi-su-familien-5-640.webp"
+  },
+  {
+   "k": "zi-su-familien-6",
+   "t": {
+    "de": "Bareiss Luxus Familien-Suite, Ansicht 7"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1500,
+   "h": 1001,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Bareiss Luxus Familien-Suite",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/bareiss-luxus-familien-suite.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-su-familien-6-1500.webp",
+   "fm": "../../assets/img/zi-su-familien-6-1200.webp",
+   "fs": "../../assets/img/zi-su-familien-6-640.webp"
+  },
+  {
+   "k": "zi-su-familien-7",
+   "t": {
+    "de": "Bareiss Luxus Familien-Suite, Ansicht 8"
+   },
+   "b": "zimmer",
+   "s": "jahr",
+   "f": "quer",
+   "w": 1800,
+   "h": 1201,
+   "art": "haus",
+   "q": "Zimmerseite der Website des Hauses (bareiss.com): Bareiss Luxus Familien-Suite",
+   "u": "https://www.bareiss.com/zimmer-suiten/haupthaus/bareiss-luxus-familien-suite.html",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/zi-su-familien-7-1800.webp",
+   "fm": "../../assets/img/zi-su-familien-7-1200.webp",
+   "fs": "../../assets/img/zi-su-familien-7-640.webp"
+  }
+ ],
+ "archiv": [
+  {
+   "k": "g-1951",
+   "t": {
+    "de": "Das Kurhotel Mitteltal 1951"
+   },
+   "b": "gastgeber",
+   "s": "jahr",
+   "f": "quer",
+   "w": 2560,
+   "h": 1784,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/g-1951-1920.webp",
+   "fm": "../../assets/img/g-1951-1200.webp",
+   "fs": "../../assets/img/g-1951-640.webp",
+   "archiv": true
+  },
+  {
+   "k": "g-hermine",
+   "t": {
+    "de": "Hermine Bareiss"
+   },
+   "b": "gastgeber",
+   "s": "jahr",
+   "f": "quadrat",
+   "w": 1066,
+   "h": 1040,
+   "art": "haus",
+   "q": "Bildarchiv der Website des Hauses (bareiss.com), Datei in voller Größe",
+   "u": "",
+   "ue": false,
+   "alt": false,
+   "vn": false,
+   "fl": "../../assets/img/g-hermine-1066.webp",
+   "fm": "../../assets/img/g-hermine-1066.webp",
+   "fs": "../../assets/img/g-hermine-640.webp",
+   "archiv": true
+  }
+ ],
+ "dateien": [
+  {
+   "k": "logo",
+   "var": [
+    {
+     "k": "gold",
+     "grund": "dunkel",
+     "dateien": [
+      "bareiss-baiersbronn-logo-gold.svg",
+      "bareiss-baiersbronn-logo-gold.png"
+     ],
+     "px": [
+      1600,
+      1349
+     ]
+    },
+    {
+     "k": "weiss",
+     "grund": "dunkel",
+     "dateien": [
+      "bareiss-baiersbronn-logo-weiss.svg",
+      "bareiss-baiersbronn-logo-weiss.png"
+     ],
+     "px": [
+      1600,
+      1349
+     ]
+    },
+    {
+     "k": "tanne",
+     "grund": "hell",
+     "dateien": [
+      "bareiss-baiersbronn-logo-tanne.svg",
+      "bareiss-baiersbronn-logo-tanne.png"
+     ],
+     "px": [
+      1600,
+      1349
+     ]
+    },
+    {
+     "k": "schwarz",
+     "grund": "hell",
+     "dateien": [
+      "bareiss-baiersbronn-logo-schwarz.svg",
+      "bareiss-baiersbronn-logo-schwarz.png"
+     ],
+     "px": [
+      1600,
+      1349
+     ]
+    }
+   ]
+  },
+  {
+   "k": "wappen",
+   "var": [
+    {
+     "k": "gold",
+     "grund": "dunkel",
+     "dateien": [
+      "bareiss-baiersbronn-wappen-gold.svg",
+      "bareiss-baiersbronn-wappen-gold.png"
+     ],
+     "px": [
+      1000,
+      1278
+     ]
+    },
+    {
+     "k": "weiss",
+     "grund": "dunkel",
+     "dateien": [
+      "bareiss-baiersbronn-wappen-weiss.svg",
+      "bareiss-baiersbronn-wappen-weiss.png"
+     ],
+     "px": [
+      1000,
+      1278
+     ]
+    },
+    {
+     "k": "tanne",
+     "grund": "hell",
+     "dateien": [
+      "bareiss-baiersbronn-wappen-tanne.svg",
+      "bareiss-baiersbronn-wappen-tanne.png"
+     ],
+     "px": [
+      1000,
+      1278
+     ]
+    },
+    {
+     "k": "gold-tief",
+     "grund": "hell",
+     "dateien": [
+      "bareiss-baiersbronn-wappen-gold-tief.svg",
+      "bareiss-baiersbronn-wappen-gold-tief.png"
+     ],
+     "px": [
+      1000,
+      1278
+     ]
+    }
+   ]
+  },
+  {
+   "k": "wort",
+   "var": [
+    {
+     "k": "gold",
+     "grund": "dunkel",
+     "dateien": [
+      "bareiss-baiersbronn-wort-gold.svg",
+      "bareiss-baiersbronn-wort-gold.png"
+     ],
+     "px": [
+      2000,
+      833
+     ]
+    },
+    {
+     "k": "weiss",
+     "grund": "dunkel",
+     "dateien": [
+      "bareiss-baiersbronn-wort-weiss.svg",
+      "bareiss-baiersbronn-wort-weiss.png"
+     ],
+     "px": [
+      2000,
+      833
+     ]
+    },
+    {
+     "k": "tanne",
+     "grund": "hell",
+     "dateien": [
+      "bareiss-baiersbronn-wort-tanne.svg",
+      "bareiss-baiersbronn-wort-tanne.png"
+     ],
+     "px": [
+      2000,
+      833
+     ]
+    }
+   ]
+  },
+  {
+   "k": "sterne",
+   "var": [
+    {
+     "k": "gold",
+     "grund": "dunkel",
+     "dateien": [
+      "bareiss-baiersbronn-sterne-gold.svg",
+      "bareiss-baiersbronn-sterne-gold.png"
+     ],
+     "px": [
+      2000,
+      254
+     ]
+    },
+    {
+     "k": "tanne",
+     "grund": "hell",
+     "dateien": [
+      "bareiss-baiersbronn-sterne-tanne.svg",
+      "bareiss-baiersbronn-sterne-tanne.png"
+     ],
+     "px": [
+      2000,
+      254
+     ]
+    }
+   ]
+  },
+  {
+   "k": "tapete",
+   "var": [
+    {
+     "k": "tanne",
+     "grund": "dunkel",
+     "dateien": [
+      "bareiss-baiersbronn-tapete-tanne.png",
+      "bareiss-baiersbronn-tapete-tanne.svg",
+      "bareiss-baiersbronn-tapete-tanne.webp"
+     ],
+     "farbe": "#1f2621",
+     "px": [
+      1408,
+      1536
+     ]
+    },
+    {
+     "k": "salbei",
+     "grund": "dunkel",
+     "dateien": [
+      "bareiss-baiersbronn-tapete-salbei.png",
+      "bareiss-baiersbronn-tapete-salbei.svg",
+      "bareiss-baiersbronn-tapete-salbei.webp"
+     ],
+     "farbe": "#3f4a40",
+     "px": [
+      1408,
+      1536
+     ]
+    }
+   ]
+  },
+  {
+   "k": "farben",
+   "var": [
+    {
+     "k": "alle",
+     "grund": "hell",
+     "dateien": [
+      "bareiss-baiersbronn-farben.css",
+      "bareiss-baiersbronn-farben.json",
+      "bareiss-baiersbronn-farben.ase"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "schriften",
+   "var": [
+    {
+     "k": "alle",
+     "grund": "hell",
+     "dateien": [
+      "bareiss-baiersbronn-schriften.zip"
+     ]
+    }
+   ]
+  }
+ ],
+ "farben": [
+  {
+   "k": "tanne",
+   "n": "Tanne",
+   "h": "#1F2621",
+   "rgb": [
+    31,
+    38,
+    33
+   ],
+   "r": "die Wände des Restaurants Bareiss: Grund der dunklen Flächen, Kopf und Fuß",
+   "g": "tanne",
+   "woher": "Wert der Website (bareiss.css)"
+  },
+  {
+   "k": "salbei",
+   "n": "Salbei",
+   "h": "#3F4A40",
+   "rgb": [
+    63,
+    74,
+    64
+   ],
+   "r": "zweite dunkle Fläche, das Kapitel Restaurant Bareiss",
+   "g": "tanne",
+   "woher": "Wert der Website (bareiss.css)"
+  },
+  {
+   "k": "salbei-hell",
+   "n": "Salbei hell",
+   "h": "#5B6658",
+   "rgb": [
+    91,
+    102,
+    88
+   ],
+   "r": "ruhige Fläche und Linie auf Salbei",
+   "g": "tanne",
+   "woher": "Wert der Website (bareiss.css)"
+  },
+  {
+   "k": "papier",
+   "n": "Papier",
+   "h": "#F5F2EA",
+   "rgb": [
+    245,
+    242,
+    234
+   ],
+   "r": "das Tischtuch: Grund der hellen Seiten, nie reines Weiß",
+   "g": "raum",
+   "woher": "Wert der Website (bareiss.css)"
+  },
+  {
+   "k": "leinen",
+   "n": "Leinen",
+   "h": "#ECE6D8",
+   "rgb": [
+    236,
+    230,
+    216
+   ],
+   "r": "Fläche auf Papier, Kachel im hellen Kapitel",
+   "g": "raum",
+   "woher": "Wert der Website (bareiss.css)"
+  },
+  {
+   "k": "tinte",
+   "n": "Tinte",
+   "h": "#2F2A27",
+   "rgb": [
+    47,
+    42,
+    39
+   ],
+   "r": "Titel und Lesetext auf Papier, nie reines Schwarz",
+   "g": "raum",
+   "woher": "Wert der Website (bareiss.css)"
+  },
+  {
+   "k": "grau",
+   "n": "Hausgrau",
+   "h": "#6B625D",
+   "rgb": [
+    107,
+    98,
+    93
+   ],
+   "r": "kleine Zeilen und Nebentext auf Papier",
+   "g": "raum",
+   "woher": "Wert der Website (bareiss.css)"
+  },
+  {
+   "k": "gold",
+   "n": "Hausgold",
+   "h": "#C9B101",
+   "rgb": [
+    201,
+    177,
+    1
+   ],
+   "r": "das Gold des Logos: Linie, Zeichen, Hauptknopf auf Tanne",
+   "g": "gold",
+   "woher": "Wert der Website (bareiss.css)"
+  },
+  {
+   "k": "gold-hell",
+   "n": "Hausgold hell",
+   "h": "#E2D27A",
+   "rgb": [
+    226,
+    210,
+    122
+   ],
+   "r": "Glanz im Gold, Akzent in der Schrift auf Tanne",
+   "g": "gold",
+   "woher": "Wert der Website (bareiss.css)"
+  },
+  {
+   "k": "gold-tief",
+   "n": "Hausgold tief",
+   "h": "#968401",
+   "rgb": [
+    150,
+    132,
+    1
+   ],
+   "r": "Etikett und Zeichen auf Papier, wo Hausgold zu hell steht",
+   "g": "gold",
+   "woher": "Wert der Website (bareiss.css)"
+  },
+  {
+   "k": "rot",
+   "n": "Herzrot",
+   "h": "#B4302C",
+   "rgb": [
+    180,
+    48,
+    44
+   ],
+   "r": "das Herz an der Zimmertür: nur als Punkt, nie als Fläche",
+   "g": "herz",
+   "woher": "Wert der Website (bareiss.css)"
+  }
+ ],
+ "gruppen": [
+  {
+   "k": "tanne",
+   "n": "Tanne und Salbei",
+   "s": "Die Wände des Restaurants Bareiss. Sie tragen die dunklen Flächen; darauf wird in Papier geschrieben und in Hausgold betont. Salbei gehört vor allem dem Kapitel Restaurant Bareiss.",
+   "bild": "../../assets/img/r-saal-1200.webp",
+   "bild_t": "Der Saal des Restaurants Bareiss mit den Rautenfenstern: aus seinen Wänden kommen Tanne und Salbei."
+  },
+  {
+   "k": "raum",
+   "n": "Papier und Leinen",
+   "s": "Das Tischtuch: Papier als Grund, Leinen als Fläche darauf. Geschrieben wird in Tinte, einem warmen Dunkelbraun, nie in reinem Schwarz.",
+   "bild": "../../assets/img/r-tisch-1200.webp",
+   "bild_t": "Ein gedeckter Tisch vor dem Rautenfenster: aus dem Tischtuch kommt das Papier."
+  },
+  {
+   "k": "gold",
+   "n": "Hausgold",
+   "s": "Das Gold des Logos: Haarlinie, Zeichen und der Knauf des Hauptknopfs. Auf Papier steht das tiefere Hausgold. Nie als große Fläche.",
+   "bild": "listen/farbe-gold.webp",
+   "bild_t": "Das Logo des Hauses in seinem Gold: Wappen, Schriftzug und fünf Sterne."
+  },
+  {
+   "k": "herz",
+   "n": "Herzrot",
+   "s": "Das Rot des Herzens «Herzlich willkommen» an der Zimmertür. Es steht nur als Punkt, nie als Fläche, nie als Schrift.",
+   "bild": "../../assets/img/herz-tuer-1200.webp",
+   "bild_t": "Das Herz «Herzlich willkommen» an der Zimmertür: daher das Herzrot."
+  }
+ ],
+ "glanz": [],
+ "groessen": {
+  "bareiss-baiersbronn-farben.ase": 496,
+  "bareiss-baiersbronn-farben.css": 1082,
+  "bareiss-baiersbronn-farben.json": 2392,
+  "bareiss-baiersbronn-logo-gold.png": 117627,
+  "bareiss-baiersbronn-logo-gold.svg": 11788,
+  "bareiss-baiersbronn-logo-schwarz.png": 82899,
+  "bareiss-baiersbronn-logo-schwarz.svg": 11788,
+  "bareiss-baiersbronn-logo-tanne.png": 122792,
+  "bareiss-baiersbronn-logo-tanne.svg": 11788,
+  "bareiss-baiersbronn-logo-weiss.png": 91866,
+  "bareiss-baiersbronn-logo-weiss.svg": 11788,
+  "bareiss-baiersbronn-marke.zip": 1903352,
+  "bareiss-baiersbronn-schriften.zip": 695962,
+  "bareiss-baiersbronn-sterne-gold.png": 35223,
+  "bareiss-baiersbronn-sterne-gold.svg": 1303,
+  "bareiss-baiersbronn-sterne-tanne.png": 37230,
+  "bareiss-baiersbronn-sterne-tanne.svg": 1303,
+  "bareiss-baiersbronn-tapete-salbei.png": 79737,
+  "bareiss-baiersbronn-tapete-salbei.svg": 477,
+  "bareiss-baiersbronn-tapete-salbei.webp": 59564,
+  "bareiss-baiersbronn-tapete-tanne.png": 80655,
+  "bareiss-baiersbronn-tapete-tanne.svg": 477,
+  "bareiss-baiersbronn-tapete-tanne.webp": 80388,
+  "bareiss-baiersbronn-wappen-gold-tief.png": 73956,
+  "bareiss-baiersbronn-wappen-gold-tief.svg": 3789,
+  "bareiss-baiersbronn-wappen-gold.png": 73928,
+  "bareiss-baiersbronn-wappen-gold.svg": 3789,
+  "bareiss-baiersbronn-wappen-tanne.png": 77234,
+  "bareiss-baiersbronn-wappen-tanne.svg": 3789,
+  "bareiss-baiersbronn-wappen-weiss.png": 57431,
+  "bareiss-baiersbronn-wappen-weiss.svg": 3789,
+  "bareiss-baiersbronn-wort-gold.png": 114323,
+  "bareiss-baiersbronn-wort-gold.svg": 4628,
+  "bareiss-baiersbronn-wort-tanne.png": 119456,
+  "bareiss-baiersbronn-wort-tanne.svg": 4628,
+  "bareiss-baiersbronn-wort-weiss.png": 89463,
+  "bareiss-baiersbronn-wort-weiss.svg": 4628
+ },
+ "bereiche": [
+  "haus",
+  "zimmer",
+  "ferientag",
+  "restaurant",
+  "stuben",
+  "wasser",
+  "familie",
+  "tal",
+  "gastgeber",
+  "grundrisse"
+ ],
+ "schriften": [
+  {
+   "k": "t",
+   "n": "Source Serif 4",
+   "d": "serif-latin.woff2",
+   "r": "Titel",
+   "e": "440, Display-Schnitt, nie fett, nie kursiv · freie Entsprechung der Hausschrift Farnham Display",
+   "p": "Es gibt kein Nein für den Gast.",
+   "w": 440,
+   "bild": "listen/schrift-t.webp"
+  },
+  {
+   "k": "s",
+   "n": "Source Sans 3",
+   "d": "sans-latin.woff2",
+   "r": "Lesetext",
+   "e": "400, 17 px, Zeilenabstand 1,6 · neue Fassung der Hausschrift Source Sans Pro",
+   "p": "Zu Gast in der Familie: Seit dem 1. Mai 1951 empfängt die Familie Bareiss ihre Gäste in Mitteltal.",
+   "w": 400,
+   "bild": "listen/schrift-s.webp"
+  },
+  {
+   "k": "e",
+   "n": "Source Sans 3",
+   "d": "sans-latin.woff2",
+   "r": "Etiketten und kleine Zeilen",
+   "e": "500, Versalien, 0,14 bis 0,16 em gesperrt",
+   "p": "BAIERSBRONN-MITTELTAL · NORDSCHWARZWALD",
+   "w": 500,
+   "bild": "listen/schrift-e.webp"
+  },
+  {
+   "k": "z",
+   "n": "Source Sans 3",
+   "d": "sans-latin.woff2",
+   "r": "Zahlen und Uhrzeiten",
+   "e": "gleich breite Ziffern, wie der Ferientag auf der Website",
+   "p": "7.00 · 8.00–11.30 · 19.00 · 23.45 Uhr",
+   "w": 400,
+   "bild": "listen/schrift-z.webp"
+  }
+ ],
+ "namen": {
+  "zentrale": "Kontrollpanel",
+  "website": "Website bearbeiten",
+  "karten": "Karten & Preislisten",
+  "gaeste": "Anfragen & Chat",
+  "marke": "Markenbuch",
+  "besuche": "Besucher",
+  "druck": "Drucksachen & Feed"
+ },
+ "zusammen": {
+  "zi-ez-app-2": "z-einzel",
+  "zi-gdz-bergmosis-0": "z-gross",
+  "zi-gdz-wb2-0": "z-gross2",
+  "zi-dza-garten-0": "z-appartement3",
+  "zi-lh-s1-0": "z-landhaussuite",
+  "zi-lh-gdz-0": "z-landhaus-gross"
+ },
+ "ton": {
+  "eigene_worte": [
+   "Es gibt kein Nein für den Gast.",
+   "Zu Gast in der Familie.",
+   "Das Glück hat verschiedene Namen.",
+   "Freie Zeit ist der größte Luxus.",
+   "Das Resort im Schwarzwald.",
+   "Haben Sie Freude – lassen Sie es sich richtig gut gehen bei uns!"
+  ],
+  "nicht": [
+   "du",
+   "Ausrufezeichen und «Jetzt buchen!»",
+   "Rabatt- und Schnäppchensprache",
+   "Masse, Abfertigung, Stückzahlen als Pointe",
+   "Superlative ohne Beleg",
+   "Requisiten-Wörter wie «Wellness-Tempel»"
+  ]
+ },
+ "stand": {
+  "fotos": 255,
+  "haus": 255,
+  "frei": 0,
+  "ki": 0,
+  "fremd": 0,
+  "partner": 0,
+  "grundrisse": 31,
+  "ue": 0,
+  "vn": 0,
+  "original": 252,
+  "dateien": 37,
+  "datum": "09.11.2026"
+ }
+}

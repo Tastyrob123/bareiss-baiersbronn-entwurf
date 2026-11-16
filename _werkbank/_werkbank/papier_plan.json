@@ -1,0 +1,202 @@
+{
+ "druck": [
+  {
+   "id": "karte",
+   "name": "Das Menu des Abends",
+   "format": "A5 hoch, zwei Seiten",
+   "vorschau": [
+    [
+     "karte",
+     1
+    ],
+    [
+     "karte-r",
+     2
+    ]
+   ],
+   "satz": "Vorne das Degustationsmenu des Restaurants Bareiss Gang für Gang im Wortlaut Ihrer Karte, hinten die übrigen Menus mit Preis, die Öffnungszeiten und wer am Tisch für Sie da ist.",
+   "quelle": "Menu-Karte des Restaurants Bareiss vom 15.10.2026 (RB_Menu_15.10.26_D.pdf), Seite »3-Sterne-Restaurant Bareiss« Ihrer Website",
+   "seiten": 2
+  },
+  {
+   "id": "empfang",
+   "name": "Ein Kärtchen für den Empfang",
+   "format": "A6 hoch, zwei Seiten",
+   "vorschau": [
+    [
+     "empfang",
+     1
+    ],
+    [
+     "empfang-r",
+     2
+    ]
+   ],
+   "satz": "Vorne das Herz an der Zimmertür und »Herzlich willkommen.«, hinten die Zeiten im Haus: Bade- und Saunabereich, Beauty & Spa, Damen- und Familiensauna und der Mitternachtsimbiss.",
+   "quelle": "Seiten »Wellness« (Öffnungszeiten) und »Zimmer & Suiten« (Inklusivleistungen) Ihrer Website",
+   "seiten": 2
+  },
+  {
+   "id": "aufsteller",
+   "name": "Tischaufsteller",
+   "format": "A6 hoch, zwei Seiten",
+   "vorschau": [
+    [
+     "aufsteller",
+     1
+    ],
+    [
+     "aufsteller-r",
+     2
+    ]
+   ],
+   "satz": "Vorne Ihr Gruss »Haben Sie Freude – lassen Sie es sich richtig gut gehen bei uns!«, hinten, was inklusive ist. Steht auf dem Tisch oder am Empfang.",
+   "quelle": "Startseite und Seite »Zimmer & Suiten« (Inklusivleistungen) Ihrer Website",
+   "seiten": 2
+  },
+  {
+   "id": "visitenkarte",
+   "name": "Visitenkarte",
+   "format": "85 × 55 mm, zwei Seiten",
+   "vorschau": [
+    [
+     "visitenkarte",
+     1
+    ],
+    [
+     "visitenkarte-r",
+     2
+    ]
+   ],
+   "satz": "Vorne Wappen und Schriftzug auf Tanne mit der Raute, hinten die Gastgeber, Adresse, Telefon und Mail.",
+   "quelle": "Impressum und Seite »Ihre Gastgeber« Ihrer Website",
+   "seiten": 2
+  },
+  {
+   "id": "briefpapier",
+   "name": "Briefbogen und Umschlag",
+   "format": "Briefbogen A4, Umschlag DIN lang",
+   "vorschau": [
+    [
+     "briefbogen",
+     1
+    ],
+    [
+     "umschlag",
+     2
+    ]
+   ],
+   "satz": "Für Antworten auf Anfragen und Angebote: der Briefbogen auf Papier mit Wappen und Schriftzug, der Umschlag auf Tanne mit Hausgold-Rahmen.",
+   "quelle": "Logo und Impressum Ihrer Website",
+   "seiten": 2
+  }
+ ],
+ "etiketten": [
+  {
+   "id": "u01",
+   "b": 94,
+   "h": 94,
+   "name": "Das Wappen",
+   "satz": "Das Wappen HB mit drei Kugeln in Hausgold, darunter der Schriftzug Bareiss aus dem Logo.",
+   "form": "M6 0H88A6 6 0 0 1 94 6V88A6 6 0 0 1 88 94H6A6 6 0 0 1 0 88V6A6 6 0 0 1 6 0Z"
+  },
+  {
+   "id": "u02",
+   "b": 94,
+   "h": 94,
+   "name": "Zu Gast in der Familie.",
+   "satz": "Die Überschrift Ihrer Seite über den Gastgebern, darunter das Haus und sein Jahr.",
+   "form": "M6 0H88A6 6 0 0 1 94 6V88A6 6 0 0 1 88 94H6A6 6 0 0 1 0 88V6A6 6 0 0 1 6 0Z"
+  },
+  {
+   "id": "u03",
+   "b": 94,
+   "h": 94,
+   "name": "Seit 1951",
+   "satz": "Der Tag, an dem Hermine Bareiss das Kurhotel Mitteltal eröffnet.",
+   "form": "M6 0H88A6 6 0 0 1 94 6V88A6 6 0 0 1 88 94H6A6 6 0 0 1 0 88V6A6 6 0 0 1 6 0Z"
+  },
+  {
+   "id": "u04",
+   "b": 94,
+   "h": 94,
+   "name": "Der Kulinarische Ferientag",
+   "satz": "Die Halbpension des Hauses, von 7.00 Uhr in der Pooloase bis zum Mitternachtsimbiss um 23.45 Uhr.",
+   "form": "M6 0H88A6 6 0 0 1 94 6V88A6 6 0 0 1 88 94H6A6 6 0 0 1 0 88V6A6 6 0 0 1 6 0Z"
+  },
+  {
+   "id": "u05",
+   "b": 94,
+   "h": 94,
+   "name": "34 °C",
+   "satz": "Das Meerwasser-Außenerlebnisfreibad, ganzjährig 34 °C.",
+   "form": "M6 0H88A6 6 0 0 1 94 6V88A6 6 0 0 1 88 94H6A6 6 0 0 1 0 88V6A6 6 0 0 1 6 0Z"
+  },
+  {
+   "id": "u06",
+   "b": 94,
+   "h": 94,
+   "name": "5 Sterne Superior",
+   "satz": "Die Klasse des Hauses unter den fünf Sternen der Sterne-Linie Ihres Logos.",
+   "form": "M6 0H88A6 6 0 0 1 94 6V88A6 6 0 0 1 88 94H6A6 6 0 0 1 0 88V6A6 6 0 0 1 6 0Z"
+  },
+  {
+   "id": "u07",
+   "b": 94,
+   "h": 94,
+   "name": "Das Wappen auf Tanne",
+   "satz": "Wappen und Schriftzug auf Tanne, dem Grün der Wände im Restaurant Bareiss, mit der Raute als Tapete.",
+   "form": "M6 0H88A6 6 0 0 1 94 6V88A6 6 0 0 1 88 94H6A6 6 0 0 1 0 88V6A6 6 0 0 1 6 0Z"
+  },
+  {
+   "id": "u08",
+   "b": 94,
+   "h": 94,
+   "name": "Es gibt kein Nein für den Gast.",
+   "satz": "Der Satz der Gründerin Hermine Bareiss.",
+   "form": "M6 0H88A6 6 0 0 1 94 6V88A6 6 0 0 1 88 94H6A6 6 0 0 1 0 88V6A6 6 0 0 1 6 0Z"
+  },
+  {
+   "id": "u09",
+   "b": 94,
+   "h": 94,
+   "name": "Haben Sie Freude.",
+   "satz": "Der Gruß Ihrer Startseite: »Haben Sie Freude – lassen Sie es sich richtig gut gehen bei uns!«",
+   "form": "M6 0H88A6 6 0 0 1 94 6V88A6 6 0 0 1 88 94H6A6 6 0 0 1 0 88V6A6 6 0 0 1 6 0Z"
+  },
+  {
+   "id": "u10",
+   "b": 94,
+   "h": 94,
+   "name": "Drei Sterne",
+   "satz": "Das Restaurant Bareiss, drei Michelin-Sterne seit 2007, auf Salbei.",
+   "form": "M6 0H88A6 6 0 0 1 94 6V88A6 6 0 0 1 88 94H6A6 6 0 0 1 0 88V6A6 6 0 0 1 6 0Z"
+  },
+  {
+   "id": "u11",
+   "b": 94,
+   "h": 94,
+   "name": "Der kleine, feine Unterschied.",
+   "satz": "Die Überschrift des Restaurants Bareiss auf Ihrer Seite.",
+   "form": "M6 0H88A6 6 0 0 1 94 6V88A6 6 0 0 1 88 94H6A6 6 0 0 1 0 88V6A6 6 0 0 1 6 0Z"
+  },
+  {
+   "id": "u12",
+   "b": 94,
+   "h": 94,
+   "name": "Weltbestes Hotel für Kinder",
+   "satz": "Die Auszeichnung aus Paris, darunter die drei Gruppen der Kinder im Haus.",
+   "form": "M6 0H88A6 6 0 0 1 94 6V88A6 6 0 0 1 88 94H6A6 6 0 0 1 0 88V6A6 6 0 0 1 6 0Z"
+  }
+ ],
+ "boegen": 2,
+ "meins": [
+  "Auswahl und Anordnung der Sätze auf Menu, Kärtchen, Aufsteller und Untersetzern",
+  "Die Feldnamen auf dem Kärtchen und den Beigaben",
+  "Die Überschriften »Herzlich willkommen.«, »Die Zeiten im Haus« und »Inklusive.«"
+ ],
+ "masse": [
+  94,
+  94
+ ]
+}

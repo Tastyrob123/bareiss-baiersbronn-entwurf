@@ -1,0 +1,71 @@
+{
+ "empfang": {
+  "karton": [
+   "",
+   [
+    [
+     "empfang",
+     40,
+     "Vorderseite"
+    ],
+    [
+     "empfang-r",
+     40,
+     "Rückseite"
+    ]
+   ]
+  ],
+  "titel": [
+   "Herzlich",
+   "willkommen."
+  ],
+  "breit": []
+ },
+ "aufsteller": {
+  "karton": [
+   "",
+   [
+    [
+     "aufsteller",
+     40,
+     "Vorderseite"
+    ],
+    [
+     "aufsteller-r",
+     40,
+     "Rückseite"
+    ]
+   ]
+  ],
+  "titel": [
+   "Ein Aufsteller",
+   "für den Tisch."
+  ],
+  "breit": []
+ },
+ "visitenkarte": {
+  "karton": [
+   "",
+   [
+    [
+     "visitenkarte",
+     60,
+     "Vorderseite"
+    ],
+    [
+     "visitenkarte-r",
+     60,
+     "Rückseite"
+    ]
+   ]
+  ],
+  "titel": [
+   "Die",
+   "Visitenkarte."
+  ],
+  "breit": [
+   "visitenkarte",
+   "visitenkarte-r"
+  ]
+ }
+}

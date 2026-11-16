@@ -1,0 +1,796 @@
+{
+ "druck": [
+  {
+   "id": "pw-menuekarte-degustationsmenu",
+   "name": "Menükarte · Degustationsmenu",
+   "format": "A4 hoch · aus «Drucksachen & Feed»",
+   "satz": "Menükarte A4 am Platz: Das Degustationsmenu von Claus-Peter Lumpp im Wortlaut der Karte, 350 €",
+   "titel": [
+    "Menükarte",
+    "Degustationsmenu."
+   ],
+   "pdf": "bareiss-menuekarte-degustationsmenu.pdf",
+   "karton": [
+    [
+     "pw-menuekarte-degustationsmenu",
+     54,
+     ""
+    ]
+   ],
+   "masse": {
+    "pw-menuekarte-degustationsmenu": [
+     1000,
+     1414
+    ]
+   },
+   "schatten": true,
+   "haengt": false,
+   "seiten": 1
+  },
+  {
+   "id": "pw-menuekarte-mittagsmenu",
+   "name": "Menükarte · Mittagsmenu",
+   "format": "A5 hoch · aus «Drucksachen & Feed»",
+   "satz": "Menükarte A5 am Platz: Das Mittagsmenu, 195 €",
+   "titel": [
+    "Menükarte",
+    "Mittagsmenu."
+   ],
+   "pdf": "bareiss-menuekarte-mittagsmenu.pdf",
+   "karton": [
+    [
+     "pw-menuekarte-mittagsmenu",
+     54,
+     ""
+    ]
+   ],
+   "masse": {
+    "pw-menuekarte-mittagsmenu": [
+     1000,
+     1419
+    ]
+   },
+   "schatten": true,
+   "haengt": false,
+   "seiten": 1
+  },
+  {
+   "id": "pw-menuekarte-vegetarisch",
+   "name": "Menükarte · vegetarische Menu",
+   "format": "A4 hoch · aus «Drucksachen & Feed»",
+   "satz": "Menükarte A4 am Platz: Das vegetarische Menu, 295 €",
+   "titel": [
+    "Menükarte",
+    "vegetarische Menu."
+   ],
+   "pdf": "bareiss-menuekarte-vegetarisch.pdf",
+   "karton": [
+    [
+     "pw-menuekarte-vegetarisch",
+     54,
+     ""
+    ]
+   ],
+   "masse": {
+    "pw-menuekarte-vegetarisch": [
+     1000,
+     1414
+    ]
+   },
+   "schatten": true,
+   "haengt": false,
+   "seiten": 1
+  },
+  {
+   "id": "pw-menuekarte-herbstmenu",
+   "name": "Menükarte · Herbstmenu",
+   "format": "DL hoch · aus «Drucksachen & Feed»",
+   "satz": "Menükarte DL hoch auf Tanne: Das Herbstmenu, 295 €",
+   "titel": [
+    "Menükarte",
+    "Herbstmenu."
+   ],
+   "pdf": "bareiss-menuekarte-herbstmenu.pdf",
+   "karton": [
+    [
+     "pw-menuekarte-herbstmenu",
+     40,
+     ""
+    ]
+   ],
+   "masse": {
+    "pw-menuekarte-herbstmenu": [
+     1000,
+     2121
+    ]
+   },
+   "schatten": true,
+   "haengt": false,
+   "seiten": 1
+  },
+  {
+   "id": "pw-karte-desserts",
+   "name": "Desserts",
+   "format": "A4 hoch · aus «Drucksachen & Feed»",
+   "satz": "Karte A4: Desserts unseres Chef-Pâtissiers Stefan Leitner mit Preisen",
+   "titel": [
+    "Desserts",
+    ""
+   ],
+   "pdf": "bareiss-karte-desserts.pdf",
+   "karton": [
+    [
+     "pw-karte-desserts",
+     54,
+     ""
+    ]
+   ],
+   "masse": {
+    "pw-karte-desserts": [
+     1000,
+     1414
+    ]
+   },
+   "schatten": true,
+   "haengt": false,
+   "seiten": 1
+  },
+  {
+   "id": "pw-aushang-restaurant-oeffnungszeiten",
+   "name": "Restaurant Bareiss · Öffnungszeiten",
+   "format": "A5 hoch · aus «Drucksachen & Feed»",
+   "satz": "Aushang A5: Öffnungszeiten und Ruhetage des Restaurants Bareiss",
+   "titel": [
+    "Restaurant Bareiss",
+    "Öffnungszeiten."
+   ],
+   "pdf": "bareiss-aushang-restaurant-oeffnungszeiten.pdf",
+   "karton": [
+    [
+     "pw-aushang-restaurant-oeffnungszeiten",
+     54,
+     ""
+    ]
+   ],
+   "masse": {
+    "pw-aushang-restaurant-oeffnungszeiten": [
+     1000,
+     1419
+    ]
+   },
+   "schatten": true,
+   "haengt": false,
+   "seiten": 1
+  },
+  {
+   "id": "pw-programm-kulinarischer-ferientag",
+   "name": "Der Kulinarische Ferientag",
+   "format": "A4 hoch · aus «Drucksachen & Feed»",
+   "satz": "Programm A4: die Bareiss Halbpension von 7.00 Uhr bis zum Mitternachtsimbiss",
+   "titel": [
+    "Der",
+    "Kulinarische Ferientag."
+   ],
+   "pdf": "bareiss-programm-kulinarischer-ferientag.pdf",
+   "karton": [
+    [
+     "pw-programm-kulinarischer-ferientag",
+     54,
+     ""
+    ]
+   ],
+   "masse": {
+    "pw-programm-kulinarischer-ferientag": [
+     1000,
+     1414
+    ]
+   },
+   "schatten": true,
+   "haengt": false,
+   "seiten": 1
+  },
+  {
+   "id": "pw-aushang-ferientag",
+   "name": "Ferientag · Aushang",
+   "format": "A4 hoch · aus «Drucksachen & Feed»",
+   "satz": "Aushang A4 mit Foto: der Morgen in der Pooloase",
+   "titel": [
+    "Ferientag",
+    "Aushang."
+   ],
+   "pdf": "bareiss-aushang-ferientag.pdf",
+   "karton": [
+    [
+     "pw-aushang-ferientag",
+     54,
+     ""
+    ]
+   ],
+   "masse": {
+    "pw-aushang-ferientag": [
+     1000,
+     1414
+    ]
+   },
+   "schatten": true,
+   "haengt": false,
+   "seiten": 1
+  },
+  {
+   "id": "pw-aushang-dorfstuben",
+   "name": "Die Dorfstuben",
+   "format": "A5 hoch · aus «Drucksachen & Feed»",
+   "satz": "Aushang A5 auf Salbei: Öffnungszeiten der Dorfstuben",
+   "titel": [
+    "Die",
+    "Dorfstuben."
+   ],
+   "pdf": "bareiss-aushang-dorfstuben.pdf",
+   "karton": [
+    [
+     "pw-aushang-dorfstuben",
+     54,
+     ""
+    ]
+   ],
+   "masse": {
+    "pw-aushang-dorfstuben": [
+     1000,
+     1419
+    ]
+   },
+   "schatten": true,
+   "haengt": false,
+   "seiten": 1
+  },
+  {
+   "id": "pw-arrangement-winter-special",
+   "name": "Winter-Special",
+   "format": "A5 hoch · aus «Drucksachen & Feed»",
+   "satz": "Arrangement A5: Anreise am 13.12.26, Leistungen",
+   "titel": [
+    "Winter-Special",
+    ""
+   ],
+   "pdf": "bareiss-arrangement-winter-special.pdf",
+   "karton": [
+    [
+     "pw-arrangement-winter-special",
+     54,
+     ""
+    ]
+   ],
+   "masse": {
+    "pw-arrangement-winter-special": [
+     1000,
+     1419
+    ]
+   },
+   "schatten": true,
+   "haengt": false,
+   "seiten": 1
+  },
+  {
+   "id": "pw-arrangement-winter-special-preise",
+   "name": "Winter-Special · Preise",
+   "format": "A5 hoch · aus «Drucksachen & Feed»",
+   "satz": "Preisblatt A5: die Angebotspreise je Zimmerkategorie",
+   "titel": [
+    "Winter-Special",
+    "Preise."
+   ],
+   "pdf": "bareiss-arrangement-winter-special-preise.pdf",
+   "karton": [
+    [
+     "pw-arrangement-winter-special-preise",
+     54,
+     ""
+    ]
+   ],
+   "masse": {
+    "pw-arrangement-winter-special-preise": [
+     1000,
+     1419
+    ]
+   },
+   "schatten": true,
+   "haengt": false,
+   "seiten": 1
+  },
+  {
+   "id": "pw-arrangement-gourmet-special",
+   "name": "Gourmet-Special",
+   "format": "A5 hoch · aus «Drucksachen & Feed»",
+   "satz": "Arrangement A5: Mittagsmenu im 3-Sterne-Restaurant Bareiss",
+   "titel": [
+    "Gourmet-Special",
+    ""
+   ],
+   "pdf": "bareiss-arrangement-gourmet-special.pdf",
+   "karton": [
+    [
+     "pw-arrangement-gourmet-special",
+     54,
+     ""
+    ]
+   ],
+   "masse": {
+    "pw-arrangement-gourmet-special": [
+     1000,
+     1419
+    ]
+   },
+   "schatten": true,
+   "haengt": false,
+   "seiten": 1
+  },
+  {
+   "id": "pw-arrangement-gastronomische-trilogie",
+   "name": "Gastronomische Trilogie",
+   "format": "A5 hoch · aus «Drucksachen & Feed»",
+   "satz": "Arrangement A5 auf Salbei: Dorfstuben, Kaminstube, Restaurant Bareiss",
+   "titel": [
+    "Gastronomische",
+    "Trilogie."
+   ],
+   "pdf": "bareiss-arrangement-gastronomische-trilogie.pdf",
+   "karton": [
+    [
+     "pw-arrangement-gastronomische-trilogie",
+     54,
+     ""
+    ]
+   ],
+   "masse": {
+    "pw-arrangement-gastronomische-trilogie": [
+     1000,
+     1419
+    ]
+   },
+   "schatten": true,
+   "haengt": false,
+   "seiten": 1
+  },
+  {
+   "id": "pw-preisliste-zimmer-und-preise",
+   "name": "Zimmer und Preise",
+   "format": "A4 hoch · aus «Drucksachen & Feed»",
+   "satz": "Preisliste A4: sieben Zimmerkategorien mit Preisen des Hauses",
+   "titel": [
+    "Zimmer",
+    "und Preise."
+   ],
+   "pdf": "bareiss-preisliste-zimmer-und-preise.pdf",
+   "karton": [
+    [
+     "pw-preisliste-zimmer-und-preise",
+     54,
+     ""
+    ]
+   ],
+   "masse": {
+    "pw-preisliste-zimmer-und-preise": [
+     1000,
+     1414
+    ]
+   },
+   "schatten": true,
+   "haengt": false,
+   "seiten": 1
+  },
+  {
+   "id": "pw-wellness-badelandschaft",
+   "name": "Badelandschaft",
+   "format": "A4 hoch · aus «Drucksachen & Feed»",
+   "satz": "Karte A4: Becken und Temperaturen der Badelandschaft",
+   "titel": [
+    "Badelandschaft",
+    ""
+   ],
+   "pdf": "bareiss-wellness-badelandschaft.pdf",
+   "karton": [
+    [
+     "pw-wellness-badelandschaft",
+     54,
+     ""
+    ]
+   ],
+   "masse": {
+    "pw-wellness-badelandschaft": [
+     1000,
+     1414
+    ]
+   },
+   "schatten": true,
+   "haengt": false,
+   "seiten": 1
+  },
+  {
+   "id": "pw-wellness-saunawelt",
+   "name": "Saunawelt",
+   "format": "A4 hoch · aus «Drucksachen & Feed»",
+   "satz": "Karte A4 auf Salbei: Saunen, Dampfbäder, Whirlpools",
+   "titel": [
+    "Saunawelt",
+    ""
+   ],
+   "pdf": "bareiss-wellness-saunawelt.pdf",
+   "karton": [
+    [
+     "pw-wellness-saunawelt",
+     54,
+     ""
+    ]
+   ],
+   "masse": {
+    "pw-wellness-saunawelt": [
+     1000,
+     1414
+    ]
+   },
+   "schatten": true,
+   "haengt": false,
+   "seiten": 1
+  },
+  {
+   "id": "pw-aushang-meerwasser",
+   "name": "Meerwasser 34 °C",
+   "format": "A4 hoch · aus «Drucksachen & Feed»",
+   "satz": "Aushang A4 mit Foto beim Außenbecken",
+   "titel": [
+    "Meerwasser",
+    "34 °C."
+   ],
+   "pdf": "bareiss-aushang-meerwasser.pdf",
+   "karton": [
+    [
+     "pw-aushang-meerwasser",
+     54,
+     ""
+    ]
+   ],
+   "masse": {
+    "pw-aushang-meerwasser": [
+     1000,
+     1414
+    ]
+   },
+   "schatten": true,
+   "haengt": false,
+   "seiten": 1
+  },
+  {
+   "id": "pw-camp-kuechencamp",
+   "name": "Das Bareiss Küchencamp",
+   "format": "A5 hoch · aus «Drucksachen & Feed»",
+   "satz": "Karte A5: Küchencamp im Februar und Mai 2027 mit Preis",
+   "titel": [
+    "Das",
+    "Bareiss Küchencamp."
+   ],
+   "pdf": "bareiss-camp-kuechencamp.pdf",
+   "karton": [
+    [
+     "pw-camp-kuechencamp",
+     54,
+     ""
+    ]
+   ],
+   "masse": {
+    "pw-camp-kuechencamp": [
+     1000,
+     1419
+    ]
+   },
+   "schatten": true,
+   "haengt": false,
+   "seiten": 1
+  },
+  {
+   "id": "pw-aushang-kinderdoerfle",
+   "name": "Kinderdörfle",
+   "format": "A4 hoch · aus «Drucksachen & Feed»",
+   "satz": "Aushang A4 beim Kinderdörfle: Minis, Maxis, Teens",
+   "titel": [
+    "Kinderdörfle",
+    ""
+   ],
+   "pdf": "bareiss-aushang-kinderdoerfle.pdf",
+   "karton": [
+    [
+     "pw-aushang-kinderdoerfle",
+     54,
+     ""
+    ]
+   ],
+   "masse": {
+    "pw-aushang-kinderdoerfle": [
+     1000,
+     1414
+    ]
+   },
+   "schatten": true,
+   "haengt": false,
+   "seiten": 1
+  },
+  {
+   "id": "pw-programm-advent-und-weihnachten",
+   "name": "Advent und Weihnachten im Bareiss",
+   "format": "A4 hoch · aus «Drucksachen & Feed»",
+   "satz": "Programm A4: die Termine aus dem Kalender des Hauses",
+   "titel": [
+    "Advent und",
+    "Weihnachten im Bareiss."
+   ],
+   "pdf": "bareiss-programm-advent-und-weihnachten.pdf",
+   "karton": [
+    [
+     "pw-programm-advent-und-weihnachten",
+     54,
+     ""
+    ]
+   ],
+   "masse": {
+    "pw-programm-advent-und-weihnachten": [
+     1000,
+     1414
+    ]
+   },
+   "schatten": true,
+   "haengt": false,
+   "seiten": 1
+  },
+  {
+   "id": "pw-plakat-winterwald",
+   "name": "Der Bareiss Winterwald",
+   "format": "A3 hoch · aus «Drucksachen & Feed»",
+   "satz": "Plakat A3 für Empfang und Lift: Start am 22. November",
+   "titel": [
+    "Der",
+    "Bareiss Winterwald."
+   ],
+   "pdf": "bareiss-plakat-winterwald.pdf",
+   "karton": [
+    [
+     "pw-plakat-winterwald",
+     54,
+     ""
+    ]
+   ],
+   "masse": {
+    "pw-plakat-winterwald": [
+     1000,
+     1414
+    ]
+   },
+   "schatten": true,
+   "haengt": false,
+   "seiten": 1
+  },
+  {
+   "id": "pw-aushang-silvesterball",
+   "name": "Silvesterball",
+   "format": "A4 hoch · aus «Drucksachen & Feed»",
+   "satz": "Aushang A4 mit Foto: Silvesterball mit großem Bareiss-Feuerwerk",
+   "titel": [
+    "Silvesterball",
+    ""
+   ],
+   "pdf": "bareiss-aushang-silvesterball.pdf",
+   "karton": [
+    [
+     "pw-aushang-silvesterball",
+     54,
+     ""
+    ]
+   ],
+   "masse": {
+    "pw-aushang-silvesterball": [
+     1000,
+     1414
+    ]
+   },
+   "schatten": true,
+   "haengt": false,
+   "seiten": 1
+  },
+  {
+   "id": "pw-willkommen-im-haus",
+   "name": "Willkommen im Haus",
+   "format": "A5 hoch · aus «Drucksachen & Feed»",
+   "satz": "Willkommenskarte A5 im Zimmer",
+   "titel": [
+    "Willkommen",
+    "im Haus."
+   ],
+   "pdf": "bareiss-willkommen-im-haus.pdf",
+   "karton": [
+    [
+     "pw-willkommen-im-haus",
+     54,
+     ""
+    ]
+   ],
+   "masse": {
+    "pw-willkommen-im-haus": [
+     1000,
+     1419
+    ]
+   },
+   "schatten": true,
+   "haengt": false,
+   "seiten": 1
+  },
+  {
+   "id": "pw-gutschein-tage-im-bareiss",
+   "name": "Gutschein · Tage im Bareiss",
+   "format": "DL quer · 2 Seiten · aus «Drucksachen & Feed»",
+   "satz": "Gutschein DL quer, Vorder- und Rückseite",
+   "titel": [
+    "Gutschein",
+    "Tage im Bareiss."
+   ],
+   "pdf": "bareiss-gutschein-tage-im-bareiss.pdf",
+   "karton": [
+    [
+     "pw-gutschein-tage-im-bareiss",
+     84,
+     "Vorderseite"
+    ],
+    [
+     "pw-gutschein-tage-im-bareiss-r",
+     84,
+     "Rückseite"
+    ]
+   ],
+   "masse": {
+    "pw-gutschein-tage-im-bareiss": [
+     1000,
+     472
+    ],
+    "pw-gutschein-tage-im-bareiss-r": [
+     1000,
+     472
+    ]
+   },
+   "schatten": true,
+   "haengt": false,
+   "seiten": 2
+  },
+  {
+   "id": "pw-tischkarte-reserviert",
+   "name": "Tischkarte · Reserviert",
+   "format": "A7 quer · aus «Drucksachen & Feed»",
+   "satz": "Tischkarte A7 quer für das Restaurant Bareiss",
+   "titel": [
+    "Tischkarte",
+    "Reserviert."
+   ],
+   "pdf": "bareiss-tischkarte-reserviert.pdf",
+   "karton": [
+    [
+     "pw-tischkarte-reserviert",
+     86,
+     ""
+    ]
+   ],
+   "masse": {
+    "pw-tischkarte-reserviert": [
+     1000,
+     705
+    ]
+   },
+   "schatten": true,
+   "haengt": false,
+   "seiten": 1
+  },
+  {
+   "id": "pw-instagram-am-ufer",
+   "name": "Beitrag · Am Ufer bei Tag",
+   "format": "Instagram 4:5 · aus «Drucksachen & Feed»",
+   "satz": "Instagram-Beitrag 4:5",
+   "titel": [
+    "Beitrag",
+    "Am Ufer bei Tag."
+   ],
+   "pdf": "bareiss-instagram-am-ufer.pdf",
+   "karton": [
+    [
+     "pw-instagram-am-ufer",
+     64,
+     ""
+    ]
+   ],
+   "masse": {
+    "pw-instagram-am-ufer": [
+     1000,
+     1250
+    ]
+   },
+   "schatten": true,
+   "haengt": false,
+   "seiten": 1
+  },
+  {
+   "id": "pw-instagram-drei-sterne",
+   "name": "Beitrag · Drei Sterne",
+   "format": "Instagram 4:5 · aus «Drucksachen & Feed»",
+   "satz": "Instagram-Beitrag 4:5",
+   "titel": [
+    "Beitrag",
+    "Drei Sterne."
+   ],
+   "pdf": "bareiss-instagram-drei-sterne.pdf",
+   "karton": [
+    [
+     "pw-instagram-drei-sterne",
+     64,
+     ""
+    ]
+   ],
+   "masse": {
+    "pw-instagram-drei-sterne": [
+     1000,
+     1250
+    ]
+   },
+   "schatten": true,
+   "haengt": false,
+   "seiten": 1
+  },
+  {
+   "id": "pw-instagram-weltbestes-hotel-fuer-kinder",
+   "name": "Beitrag · Weltbestes Hotel für Kinder",
+   "format": "Instagram 4:5 · aus «Drucksachen & Feed»",
+   "satz": "Instagram-Beitrag 4:5",
+   "titel": [
+    "Beitrag",
+    "Weltbestes Hotel für Kinder."
+   ],
+   "pdf": "bareiss-instagram-weltbestes-hotel-fuer-kinder.pdf",
+   "karton": [
+    [
+     "pw-instagram-weltbestes-hotel-fuer-kinder",
+     64,
+     ""
+    ]
+   ],
+   "masse": {
+    "pw-instagram-weltbestes-hotel-fuer-kinder": [
+     1000,
+     1250
+    ]
+   },
+   "schatten": true,
+   "haengt": false,
+   "seiten": 1
+  },
+  {
+   "id": "pw-hinweis-ruhetage-restaurant",
+   "name": "Ruhetage Restaurant Bareiss",
+   "format": "A5 hoch · aus «Drucksachen & Feed»",
+   "satz": "Hinweis A5 beim Restaurant",
+   "titel": [
+    "Ruhetage",
+    "Restaurant Bareiss."
+   ],
+   "pdf": "bareiss-hinweis-ruhetage-restaurant.pdf",
+   "karton": [
+    [
+     "pw-hinweis-ruhetage-restaurant",
+     54,
+     ""
+    ]
+   ],
+   "masse": {
+    "pw-hinweis-ruhetage-restaurant": [
+     1000,
+     1419
+    ]
+   },
+   "schatten": true,
+   "haengt": false,
+   "seiten": 1
+  }
+ ]
+}

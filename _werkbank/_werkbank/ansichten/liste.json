@@ -1,0 +1,327 @@
+{
+ "index.html": {
+  "name": "Startseite",
+  "rechner": 8,
+  "stellen": [
+   [
+    1,
+    0
+   ],
+   [
+    2,
+    0
+   ],
+   [
+    3,
+    0
+   ],
+   [
+    4,
+    0
+   ],
+   [
+    11,
+    0
+   ],
+   [
+    12,
+    0
+   ],
+   [
+    13,
+    0
+   ]
+  ],
+  "handy": 8
+ },
+ "zimmer.html": {
+  "name": "Zimmer",
+  "rechner": 4,
+  "stellen": [
+   [
+    1,
+    0
+   ],
+   [
+    1,
+    0.14285714285714285
+   ],
+   [
+    2,
+    0
+   ]
+  ],
+  "handy": 4
+ },
+ "zimmer-einzelzimmer.html": {
+  "name": "Einzelzimmer",
+  "rechner": 2,
+  "stellen": [
+   [
+    1,
+    0
+   ]
+  ],
+  "handy": 2
+ },
+ "zimmer-doppelzimmer.html": {
+  "name": "Doppelzimmer",
+  "rechner": 2,
+  "stellen": [
+   [
+    1,
+    0
+   ]
+  ],
+  "handy": 2
+ },
+ "zimmer-appartements.html": {
+  "name": "Appartements",
+  "rechner": 2,
+  "stellen": [
+   [
+    1,
+    0
+   ]
+  ],
+  "handy": 2
+ },
+ "zimmer-familien.html": {
+  "name": "Familien-Appartements",
+  "rechner": 2,
+  "stellen": [
+   [
+    1,
+    0
+   ]
+  ],
+  "handy": 2
+ },
+ "zimmer-suiten.html": {
+  "name": "Suiten",
+  "rechner": 2,
+  "stellen": [
+   [
+    1,
+    0
+   ]
+  ],
+  "handy": 2
+ },
+ "zimmer-penthouse.html": {
+  "name": "Penthouse",
+  "rechner": 2,
+  "stellen": [
+   [
+    1,
+    0
+   ]
+  ],
+  "handy": 2
+ },
+ "zimmer-landhaus.html": {
+  "name": "Landhaus",
+  "rechner": 2,
+  "stellen": [
+   [
+    1,
+    0
+   ]
+  ],
+  "handy": 2
+ },
+ "kulinarik.html": {
+  "name": "Kulinarik",
+  "rechner": 4,
+  "stellen": [
+   [
+    1,
+    0
+   ],
+   [
+    2,
+    0
+   ],
+   [
+    7,
+    0
+   ]
+  ],
+  "handy": 4
+ },
+ "restaurant-bareiss.html": {
+  "name": "Restaurant Bareiss",
+  "rechner": 5,
+  "stellen": [
+   [
+    1,
+    0
+   ],
+   [
+    2,
+    0
+   ],
+   [
+    3,
+    0
+   ],
+   [
+    5,
+    0
+   ]
+  ],
+  "handy": 5
+ },
+ "wellness.html": {
+  "name": "Wellness",
+  "rechner": 3,
+  "stellen": [
+   [
+    1,
+    0
+   ],
+   [
+    2,
+    0
+   ]
+  ],
+  "handy": 3
+ },
+ "familie.html": {
+  "name": "Familie",
+  "rechner": 3,
+  "stellen": [
+   [
+    1,
+    0
+   ],
+   [
+    2,
+    0
+   ]
+  ],
+  "handy": 3
+ },
+ "anreise.html": {
+  "name": "Anreise",
+  "rechner": 2,
+  "stellen": [
+   [
+    1,
+    0
+   ]
+  ],
+  "handy": 2
+ },
+ "im-tal.html": {
+  "name": "Im Tal",
+  "rechner": 3,
+  "stellen": [
+   [
+    1,
+    0
+   ],
+   [
+    2,
+    0
+   ]
+  ],
+  "handy": 3
+ },
+ "zimmer-ez-eulengrund.html": {
+  "name": "Einzelzimmer",
+  "rechner": 2,
+  "stellen": [
+   [
+    1,
+    0
+   ]
+  ],
+  "handy": 2
+ },
+ "zimmer-dz-wob.html": {
+  "name": "Doppelzimmer",
+  "rechner": 2,
+  "stellen": [
+   [
+    1,
+    0
+   ]
+  ],
+  "handy": 2
+ },
+ "zimmer-dza-ew.html": {
+  "name": "Appartements",
+  "rechner": 2,
+  "stellen": [
+   [
+    1,
+    0
+   ]
+  ],
+  "handy": 2
+ },
+ "zimmer-fa-orspach1.html": {
+  "name": "Familien-Appartements",
+  "rechner": 2,
+  "stellen": [
+   [
+    1,
+    0
+   ]
+  ],
+  "handy": 2
+ },
+ "zimmer-su-landhausstil.html": {
+  "name": "Suiten",
+  "rechner": 2,
+  "stellen": [
+   [
+    1,
+    0
+   ]
+  ],
+  "handy": 2
+ },
+ "zimmer-ph-1.html": {
+  "name": "Penthouse",
+  "rechner": 2,
+  "stellen": [
+   [
+    1,
+    0
+   ]
+  ],
+  "handy": 2
+ },
+ "zimmer-ez-landhaus.html": {
+  "name": "Landhaus",
+  "rechner": 2,
+  "stellen": [
+   [
+    1,
+    0
+   ]
+  ],
+  "handy": 2
+ },
+ "karriere.html": {
+  "name": "Karriere",
+  "rechner": 4,
+  "stellen": [
+   [
+    1,
+    0
+   ],
+   [
+    2,
+    0
+   ],
+   [
+    5,
+    0
+   ]
+  ],
+  "handy": 4
+ }
+}

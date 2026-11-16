@@ -1,0 +1,89 @@
+{
+ "karten": [
+  {
+   "id": "pk01",
+   "key": "teich-tag",
+   "name": "Zu Gast in der Familie.",
+   "abend": "Gastfreundschaft, die von Herzen kommt.",
+   "farbe": "#1f2621"
+  },
+  {
+   "id": "pk02",
+   "key": "herz-tuer",
+   "name": "Herzlich willkommen.",
+   "abend": "Was immer Sie zu uns führt, wir heißen Sie herzlich willkommen in der Familie.",
+   "farbe": "#1f2621"
+  },
+  {
+   "id": "pk03",
+   "key": "t-fruehstueck",
+   "name": "Vom frühen Morgen bis in den späten Abend.",
+   "abend": "Beim legendären Bareiss Frühstücksbuffet ziehen wir alle Register.",
+   "farbe": "#1f2621"
+  },
+  {
+   "id": "pk04",
+   "key": "r-saal",
+   "name": "Der kleine, feine Unterschied.",
+   "abend": "Das 3-Sterne-Restaurant Bareiss, zu Gast bei Claus-Peter Lumpp.",
+   "farbe": "#1f2621"
+  },
+  {
+   "id": "pk05",
+   "key": "w-abend",
+   "name": "Willkommen zum Wohlfühlen.",
+   "abend": "Das Meerwasser-Außenbecken, ganzjährig 34 °C.",
+   "farbe": "#1f2621"
+  },
+  {
+   "id": "pk06",
+   "key": "g-winter",
+   "name": "»Es gibt kein Nein für den Gast.«",
+   "abend": "Hermine Bareiss, die am 1. Mai 1951 das Kurhotel Mitteltal eröffnet.",
+   "farbe": "#1f2621"
+  },
+  {
+   "id": "pk07",
+   "key": "tal-nationalpark",
+   "name": "Nationalpark Schwarzwald",
+   "abend": "Endlose Wälder, dunkle Karseen, Moore und moosbedeckte Felsen.",
+   "farbe": "#1f2621"
+  },
+  {
+   "id": "pk08",
+   "key": "tal-forellenhof",
+   "name": "Forellenhof Buhlbach",
+   "abend": "Vom Ei bis zur Veredelung, alles direkt vor Ort.",
+   "farbe": "#1f2621"
+  },
+  {
+   "id": "pk09",
+   "key": "tal-morlokhof",
+   "name": "Morlokhof",
+   "abend": "Einer der ältesten Bauernhöfe im oberen Murgtal, erbaut anno 1789.",
+   "farbe": "#1f2621"
+  },
+  {
+   "id": "pk10",
+   "key": "tal-sattelei",
+   "name": "Wanderhütte Sattelei",
+   "abend": "Einkehren mitten im Wanderhimmel.",
+   "farbe": "#1f2621"
+  },
+  {
+   "id": "pk11",
+   "key": "tal-wandern",
+   "name": "Baiersbronner Wanderhimmel",
+   "abend": "Schnuppern Sie Höhenluft.",
+   "farbe": "#1f2621"
+  },
+  {
+   "id": "pk12",
+   "key": "teich-nacht",
+   "name": "Das Ufer in der Sommernacht",
+   "abend": "Haben Sie Freude – lassen Sie es sich richtig gut gehen bei uns!",
+   "farbe": "#1f2621"
+  }
+ ],
+ "boegen": 2
+}

@@ -1,0 +1,169 @@
+{
+ "druck": [
+  {
+   "id": "kissen",
+   "name": "Ein Kärtchen auf dem Kissen",
+   "format": "A7 hoch, 74 × 105 mm, zwei Seiten",
+   "vorschau": [
+    [
+     "kissen",
+     1
+    ],
+    [
+     "kissen-r",
+     2
+    ]
+   ],
+   "satz": "Am Abend auf dem Kissen: vorne »Gute Nacht.« mit Ihrem Willkommen, hinten, was am Morgen wartet, ab 7.00 Uhr die Pooloase und das Bareiss Frühstücksbuffet.",
+   "karton": [
+    [
+     "kissen",
+     40,
+     "Vorderseite"
+    ],
+    [
+     "kissen-r",
+     40,
+     "Rückseite"
+    ]
+   ],
+   "titel": [
+    "Ein Kärtchen",
+    "auf dem Kissen."
+   ],
+   "seiten": 2
+  },
+  {
+   "id": "tuerhaenger",
+   "name": "Türhänger",
+   "format": "90 × 210 mm, zwei Seiten, gestanzt",
+   "vorschau": [
+    [
+     "tuer",
+     1
+    ],
+    [
+     "tuer-r",
+     2
+    ]
+   ],
+   "satz": "Für die Türklinke: auf Tanne mit der Raute »Bitte nicht stören.«, auf Papier »Willkommen zurück.« und die Bitte, das Zimmer herzurichten.",
+   "karton": [
+    [
+     "tuer",
+     34,
+     "Vorderseite"
+    ],
+    [
+     "tuer-r",
+     34,
+     "Rückseite"
+    ]
+   ],
+   "titel": [
+    "Ein Türhänger",
+    "für die Klinke."
+   ],
+   "seiten": 2
+  },
+  {
+   "id": "spatermin",
+   "name": "Terminkärtchen fürs Beauty & Spa",
+   "format": "85 × 55 mm, zwei Seiten",
+   "vorschau": [
+    [
+     "termin",
+     1
+    ],
+    [
+     "termin-r",
+     2
+    ]
+   ],
+   "satz": "Wer eine Anwendung bucht, bekommt sein Kärtchen: vorne die Massage und die Zeiten der Beauty- & Spa-Rezeption, hinten Anwendung, Tag, Uhrzeit und Name zum Eintragen.",
+   "karton": [
+    [
+     "termin",
+     60,
+     "Vorderseite"
+    ],
+    [
+     "termin-r",
+     60,
+     "Rückseite"
+    ]
+   ],
+   "titel": [
+    "Ein Kärtchen",
+    "für den Termin."
+   ],
+   "seiten": 2
+  },
+  {
+   "id": "ferientag",
+   "name": "Der Kulinarische Ferientag",
+   "format": "A6 hoch, eine Seite",
+   "vorschau": [
+    [
+     "ferientag",
+     1
+    ]
+   ],
+   "satz": "Für das Zimmer: die Zeiten der Bareiss Halbpension auf einem Blatt, von den erlesenen Kleinigkeiten in der Pooloase ab 7.00 Uhr bis zum Mitternachtsimbiss um 23.45 Uhr.",
+   "karton": [
+    [
+     "ferientag",
+     46,
+     ""
+    ]
+   ],
+   "titel": [
+    "Der Ferientag",
+    "auf einem Blatt."
+   ],
+   "seiten": 1
+  },
+  {
+   "id": "gutschein",
+   "name": "Gutschein für Tage im Bareiss",
+   "format": "DL quer, 210 × 99 mm, zwei Seiten, Umschlag DL",
+   "vorschau": [
+    [
+     "gs-vorn",
+     1
+    ],
+    [
+     "gs-hinten",
+     2
+    ],
+    [
+     "gs-umschlag",
+     3
+    ]
+   ],
+   "satz": "Vorne der Garten im Morgenlicht und »Tage im Bareiss.«, hinten für wen, von wem, Wert, gültig bis und Nummer zum Eintragen. Dazu ein Umschlag auf Tanne. Bestellt wird wie heute über den Gutschein-Shop des Hauses.",
+   "karton": [
+    [
+     "gs-vorn",
+     90,
+     "Vorderseite"
+    ],
+    [
+     "gs-hinten",
+     90,
+     "Rückseite"
+    ],
+    [
+     "gs-umschlag",
+     90,
+     "Umschlag"
+    ]
+   ],
+   "titel": [
+    "Tage im Bareiss",
+    "verschenken."
+   ],
+   "seiten": 3
+  }
+ ]
+}

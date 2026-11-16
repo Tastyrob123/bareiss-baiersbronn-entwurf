@@ -1,0 +1,98 @@
+{
+ "port": 9748,
+ "base": "http://127.0.0.1:9748/",
+ "kurz": "bareiss",
+ "seiten": [
+  [
+   "index.html",
+   "Startseite",
+   8
+  ],
+  [
+   "zimmer.html",
+   "Zimmer",
+   4
+  ],
+  [
+   "zimmer-ez-eulengrund.html",
+   "Einzelzimmer",
+   2
+  ],
+  [
+   "zimmer-dz-wob.html",
+   "Doppelzimmer",
+   2
+  ],
+  [
+   "zimmer-dza-ew.html",
+   "Appartements",
+   2
+  ],
+  [
+   "zimmer-fa-orspach1.html",
+   "Familien-Appartements",
+   2
+  ],
+  [
+   "zimmer-su-landhausstil.html",
+   "Suiten",
+   2
+  ],
+  [
+   "zimmer-ph-1.html",
+   "Penthouse",
+   2
+  ],
+  [
+   "zimmer-ez-landhaus.html",
+   "Landhaus",
+   2
+  ],
+  [
+   "kulinarik.html",
+   "Kulinarik",
+   4
+  ],
+  [
+   "restaurant-bareiss.html",
+   "Restaurant Bareiss",
+   5
+  ],
+  [
+   "wellness.html",
+   "Wellness",
+   3
+  ],
+  [
+   "familie.html",
+   "Familie",
+   3
+  ],
+  [
+   "anreise.html",
+   "Anreise",
+   2
+  ],
+  [
+   "im-tal.html",
+   "Im Tal",
+   3
+  ],
+  [
+   "karriere.html",
+   "Karriere",
+   4
+  ]
+ ],
+ "wahl": "main > section, main > header",
+ "start_ms": 4200,
+ "heute": "https://www.bareiss.com/",
+ "etiketten_ordner": "untersetzer",
+ "name": "Hotel Bareiss",
+ "gold": "#c9b101",
+ "punkt": "#b4302c",
+ "tinte": "#2f2a27",
+ "chat_frage": "Bis wann gibt es etwas zu essen?",
+ "chat_frage_h": "Kann ich meinen Hund mitbringen?",
+ "mappe": false
+}

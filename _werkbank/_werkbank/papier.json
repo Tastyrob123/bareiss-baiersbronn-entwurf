@@ -1,0 +1,224 @@
+{
+ "druck": [
+  {
+   "id": "karte",
+   "name": "Das Menu des Abends",
+   "seiten": 2
+  },
+  {
+   "id": "empfang",
+   "name": "Ein Kärtchen für den Empfang",
+   "seiten": 2
+  },
+  {
+   "id": "aufsteller",
+   "name": "Tischaufsteller",
+   "seiten": 2
+  },
+  {
+   "id": "visitenkarte",
+   "name": "Visitenkarte",
+   "seiten": 2
+  },
+  {
+   "id": "briefpapier",
+   "name": "Briefbogen und Umschlag",
+   "seiten": 2
+  },
+  {
+   "id": "pw-menuekarte-degustationsmenu",
+   "name": "Menükarte · Degustationsmenu",
+   "seiten": 1
+  },
+  {
+   "id": "pw-menuekarte-mittagsmenu",
+   "name": "Menükarte · Mittagsmenu",
+   "seiten": 1
+  },
+  {
+   "id": "pw-menuekarte-vegetarisch",
+   "name": "Menükarte · vegetarische Menu",
+   "seiten": 1
+  },
+  {
+   "id": "pw-menuekarte-herbstmenu",
+   "name": "Menükarte · Herbstmenu",
+   "seiten": 1
+  },
+  {
+   "id": "pw-karte-desserts",
+   "name": "Desserts",
+   "seiten": 1
+  },
+  {
+   "id": "pw-aushang-restaurant-oeffnungszeiten",
+   "name": "Restaurant Bareiss · Öffnungszeiten",
+   "seiten": 1
+  },
+  {
+   "id": "pw-programm-kulinarischer-ferientag",
+   "name": "Der Kulinarische Ferientag",
+   "seiten": 1
+  },
+  {
+   "id": "pw-aushang-ferientag",
+   "name": "Ferientag · Aushang",
+   "seiten": 1
+  },
+  {
+   "id": "pw-aushang-dorfstuben",
+   "name": "Die Dorfstuben",
+   "seiten": 1
+  },
+  {
+   "id": "pw-arrangement-winter-special",
+   "name": "Winter-Special",
+   "seiten": 1
+  },
+  {
+   "id": "pw-arrangement-winter-special-preise",
+   "name": "Winter-Special · Preise",
+   "seiten": 1
+  },
+  {
+   "id": "pw-arrangement-gourmet-special",
+   "name": "Gourmet-Special",
+   "seiten": 1
+  },
+  {
+   "id": "pw-arrangement-gastronomische-trilogie",
+   "name": "Gastronomische Trilogie",
+   "seiten": 1
+  },
+  {
+   "id": "pw-preisliste-zimmer-und-preise",
+   "name": "Zimmer und Preise",
+   "seiten": 1
+  },
+  {
+   "id": "pw-wellness-badelandschaft",
+   "name": "Badelandschaft",
+   "seiten": 1
+  },
+  {
+   "id": "pw-wellness-saunawelt",
+   "name": "Saunawelt",
+   "seiten": 1
+  },
+  {
+   "id": "pw-aushang-meerwasser",
+   "name": "Meerwasser 34 °C",
+   "seiten": 1
+  },
+  {
+   "id": "pw-camp-kuechencamp",
+   "name": "Das Bareiss Küchencamp",
+   "seiten": 1
+  },
+  {
+   "id": "pw-aushang-kinderdoerfle",
+   "name": "Kinderdörfle",
+   "seiten": 1
+  },
+  {
+   "id": "pw-programm-advent-und-weihnachten",
+   "name": "Advent und Weihnachten im Bareiss",
+   "seiten": 1
+  },
+  {
+   "id": "pw-plakat-winterwald",
+   "name": "Der Bareiss Winterwald",
+   "seiten": 1
+  },
+  {
+   "id": "pw-aushang-silvesterball",
+   "name": "Silvesterball",
+   "seiten": 1
+  },
+  {
+   "id": "pw-willkommen-im-haus",
+   "name": "Willkommen im Haus",
+   "seiten": 1
+  },
+  {
+   "id": "pw-gutschein-tage-im-bareiss",
+   "name": "Gutschein · Tage im Bareiss",
+   "seiten": 2
+  },
+  {
+   "id": "pw-tischkarte-reserviert",
+   "name": "Tischkarte · Reserviert",
+   "seiten": 1
+  },
+  {
+   "id": "pw-instagram-am-ufer",
+   "name": "Beitrag · Am Ufer bei Tag",
+   "seiten": 1
+  },
+  {
+   "id": "pw-instagram-drei-sterne",
+   "name": "Beitrag · Drei Sterne",
+   "seiten": 1
+  },
+  {
+   "id": "pw-instagram-weltbestes-hotel-fuer-kinder",
+   "name": "Beitrag · Weltbestes Hotel für Kinder",
+   "seiten": 1
+  },
+  {
+   "id": "pw-hinweis-ruhetage-restaurant",
+   "name": "Ruhetage Restaurant Bareiss",
+   "seiten": 1
+  }
+ ],
+ "etiketten": [
+  {
+   "id": "u01",
+   "name": "Das Wappen"
+  },
+  {
+   "id": "u02",
+   "name": "Zu Gast in der Familie."
+  },
+  {
+   "id": "u03",
+   "name": "Seit 1951"
+  },
+  {
+   "id": "u04",
+   "name": "Der Kulinarische Ferientag"
+  },
+  {
+   "id": "u05",
+   "name": "34 °C"
+  },
+  {
+   "id": "u06",
+   "name": "5 Sterne Superior"
+  },
+  {
+   "id": "u07",
+   "name": "Das Wappen auf Tanne"
+  },
+  {
+   "id": "u08",
+   "name": "Es gibt kein Nein für den Gast."
+  },
+  {
+   "id": "u09",
+   "name": "Haben Sie Freude."
+  },
+  {
+   "id": "u10",
+   "name": "Drei Sterne"
+  },
+  {
+   "id": "u11",
+   "name": "Der kleine, feine Unterschied."
+  },
+  {
+   "id": "u12",
+   "name": "Weltbestes Hotel für Kinder"
+  }
+ ]
+}
