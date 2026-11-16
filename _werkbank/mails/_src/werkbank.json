@@ -1,0 +1,62 @@
+[
+ [
+  "01",
+  "01-anfrage",
+  "Ihre Anfrage ist da",
+  "Kommt gleich nach einer Anfrage über die Seite: was angefragt wurde, was inklusive ist, und dass das Haus sich persönlich meldet."
+ ],
+ [
+  "02",
+  "02-anreise",
+  "Vor Ihrer Anreise",
+  "Kommt eine Woche vor der Anreise: der Weg nach Mitteltal mit dem Auto, mit der Bahn oder mit dem Chauffeur des Hauses."
+ ],
+ [
+  "03",
+  "03-tisch",
+  "Ihr Tisch im Restaurant Bareiss",
+  "Bestätigt eine Tischanfrage für das Restaurant Bareiss: Tag, Uhrzeit, Personen, dazu die Öffnungszeiten und das Menu."
+ ],
+ [
+  "04",
+  "04-spa",
+  "Ihr Termin bei Beauty & Spa",
+  "Bestätigt eine gebuchte Anwendung: welche, wann und wie lange, dazu die Zeiten von Badelandschaft und Saunawelt."
+ ],
+ [
+  "05",
+  "05-ferientag",
+  "Der Kulinarische Ferientag",
+  "Kommt am Anreisetag: der Kulinarische Ferientag der Bareiss Halbpension in seinen Zeiten, vom Morgen bis Mitternacht."
+ ],
+ [
+  "06",
+  "06-suiten",
+  "Die Suiten",
+  "Antwort auf eine Anfrage zu den Suiten: von der Suite im Landhausstil bis zu den Bareiss Luxus-Suiten, mit den Preisen der Zimmerseite."
+ ],
+ [
+  "07",
+  "07-familie",
+  "Ferien mit Kindern",
+  "Antwort auf eine Anfrage einer Familie: Minis, Maxis und Teens, das Kinderdörfle und der Kindertisch."
+ ],
+ [
+  "08",
+  "08-arrangement",
+  "Kurze Atempause",
+  "Schlägt das Arrangement «Kurze Atempause» vor: zwei Nächte mit Halbpension und eine Massage, mit Preis und Anreisetagen."
+ ],
+ [
+  "09",
+  "09-gutschein",
+  "Tage im Bareiss als Geschenk",
+  "Geht an den Beschenkten: wer die Tage schenkt, der Gutschein als PDF im Anhang und der Weg zu den Gutscheinen des Hauses."
+ ],
+ [
+  "10",
+  "10-danke",
+  "Danke für Ihren Besuch",
+  "Kommt am Tag nach der Abreise: ein Dank und ein Gruß aus dem Tal."
+ ]
+]

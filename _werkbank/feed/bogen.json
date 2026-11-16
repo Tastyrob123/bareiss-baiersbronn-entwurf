@@ -1,0 +1,545 @@
+{
+ "reihen": 20,
+ "stuecke": [
+  {
+   "id": "011-u-poolbar",
+   "r": 1,
+   "c": 1,
+   "w": 1,
+   "h": 1,
+   "art": "foto",
+   "bild": "/Users/robertreff/Desktop/Website-Projekte/Bareiss Baiersbronn/assets/img/u-poolbar-1800.webp"
+  },
+  {
+   "id": "012-w-aerial",
+   "r": 1,
+   "c": 2,
+   "w": 1,
+   "h": 1,
+   "art": "foto",
+   "bild": "/Users/robertreff/Desktop/Website-Projekte/Bareiss Baiersbronn/assets/img/w-aerial-2152.webp"
+  },
+  {
+   "id": "013-u-kamin-service",
+   "r": 1,
+   "c": 3,
+   "w": 1,
+   "h": 1,
+   "art": "foto",
+   "bild": "/Users/robertreff/Desktop/Website-Projekte/Bareiss Baiersbronn/assets/img/u-kamin-service-1800.webp"
+  },
+  {
+   "id": "021-u-bar",
+   "r": 2,
+   "c": 1,
+   "w": 1,
+   "h": 1,
+   "art": "foto",
+   "bild": "/Users/robertreff/Desktop/Website-Projekte/Bareiss Baiersbronn/assets/img/u-bar-1800.webp"
+  },
+  {
+   "id": "022-13DieHotelterr",
+   "r": 2,
+   "c": 2,
+   "w": 1,
+   "h": 1,
+   "art": "html",
+   "bild": ""
+  },
+  {
+   "id": "023-z-penthouse2",
+   "r": 2,
+   "c": 3,
+   "w": 1,
+   "h": 1,
+   "art": "foto",
+   "bild": "/Users/robertreff/Desktop/Website-Projekte/Bareiss Baiersbronn/assets/img/z-penthouse2-2560.webp"
+  },
+  {
+   "id": "031-u-waldweg",
+   "r": 3,
+   "c": 1,
+   "w": 1,
+   "h": 1,
+   "art": "foto",
+   "bild": "/Users/robertreff/Desktop/Website-Projekte/Bareiss Baiersbronn/assets/img/u-waldweg-1800.webp"
+  },
+  {
+   "id": "032-k-ziegen-schnee",
+   "r": 3,
+   "c": 2,
+   "w": 1,
+   "h": 1,
+   "art": "foto",
+   "bild": "/Users/robertreff/Desktop/Website-Projekte/Bareiss Baiersbronn/assets/img/k-ziegen-schnee-2560.webp"
+  },
+  {
+   "id": "033-u-forellen",
+   "r": 3,
+   "c": 3,
+   "w": 1,
+   "h": 1,
+   "art": "foto",
+   "bild": "/Users/robertreff/Desktop/Website-Projekte/Bareiss Baiersbronn/assets/img/u-forellen-1800.webp"
+  },
+  {
+   "id": "041-u-dorfstuben",
+   "r": 4,
+   "c": 1,
+   "w": 1,
+   "h": 1,
+   "art": "foto",
+   "bild": "/Users/robertreff/Desktop/Website-Projekte/Bareiss Baiersbronn/assets/img/u-dorfstuben-1800.webp"
+  },
+  {
+   "id": "042-14DieSaunawelt",
+   "r": 4,
+   "c": 2,
+   "w": 1,
+   "h": 1,
+   "art": "html",
+   "bild": ""
+  },
+  {
+   "id": "043-AuszeichnungPl",
+   "r": 4,
+   "c": 3,
+   "w": 1,
+   "h": 1,
+   "art": "html",
+   "bild": ""
+  },
+  {
+   "id": "051-k-kochen",
+   "r": 5,
+   "c": 1,
+   "w": 1,
+   "h": 1,
+   "art": "foto",
+   "bild": "/Users/robertreff/Desktop/Website-Projekte/Bareiss Baiersbronn/assets/img/k-kochen-2560.webp"
+  },
+  {
+   "id": "052-z-suite",
+   "r": 5,
+   "c": 2,
+   "w": 1,
+   "h": 1,
+   "art": "foto",
+   "bild": "/Users/robertreff/Desktop/Website-Projekte/Bareiss Baiersbronn/assets/img/z-suite-2560.webp"
+  },
+  {
+   "id": "053-k-wasser",
+   "r": 5,
+   "c": 3,
+   "w": 1,
+   "h": 1,
+   "art": "foto",
+   "bild": "/Users/robertreff/Desktop/Website-Projekte/Bareiss Baiersbronn/assets/img/k-wasser-2250.webp"
+  },
+  {
+   "id": "061-u-dessert",
+   "r": 6,
+   "c": 1,
+   "w": 1,
+   "h": 1,
+   "art": "foto",
+   "bild": "/Users/robertreff/Desktop/Website-Projekte/Bareiss Baiersbronn/assets/img/u-dessert-1800.webp"
+  },
+  {
+   "id": "062-tal-wandern",
+   "r": 6,
+   "c": 2,
+   "w": 1,
+   "h": 1,
+   "art": "foto",
+   "bild": "/Users/robertreff/Desktop/Website-Projekte/Bareiss Baiersbronn/assets/img/tal-wandern-2560.webp"
+  },
+  {
+   "id": "063-13DerMorlokhof",
+   "r": 6,
+   "c": 3,
+   "w": 1,
+   "h": 1,
+   "art": "html",
+   "bild": ""
+  },
+  {
+   "id": "071-u-sauna",
+   "r": 7,
+   "c": 1,
+   "w": 1,
+   "h": 1,
+   "art": "foto",
+   "bild": "/Users/robertreff/Desktop/Website-Projekte/Bareiss Baiersbronn/assets/img/u-sauna-1800.webp"
+  },
+  {
+   "id": "072-u-villa-aussen",
+   "r": 7,
+   "c": 2,
+   "w": 1,
+   "h": 1,
+   "art": "foto",
+   "bild": "/Users/robertreff/Desktop/Website-Projekte/Bareiss Baiersbronn/assets/img/u-villa-aussen-1500.webp"
+  },
+  {
+   "id": "073-wl-finn",
+   "r": 7,
+   "c": 3,
+   "w": 1,
+   "h": 1,
+   "art": "foto",
+   "bild": "/Users/robertreff/Desktop/Website-Projekte/Bareiss Baiersbronn/assets/img/wl-finn-1800.webp"
+  },
+  {
+   "id": "081-u-vorfahrt2",
+   "r": 8,
+   "c": 1,
+   "w": 1,
+   "h": 1,
+   "art": "foto",
+   "bild": "/Users/robertreff/Desktop/Website-Projekte/Bareiss Baiersbronn/assets/img/u-vorfahrt2-1800.webp"
+  },
+  {
+   "id": "082-z-appartement3",
+   "r": 8,
+   "c": 2,
+   "w": 1,
+   "h": 1,
+   "art": "foto",
+   "bild": "/Users/robertreff/Desktop/Website-Projekte/Bareiss Baiersbronn/assets/img/z-appartement3-2560.webp"
+  },
+  {
+   "id": "083-vorfahrt",
+   "r": 8,
+   "c": 3,
+   "w": 1,
+   "h": 1,
+   "art": "foto",
+   "bild": "/Users/robertreff/Desktop/Website-Projekte/Bareiss Baiersbronn/assets/img/vorfahrt-2560.webp"
+  },
+  {
+   "id": "091-f-kaffee2",
+   "r": 9,
+   "c": 1,
+   "w": 1,
+   "h": 1,
+   "art": "foto",
+   "bild": "/Users/robertreff/Desktop/Website-Projekte/Bareiss Baiersbronn/assets/img/f-kaffee2-1500.webp"
+  },
+  {
+   "id": "092-13HotelBareiss",
+   "r": 9,
+   "c": 2,
+   "w": 1,
+   "h": 1,
+   "art": "html",
+   "bild": ""
+  },
+  {
+   "id": "093-u-kamin",
+   "r": 9,
+   "c": 3,
+   "w": 1,
+   "h": 1,
+   "art": "foto",
+   "bild": "/Users/robertreff/Desktop/Website-Projekte/Bareiss Baiersbronn/assets/img/u-kamin-1800.webp"
+  },
+  {
+   "id": "101-g-winter",
+   "r": 10,
+   "c": 1,
+   "w": 1,
+   "h": 1,
+   "art": "foto",
+   "bild": "/Users/robertreff/Desktop/Website-Projekte/Bareiss Baiersbronn/assets/img/g-winter-2560.webp"
+  },
+  {
+   "id": "102-r-tisch",
+   "r": 10,
+   "c": 2,
+   "w": 1,
+   "h": 1,
+   "art": "foto",
+   "bild": "/Users/robertreff/Desktop/Website-Projekte/Bareiss Baiersbronn/assets/img/r-tisch-2560.webp"
+  },
+  {
+   "id": "103-13Nationalpark",
+   "r": 10,
+   "c": 3,
+   "w": 1,
+   "h": 1,
+   "art": "html",
+   "bild": ""
+  },
+  {
+   "id": "111-s-weinkeller",
+   "r": 11,
+   "c": 1,
+   "w": 1,
+   "h": 1,
+   "art": "foto",
+   "bild": "/Users/robertreff/Desktop/Website-Projekte/Bareiss Baiersbronn/assets/img/s-weinkeller-2560.webp"
+  },
+  {
+   "id": "112-HotelBareissSe",
+   "r": 11,
+   "c": 2,
+   "w": 1,
+   "h": 1,
+   "art": "html",
+   "bild": ""
+  },
+  {
+   "id": "113-tal-forellenhof",
+   "r": 11,
+   "c": 3,
+   "w": 1,
+   "h": 1,
+   "art": "foto",
+   "bild": "/Users/robertreff/Desktop/Website-Projekte/Bareiss Baiersbronn/assets/img/tal-forellenhof-2560.webp"
+  },
+  {
+   "id": "121-z-familie",
+   "r": 12,
+   "c": 1,
+   "w": 1,
+   "h": 1,
+   "art": "foto",
+   "bild": "/Users/robertreff/Desktop/Website-Projekte/Bareiss Baiersbronn/assets/img/z-familie-2560.webp"
+  },
+  {
+   "id": "122-teich-liegen",
+   "r": 12,
+   "c": 2,
+   "w": 1,
+   "h": 1,
+   "art": "foto",
+   "bild": "/Users/robertreff/Desktop/Website-Projekte/Bareiss Baiersbronn/assets/img/teich-liegen-2560.webp"
+  },
+  {
+   "id": "123-t-kuchen",
+   "r": 12,
+   "c": 3,
+   "w": 1,
+   "h": 1,
+   "art": "foto",
+   "bild": "/Users/robertreff/Desktop/Website-Projekte/Bareiss Baiersbronn/assets/img/t-kuchen-1452.webp"
+  },
+  {
+   "id": "131-k-baumhaus-aussen",
+   "r": 13,
+   "c": 1,
+   "w": 1,
+   "h": 1,
+   "art": "foto",
+   "bild": "/Users/robertreff/Desktop/Website-Projekte/Bareiss Baiersbronn/assets/img/k-baumhaus-aussen-2560.webp"
+  },
+  {
+   "id": "132-WeltbestesHote",
+   "r": 13,
+   "c": 2,
+   "w": 1,
+   "h": 1,
+   "art": "html",
+   "bild": ""
+  },
+  {
+   "id": "133-w-ruhe",
+   "r": 13,
+   "c": 3,
+   "w": 1,
+   "h": 1,
+   "art": "foto",
+   "bild": "/Users/robertreff/Desktop/Website-Projekte/Bareiss Baiersbronn/assets/img/w-ruhe-2560.webp"
+  },
+  {
+   "id": "141-tal-sattelei",
+   "r": 14,
+   "c": 1,
+   "w": 1,
+   "h": 1,
+   "art": "foto",
+   "bild": "/Users/robertreff/Desktop/Website-Projekte/Bareiss Baiersbronn/assets/img/tal-sattelei-2361.webp"
+  },
+  {
+   "id": "142-wl-liegeinsel",
+   "r": 14,
+   "c": 2,
+   "w": 1,
+   "h": 1,
+   "art": "foto",
+   "bild": "/Users/robertreff/Desktop/Website-Projekte/Bareiss Baiersbronn/assets/img/wl-liegeinsel-1800.webp"
+  },
+  {
+   "id": "143-k-ponys",
+   "r": 14,
+   "c": 3,
+   "w": 1,
+   "h": 1,
+   "art": "foto",
+   "bild": "/Users/robertreff/Desktop/Website-Projekte/Bareiss Baiersbronn/assets/img/k-ponys-2560.webp"
+  },
+  {
+   "id": "151-z-landhaussuite",
+   "r": 15,
+   "c": 1,
+   "w": 1,
+   "h": 1,
+   "art": "foto",
+   "bild": "/Users/robertreff/Desktop/Website-Projekte/Bareiss Baiersbronn/assets/img/z-landhaussuite-2560.webp"
+  },
+  {
+   "id": "152-r-taube",
+   "r": 15,
+   "c": 2,
+   "w": 1,
+   "h": 1,
+   "art": "foto",
+   "bild": "/Users/robertreff/Desktop/Website-Projekte/Bareiss Baiersbronn/assets/img/r-taube-2560.webp"
+  },
+  {
+   "id": "153-GuideMichelinD",
+   "r": 15,
+   "c": 3,
+   "w": 1,
+   "h": 1,
+   "art": "html",
+   "bild": ""
+  },
+  {
+   "id": "161-14RestaurantBa",
+   "r": 16,
+   "c": 1,
+   "w": 1,
+   "h": 1,
+   "art": "html",
+   "bild": ""
+  },
+  {
+   "id": "162-garten-licht",
+   "r": 16,
+   "c": 2,
+   "w": 1,
+   "h": 1,
+   "art": "foto",
+   "bild": "/Users/robertreff/Desktop/Website-Projekte/Bareiss Baiersbronn/assets/img/garten-licht-2560.webp"
+  },
+  {
+   "id": "163-s-kaminstube",
+   "r": 16,
+   "c": 3,
+   "w": 1,
+   "h": 1,
+   "art": "foto",
+   "bild": "/Users/robertreff/Desktop/Website-Projekte/Bareiss Baiersbronn/assets/img/s-kaminstube-2560.webp"
+  },
+  {
+   "id": "171-w-meerwasser",
+   "r": 17,
+   "c": 1,
+   "w": 1,
+   "h": 1,
+   "art": "foto",
+   "bild": "/Users/robertreff/Desktop/Website-Projekte/Bareiss Baiersbronn/assets/img/w-meerwasser-2560.webp"
+  },
+  {
+   "id": "172-EsgibtkeinNein",
+   "r": 17,
+   "c": 2,
+   "w": 1,
+   "h": 1,
+   "art": "html",
+   "bild": ""
+  },
+  {
+   "id": "173-w-pool",
+   "r": 17,
+   "c": 3,
+   "w": 1,
+   "h": 1,
+   "art": "foto",
+   "bild": "/Users/robertreff/Desktop/Website-Projekte/Bareiss Baiersbronn/assets/img/w-pool-2560.webp"
+  },
+  {
+   "id": "181-k-baelle",
+   "r": 18,
+   "c": 1,
+   "w": 1,
+   "h": 1,
+   "art": "foto",
+   "bild": "/Users/robertreff/Desktop/Website-Projekte/Bareiss Baiersbronn/assets/img/k-baelle-2560.webp"
+  },
+  {
+   "id": "182-t-fruehstueck",
+   "r": 18,
+   "c": 2,
+   "w": 1,
+   "h": 1,
+   "art": "foto",
+   "bild": "/Users/robertreff/Desktop/Website-Projekte/Bareiss Baiersbronn/assets/img/t-fruehstueck-2560.webp"
+  },
+  {
+   "id": "183-15DiePenthouse",
+   "r": 18,
+   "c": 3,
+   "w": 1,
+   "h": 1,
+   "art": "html",
+   "bild": ""
+  },
+  {
+   "id": "191-u-oase",
+   "r": 19,
+   "c": 1,
+   "w": 1,
+   "h": 1,
+   "art": "foto",
+   "bild": "/Users/robertreff/Desktop/Website-Projekte/Bareiss Baiersbronn/assets/img/u-oase-1800.webp"
+  },
+  {
+   "id": "192-herz-tuer",
+   "r": 19,
+   "c": 2,
+   "w": 1,
+   "h": 1,
+   "art": "foto",
+   "bild": "/Users/robertreff/Desktop/Website-Projekte/Bareiss Baiersbronn/assets/img/herz-tuer-2550.webp"
+  },
+  {
+   "id": "193-t-dinner",
+   "r": 19,
+   "c": 3,
+   "w": 1,
+   "h": 1,
+   "art": "foto",
+   "bild": "/Users/robertreff/Desktop/Website-Projekte/Bareiss Baiersbronn/assets/img/t-dinner-1981.webp"
+  },
+  {
+   "id": "201-wl-garten-abend",
+   "r": 20,
+   "c": 1,
+   "w": 1,
+   "h": 1,
+   "art": "foto",
+   "bild": "/Users/robertreff/Desktop/Website-Projekte/Bareiss Baiersbronn/assets/img/wl-garten-abend-1800.webp"
+  },
+  {
+   "id": "202-z-doppel2",
+   "r": 20,
+   "c": 2,
+   "w": 1,
+   "h": 1,
+   "art": "foto",
+   "bild": "/Users/robertreff/Desktop/Website-Projekte/Bareiss Baiersbronn/assets/img/z-doppel2-2560.webp"
+  },
+  {
+   "id": "203-teich-tag",
+   "r": 20,
+   "c": 3,
+   "w": 1,
+   "h": 1,
+   "art": "foto",
+   "bild": "/Users/robertreff/Desktop/Website-Projekte/Bareiss Baiersbronn/assets/img/teich-tag-2560.webp"
+  }
+ ]
+}
