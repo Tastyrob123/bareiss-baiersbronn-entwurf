@@ -1,0 +1,200 @@
+/* kleid/bareiss.css · Hotel Bareiss, Baiersbronn-Mitteltal (Werkbank-Chat 09.11.2026, Stamm: Kleid des Stamms).
+   Werte aus CHARAKTER.md Abschnitt 4 und assets/css/bareiss.css: Tanne #1f2621 und Salbei #3f4a40 (Wände des Restaurants Bareiss) als dunkle Fläche;
+   Papier #f5f2ea (Tischtuch), Leinen #ece6d8 als Raum; Hausgold #c9b101 als Linie und Zeichen, auf Hell das tiefere Hausgold; Tinte #2f2a27; Herzrot #b4302c nur als Punkt.
+   Schrift wie verbaut: Titel Source Serif 4 (440, Display), Lauf Source Sans 3 400, kleine Zeilen Source Sans 3 Versalien gesperrt. Nie fett, nie kursiv.
+   Form: ruhige Platten mit Gold-Haarlinie innen und weichem Schatten, Knöpfe mit Pfeil im Knauf (wie .knopf der Website). Rahmen: Die Bühne. */
+@font-face{font-family:'Serif';font-weight:200 900;font-display:swap;src:url('../../fonts/serif-latin.woff2') format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:'Serif';font-weight:200 900;font-display:swap;src:url('../../fonts/serif-latinext.woff2') format('woff2');unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
+@font-face{font-family:'Sans';font-weight:200 900;font-display:swap;src:url('../../fonts/sans-latin.woff2') format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:'Sans';font-weight:200 900;font-display:swap;src:url('../../fonts/sans-latinext.woff2') format('woff2');unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
+:root{
+  --wo-sans:'Sans','Helvetica Neue',Arial,system-ui,sans-serif; --wo-mono:'Sans','Helvetica Neue',Arial,system-ui,sans-serif;
+  --wo-etikett:'Sans','Helvetica Neue',Arial,system-ui,sans-serif;
+  --wo-e1:cubic-bezier(.16,1,.3,1); --wo-e2:cubic-bezier(.32,.72,0,1);
+  /* Tanne und Salbei: die Wände des Restaurants Bareiss (Foto r-saal) */
+  --wo-nacht:#1f2621; --wo-nacht2:#3f4a40; --wo-tief:#151a16;
+  /* Hausgold: g1 Glanz, g2 hell, g3 Hausgold, g4 tief (Verlauf des Hauptknopfs und der Knäufe) */
+  --wo-g1:#efe4a6; --wo-g2:#e2d27a; --wo-g3:#c9b101; --wo-g4:#968401;
+  /* Akzent: auf Dunkel Hausgold, auf Hell das tiefere Hausgold der Website (#968401). Signal Herzrot nur als Punkt.
+     Die Namen --wo-kerze/--wo-rot/--wo-dc/--wo-dj/--wo-loft (und die Klasse .wo-loft) sind Namen des Stamms, die die Werkzeuge benutzen; sie tragen hier Farben des Hauses. */
+  --wo-gold:#c9b101; --wo-akzent:#7d6e01; --wo-kerze:#c9b101; --wo-rot:#b4302c; --wo-loft:#1f2621; --wo-dc:#3f4a40; --wo-dj:#1f2621;
+  /* Raum: Papier (Tischtuch), Leinen */
+  --wo-papier:#f5f2ea; --wo-papier2:#ece6d8; --wo-schnee:#f1eee5; --wo-blatt:#faf8f2; --wo-weiss:#fffdf8;
+  --wo-tinte:#2f2a27; --wo-leise:#6b625d; --wo-linie:rgba(47,42,39,.14); --wo-linie-d:rgba(201,177,1,.34);
+  --wo-punkt:#b4302c; --wo-gut:#5b6658;
+  --wo-titel:'Serif',Georgia,'Times New Roman',serif; --wo-titel-g:440; --wo-titel-ls:-.012em;
+  --wo-r1:16px; --wo-r2:10px; --wo-r3:10px; --wo-rk:14px;
+  --wo-tapete:#151a16;
+  --wo-tapete-fein:var(--wo-tapete);
+}
+
+
+/* ================= Titel und Etiketten ================= */
+/* Titel in Source Serif wie die Website (h1–h4: 440, Display-Schnitt opsz 60); Betonung über die Farbe (auf Hell Hausgold tief, auf Tanne Hausgold hell), nie fett, nie kursiv */
+.wo-sb__h{font-family:var(--wo-titel);font-weight:440;letter-spacing:-.012em;font-variation-settings:"opsz" 60}
+.wo-zw{font-family:var(--wo-titel);font-weight:440;letter-spacing:-.012em;font-variation-settings:"opsz" 60}
+.wo-zw em{font-style:normal;color:var(--wo-akzent)}
+/* Fehlerbuch 10a: auf dunkler Fläche ist jede Titelzeile hell, die Betonung Hausgold */
+.wo-sb .wo-sb__h em,[data-wo-rahmen] .wo-sb .wo-sb__h em,#ansicht .wo-sb .wo-sb__h em,body .wo-sb .wo-sb__h em{font-style:normal;color:var(--wo-g2);font-weight:inherit}   /* wie .ab--tanne .titel .ak der Website: Hausgold hell */
+/* Frühere Klasse des Stamms für Menüzeilen: hier als Etikett (Source Sans 3, gesperrt, Versalien) */
+.wo-rudi{font-family:var(--wo-etikett);font-weight:400;text-transform:uppercase;letter-spacing:.12em}
+/* Etiketten in Source Sans 3 gesperrt wie die Website, Zahlen mit gleich breiten Ziffern */
+.wo-bk__t small,.wo-mk,.wo-sb__zier span{font-family:var(--wo-etikett);font-weight:400;letter-spacing:.18em}
+.wo-zahl{font-family:var(--wo-mono);font-variant-numeric:tabular-nums lining-nums}
+/* Dunkle Kapitel (Restaurant Bareiss): Salbei als Fläche, Hausgold als Akzent (CHARAKTER.md 2) */
+.wo-loft,.wo-dj,.wo-dc{--wo-nacht:#3f4a40;--wo-nacht2:#5b6658;--wo-tief:#1f2621}
+
+/* ================= Platten ================= */
+/* Ruhige Platten: Hausgold-Haarlinie innen, weicher Schatten (18 px, Kacheln 14 px) */
+.wo-lage,.wo-ag,.wo-det__kopf{box-shadow:inset 0 0 0 1px rgba(201,177,1,.42),0 18px 40px -26px rgba(21,26,22,.45)}
+[data-wo-rahmen="buehne"] .wo-kopf{border-bottom:1px solid rgba(201,177,1,.30)}
+/* Die Bühne: eine Hausgold-Haarlinie innen, wie der Rahmen um die Bilder der Website */
+[data-wo-rahmen="buehne"] .wo-sb{border-bottom:0;box-shadow:inset 0 0 0 1px rgba(201,177,1,.55),inset 0 0 0 6px #151a16,0 40px 60px -40px rgba(21,26,22,.8)}
+/* Über den Abschnittstiteln: eine kurze Hausgold-Haarlinie, sonst kein Schmuck */
+.wo-zw::before{content:'';display:block;width:56px;height:1px;margin-bottom:14px;background:var(--wo-gold)}
+.cu-x{font-family:var(--wo-titel);font-style:normal;font-weight:400;letter-spacing:0;text-transform:none;color:var(--wo-gold)}
+/* Foto des Startbilds: unten leicht in die Tanne */
+.wo-sb__foto::after{background:linear-gradient(0deg,rgba(21,26,22,.55),transparent 55%)}
+.wo-lg__z,.wo-ag__z{border-radius:50%}
+.wo-bk__t small,.wo-mk{color:var(--wo-akzent)}
+.wo-re.wo-an,.wo-re[aria-current="true"],.wo-re[aria-current="page"]{background:linear-gradient(180deg,#3f4a40,#151a16);box-shadow:inset 0 0 0 1px rgba(201,177,1,.55)}
+.wo-re.wo-an,.wo-re[aria-current="true"],.wo-re[aria-current="page"],.wo-re.wo-an *,.wo-re[aria-current] *{color:#f5f2ea}
+.wo-re.wo-an .wo-zahl,.wo-re[aria-current="true"] .wo-zahl,.wo-re[aria-current="page"] .wo-zahl{color:var(--wo-tief)}
+
+/* ================= Knöpfe wie «rk» der Website ================= */
+/* Hauptweg: Hausgold mit Tanne-Schrift (9,3:1), Knauf Tanne mit Hausgold-Pfeil. Nebenweg dunkel: Tanne mit Hausgold-Haarlinie und Hausgold-Knauf.
+   Nebenweg hell: Papier mit Hausgold-Haarlinie und Hausgold-Knauf. Alle rund wie .knopf der Website (999 px). */
+.wo-kn--gold{color:#1f2621;text-shadow:none;background:linear-gradient(180deg,#efe4a6 0%,#d6c23c 48%,#a89400 100%);
+  box-shadow:inset 0 1px 0 rgba(255,255,255,.55),inset 0 -1px 0 rgba(90,80,0,.35),0 14px 26px -14px rgba(21,26,22,.7),0 3px 8px -3px rgba(21,26,22,.3)}
+.wo-kn--gold i{background:linear-gradient(180deg,#3f4a40,#1f2621);color:#e2d27a;box-shadow:inset 0 1px 0 rgba(255,255,255,.16),0 3px 8px -2px rgba(21,26,22,.5)}
+.wo-kn--dunkel{color:#f5f2ea;background:linear-gradient(180deg,#3f4a40 0%,#1f2621 100%);
+  box-shadow:inset 0 1px 0 rgba(255,255,255,.14),inset 0 0 0 1px rgba(201,177,1,.42),0 14px 30px -14px rgba(31,38,33,.7)}
+.wo-kn--dunkel i,.wo-kn--hell i{background:linear-gradient(180deg,#efe4a6,#a89400);color:#1f2621;box-shadow:inset 0 1px 0 rgba(255,255,255,.6),0 3px 8px rgba(21,26,22,.3)}
+.wo-kn--hell{color:#1f2621;background:linear-gradient(180deg,#fffdf8,#ece6d8);box-shadow:inset 0 1px 0 #fff,inset 0 0 0 1px rgba(150,132,1,.38),0 12px 24px -14px rgba(21,26,22,.45)}
+.wo-kn--glas i{background:rgba(255,255,255,.08);color:#e2d27a}
+[data-wo-rahmen="buehne"] .wo-leiste{border-radius:18px}
+
+/* Ecke oben links in allen Werkzeugen gleich (M24): das Wappen HB mit drei Kugeln frei in Hausgold, ohne Ring und ohne runde Fläche
+   (CHARAKTER.md 3 «Nicht verwenden: Kreise, Siegel»; Oberchef 08.11.2026), daneben Bereich · Haus. Platz wie vorher (46 px), der Kopf bleibt gleich hoch. */
+.wo-marke-w{position:relative;padding-left:52px!important;min-height:46px}
+.wo-marke-w::before{content:none}
+.wo-marke-w .wo-zeichen{position:absolute;left:2px;top:50%;width:32px;height:41px;max-width:none;margin-top:-20.5px;color:#c9b101}
+.wo-marke-w b{font-family:var(--wo-titel);font-weight:440}
+.wo-marke-w small{color:rgba(201,177,1,.95)!important}
+
+/* Auftritt der Bühne (Fehlerbuch 10a): Foto schwebt 40 px von unten und zoomt ein, Zier, Titel, Satz und Knöpfe folgen gestaffelt. Nur transform, deckend. */
+@keyframes woAufFoto{from{translate:0 40px;scale:1.06}}
+@keyframes woAuf{from{translate:0 40px}}
+/* Im Ton des Hauses ruhig und lang: das Foto zoomt 2,6 s langsam ein (von 1,12), der Titel kommt 1,15 s aus der Tiefe, die Kurve läuft weich aus.
+   Läuft ab dem ersten Bild, wartet auf kein Skript. Das Foto zieht beim Scrollen etwas langsamer mit (Scroll-Zeitachse, nur wo der Browser sie kann). */
+@keyframes woZoom{from{scale:1.12}}
+@keyframes woHoch{from{translate:0 34px}}
+@media screen and (prefers-reduced-motion:no-preference){
+  html:not(.still) .wo-sb__foto{animation:woAufFoto 1.1s cubic-bezier(.19,1,.22,1) both}
+  html:not(.still) .wo-sb__foto{overflow:hidden}
+  html:not(.still) .wo-sb__foto img{animation:woZoom 2.6s cubic-bezier(.19,1,.22,1) both}
+  html:not(.still) :is(.wo-sb__zier,.wo-sb__h,.wo-sb__satz,.wo-sb__kn){animation:woHoch 1.15s cubic-bezier(.19,1,.22,1) both}
+  html:not(.still) .wo-sb__zier{animation-delay:.1s}
+  html:not(.still) .wo-sb__h{animation-delay:.18s}
+  html:not(.still) .wo-sb__satz{animation-delay:.3s}
+  html:not(.still) .wo-sb__kn{animation-delay:.42s}
+  /* Titel zeilenweise (Kriterium 37): kleid/bareiss.js teilt ihn in Wörter mit Zeilennummer --z; jede Zeile steigt 0,11 s nach der vorigen */
+  html:not(.still) .wo-sb__h.wo-zl{animation:none}
+  html:not(.still) .wo-sb__h.wo-zl .wo-w{display:inline-block;animation:woHoch 1.15s cubic-bezier(.19,1,.22,1) both;animation-delay:calc(.18s + var(--z,0) * .11s)}
+  @supports (animation-timeline:view()){
+    @keyframes woZug{from{translate:0 -6%}to{translate:0 0}}   /* das Foto ist 12 % höher als sein Rahmen: beim Ziehen entsteht nie ein Spalt */
+    html:not(.still) .wo-sb__foto img{height:112%;animation:woZoom 2.6s cubic-bezier(.19,1,.22,1) both,woZug linear both;animation-timeline:auto,view();animation-range:normal,exit 0% exit 100%}
+  }
+  /* Knöpfe geben beim Drücken nach (nur beim Drücken, die Übergänge der Werkzeuge bleiben) */
+  :is(.wo-kn,.wo-rund,.wo-ag,.wo-bk,.kn,button):active{scale:.975;transition:scale .12s ease-out}
+}
+
+/* Untere Leiste (Fehlerbuch 10a): der Titel bricht nie um; wird es eng, verschwindet erst der Satz, dann die Beschriftung der Knöpfe */
+.wo-leiste__t b{white-space:nowrap}
+
+/* Kopf bei wenig Breite (Fehlerbuch 10a): der Titel in der Mitte nimmt nur den freien Platz, wird kleiner und kürzt notfalls mit «…»; er überdeckt nie einen Knopf */
+@media (min-width:901px){
+  .wo-kopf{grid-template-columns:auto minmax(0,1fr) auto}
+  .wo-kopf__mitte{min-width:0;max-width:100%}
+  .wo-kopf__mitte b,.wo-kopf__mitte small{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:100%}
+}
+@media (min-width:901px) and (max-width:1240px){
+  .wo-kopf__mitte b{font-size:18px}
+  .wo-kopf .wo-kn--gold.wo-kn--klein>span{position:absolute;left:50%;top:50%;width:1px;height:1px;margin:0;padding:0;overflow:hidden;clip-path:inset(50%);white-space:nowrap;font-size:13px;line-height:1px;letter-spacing:0;color:transparent;text-box:none}   /* Beschriftung bleibt für Vorleser, sichtbar nur der Knauf; sie liegt in der Mitte des Knaufs (Tor-Regel «randlos») */
+  .wo-kopf .wo-kn--gold.wo-kn--klein{padding:0;gap:0;width:42px;height:42px;min-height:0;min-width:0;border-radius:50%;justify-content:center;align-items:center}   /* nur noch der runde Knauf, nie eine Kachel */
+}
+
+/* Zierzeile im Startbild: bricht um, wenn der Platz nicht reicht; die Linie daneben gibt unter 1240 px ihren Platz dem Text */
+.wo-sb__zier{min-width:0;max-width:100%}
+.wo-sb__zier span{min-width:0;white-space:normal;overflow:visible;line-height:1.6}
+@media (max-width:1240px){.wo-sb__zier i{display:none}}
+
+/* Luft unter der Bühne (Fehlerbuch 10a): mindestens 30 px bis zu den ersten Kacheln, am Handy 24 px */
+.wo-sb{margin-bottom:34px}
+@media (max-width:760px){.wo-sb{margin-bottom:24px}}
+
+/* Fehlerbuch 10a: auf jeder dunklen Fläche ist die Schrift hell, auch auf Knöpfen und Einträgen, die immer dunkel sind */
+.wo-kopf,.wo-kopf a:not(.wo-kn--gold):not(.wo-kn--hell),.wo-sb,.wo-sb a:not(.wo-kn){color:#f5f2ea}
+
+/* Nie kursiv (CHARAKTER.md 4): die Stamm-Bausteine Brief und Blatt setzen Georgia kursiv; hier aufrecht in Source Serif, Hervorhebung über die Farbe */
+.wo-brief em,.wo-brief i,.wo-bl em,.wo-bl i{font-style:normal}
+.wo-bl__rub span,.wo-bl__g span,.wo-bl__h{font-family:var(--wo-titel);font-style:normal;font-weight:400}
+.wo-brief mark,.wo-brief em{background:none;color:var(--wo-akzent)}
+.wo-lu{font-style:normal;background:linear-gradient(180deg,transparent 55%,rgba(201,177,1,.38) 55%)}
+
+/* Nie fett (CHARAKTER.md 4): der Stamm setzt im Blatt Namen fett (.wo-bl__g b 700); hier Source Serif Regular */
+.wo-bl__g b{font-family:var(--wo-titel);font-weight:400;letter-spacing:.01em}
+b,strong{font-weight:500}
+
+/* Schrift optisch mittig in Knöpfen und Pillen (Kriterium 35; Messlauf-Regel text-mitte).
+   text-box schneidet die Zeile auf Versalhöhe und Grundlinie zu, dann zentriert der Knopf genau die Buchstaben. Ohne text-box ein kleiner gemessener Ausgleich. */
+.wo-kn>span,.wo-re>span,.wo-kopf__ber>span{text-box:trim-both cap alphabetic}
+.wo-re .wo-zahl{display:block;height:auto;padding:7px;line-height:1;text-align:center;text-box:trim-both cap alphabetic}
+@supports not (text-box:trim-both cap alphabetic){.wo-kn>span,.wo-re>span,.wo-kopf__ber>span{position:relative;top:.05em}}
+
+/* Kriterium 7 (Regel einzelwort): kein einzelnes Wort allein in der letzten Titelzeile */
+h1,h2,h3,h4,figcaption{text-wrap:balance}
+.rdg-karte h3,.wo-zw,.wo-sb__h{text-wrap:balance}
+/* Kriterium 3 (Regel reihe): wo die Kacheltitel neben dem Pfeil umbrechen (schmale Spalten), reserviert jeder Titel zwei Zeilen, damit die Reihe auf einer Linie steht */
+@media (min-width:901px) and (max-width:1365px){.wo-ber .wo-bk__t b{min-height:2.4em}}
+
+/* Handy: der Knopf «Bereiche» im dunklen Kopf ist ein Nebenweg (Tanne mit Hausgold-Haarlinie, rund wie die Knöpfe der Website), keine Hausgold-Pille */
+@media (max-width:900px){
+  [data-wo-rahmen] .wo-kopf__ber{border-radius:999px;font-family:var(--wo-etikett);font-weight:400;color:#f5f2ea;
+    background:linear-gradient(180deg,#3f4a40 0%,#1f2621 100%);box-shadow:inset 0 0 0 1px rgba(201,177,1,.55),inset 0 1px 0 rgba(255,255,255,.12),0 8px 18px -10px rgba(0,0,0,.8)}
+  [data-wo-rahmen] .wo-kopf__ber .wo-ic{color:#c9b101}
+}
+
+/* Kopfmitte: Source Serif braucht mehr Zeilenhöhe (Schriftkasten 1,22 em); bei 1,1 schnitt «overflow:hidden» die Unterlängen ab. Zeile 1,42, Unterzeile näher heran. */
+.wo-kopf__mitte b{font-family:var(--wo-titel);font-weight:440;line-height:1.42}
+.wo-kopf__mitte small{margin-top:0}
+/* Leiste unten am Handy: grund.css färbt den Hauptknopf dort Hausgold; das Zeichen darin Tanne */
+@media (max-width:900px){
+  .wo-leiste .wo-kn--gold{background:linear-gradient(180deg,#efe4a6,#d6c23c 48%,#a89400);box-shadow:inset 0 1px 0 rgba(255,255,255,.5),0 8px 18px -10px rgba(21,26,22,.6)}
+  .wo-leiste .wo-kn--gold i{color:#1f2621}
+}
+
+/* Sperrabstand optisch mittig (Messlauf «text-mitte» in WebKit). Gesperrte Versalien: Chromium hängt den Sperrabstand auch nach dem letzten Buchstaben an
+   (die Schrift sitzt dann um den halben Abstand links), WebKit nicht. Grundfall ist darum symmetrisch (richtig in WebKit, ohne Ausgleich);
+   nur Chromium bekommt den Ausgleich, erkannt an interpolate-size (gibt es nur dort).
+   Für eigene Knöpfe der Werkzeuge: --wo-sperr = der Sperrabstand des Knopfs (in em, wie letter-spacing), Klasse .wo-sperr-mitte an den Knopf
+   (Text direkt im Knopf oder in einem Kind ohne eigene Breite; Zeichen in <i>, <svg>, <img> rücken nicht mit). Bei span-Beschriftungen geht auch
+   margin-right:calc(-1 * var(--wo-sperr)) am span (so die Bausteine unten). */
+:root{--wo-sperr:.16em}
+.wo-kn,.wo-kopf__ber,.wo-marke{--wo-sperr:.16em}
+.wo-sp{--wo-sperr:.08em}
+.wo-an__st em{--wo-sperr:.12em}
+.rdg-karte .rdg-zu{--wo-sperr:.14em}
+@supports (interpolate-size:allow-keywords){
+  .wo-kn>span,.wo-kopf__ber>span{margin-right:calc(-1 * var(--wo-sperr))}
+  .wo-marke,.wo-sp,.wo-an__st em,.rdg-karte .rdg-zu,.wo-sperr-mitte{text-indent:var(--wo-sperr)}
+  :is(.wo-marke,.wo-sp,.wo-an__st em,.wo-sperr-mitte) :is(i,svg,img){text-indent:0}
+}
+
+/* Marke «Entwurf» (em.wo-marke) und Wahlknöpfe (.wo-wahl button) optisch mittig (Kriterium 35, Oberchef 08.11.2026, gemessen mit Messlauf text-mitte an der Musterseite):
+   WebKit sitzt mit dem Grundpolster genau (0 Funde); Chromium setzt die kleinen Zeilen um rund 1 px zu hoch (gemessen in der Vorlage). Nur Chromium
+   (erkannt an interpolate-size, wie --wo-sperr) bekommt den Ausgleich, gleiche Gesamthöhe. Werkzeuge brauchen dafür keinen eigenen Ausgleich mehr. */
+@supports (interpolate-size:allow-keywords){
+  .wo-marke{padding-top:7.3px;padding-bottom:4.7px}
+  .wo-wahl button{padding-top:11.8px;padding-bottom:10.2px}
+}
