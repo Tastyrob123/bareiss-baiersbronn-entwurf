@@ -1,0 +1,288 @@
+{
+ "ziel": "menus",
+ "art": "satz",
+ "key": "menus",
+ "name": "Die Menus",
+ "unter": "von Claus-Peter Lumpp",
+ "gruppe": "Restaurant Bareiss",
+ "ab": "",
+ "plakat": "",
+ "foto": "r-saal",
+ "quelle": "_bau/karte.py (Wortlaut und Preise aus der PDF des Hauses RB_Menu_15.10.26_D.pdf), gebaut auf restaurant-bareiss.html#karte",
+ "menus": [
+  {
+   "titel": "Das Degustationsmenu",
+   "von": "von Claus-Peter Lumpp",
+   "gaenge": [
+    {
+     "zeilen": [
+      "Apéro Etagère"
+     ]
+    },
+    {
+     "zeilen": [
+      "Kaltes & warmes Amuse Bouche"
+     ]
+    },
+    {
+     "zeilen": [
+      "Variation von der Gänsestopfleber",
+      "mit Fragolino Trauben und schwarzen Walnüssen"
+     ]
+    },
+    {
+     "zeilen": [
+      "Sautierter Langostino",
+      "mit Kürbis, Verbene und Crustacéglace"
+     ]
+    },
+    {
+     "zeilen": [
+      "Kross gebratener Wolfsbarsch",
+      "mit geräuchertem Mais, Cassis und Sauerrahm"
+     ]
+    },
+    {
+     "zeilen": [
+      "Blumenkohl",
+      "mit Kichererbse, Dattel, Cashewnüsse",
+      "und Garam Masalasauce"
+     ]
+    },
+    {
+     "kopf": "„Reh aus der Bareiss- Jagd“",
+     "teile": [
+      [
+       "Gebratener Rehrücken",
+       "mit Maitake, Sellerie und Zitronenthymian"
+      ],
+      [
+       "In Rotwein pochierte Rehnüsschen",
+       "mit Waldpilzragoût und Pfirsich"
+      ]
+     ]
+    },
+    {
+     "zeilen": [
+      "Käseauswahl vom Wagen"
+     ]
+    },
+    {
+     "zeilen": [
+      "Mascarponemousse",
+      "mit Apfel, Sanddorn",
+      "Sternrenette-Hibiskus Sauce und Apfeltarte"
+     ]
+    },
+    {
+     "zeilen": [
+      "Friandises"
+     ]
+    },
+    {
+     "zeilen": [
+      "Confiserie & Pralinen vom Wagen"
+     ]
+    }
+   ],
+   "preis": "350"
+  },
+  {
+   "titel": "Das Mittagsmenu",
+   "von": "von Claus-Peter Lumpp",
+   "gaenge": [
+    {
+     "zeilen": [
+      "Apéro Etagère"
+     ]
+    },
+    {
+     "zeilen": [
+      "Kaltes & warmes Amuse Bouche"
+     ]
+    },
+    {
+     "zeilen": [
+      "Marinierter Kingfisch",
+      "mit Karotte, roter Shiso und Yuzu"
+     ]
+    },
+    {
+     "kopf": "„Lamm von der Älbler Wacholderheide“",
+     "teile": [
+      [
+       "Gebratener Lammrücken",
+       "mit Spitzkohl, konfierter Kartoffel",
+       "und Thymianglace"
+      ],
+      [
+       "Lammschulter",
+       "mit Chipotle und Salat vom Spitzkohl"
+      ]
+     ]
+    },
+    {
+     "zeilen": [
+      "Birnen-Schokoladentörtchen",
+      "mit Williamsbirnensorbet, Praliné",
+      "und Karamelleis"
+     ]
+    },
+    {
+     "zeilen": [
+      "Friandises"
+     ]
+    },
+    {
+     "zeilen": [
+      "Confiserie & Pralinen vom Wagen"
+     ]
+    }
+   ],
+   "preis": "195"
+  },
+  {
+   "titel": "Das vegetarische Menu",
+   "von": "von Claus-Peter Lumpp",
+   "gaenge": [
+    {
+     "zeilen": [
+      "Apéro Etagère"
+     ]
+    },
+    {
+     "zeilen": [
+      "Kaltes & warmes Amuse Bouche"
+     ]
+    },
+    {
+     "zeilen": [
+      "Gewürzter Ricotta",
+      "mit Karotte, roter Shiso und Yuzu"
+     ]
+    },
+    {
+     "zeilen": [
+      "Marinierter Seidentofu",
+      "mit Variation vom Kürbis und Verbene"
+     ]
+    },
+    {
+     "zeilen": [
+      "Geräucherter Mais mit Cassis",
+      "und Sauerrahm"
+     ]
+    },
+    {
+     "zeilen": [
+      "Blumenkohl",
+      "mit Kichererbse, Dattel, Cashewnüsse",
+      "und Garam Masalasauce"
+     ]
+    },
+    {
+     "kopf": "",
+     "teile": [
+      [
+       "Waldpilzrisotto",
+       "mit Pfirsich und Zitronenthymian"
+      ],
+      [
+       "Gebratener Ofensellerie",
+       "mit Röstzwiebel und Federweisser"
+      ]
+     ]
+    },
+    {
+     "zeilen": [
+      "Käseauswahl vom Wagen"
+     ]
+    },
+    {
+     "zeilen": [
+      "Mascarponemousse",
+      "mit Apfel, Sanddorn",
+      "Sternrenette-Hibiskus Sauce und Apfeltarte"
+     ]
+    },
+    {
+     "zeilen": [
+      "Friandises"
+     ]
+    },
+    {
+     "zeilen": [
+      "Confiserie & Pralinen vom Wagen"
+     ]
+    }
+   ],
+   "preis": "295"
+  },
+  {
+   "titel": "Das Herbstmenu",
+   "von": "von Claus-Peter Lumpp",
+   "gaenge": [
+    {
+     "zeilen": [
+      "Apéro Etagère"
+     ]
+    },
+    {
+     "zeilen": [
+      "Kaltes & warmes Amuse Bouche"
+     ]
+    },
+    {
+     "zeilen": [
+      "Marinierter Kingfish",
+      "mit Karotte, roter Shiso und Yuzu"
+     ]
+    },
+    {
+     "zeilen": [
+      "Konfierter weißer Heilbutt",
+      "mit Tia Maraa Auster, Lauch, Röstzwiebel",
+      "und Federweißer"
+     ]
+    },
+    {
+     "kopf": "„Lamm von der Älbler Wacholderheide“",
+     "teile": [
+      [
+       "Gebratener Lammrücken",
+       "mit Spitzkohl, konfierter Kartoffel",
+       "und Thymianglace"
+      ],
+      [
+       "Lammschulter",
+       "mit Chipotle und Salat vom Spitzkohl"
+      ]
+     ]
+    },
+    {
+     "zeilen": [
+      "Käseauswahl vom Wagen"
+     ]
+    },
+    {
+     "zeilen": [
+      "Birnen-Schokoladentörtchen",
+      "Williamsbirnensorbet, Praliné",
+      "und Karamelleis"
+     ]
+    },
+    {
+     "zeilen": [
+      "Friandises"
+     ]
+    },
+    {
+     "zeilen": [
+      "Confiserie & Pralinen vom Wagen"
+     ]
+    }
+   ],
+   "preis": "295"
+  }
+ ]
+}

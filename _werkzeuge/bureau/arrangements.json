@@ -1,0 +1,97 @@
+{
+ "_lies_mich": "Themenwochen des Hotel Bareiss mit ihren Terminen, gelesen von _werkzeuge/bureau/arrangements_lesen.py aus _quelle/website/text/arrangements__*.md (bareiss.com). Ursprung der Ansicht «Themenwochen» im Schaufenster. Nie von Hand ändern.",
+ "themenwochen": [
+  {
+   "key": "kochkurse-kuechenworkshops",
+   "name": "Kochkurse",
+   "unter": "Kochkurse im Schwarzwald",
+   "termine": [
+    {
+     "von": "2026-11-08",
+     "bis": "2026-11-13"
+    }
+   ],
+   "dauer": "6 Tage / 5 Nächte",
+   "preis": "ab 2.650 € im Doppelzimmer, pro Person",
+   "anreise": "Anreise am Sonntag",
+   "quelle": "https://www.bareiss.com/arrangements/kochkurse-kuechenworkshops.html",
+   "abgerufen": "2026-11-08",
+   "foto": "u-gericht",
+   "foto_alt": "Ein Gericht wird angerichtet, die Sauce kommt mit dem Löffel"
+  },
+  {
+   "key": "kulturwochen",
+   "name": "Musewoche",
+   "unter": "Kultur im Bareiss",
+   "termine": [
+    {
+     "von": "2026-11-08",
+     "bis": "2026-11-15"
+    }
+   ],
+   "dauer": "",
+   "preis": "",
+   "anreise": "",
+   "quelle": "https://www.bareiss.com/arrangements/kulturwochen.html",
+   "abgerufen": "2026-11-08",
+   "foto": "u-bar",
+   "foto_alt": "Die Hotelbar am Abend"
+  },
+  {
+   "key": "jubilarwochen",
+   "name": "Jubilarwochen",
+   "unter": "Exklusiv für Stammgäste",
+   "termine": [
+    {
+     "von": "2026-11-15",
+     "bis": "2026-11-22"
+    },
+    {
+     "von": "2027-01-17",
+     "bis": "2027-01-24"
+    },
+    {
+     "von": "2027-03-14",
+     "bis": "2027-03-24"
+    }
+   ],
+   "dauer": "",
+   "preis": "",
+   "anreise": "",
+   "quelle": "https://www.bareiss.com/arrangements/jubilarwochen.html",
+   "abgerufen": "2026-11-08",
+   "foto": "herz-tuer",
+   "foto_alt": "Das Herz «Herzlich willkommen» an der Zimmertür"
+  },
+  {
+   "key": "wanderwochen",
+   "name": "Naturerlebnis-Woche",
+   "unter": "Wandern im Schwarzwald",
+   "termine": [
+    {
+     "von": "2027-01-10",
+     "bis": "2027-01-17"
+    },
+    {
+     "von": "2027-04-25",
+     "bis": "2027-05-02"
+    },
+    {
+     "von": "2027-06-20",
+     "bis": "2027-06-27"
+    },
+    {
+     "von": "2027-11-07",
+     "bis": "2027-11-14"
+    }
+   ],
+   "dauer": "8 Tage / 7 Nächte",
+   "preis": "ab 2.240 € im Doppelzimmer, pro Person",
+   "anreise": "Anreise Sonntag",
+   "quelle": "https://www.bareiss.com/arrangements/wanderwochen.html",
+   "abgerufen": "2026-11-08",
+   "foto": "tal-wandern",
+   "foto_alt": "Zwei Wanderer auf einem Weg über dem Schwarzwald"
+  }
+ ]
+}

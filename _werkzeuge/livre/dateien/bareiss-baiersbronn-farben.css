@@ -1,0 +1,14 @@
+/* Hotel Bareiss, Baiersbronn-Mitteltal · Farben der Marke (09.11.2026), Werte der Website */
+:root{
+  --tanne:#1f2621; /* Tanne: die Wände des Restaurants Bareiss: Grund der dunklen Flächen, Kopf und Fuß */
+  --salbei:#3f4a40; /* Salbei: zweite dunkle Fläche, das Kapitel Restaurant Bareiss */
+  --salbei-hell:#5b6658; /* Salbei hell: ruhige Fläche und Linie auf Salbei */
+  --papier:#f5f2ea; /* Papier: das Tischtuch: Grund der hellen Seiten, nie reines Weiß */
+  --leinen:#ece6d8; /* Leinen: Fläche auf Papier, Kachel im hellen Kapitel */
+  --tinte:#2f2a27; /* Tinte: Titel und Lesetext auf Papier, nie reines Schwarz */
+  --grau:#6b625d; /* Hausgrau: kleine Zeilen und Nebentext auf Papier */
+  --gold:#c9b101; /* Hausgold: das Gold des Logos: Linie, Zeichen, Hauptknopf auf Tanne */
+  --gold-hell:#e2d27a; /* Hausgold hell: Glanz im Gold, Akzent in der Schrift auf Tanne */
+  --gold-tief:#968401; /* Hausgold tief: Etikett und Zeichen auf Papier, wo Hausgold zu hell steht */
+  --rot:#b4302c; /* Herzrot: das Herz an der Zimmertür: nur als Punkt, nie als Fläche */
+}

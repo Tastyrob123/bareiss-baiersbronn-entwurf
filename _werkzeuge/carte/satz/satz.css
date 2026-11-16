@@ -1,0 +1,90 @@
+/* Die Pairing-Karte · Hotel Bareiss — Satz der Karten des Restaurants Bareiss (09.11.2026, satz_bau.py). Eine Datei für Vorschau, PDF und Werkbank.
+   Vorbild ist die Karte des Hauses (RB_Menu_15.10.26_D.pdf): Gänge mittig, zwischen zwei Gängen ein Stern, oben und unten drei Sterne, Preis allein
+   darunter; Gruppen der Karte mit Name und Preis, die Teller Zeile für Zeile. Im Kleid des Bareiss (CHARAKTER.md 4): Tischtuch-Papier, feine
+   Haarlinie in Hausgold, oben das Wappen HB mit drei Kugeln, Titel und Gerichte in Source Serif 4, Zeilen in Source Sans 3, Etiketten in Versalien
+   in Hausgold tief, Schrift in Tanne und Tinte, die Sterne in Hausgold wie die fünf Sterne des Logos. Nie fett, nie kursiv. Masse in mm, Schrift in pt
+   über --s (blatt.js passt je Seite an, damit nichts überläuft). Feste Schnitte statt variabler Schriften (fonts_statisch.py): Chromium bettet
+   variable Schriften als «Type 3» ein, die Apple-Vorschau zeigt sie weich (Fehlerbuch 10a). Gesperrte Versalien höchstens .08em (pdftotext). */
+@font-face{font-family:'Serif Titel';src:url('../fonts/SerifTitel-440.ttf') format('truetype');font-weight:400;font-style:normal;font-display:block}
+@font-face{font-family:'Serif Satz';src:url('../fonts/SerifSatz-400.ttf') format('truetype');font-weight:400;font-style:normal;font-display:block}
+@font-face{font-family:'Sans Satz';src:url('../fonts/Sans-400.ttf') format('truetype');font-weight:400;font-style:normal;font-display:block}
+@font-face{font-family:'Sans Satz';src:url('../fonts/Sans-500.ttf') format('truetype');font-weight:500;font-style:normal;font-display:block}
+:root{--papier:#f5f2ea;--tanne:#1f2621;--tinte:#2f2a27;--leise:#6b625d;--gold:#c9b101;--gold-tief:#968401;--linie:rgba(150,132,1,.55);--linie2:rgba(150,132,1,.24);
+  --stern:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20'%3E%3Cpath fill='%23c9b101' d='M10 1.6l2.47 5.6 6.09.56-4.6 4.03 1.36 5.97L10 14.64l-5.32 3.12 1.36-5.97-4.6-4.03 6.09-.56z'/%3E%3C/svg%3E")}
+*{box-sizing:border-box}
+html,body{margin:0;padding:0;background:#3f4a40;-webkit-print-color-adjust:exact;print-color-adjust:exact}
+.blatt{--s:1;position:relative;overflow:hidden;margin:8mm auto;background:var(--papier);color:var(--tinte);display:flex;flex-direction:column;
+  font-family:'Sans Satz',Arial,sans-serif;font-weight:400;font-size:calc(9pt*var(--s));line-height:1.42;font-feature-settings:'locl' 0;page-break-after:always;break-after:page}
+:where(.blatt) :where(h1,h2,h3,h4,p){margin:0;padding:0;font-weight:inherit}
+:where(.blatt) b{font-weight:400}   /* nie fett (Kleid des Hauses) */
+/* feine Haarlinie in Hausgold wie im Logo, eine zweite ganz leise innen */
+.blatt::before,.blatt::after{content:'';position:absolute;pointer-events:none;border:.25mm solid var(--linie)}
+.blatt::before{inset:8mm}
+.blatt::after{inset:9.6mm;border-color:var(--linie2)}
+.inhalt{position:relative;z-index:1;flex:1;min-height:0;padding:17mm 22mm 3mm;display:flex;flex-direction:column}
+.ufuss2{position:relative;z-index:1;flex:none;margin:0 22mm;padding:2.6mm 0 13mm;font-family:'Sans Satz',Arial,sans-serif;font-size:6.6pt;letter-spacing:.02em;text-align:center;color:var(--leise)}
+
+/* Kopf: Wappen, Titel, Zeile darunter */
+.sb-quer{flex:1 0 auto;display:flex;flex-direction:column;align-items:center;justify-content:flex-start;text-align:center}
+.sb-oben{display:flex;flex-direction:column;align-items:center;margin-bottom:calc(6mm*var(--s))}
+.sb-oben--folge{margin-bottom:calc(5mm*var(--s))}
+.sb-zeichen{display:block;color:var(--gold-tief)}
+.rb-w{display:block;width:calc(12mm*min(var(--s),1.15));height:auto}
+.sb-oben--folge .rb-w{width:calc(9mm*min(var(--s),1.15))}
+.sb-band{font-family:'Serif Titel',Georgia,serif;font-weight:400;font-size:calc(28pt*var(--s));line-height:1.08;letter-spacing:-.01em;color:var(--tanne);margin-top:calc(5mm*var(--s))}
+.sb-mit{font-family:'Sans Satz',Arial,sans-serif;font-weight:500;font-size:calc(7.4pt*var(--s));letter-spacing:.08em;text-transform:uppercase;color:var(--gold-tief);margin-top:calc(2.6mm*var(--s))}
+.sb-n,.sb-band,.sb-t{text-wrap:pretty}
+
+/* Menus: Gänge mittig, Stern zwischen zwei Gängen, drei Sterne oben und unten, Preis allein darunter */
+.sb-quer--menue{justify-content:space-between}
+.sb-menue{display:flex;flex-direction:column;align-items:center;width:100%;text-align:center}
+.sb-quer--menue .sb-menue{flex:1 0 auto;justify-content:center}
+.sb-quer--menue .sb-menue::before,.sb-quer--menue .sb-menue::after{content:'';display:block;width:calc(11mm*var(--s));height:calc(3mm*var(--s));background:var(--stern) no-repeat 0 50%/auto 100%,var(--stern) no-repeat 50% 50%/auto 100%,var(--stern) no-repeat 100% 50%/auto 100%;flex:none}   /* drei einzelne Sterne: ein gekacheltes Muster bläht die PDF auf (4 MB) */
+.sb-quer--menue .sb-menue::before{margin-bottom:calc(4.2mm*var(--s))}
+.sb-quer--menue .sb-menue::after{margin-top:calc(4.2mm*var(--s))}
+.sb-quer--menue .sb-menue>*{max-width:150mm}
+.sb-quer--menue .sb-menue>*+*::before{content:'';display:block;width:calc(2.4mm*var(--s));height:calc(2.4mm*var(--s));margin:calc(2.6mm*var(--s)) auto;background:var(--stern) no-repeat center/contain}
+.sb-quer--menue .sb-n{font-family:'Serif Satz',Georgia,serif;font-size:calc(11.6pt*var(--s));line-height:1.3;color:var(--tanne)}
+.sb-quer--menue .sb-t{font-size:calc(9pt*var(--s));color:var(--leise);margin-top:calc(.5mm*var(--s))}
+.sb-quer--menue .sb-t+.sb-t{margin-top:0}
+/* ein Gang mit Überschrift und zwei Tellern («Reh aus der Bareiss- Jagd»): die Teller kleiner darunter, ohne Stern dazwischen */
+.sb-paar .sb-h{font-family:'Serif Satz',Georgia,serif;font-size:calc(11.6pt*var(--s));line-height:1.3;color:var(--tanne);margin-bottom:calc(1.8mm*var(--s))}
+.sb-paar .sb-m+.sb-m{margin-top:calc(2.2mm*var(--s))}
+.sb-quer--menue .sb-paar .sb-m .sb-n{font-size:calc(10.4pt*var(--s))}
+.sb-g{flex:none;margin-top:calc(5mm*var(--s))}
+.sb-p b{font-family:'Serif Titel',Georgia,serif;font-weight:400;font-size:calc(19pt*var(--s));line-height:1;color:var(--tanne);font-variant-numeric:lining-nums}
+
+/* À la carte und Desserts: Kapitel als Etikett mit kurzer Goldlinie, Gruppen mit Name und Preis in einer Zeile, Teller Zeile für Zeile */
+.sb-menue--karte{align-items:stretch;text-align:left;max-width:148mm}
+.sb-quer--karte{justify-content:flex-start}
+.sb-quer--karte .sb-menue{flex:1 0 auto;justify-content:space-evenly}
+.sb-r+.sb-r{margin-top:calc(6mm*var(--s))}
+.sb-menue--karte .sb-h{font-family:'Sans Satz',Arial,sans-serif;font-weight:500;font-size:calc(8pt*var(--s));letter-spacing:.08em;text-transform:uppercase;color:var(--gold-tief);text-align:center;margin-bottom:calc(4mm*var(--s))}
+.sb-menue--karte .sb-h::after{content:'';display:block;width:9mm;height:.25mm;margin:calc(2.2mm*var(--s)) auto 0;background:var(--gold)}
+.sb-gr{display:grid;grid-template-columns:1fr auto;column-gap:6mm;align-items:baseline}
+.sb-gr+.sb-gr{margin-top:calc(4.2mm*var(--s))}
+.sb-gr>*{grid-column:1/-1}
+.sb-gr>.sb-n{grid-column:1;font-family:'Serif Satz',Georgia,serif;font-size:calc(11pt*var(--s));line-height:1.28;color:var(--tanne)}
+.sb-gr>.sb-mp{grid-column:2;grid-row:1;font-family:'Serif Titel',Georgia,serif;font-size:calc(11pt*var(--s));line-height:1.28;color:var(--tanne);white-space:nowrap;font-variant-numeric:lining-nums tabular-nums}
+.sb-gr>.sb-t{color:var(--leise);padding-left:4mm;text-indent:-4mm}
+.sb-gr>.sb-t:not(.sb-t1){padding-left:4mm;text-indent:0}
+.sb-gr>.sb-t1{margin-top:calc(1.1mm*var(--s));color:var(--tinte)}
+.sb-gr>.sb-n+.sb-t1,.sb-gr>.sb-mp+.sb-t1{margin-top:calc(1.4mm*var(--s))}
+.sb-dose>.sb-n{font-size:calc(10pt*var(--s))}
+.sb-dose>.sb-mp{font-size:calc(10pt*var(--s))}
+.sb-nachsatz{display:grid;grid-template-columns:1fr 1fr;gap:8mm;margin-top:calc(7mm*var(--s));padding-top:calc(5mm*var(--s));border-top:.25mm solid var(--linie2)}
+.sb-satz{text-align:center}
+.sb-satz .sb-n{font-family:'Serif Satz',Georgia,serif;font-size:calc(11pt*var(--s));color:var(--tanne);margin-bottom:calc(1.2mm*var(--s))}
+.sb-satz .sb-t{color:var(--leise)}
+.sb-hinweis{margin-top:calc(5mm*var(--s));padding-top:calc(3mm*var(--s));border-top:.25mm solid var(--linie2);font-size:calc(8.6pt*var(--s));color:var(--leise);text-align:center;max-width:150mm;margin-left:auto;margin-right:auto}
+
+/* Gestalten (Fortgeschritten): Stile, die satz.js an ein Element legt (nie fett, nie kursiv: «kursiv» und «medium» gibt es hier nicht) */
+[data-gf]{font-family:var(--gf)!important}
+[data-gc]{color:var(--gc)!important}
+[data-ga="versal"]{text-transform:uppercase!important;letter-spacing:.06em}
+[data-ga="normal"]{text-transform:none!important;letter-spacing:0!important}
+[data-gal]{text-align:var(--gal)!important;justify-content:var(--gai)!important;align-items:var(--gai)}
+[data-gz]{line-height:var(--gz)!important}
+@media print{html,body{background:none}.blatt{margin:0}}
+/* Flächen wachsen, schrumpfen aber nie: sonst läuft Inhalt unbemerkt übereinander statt dass blatt.js die Schrift einpasst (Fehlerbuch 9) */
+.sb-quer{flex:1 0 auto;min-height:auto}

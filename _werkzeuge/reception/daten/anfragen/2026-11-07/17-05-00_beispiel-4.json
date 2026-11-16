@@ -1,0 +1,36 @@
+{
+ "zeit": "2026-11-07T17:05:00+01:00",
+ "art": "tisch",
+ "name": "Markus Lindner",
+ "kontakt": "+49 711 555 0142",
+ "datum": "16.02.2027",
+ "personen": 4,
+ "anliegen": "Ein Tisch im Restaurant Bareiss für vier Personen am Dienstag, 16. Februar, abends.",
+ "sprache": "de",
+ "gespraech": "beispiel-4",
+ "verlauf": [
+  {
+   "rolle": "user",
+   "text": "Über ein Formular der Website (Seite 3-Sterne-Restaurant Bareiss): Restaurant: 3-Sterne-Restaurant Bareiss\nDatum: 16.02.2027\nUhrzeit: 19.30\nPersonen: 4\nIhre Nachricht: Ein Geburtstag in der Familie, wir kommen aus Stuttgart."
+  }
+ ],
+ "status": "gelesen",
+ "beispiel": true,
+ "an": "Telefon +49 7442 47-0 · info@bareiss.com",
+ "abteilung": "Restaurants",
+ "seite": "/restaurant-bareiss.html",
+ "seite_name": "3-Sterne-Restaurant Bareiss",
+ "web": true,
+ "nachricht": "Restaurant: 3-Sterne-Restaurant Bareiss\nDatum: 16.02.2027\nUhrzeit: 19.30\nPersonen: 4\nIhre Nachricht: Ein Geburtstag in der Familie, wir kommen aus Stuttgart.",
+ "formular": "tisch",
+ "uhrzeit": "19.30",
+ "entwurf": {
+  "betreff": "Ihr Tisch bei uns",
+  "text": "Sehr geehrter Herr Lindner,\n\nherzlichen Dank für Ihre Nachricht. Gerne halten wir Ihnen Ihren Tisch bereit [Tisch prüfen].\n\nDas 3-Sterne-Restaurant Bareiss ist Donnerstag bis Sonntag mittags ab 12.00 Uhr und abends ab 19.00 Uhr für Sie da; die Kaminstube täglich von 19.00 bis 22.30 Uhr.\n\nDamit wir den Abend für Sie vorbereiten können:\n- Ihr Wunschtag und die Uhrzeit\n- wie viele Personen\n- ein Anlass, den wir kennen sollten\n\nHerzliche Grüße aus Mitteltal\n\nIhre Familie Bareiss\nHotel Bareiss",
+  "team": "Grundlage: Restaurant Bareiss, Kulinarik (Website)\nOffen: Tisch, Restaurant, Uhrzeit",
+  "vorlage": "tisch",
+  "absender": "Telefon +49 7442 47-0 · info@bareiss.com",
+  "zeit": "2026-11-10T19:07:56+08:00",
+  "fassung": 1
+ }
+}

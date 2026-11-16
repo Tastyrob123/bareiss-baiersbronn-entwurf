@@ -1,0 +1,35 @@
+{
+ "zeit": "2026-11-08T20:15:00+01:00",
+ "art": "familie",
+ "name": "Thomas Brenner",
+ "kontakt": "thomas.brenner@example.com",
+ "datum": "27.12.2026 bis 02.01.2027",
+ "personen": 4,
+ "anliegen": "Ein Familien-Appartement über den Jahreswechsel, zwei Erwachsene und zwei Kinder (5 und 9 Jahre alt).",
+ "sprache": "de",
+ "gespraech": "beispiel-2",
+ "verlauf": [
+  {
+   "rolle": "user",
+   "text": "Über ein Formular der Website (Seite Zimmer: Familien-Appartements): Zimmer: Familien-Appartement »Orspach I«\nAnreise: 27.12.2026\nAbreise: 02.01.2027\nGäste: 2 Erwachsene, 2 Kinder\nAlter der Kinder: 5 und 9 Jahre\nIhre Nachricht: Wir möchten den Jahreswechsel gerne mit den Kindern im Schwarzwald verbringen."
+  }
+ ],
+ "status": "gelesen",
+ "beispiel": true,
+ "an": "Telefon +49 7442 47-0 · info@bareiss.com",
+ "abteilung": "Familie",
+ "seite": "/zimmer-familien.html",
+ "seite_name": "Zimmer: Familien-Appartements",
+ "web": true,
+ "nachricht": "Zimmer: Familien-Appartement »Orspach I«\nAnreise: 27.12.2026\nAbreise: 02.01.2027\nGäste: 2 Erwachsene, 2 Kinder\nAlter der Kinder: 5 und 9 Jahre\nIhre Nachricht: Wir möchten den Jahreswechsel gerne mit den Kindern im Schwarzwald verbringen.",
+ "formular": "zimmer",
+ "platz": "Familien-Appartement »Orspach I«",
+ "entwurf": {
+  "betreff": "Ihre Tage über den Jahreswechsel im Familien-Appartement",
+  "text": "Sehr geehrter Herr Brenner,\n\nherzlichen Dank für Ihre Anfrage. Gerne schauen wir, ob das Familien-Appartement »Orspach I« vom 27. Dezember bis 2. Januar für Sie frei ist [Verfügbarkeit prüfen]. Mit mehreren separaten Schlafzimmern hat jeder von Ihnen Platz für sich, und am Abend sitzen Sie wieder beisammen.\n\nDas Appartement gibt es ab 1.360 € pro Zimmer und Nacht für 4 Personen, ab 4 Übernachtungen ab 1.140 €, inklusive der Bareiss Halbpension. Den Preis für Ihre Tage nennen wir Ihnen gerne [Preis für die Tage].\n\nFür Ihre Kinder ist das Kinderdörfle da, mit Villa Kunterbunt für die Minis und eigenen Plätzen für die Maxis [Programm über den Jahreswechsel bestätigen].\n\nAm Ankunftstag ist Ihr Appartement ab 15.00 Uhr bezugsfertig. Bitte beachten Sie: Den kostenfreien Rücktritt bis drei Wochen vor Anreise gibt es in der Weihnachtszeit nicht.\n\nHerzliche Grüße aus Mitteltal\n\nIhre Familie Bareiss\nHotel Bareiss",
+  "team": "Grundlage: Zimmer (Familien-Appartements), Familie (Kinderdörfle), Wissenswertes (Zeiten, Stornierung).\nOffen: ob das Appartement frei ist, Preis für die Tage, Programm des Kinderdörfle über den Jahreswechsel.",
+  "vorlage": "familie",
+  "absender": "Telefon +49 7442 47-0 · info@bareiss.com",
+  "zeit": "2026-11-08T20:15:00+01:00"
+ }
+}

@@ -1,0 +1,236 @@
+/* Die vier Menus, 15 Darstellungen (13.11.2026, _bau/menukarten.py). Pflicht in jeder Fassung:
+   alle Flächen enden auf einer Linie, in keiner Karte steht Leerraum. */
+.mk{--papier:linear-gradient(180deg,#fefcf8,#f5efe3);--kante:inset 0 1px 0 #fff,0 2px 0 #e9e2d2,0 4px 0 #dcd3c0,0 6px 0 #cfc5b0,0 28px 40px -28px rgba(0,0,0,.75)}
+.mk *{min-width:0}
+.mk-t{font:420 clamp(1.45rem,1.9vw,1.9rem)/1.15 var(--serif);color:var(--tinte);text-align:center}
+.mk-von{margin-top:8px;font:500 13px/1.4 var(--sans);letter-spacing:.16em;text-transform:uppercase;color:var(--gold-tief);text-align:center}
+.mk-g{list-style:none;margin:22px 0 0;padding:0;font:400 16px/1.5 var(--serif);color:var(--tinte);text-align:center}
+.mk-g>li+li::before{content:"";display:block;width:5px;height:5px;margin:13px auto;background:var(--gold);transform:rotate(45deg)}
+.mk-gruppe b{display:block;color:var(--gold-tief)}
+.mk-gruppe span{display:block;margin-top:8px}
+.mk-g--zwei{columns:2;column-gap:clamp(20px,2.4vw,40px)}
+.mk-g--drei{columns:3;column-gap:clamp(20px,2.4vw,40px)}
+.mk-g--zwei>li,.mk-g--drei>li{break-inside:avoid}
+.mk-g--zwei>li+li::before,.mk-g--drei>li+li::before{margin:11px auto}
+.mk-preis{margin-top:22px;padding-top:20px;font:420 1.9rem/1 var(--serif);color:var(--tinte);text-align:center;position:relative}
+.mk-preis::before{content:"";position:absolute;top:0;left:50%;transform:translateX(-50%);width:44px;height:1px;background:var(--gold)}
+/* Reiter */
+.mk-reiter{display:flex;gap:8px;justify-content:center;flex-wrap:wrap;margin:0 auto clamp(26px,3vw,44px);padding:6px;background:rgba(255,255,255,.07);border-radius:999px;width:max-content;max-width:100%}
+.mk-reiter button{border:0;cursor:pointer;background:none;border-radius:999px;padding:11px 20px;display:flex;align-items:baseline;gap:10px;font:500 13px/1.25 var(--sans);letter-spacing:.12em;text-transform:uppercase;color:#ddd7c8;transition:background-color .5s,color .5s}
+.mk-reiter button em{font:420 15px/1 var(--serif);font-style:normal;letter-spacing:0;color:var(--gold)}
+.mk-reiter button[aria-selected="true"]{background:var(--gold);color:var(--tanne)}
+.mk-reiter button[aria-selected="true"] em{color:var(--tanne)}
+.mk-reiter--linie{background:none;border-radius:0;border-bottom:1px solid rgba(201,177,1,.4);padding:0 0 12px;gap:clamp(14px,2vw,34px)}
+.mk-reiter--linie button{padding:8px 4px;border-radius:0}
+.mk-reiter--linie button[aria-selected="true"]{background:none;color:var(--gold-hell);box-shadow:0 2px 0 var(--gold)}
+.mk-reiter--linie button[aria-selected="true"] em{color:var(--gold-hell)}
+.mk-blatt[hidden]{display:none}
+.mk-papier{background:var(--papier);border-radius:8px;box-shadow:var(--kante)}
+
+/* Kartenwechsel: das alte Blatt gleitet zur Seite, das neue hebt sich aus dem Stapel, ein Lichtstreif
+   läuft einmal über das Papier. Nur transform und opacity (14.11.2026). */
+.mk-blaetter.mk-weg .mk-blatt,.mk-blaetter.mk-weg-z .mk-blatt{animation:none;transition:opacity .23s ease,transform .23s var(--ein)}
+.mk-blaetter.mk-weg .mk-blatt{opacity:0;transform:translateX(-26px) translateY(6px) rotate(-.8deg) scale(.987)}
+.mk-blaetter.mk-weg-z .mk-blatt{opacity:0;transform:translateX(26px) translateY(6px) rotate(.8deg) scale(.987)}
+.mk-blaetter.mk-vor .mk-blatt{animation:mk-auf-vor .72s var(--ein) both}
+.mk-blaetter.mk-zur .mk-blatt{animation:mk-auf-zur .72s var(--ein) both}
+@keyframes mk-auf-vor{from{opacity:0;transform:translateX(40px) translateY(14px) rotate(1.3deg) scale(.982)}
+  60%{opacity:1}to{opacity:1;transform:none}}
+@keyframes mk-auf-zur{from{opacity:0;transform:translateX(-40px) translateY(14px) rotate(-1.3deg) scale(.982)}
+  60%{opacity:1}to{opacity:1;transform:none}}
+.mk1 .mk-blaetter{overflow:hidden}
+.mk1 .mk-blaetter::after{content:"";position:absolute;inset:0;z-index:3;pointer-events:none;opacity:0;
+  background:linear-gradient(100deg,transparent 40%,rgba(255,255,255,.62) 50%,transparent 60%)}
+.mk1 .mk-blaetter.mk-vor::after,.mk1 .mk-blaetter.mk-zur::after{animation:mk-glanz .85s ease both}
+@keyframes mk-glanz{0%{opacity:0;transform:translateX(-62%)}28%{opacity:.95}100%{opacity:0;transform:translateX(62%)}}
+.mk1-l{transition:transform .6s var(--ein)}
+.mk1-k2:has(.mk-weg) .mk1-l--a{transform:rotate(1.5deg) translate(6px,4px)}
+.mk1-k2:has(.mk-weg) .mk1-l--b{transform:rotate(-1deg) translate(-4px,3px)}
+.mk1-k2:has(.mk-weg-z) .mk1-l--a{transform:rotate(.2deg) translate(-6px,4px)}
+.mk1-k2:has(.mk-weg-z) .mk1-l--b{transform:rotate(-1.2deg) translate(4px,3px)}
+@media (prefers-reduced-motion:reduce){.mk1 .mk-blaetter::after,.mk1-l{animation:none!important;transition:none}}
+
+/* 1 Reiter, Gänge zweispaltig */
+/* Das Blatt liegt auf zwei weiteren Karten: echte Papierkanten, kein nachgezeichneter Rand (14.11.2026). */
+.mk1-s{position:relative;width:min(calc(100% - 44px),700px);margin-inline:auto}
+.mk1-k2{position:relative}
+.mk1-l{position:absolute;pointer-events:none;border-radius:5px;background:linear-gradient(180deg,#f4eede,#e4dbc6);box-shadow:0 16px 26px -20px rgba(0,0,0,.8)}
+.mk1-l--a{inset:17px -17px -24px -17px;transform:rotate(.7deg)}
+.mk1-l--b{inset:9px -9px -13px -9px;transform:rotate(-.45deg);background:linear-gradient(180deg,#f8f3e7,#e9e1cd)}
+.mk1 .mk-blaetter{position:relative;border-radius:5px;
+  background:linear-gradient(104deg,rgba(255,255,255,.5) 0%,rgba(255,255,255,0) 26%),
+    radial-gradient(130% 85% at 16% -4%,rgba(255,255,255,.95),rgba(255,255,255,0) 62%),
+    radial-gradient(95% 72% at 102% 106%,rgba(118,102,64,.16),rgba(118,102,64,0) 62%),
+    linear-gradient(168deg,#fffdf8 0%,#fcf8ee 40%,#f4eddd 80%,#eee6d2 100%);
+  box-shadow:inset 0 0 0 1px rgba(255,255,255,.85),inset 0 -1px 0 rgba(160,142,98,.34),
+    0 2px 0 #efe8d7,0 4px 0 #e6ddc8,0 6px 0 #ddd3bc,
+    0 18px 26px -16px rgba(0,0,0,.55),0 56px 74px -36px rgba(0,0,0,.95)}
+/* Pfeile links und rechts der Karte: man blättert, wo man gerade liest (Robert 14.11.2026). */
+.mk1-pfeile{position:absolute;inset:0;z-index:2;display:flex;justify-content:space-between;align-items:center;pointer-events:none}
+.mk1-p{pointer-events:auto;cursor:pointer;width:60px;height:60px;flex:0 0 auto;display:grid;place-items:center;
+  border:1px solid rgba(201,177,1,.55);border-radius:999px;background:rgba(23,32,26,.86);color:var(--gold);
+  box-shadow:0 14px 24px -14px rgba(0,0,0,.9);transition:background-color .45s,color .45s,border-color .45s}
+.mk1-p svg{width:24px;height:24px}
+.mk1-p:hover,.mk1-p:focus-visible{background:var(--gold);color:var(--tanne);border-color:var(--gold)}
+.mk1-p--l{margin-left:clamp(-96px,-6vw,-70px)}
+.mk1-p--r{margin-right:clamp(-96px,-6vw,-70px)}
+.speisekarte:has(.mk1) .karte__fuss{margin-top:clamp(44px,4.4vw,72px)}
+@media (max-width:1060px){.mk1-p--l{margin-left:-6px}.mk1-p--r{margin-right:-6px}}
+@media (max-width:760px){
+  .mk1-pfeile{position:static;justify-content:center;gap:20px;margin-top:30px}
+  .mk1-p{position:static;margin:0;width:54px;height:54px}}
+.mk1 .mk-blatt{position:relative;padding:clamp(40px,4.2vw,68px) clamp(32px,3.6vw,62px)}
+.mk1 .mk-g{margin-top:clamp(26px,2.8vw,38px);font-size:17px;line-height:1.6}
+.mk1 .mk-g>li+li::before{margin:16px auto}
+.mk1 .mk-preis{margin-top:clamp(28px,3vw,40px);padding-top:24px}
+.mk1 .mk-blatt::before{content:"";position:absolute;inset:clamp(13px,1.4vw,22px);border:1px solid rgba(166,143,10,.3);border-radius:2px;pointer-events:none}
+.mk1 .mk-t{text-shadow:0 1px 0 rgba(255,255,255,.9)}
+.mk1 .mk-preis{text-shadow:0 1px 0 rgba(255,255,255,.9)}
+.mk1-k{text-align:center;padding-bottom:clamp(18px,2vw,30px);border-bottom:1px solid rgba(150,132,1,.35)}
+/* 2 Akkordeon */
+.mk2-z{width:min(100%,900px);margin-inline:auto;background:linear-gradient(180deg,#fefcf8,#f5efe3);border-radius:8px;box-shadow:inset 0 1px 0 #fff,0 2px 0 #e9e2d2,0 22px 32px -26px rgba(0,0,0,.7)}
+.mk2-z+.mk2-z{margin-top:12px}
+.mk2-z summary{list-style:none;cursor:pointer;display:flex;justify-content:space-between;align-items:baseline;gap:20px;padding:22px clamp(20px,2.4vw,38px)}
+.mk2-z summary::-webkit-details-marker{display:none}
+.mk2-z summary span{font:420 clamp(1.3rem,1.7vw,1.7rem)/1.2 var(--serif);color:var(--tinte)}
+.mk2-z summary em{font:420 1.4rem/1 var(--serif);font-style:normal;color:var(--gold-tief)}
+.mk2-i{padding:0 clamp(20px,2.4vw,38px) clamp(24px,2.6vw,40px)}
+.mk2{padding-bottom:clamp(30px,3.4vw,54px)}
+/* Akkordeon: der Abschnitt bekommt unten Luft, damit beim Aufklappen nichts unter die runde Kante des nächsten Abschnitts rutscht */
+/* Akkordeon: der Abschnitt behält seine Höhe, egal welches Menu offen ist – nichts springt, nichts rutscht unter die runde Kante */
+.mk2{min-height:1180px}
+@media (max-width:900px){.mk2{min-height:1900px}}
+@media (max-width:500px){.mk2{min-height:2250px}}
+.speisekarte:has(.mk2) .karte__fuss{margin-top:34px}
+.mk2-i .mk-g{margin-top:14px}
+/* 4 Band zum Blättern */
+.mk4-b{display:flex;gap:16px;overflow-x:auto;scroll-snap-type:x mandatory;padding:4px var(--rand) 14px;margin-inline:calc(-1*var(--rand));scrollbar-width:none}
+.mk4-b::-webkit-scrollbar{display:none}
+.mk4-k{flex:0 0 min(440px,80vw);scroll-snap-align:center;display:flex;flex-direction:column;background:linear-gradient(180deg,#fefcf8,#f5efe3);border-radius:8px;padding:clamp(28px,3vw,48px) clamp(20px,2.4vw,38px);box-shadow:inset 0 1px 0 #fff,0 2px 0 #e9e2d2,0 4px 0 #dcd3c0,0 26px 38px -28px rgba(0,0,0,.72)}
+.mk4-k .mk-g{flex:1}
+/* 5 Je Menu eine Zeile */
+.mk5-z{width:min(100%,1100px);margin-inline:auto;display:grid;grid-template-columns:240px 1fr;gap:clamp(24px,3vw,56px);align-items:center;background:linear-gradient(180deg,#fefcf8,#f5efe3);border-radius:8px;padding:clamp(24px,2.6vw,42px) clamp(22px,2.6vw,42px);box-shadow:inset 0 1px 0 #fff,0 2px 0 #e9e2d2,0 22px 32px -26px rgba(0,0,0,.7)}
+.mk5-z+.mk5-z{margin-top:12px}
+.mk5-k{text-align:left;border-right:1px solid rgba(150,132,1,.3);padding-right:clamp(20px,2.4vw,38px)}
+.mk5-k .mk-t,.mk5-k .mk-von{text-align:left}
+.mk5-p{margin-top:16px;padding-top:0;text-align:left;font-size:1.7rem}
+.mk5-p::before{left:0;transform:none;margin-bottom:0;top:-10px}
+.mk5-z .mk-g{margin-top:0;text-align:left}
+.mk5-z .mk-g>li+li::before{margin-inline:0}
+/* 6 Reiter links */
+.mk6-g{display:grid;grid-template-columns:260px minmax(0,560px);gap:clamp(24px,3vw,50px);justify-content:center;align-items:start}
+.mk-reiter--seite{flex-direction:column;width:auto;border-radius:12px;padding:10px;position:sticky;top:120px}
+.mk-reiter--seite button{justify-content:space-between;text-align:left;border-radius:8px;letter-spacing:.08em}
+.mk6-blatt{background:linear-gradient(180deg,#fefcf8,#f5efe3);border-radius:8px;box-shadow:inset 0 1px 0 #fff,0 2px 0 #e9e2d2,0 4px 0 #dcd3c0,0 26px 38px -28px rgba(0,0,0,.72)}
+.mk6-blatt .mk-blatt{padding:clamp(30px,3.4vw,56px) clamp(24px,3vw,52px)}
+/* 7 Karussell mit Buchrücken */
+.mk7-g{display:grid;grid-template-columns:auto minmax(0,620px);gap:clamp(18px,2.2vw,36px);justify-content:center;align-items:stretch}
+.mk7-l{display:flex;gap:8px}
+.mk7-r{width:clamp(44px,3.6vw,58px);border:0;cursor:pointer;border-radius:4px;background:linear-gradient(90deg,#d8cfbb,#ece6d8 50%,#d8cfbb);color:var(--tanne);box-shadow:0 0 0 1px rgba(150,132,1,.4)}
+.mk7-r span{writing-mode:vertical-rl;transform:rotate(180deg);font:420 1.1rem/1 var(--serif);letter-spacing:.06em}
+.mk7-r[aria-selected="true"]{background:linear-gradient(90deg,#1a201c,#2b352e 50%,#1a201c);color:var(--gold-hell)}
+.mk7-m{background:linear-gradient(180deg,#fefcf8,#f5efe3);border-radius:8px;box-shadow:inset 0 1px 0 #fff,0 2px 0 #e9e2d2,0 4px 0 #dcd3c0,0 26px 38px -28px rgba(0,0,0,.72)}
+.mk7-m .mk-blatt{padding:clamp(28px,3vw,52px) clamp(22px,2.6vw,46px)}
+/* 9 Drei Spalten */
+.mk9 .mk-blaetter{width:min(100%,1120px);margin-inline:auto;background:linear-gradient(180deg,#fefcf8,#f5efe3);border-radius:8px;box-shadow:inset 0 1px 0 #fff,0 2px 0 #e9e2d2,0 4px 0 #dcd3c0,0 28px 40px -28px rgba(0,0,0,.75)}
+.mk9 .mk-blatt{padding:clamp(30px,3.4vw,56px) clamp(24px,3vw,52px)}
+.mk9-k{text-align:center;padding-bottom:clamp(18px,2vw,30px);border-bottom:1px solid rgba(150,132,1,.35)}
+/* 10 Dunkle Tafel */
+.mk10-t{width:min(100%,900px);margin:clamp(24px,2.6vw,40px) auto 0;background:var(--salbei);border-radius:var(--ecke)}
+.mk10-t .mk-blatt{padding:clamp(30px,3.4vw,58px) clamp(24px,3vw,52px)}
+.mk10-t .mk-t,.mk10-t .mk-g,.mk10-t .mk-preis{color:#f2ede1}
+.mk10-t .mk-von,.mk10-t .mk-gruppe b{color:var(--gold-hell)}
+.mk10-k{text-align:center;padding-bottom:clamp(18px,2vw,30px);border-bottom:1px solid rgba(201,177,1,.4)}
+/* 12 Aufgeschlagenes Buch */
+.mk12-b{width:min(100%,1020px);margin-inline:auto;background:linear-gradient(90deg,#fefcf8,#f3ece0 49.6%,#e7dfd0 50%,#f3ece0 50.4%,#fefcf8);border-radius:8px;box-shadow:inset 0 1px 0 #fff,0 2px 0 #e9e2d2,0 4px 0 #dcd3c0,0 28px 40px -28px rgba(0,0,0,.75)}
+.mk12-b .mk-blatt{display:grid;grid-template-columns:.8fr 1.2fr;gap:clamp(24px,3vw,56px);padding:clamp(30px,3.4vw,56px) clamp(24px,3vw,52px)}
+.mk12-l{display:flex;flex-direction:column;justify-content:center;align-self:center;text-align:left}
+.mk12-t{text-align:left;font-size:clamp(1.9rem,3vw,2.8rem);line-height:1.08}
+.mk12-l .mk-von{text-align:left}
+.mk12-l .mk-preis{text-align:left;margin-top:24px}.mk12-l .mk-preis::before{left:0;transform:none}
+.mk12-r .mk-g{margin-top:0}
+/* 13 Eine Karte, Pfeile */
+.mk13-g{display:grid;grid-template-columns:auto 1fr auto;gap:clamp(14px,2vw,30px);align-items:center}
+.mk13-p{width:52px;height:52px;border:1px solid rgba(201,177,1,.5);border-radius:50%;background:none;color:var(--gold-hell);font:400 24px/1 var(--serif);cursor:pointer;transition:background-color .4s,color .4s}
+.mk13-p:hover{background:var(--gold);color:var(--tanne)}
+.mk13-m{max-width:620px;margin-inline:auto;width:100%;background:linear-gradient(180deg,#fefcf8,#f5efe3);border-radius:8px;box-shadow:inset 0 1px 0 #fff,0 2px 0 #e9e2d2,0 4px 0 #dcd3c0,0 26px 38px -28px rgba(0,0,0,.72)}
+.mk13-m .mk-blatt{padding:clamp(30px,3.4vw,56px) clamp(24px,3vw,46px)}
+/* 15 Preiskacheln */
+.mk15-r{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;background:none;padding:0;width:min(100%,900px);border-radius:0;margin:0 auto clamp(24px,2.6vw,40px)}
+.mk15-r button{flex-direction:column;align-items:center;gap:6px;padding:20px 14px;border-radius:10px;background:rgba(255,255,255,.06);box-shadow:inset 0 0 0 1px rgba(201,177,1,.3)}
+.mk15-r button b{font:420 clamp(1.6rem,2.2vw,2.1rem)/1 var(--serif)}
+.mk15-r button[aria-selected="true"]{background:var(--gold);color:var(--tanne)}
+.mk15 .mk-blaetter{width:min(100%,900px);margin-inline:auto;background:linear-gradient(180deg,#fefcf8,#f5efe3);border-radius:8px;box-shadow:inset 0 1px 0 #fff,0 2px 0 #e9e2d2,0 4px 0 #dcd3c0,0 28px 40px -28px rgba(0,0,0,.75)}
+.mk15 .mk-blatt{padding:clamp(30px,3.4vw,56px) clamp(24px,3vw,52px)}
+.mk15-k{text-align:center;padding-bottom:clamp(18px,2vw,30px);border-bottom:1px solid rgba(150,132,1,.35)}
+
+@media (max-width:900px){
+  .mk-g--drei{columns:2}
+  .mk3-g,.mk11-g{grid-template-columns:1fr}
+  .mk3-l,.mk11-l{position:static;flex-direction:row;flex-wrap:wrap}
+  .mk3-l button,.mk11-l button{flex:1}
+  .mk5-z{grid-template-columns:1fr}.mk5-k{border-right:0;border-bottom:1px solid rgba(150,132,1,.3);padding:0 0 20px}
+  .mk6-g{grid-template-columns:1fr}.mk-reiter--seite{position:static;flex-direction:row;flex-wrap:wrap;width:max-content;max-width:100%;margin-inline:auto}
+  .mk12-b .mk-blatt{grid-template-columns:1fr;background:linear-gradient(180deg,#fefcf8,#f5efe3)}
+  .mk12-l,.mk12-t,.mk12-l .mk-von,.mk12-l .mk-preis{text-align:center}.mk12-l .mk-preis::before{left:50%;transform:translateX(-50%)}
+  .mk15-r{grid-template-columns:1fr 1fr}
+}
+@media (max-width:700px){
+  .mk-g--zwei,.mk-g--drei{columns:1}   /* am Handy nie zwei, drei schmale Textspalten */
+  .mk-reiter{width:100%;justify-content:space-between}
+  .mk-reiter button{padding:10px 10px;letter-spacing:.04em;font-size:13px}
+  .mk4-k{flex-basis:84vw}
+  .mk7-g{grid-template-columns:1fr}.mk7-l{flex-direction:row;justify-content:center}.mk7-r{width:auto;flex:1;padding:12px 0}.mk7-r span{writing-mode:horizontal-tb;transform:none}
+  .mk13-p{width:42px;height:42px}
+}
+
+/* ===== Robert 13.11.2026: das Papier sitzt eng am Text. Nie eine grosse helle Fläche mit einer Textinsel. ===== */
+.mk-papierflaeche{width:min(100%,660px);margin-inline:auto;background:linear-gradient(180deg,#fefcf8,#f5efe3);border-radius:8px;
+  box-shadow:inset 0 1px 0 #fff,0 2px 0 #e9e2d2,0 4px 0 #dcd3c0,0 6px 0 #cfc5b0,0 28px 40px -28px rgba(0,0,0,.75)}
+.mk-papierflaeche--zwei{width:min(100%,900px)}
+.mk-blatt{padding:clamp(28px,3vw,50px) clamp(24px,2.8vw,46px)}
+/* 3 Liste links, Menu rechts */
+.mk3-g{display:grid;grid-template-columns:260px minmax(0,560px);gap:clamp(22px,2.6vw,42px);justify-content:center;align-items:start}
+.mk3-l{display:flex;flex-direction:column;gap:8px;position:sticky;top:120px}
+.mk3-l button{border:0;cursor:pointer;background:rgba(255,255,255,.06);box-shadow:inset 0 0 0 1px rgba(201,177,1,.25);border-radius:10px;padding:16px 18px;text-align:left;display:flex;flex-direction:column;gap:5px;transition:background-color .5s,color .5s}
+.mk3-l b{font:420 1.15rem/1.2 var(--serif);color:#f2ede1}
+.mk3-l span{font:500 13px/1 var(--sans);letter-spacing:.14em;color:var(--gold)}
+.mk3-l button[aria-selected="true"]{background:var(--gold)}
+.mk3-l button[aria-selected="true"] b,.mk3-l button[aria-selected="true"] span{color:var(--tanne)}
+.mk3-b{width:100%;background:linear-gradient(180deg,#fefcf8,#f5efe3);border-radius:8px;box-shadow:inset 0 1px 0 #fff,0 2px 0 #e9e2d2,0 4px 0 #dcd3c0,0 26px 38px -28px rgba(0,0,0,.72)}
+/* 8 Papier mit Foto-Kopf */
+.mk8-b{width:min(100%,640px);margin-inline:auto;overflow:hidden;border-radius:8px;background:linear-gradient(180deg,#fefcf8,#f5efe3);box-shadow:inset 0 1px 0 #fff,0 2px 0 #e9e2d2,0 4px 0 #dcd3c0,0 28px 40px -28px rgba(0,0,0,.75)}
+.mk8-f{height:clamp(160px,18vw,240px);background:url(../img/r-kabeljau-1200.webp?v=1) 50% 55%/cover}
+.mk8-k{text-align:center;padding-bottom:clamp(16px,1.8vw,26px);border-bottom:1px solid rgba(150,132,1,.35)}
+/* 11 Nummerierte Namen links */
+.mk11-g{display:grid;grid-template-columns:240px minmax(0,560px);gap:clamp(22px,2.6vw,46px);justify-content:center;align-items:start}
+.mk11-l{display:flex;flex-direction:column;position:sticky;top:120px}
+.mk11-l button{border:0;cursor:pointer;background:none;text-align:left;display:grid;grid-template-columns:auto 1fr;gap:4px 14px;padding:16px 0;border-top:1px solid rgba(201,177,1,.3)}
+.mk11-l button:first-child{border-top:0}
+.mk11-l em{grid-row:span 2;font:420 1.3rem/1 var(--serif);font-style:normal;color:var(--gold)}
+.mk11-l b{font:420 1.15rem/1.2 var(--serif);color:#ddd7c8}
+.mk11-l span{font:500 12.5px/1 var(--sans);letter-spacing:.14em;color:rgba(236,230,216,.6)}
+.mk11-l button[aria-selected="true"] b{color:var(--gold-hell)}
+.mk11-l button[aria-selected="true"] span{color:var(--gold)}
+.mk11-b{width:100%;background:linear-gradient(180deg,#fefcf8,#f5efe3);border-radius:8px;box-shadow:inset 0 1px 0 #fff,0 2px 0 #e9e2d2,0 4px 0 #dcd3c0,0 26px 38px -28px rgba(0,0,0,.72)}
+.mk11-k{text-align:center;padding-bottom:clamp(16px,1.8vw,26px);border-bottom:1px solid rgba(150,132,1,.35)}
+/* 14 Rautenrand */
+.mk14-b{width:min(100%,560px);margin-inline:auto;position:relative;background:linear-gradient(180deg,#fefcf8,#f5efe3);border-radius:8px;box-shadow:inset 0 1px 0 #fff,0 2px 0 #e9e2d2,0 4px 0 #dcd3c0,0 28px 40px -28px rgba(0,0,0,.75)}
+.mk14-b::before{content:"";position:absolute;inset:14px;border:1px solid rgba(150,132,1,.5);border-radius:3px;pointer-events:none}
+.mk14-b::after{content:"";position:absolute;inset:20px;pointer-events:none;opacity:.5;
+  background:repeating-linear-gradient(60deg,transparent 0 17px,rgba(150,132,1,.5) 17px 18px),repeating-linear-gradient(-60deg,transparent 0 17px,rgba(150,132,1,.5) 17px 18px);
+  -webkit-mask:linear-gradient(#000 0 0) content-box exclude,linear-gradient(#000 0 0);mask:linear-gradient(#000 0 0) content-box exclude,linear-gradient(#000 0 0);padding:8px}
+.mk14-b .mk-blatt{padding:clamp(34px,3.6vw,56px) clamp(34px,3.6vw,54px)}
+.mk14-k{text-align:center;padding-bottom:clamp(16px,1.8vw,26px);border-bottom:1px solid rgba(150,132,1,.35)}
+
+@media (max-width:900px){
+  .mk3-g,.mk11-g{grid-template-columns:1fr}
+  .mk3-l,.mk11-l{position:static;flex-direction:row;flex-wrap:wrap;gap:8px}
+  .mk3-l button,.mk11-l button{flex:1 1 44%;border-top:0}
+  .mk11-l button{background:rgba(255,255,255,.06);border-radius:10px;padding:14px 16px}
+}
+@media (max-width:700px){
+  .mk8-f{height:150px}
+  .mk14-b .mk-blatt{padding:34px 26px}
+  .mk14-b::before{inset:10px}.mk14-b::after{inset:15px}
+}

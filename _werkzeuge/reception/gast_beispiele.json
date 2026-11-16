@@ -1,0 +1,257 @@
+[
+ {
+  "vor": [
+   0,
+   8,
+   40
+  ],
+  "art": "zimmer",
+  "status": "neu",
+  "abteilung": "Zimmer",
+  "name": "Katrin Hellwig",
+  "kontakt": "katrin.hellwig@example.com",
+  "datum": "11.03.2027 bis 15.03.2027",
+  "personen": 2,
+  "sprache": "de",
+  "anliegen": "Das Große Doppelzimmer »Bergmosis« für vier Nächte zum Hochzeitstag, Ankunft mit der Bahn gegen 12.30 Uhr.",
+  "betreff": "",
+  "text": "",
+  "team": "",
+  "platz": "Großes Doppelzimmer »Bergmosis«",
+  "web": true,
+  "an": "Telefon +49 7442 47-0 · info@bareiss.com",
+  "seite": "/zimmer-doppelzimmer.html",
+  "seite_name": "Zimmer: Doppelzimmer",
+  "nachricht": "Zimmer: Großes Doppelzimmer »Bergmosis«\nAnreise: 11.03.2027\nAbreise: 15.03.2027\nGäste: 2 Erwachsene\nIhre Nachricht: Wir feiern unseren Hochzeitstag und kommen mit der Bahn, gegen 12.30 Uhr sind wir in Baiersbronn.",
+  "formular": "zimmer",
+  "verlauf": [
+   [
+    "user",
+    "Über ein Formular der Website (Seite Zimmer: Doppelzimmer): Zimmer: Großes Doppelzimmer »Bergmosis«\nAnreise: 11.03.2027\nAbreise: 15.03.2027\nGäste: 2 Erwachsene\nIhre Nachricht: Wir feiern unseren Hochzeitstag und kommen mit der Bahn, gegen 12.30 Uhr sind wir in Baiersbronn."
+   ]
+  ]
+ },
+ {
+  "vor": [
+   1,
+   20,
+   15
+  ],
+  "art": "familie",
+  "status": "gelesen",
+  "abteilung": "Familie",
+  "name": "Thomas Brenner",
+  "kontakt": "thomas.brenner@example.com",
+  "datum": "27.12.2026 bis 02.01.2027",
+  "personen": 4,
+  "sprache": "de",
+  "anliegen": "Ein Familien-Appartement über den Jahreswechsel, zwei Erwachsene und zwei Kinder (5 und 9 Jahre alt).",
+  "platz": "Familien-Appartement »Orspach I«",
+  "betreff": "Ihre Tage über den Jahreswechsel im Familien-Appartement",
+  "text": "Sehr geehrter Herr Brenner,\n\nherzlichen Dank für Ihre Anfrage. Gerne schauen wir, ob das Familien-Appartement »Orspach I« vom 27. Dezember bis 2. Januar für Sie frei ist [Verfügbarkeit prüfen]. Mit mehreren separaten Schlafzimmern hat jeder von Ihnen Platz für sich, und am Abend sitzen Sie wieder beisammen.\n\nDas Appartement gibt es ab 1.360 € pro Zimmer und Nacht für 4 Personen, ab 4 Übernachtungen ab 1.140 €, inklusive der Bareiss Halbpension. Den Preis für Ihre Tage nennen wir Ihnen gerne [Preis für die Tage].\n\nFür Ihre Kinder ist das Kinderdörfle da, mit Villa Kunterbunt für die Minis und eigenen Plätzen für die Maxis [Programm über den Jahreswechsel bestätigen].\n\nAm Ankunftstag ist Ihr Appartement ab 15.00 Uhr bezugsfertig. Bitte beachten Sie: Den kostenfreien Rücktritt bis drei Wochen vor Anreise gibt es in der Weihnachtszeit nicht.\n\nHerzliche Grüße aus Mitteltal\n\nIhre Familie Bareiss\nHotel Bareiss",
+  "team": "Grundlage: Zimmer (Familien-Appartements), Familie (Kinderdörfle), Wissenswertes (Zeiten, Stornierung).\nOffen: ob das Appartement frei ist, Preis für die Tage, Programm des Kinderdörfle über den Jahreswechsel.",
+  "web": true,
+  "an": "Telefon +49 7442 47-0 · info@bareiss.com",
+  "seite": "/zimmer-familien.html",
+  "seite_name": "Zimmer: Familien-Appartements",
+  "nachricht": "Zimmer: Familien-Appartement »Orspach I«\nAnreise: 27.12.2026\nAbreise: 02.01.2027\nGäste: 2 Erwachsene, 2 Kinder\nAlter der Kinder: 5 und 9 Jahre\nIhre Nachricht: Wir möchten den Jahreswechsel gerne mit den Kindern im Schwarzwald verbringen.",
+  "formular": "zimmer",
+  "verlauf": [
+   [
+    "user",
+    "Über ein Formular der Website (Seite Zimmer: Familien-Appartements): Zimmer: Familien-Appartement »Orspach I«\nAnreise: 27.12.2026\nAbreise: 02.01.2027\nGäste: 2 Erwachsene, 2 Kinder\nAlter der Kinder: 5 und 9 Jahre\nIhre Nachricht: Wir möchten den Jahreswechsel gerne mit den Kindern im Schwarzwald verbringen."
+   ]
+  ]
+ },
+ {
+  "vor": [
+   1,
+   11,
+   30
+  ],
+  "art": "tisch",
+  "status": "gelesen",
+  "abteilung": "Restaurants",
+  "name": "Annette Kaiser",
+  "kontakt": "annette.kaiser@example.com",
+  "datum": "20.03.2027",
+  "personen": 2,
+  "sprache": "de",
+  "anliegen": "Ein Tisch im Restaurant Bareiss am Samstagabend zu zweit, das Degustationsmenu; ihr Mann isst vegetarisch.",
+  "uhrzeit": "19.00",
+  "betreff": "Ihr Abend im Restaurant Bareiss",
+  "text": "Sehr geehrte Frau Kaiser,\n\nherzlichen Dank für Ihre Nachricht, und schön, dass Sie den Abend bei uns verbringen möchten. Gerne halten wir Ihnen am Samstag, 20. März, ab 19.00 Uhr einen Tisch für zwei Personen bereit [Tisch prüfen].\n\nClaus-Peter Lumpp kocht am Abend das Degustationsmenu für 350 €. Für Ihren Mann gibt es das vegetarische Menu für 295 €; wenn er etwas nicht verträgt, sagen Sie es uns, damit die Küche sich darauf einstellen kann [Küche informieren].\n\nWir freuen uns darauf, Sie beide an Ihrem Tisch zu begrüßen.\n\nHerzliche Grüße aus Mitteltal\n\nIhre Familie Bareiss\nHotel Bareiss",
+  "team": "Grundlage: Restaurant Bareiss (Öffnungszeiten, Menüs), Wissenswertes (Tischreservierung).\nOffen: Tisch am 20. März, Unverträglichkeiten.",
+  "verlauf": [
+   [
+    "user",
+    "Guten Tag, wir möchten am Samstag, 20. März, abends ins Restaurant Bareiss, zu zweit. Mein Mann isst vegetarisch. Geht das?"
+   ],
+   [
+    "assistant",
+    "Das Restaurant Bareiss ist Donnerstag bis Sonntag abends ab 19.00 Uhr geöffnet, und es gibt ein vegetarisches Menu. Ob ein Tisch frei ist, kann ich hier nicht prüfen. Gerne gebe ich Ihre Anfrage an das Team weiter: Wie heißen Sie, und wie erreicht man Sie?"
+   ],
+   [
+    "user",
+    "Annette Kaiser, annette.kaiser@example.com"
+   ],
+   [
+    "assistant",
+    "Danke. Dies ist ein Entwurf von Tasty Studios: Die Anfrage geht nicht an das Haus, sie liegt nur zur Ansicht im Gästebuch."
+   ]
+  ]
+ },
+ {
+  "vor": [
+   2,
+   17,
+   5
+  ],
+  "art": "tisch",
+  "status": "neu",
+  "abteilung": "Restaurants",
+  "name": "Markus Lindner",
+  "kontakt": "+49 711 555 0142",
+  "datum": "16.02.2027",
+  "personen": 4,
+  "sprache": "de",
+  "anliegen": "Ein Tisch im Restaurant Bareiss für vier Personen am Dienstag, 16. Februar, abends.",
+  "betreff": "",
+  "text": "",
+  "team": "",
+  "uhrzeit": "19.30",
+  "web": true,
+  "an": "Telefon +49 7442 47-0 · info@bareiss.com",
+  "seite": "/restaurant-bareiss.html",
+  "seite_name": "3-Sterne-Restaurant Bareiss",
+  "nachricht": "Restaurant: 3-Sterne-Restaurant Bareiss\nDatum: 16.02.2027\nUhrzeit: 19.30\nPersonen: 4\nIhre Nachricht: Ein Geburtstag in der Familie, wir kommen aus Stuttgart.",
+  "formular": "tisch",
+  "verlauf": [
+   [
+    "user",
+    "Über ein Formular der Website (Seite 3-Sterne-Restaurant Bareiss): Restaurant: 3-Sterne-Restaurant Bareiss\nDatum: 16.02.2027\nUhrzeit: 19.30\nPersonen: 4\nIhre Nachricht: Ein Geburtstag in der Familie, wir kommen aus Stuttgart."
+   ]
+  ]
+ },
+ {
+  "vor": [
+   3,
+   14,
+   20
+  ],
+  "art": "spa",
+  "status": "neu",
+  "abteilung": "Beauty & Spa",
+  "name": "Sabine Wörner",
+  "kontakt": "sabine.woerner@example.com",
+  "datum": "28.11.2026",
+  "personen": 1,
+  "sprache": "de",
+  "anliegen": "Eine Massage am Ankunftstag, danach noch in die Sauna.",
+  "betreff": "",
+  "text": "",
+  "team": "",
+  "verlauf": [
+   [
+    "user",
+    "Ich komme am 28. November an. Kann ich am Nachmittag eine Massage haben und danach in die Sauna?"
+   ],
+   [
+    "assistant",
+    "Die Saunawelt ist täglich von 7.30 bis 19.30 Uhr geöffnet. Den Termin für die Massage gebe ich gerne an das Team im Beauty & Spa weiter: Wie heißen Sie, und wie erreicht man Sie?"
+   ],
+   [
+    "user",
+    "Sabine Wörner, sabine.woerner@example.com"
+   ],
+   [
+    "assistant",
+    "Danke. Dies ist ein Entwurf von Tasty Studios: Die Anfrage geht nicht an das Haus, sie liegt nur zur Ansicht im Gästebuch."
+   ]
+  ]
+ },
+ {
+  "vor": [
+   4,
+   21,
+   10
+  ],
+  "art": "zimmer",
+  "status": "gelesen",
+  "abteilung": "Zimmer",
+  "name": "Sarah Whitfield",
+  "kontakt": "sarah.whitfield@example.com",
+  "datum": "14.01.2027 bis 17.01.2027",
+  "personen": 2,
+  "sprache": "en",
+  "anliegen": "Three nights in January for two; she has coeliac disease and asks about gluten-free meals.",
+  "betreff": "Your stay at the Hotel Bareiss in January",
+  "text": "Dear Ms Whitfield,\n\nthank you very much for your enquiry. We will gladly check which room is free for you from 14 to 17 January [check availability].\n\nYour half board begins at 7.00 am with small treats, tea and coffee at the pool oasis and ends with dinner between 7.00 and 8.00 pm. Please tell us about your coeliac disease in detail, so that our kitchen can prepare for your stay [inform the kitchen].\n\nDouble rooms start from 373 € per person and night, including the Bareiss half board; we will send you the price for your dates [price for your dates]. On the day of arrival your room is ready from 3.00 pm.\n\nWarm regards from Mitteltal\n\nIhre Familie Bareiss\nHotel Bareiss",
+  "team": "Grundlage: Wissenswertes (Bareiss Halbpension, Zeiten), Zimmer (Doppelzimmer).\nOffen: Zimmer, Verfügbarkeit, Preis für die Tage, Küche informieren (Zöliakie).",
+  "deutsch": {
+   "betreff": "Ihr Aufenthalt im Hotel Bareiss im Januar",
+   "text": "Sehr geehrte Frau Whitfield,\n\nherzlichen Dank für Ihre Anfrage. Gerne schauen wir, welches Zimmer vom 14. bis 17. Januar für Sie frei ist [Verfügbarkeit prüfen].\n\nIhre Halbpension beginnt ab 7.00 Uhr mit Kleinigkeiten, Tee und Kaffee in der Pooloase und endet mit dem Dinner zwischen 19.00 und 20.00 Uhr. Bitte schildern Sie uns Ihre Zöliakie genau, damit sich unsere Küche auf Ihren Aufenthalt einstellen kann [Küche informieren].\n\nDoppelzimmer gibt es ab 373 € pro Person und Nacht, inklusive der Bareiss Halbpension; den Preis für Ihre Tage schicken wir Ihnen [Preis für die Tage]. Am Ankunftstag ist Ihr Zimmer ab 15.00 Uhr bezugsfertig.\n\nHerzliche Grüße aus Mitteltal\n\nIhre Familie Bareiss\nHotel Bareiss"
+  },
+  "verlauf_de": [
+   "Guten Tag, wir möchten im Januar drei Nächte zu zweit kommen. Ich habe Zöliakie. Kann die Küche glutenfrei kochen?",
+   "Dazu nennen die Seiten des Hauses keine Regel; ich gebe Ihre Angabe gerne an das Team weiter, das sie mit der Küche klärt. Möchten Sie mir Ihren Namen und eine E-Mail-Adresse geben?",
+   "Sarah Whitfield, sarah.whitfield@example.com, 14. bis 17. Januar",
+   "Danke. Dies ist ein Entwurf von Tasty Studios: Die Anfrage geht nicht an das Haus, sie liegt nur zur Ansicht im Gästebuch."
+  ],
+  "verlauf": [
+   [
+    "user",
+    "Hello, we would like to stay three nights in January, two of us. I have coeliac disease. Can the kitchen cook gluten-free?"
+   ],
+   [
+    "assistant",
+    "The hotel's pages do not set out a rule for this; I will gladly pass your details to the team, who will clarify them with the kitchen. Could you give me your name and an email address?"
+   ],
+   [
+    "user",
+    "Sarah Whitfield, sarah.whitfield@example.com, 14 to 17 January"
+   ],
+   [
+    "assistant",
+    "Thank you. This is a draft by Tasty Studios: your request does not go to the hotel, it is only kept for viewing in the host tool."
+   ]
+  ]
+ },
+ {
+  "vor": [
+   5,
+   9,
+   50
+  ],
+  "art": "zimmer",
+  "status": "erledigt",
+  "abteilung": "Zimmer",
+  "name": "Jürgen Haas",
+  "kontakt": "juergen.haas@example.com",
+  "datum": "05.12.2026 bis 08.12.2026",
+  "personen": 1,
+  "sprache": "de",
+  "anliegen": "Drei Nächte allein im Doppelzimmer-Appartement, mit seinem Hund.",
+  "betreff": "Ihre Tage im Dezember, mit Ihrem Hund",
+  "text": "Sehr geehrter Herr Haas,\n\nherzlichen Dank für Ihre Anfrage. Gerne schauen wir, welches Doppelzimmer-Appartement vom 5. bis 8. Dezember für Sie frei ist [Verfügbarkeit prüfen]. Wohnen Sie allein darin, erhalten Sie je nach Verfügbarkeit eine Ermäßigung von 180 € pro Nacht.\n\nIhr Hund ist bei uns herzlich willkommen. Bitte melden Sie ihn mit Ihrer Buchung an und bringen Sie seinen Hundekorb mit; der Preis pro Hund und Tag beträgt 35 € ohne Verpflegung. Bei Ihrer Ankunft steht auf dem Zimmer ein Begrüßungsarrangement für ihn bereit, und nach dem Spaziergang wartet die Hundedusche direkt am Haus [Zimmerkategorie für Hunde prüfen].\n\nHerzliche Grüße aus Mitteltal\n\nIhre Familie Bareiss\nHotel Bareiss",
+  "team": "Grundlage: Zimmer (Doppelzimmer-Appartements), Wissenswertes (Einzelnutzung, Hunde).\nOffen: Verfügbarkeit, ob die Kategorie für Hunde zulässig ist.",
+  "verlauf": [
+   [
+    "user",
+    "Ich möchte vom 5. bis 8. Dezember allein kommen, in einem Appartement, und mein Hund kommt mit. Geht das?"
+   ],
+   [
+    "assistant",
+    "Hunde sind im Bareiss herzlich willkommen; bitte melden Sie Ihren Hund mit der Buchung an. Gerne gebe ich Ihre Anfrage an das Team weiter: Wie heißen Sie, und wie erreicht man Sie?"
+   ],
+   [
+    "user",
+    "Jürgen Haas, juergen.haas@example.com"
+   ],
+   [
+    "assistant",
+    "Danke. Dies ist ein Entwurf von Tasty Studios: Die Anfrage geht nicht an das Haus, sie liegt nur zur Ansicht im Gästebuch."
+   ]
+  ]
+ }
+]

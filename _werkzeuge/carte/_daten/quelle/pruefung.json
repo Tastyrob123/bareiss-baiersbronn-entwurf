@@ -1,0 +1,16 @@
+{
+ "geprueft": "Zeile für Zeile und Wort für Wort gegen die PDF des Hauses (RB_Menu_15.10.26_D.pdf, pdftotext), jede Zeile und jeder Preis gegen restaurant-bareiss.html#karte",
+ "zeilen": 204,
+ "woerter": 790,
+ "karten": {
+  "menus": {
+   "name": "Die Menus"
+  },
+  "karte": {
+   "name": "À la carte"
+  },
+  "desserts": {
+   "name": "Desserts"
+  }
+ }
+}

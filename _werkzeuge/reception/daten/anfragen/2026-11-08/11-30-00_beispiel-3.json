@@ -1,0 +1,41 @@
+{
+ "zeit": "2026-11-08T11:30:00+01:00",
+ "art": "tisch",
+ "name": "Annette Kaiser",
+ "kontakt": "annette.kaiser@example.com",
+ "datum": "20.03.2027",
+ "personen": 2,
+ "anliegen": "Ein Tisch im Restaurant Bareiss am Samstagabend zu zweit, das Degustationsmenu; ihr Mann isst vegetarisch.",
+ "sprache": "de",
+ "gespraech": "beispiel-3",
+ "verlauf": [
+  {
+   "rolle": "user",
+   "text": "Guten Tag, wir möchten am Samstag, 20. März, abends ins Restaurant Bareiss, zu zweit. Mein Mann isst vegetarisch. Geht das?"
+  },
+  {
+   "rolle": "assistant",
+   "text": "Das Restaurant Bareiss ist Donnerstag bis Sonntag abends ab 19.00 Uhr geöffnet, und es gibt ein vegetarisches Menu. Ob ein Tisch frei ist, kann ich hier nicht prüfen. Gerne gebe ich Ihre Anfrage an das Team weiter: Wie heißen Sie, und wie erreicht man Sie?"
+  },
+  {
+   "rolle": "user",
+   "text": "Annette Kaiser, annette.kaiser@example.com"
+  },
+  {
+   "rolle": "assistant",
+   "text": "Danke. Dies ist ein Entwurf von Tasty Studios: Die Anfrage geht nicht an das Haus, sie liegt nur zur Ansicht im Gästebuch."
+  }
+ ],
+ "status": "gelesen",
+ "beispiel": true,
+ "abteilung": "Restaurants",
+ "uhrzeit": "19.00",
+ "entwurf": {
+  "betreff": "Ihr Abend im Restaurant Bareiss",
+  "text": "Sehr geehrte Frau Kaiser,\n\nherzlichen Dank für Ihre Nachricht, und schön, dass Sie den Abend bei uns verbringen möchten. Gerne halten wir Ihnen am Samstag, 20. März, ab 19.00 Uhr einen Tisch für zwei Personen bereit [Tisch prüfen].\n\nClaus-Peter Lumpp kocht am Abend das Degustationsmenu für 350 €. Für Ihren Mann gibt es das vegetarische Menu für 295 €; wenn er etwas nicht verträgt, sagen Sie es uns, damit die Küche sich darauf einstellen kann [Küche informieren].\n\nWir freuen uns darauf, Sie beide an Ihrem Tisch zu begrüßen.\n\nHerzliche Grüße aus Mitteltal\n\nIhre Familie Bareiss\nHotel Bareiss",
+  "team": "Grundlage: Restaurant Bareiss (Öffnungszeiten, Menüs), Wissenswertes (Tischreservierung).\nOffen: Tisch am 20. März, Unverträglichkeiten.",
+  "vorlage": "tisch",
+  "absender": "Telefon +49 7442 47-0 · info@bareiss.com",
+  "zeit": "2026-11-08T11:30:00+01:00"
+ }
+}

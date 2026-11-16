@@ -1,0 +1,40 @@
+{
+ "zeit": "2026-11-04T09:50:00+01:00",
+ "art": "zimmer",
+ "name": "Jürgen Haas",
+ "kontakt": "juergen.haas@example.com",
+ "datum": "05.12.2026 bis 08.12.2026",
+ "personen": 1,
+ "anliegen": "Drei Nächte allein im Doppelzimmer-Appartement, mit seinem Hund.",
+ "sprache": "de",
+ "gespraech": "beispiel-7",
+ "verlauf": [
+  {
+   "rolle": "user",
+   "text": "Ich möchte vom 5. bis 8. Dezember allein kommen, in einem Appartement, und mein Hund kommt mit. Geht das?"
+  },
+  {
+   "rolle": "assistant",
+   "text": "Hunde sind im Bareiss herzlich willkommen; bitte melden Sie Ihren Hund mit der Buchung an. Gerne gebe ich Ihre Anfrage an das Team weiter: Wie heißen Sie, und wie erreicht man Sie?"
+  },
+  {
+   "rolle": "user",
+   "text": "Jürgen Haas, juergen.haas@example.com"
+  },
+  {
+   "rolle": "assistant",
+   "text": "Danke. Dies ist ein Entwurf von Tasty Studios: Die Anfrage geht nicht an das Haus, sie liegt nur zur Ansicht im Gästebuch."
+  }
+ ],
+ "status": "erledigt",
+ "beispiel": true,
+ "abteilung": "Zimmer",
+ "entwurf": {
+  "betreff": "Ihre Tage im Dezember, mit Ihrem Hund",
+  "text": "Sehr geehrter Herr Haas,\n\nherzlichen Dank für Ihre Anfrage. Gerne schauen wir, welches Doppelzimmer-Appartement vom 5. bis 8. Dezember für Sie frei ist [Verfügbarkeit prüfen]. Wohnen Sie allein darin, erhalten Sie je nach Verfügbarkeit eine Ermäßigung von 180 € pro Nacht.\n\nIhr Hund ist bei uns herzlich willkommen. Bitte melden Sie ihn mit Ihrer Buchung an und bringen Sie seinen Hundekorb mit; der Preis pro Hund und Tag beträgt 35 € ohne Verpflegung. Bei Ihrer Ankunft steht auf dem Zimmer ein Begrüßungsarrangement für ihn bereit, und nach dem Spaziergang wartet die Hundedusche direkt am Haus [Zimmerkategorie für Hunde prüfen].\n\nHerzliche Grüße aus Mitteltal\n\nIhre Familie Bareiss\nHotel Bareiss",
+  "team": "Grundlage: Zimmer (Doppelzimmer-Appartements), Wissenswertes (Einzelnutzung, Hunde).\nOffen: Verfügbarkeit, ob die Kategorie für Hunde zulässig ist.",
+  "vorlage": "zimmer",
+  "absender": "Telefon +49 7442 47-0 · info@bareiss.com",
+  "zeit": "2026-11-04T09:50:00+01:00"
+ }
+}

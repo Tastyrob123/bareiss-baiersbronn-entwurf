@@ -1,0 +1,13 @@
+{
+ "zeit": "2026-11-08T19:05:00+01:00",
+ "frage": "Ab wann ist das Zimmer bereit?",
+ "antwort": "Am Ankunftstag ab 15.00 Uhr.\n- Abreisetag: Zimmer bis 11.00 Uhr freigeben\n- Late Check-out: je nach Verfügbarkeit bis 18 Uhr, Tageszimmer-Zuschlag 150 € pro Zimmer",
+ "belegt": true,
+ "thema": "",
+ "gruppe": "Zimmer & Preise",
+ "sprache": "de",
+ "buchung": false,
+ "mappe": false,
+ "anfrage": "",
+ "beispiel": true
+}

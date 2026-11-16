@@ -1,0 +1,108 @@
+{
+ "ziel": "desserts",
+ "art": "satz",
+ "key": "desserts",
+ "name": "Desserts",
+ "unter": "unseres Chef-Pâtissiers Stefan Leitner",
+ "gruppe": "Restaurant Bareiss",
+ "ab": "",
+ "plakat": "",
+ "foto": "u-dessert",
+ "quelle": "_bau/karte.py (Wortlaut und Preise aus der PDF des Hauses RB_Menu_15.10.26_D.pdf), gebaut auf restaurant-bareiss.html#karte",
+ "von": "unseres Chef-Pâtissiers Stefan Leitner",
+ "gruppen": [
+  {
+   "name": "Apfel",
+   "preis": "60",
+   "gerichte": [
+    [
+     "Praliné Törtchen mit geschmortem Apfel",
+     "Sanddorn, eingelegten Berberitzen",
+     "und Bratapfelsorbet"
+    ],
+    [
+     "Apfelparfait",
+     "mit Pastissauce, Sauerampfer und grünem Apfel"
+    ],
+    [
+     "Mille feuille mit Apfelragoût, Zimtchantilly",
+     "und rotem Apfelsorbet"
+    ]
+   ]
+  },
+  {
+   "name": "Zwetschge",
+   "preis": "60",
+   "gerichte": [
+    [
+     "Mohn Chantilly mit Zwetschgen",
+     "auf Mohnkuchen und Zwetschgen-Portweinsud"
+    ],
+    [
+     "„Île flottante“ mit Zwetschgensorbet",
+     "und Mandelbaiser auf Madagaskar-Vanillesauce"
+    ],
+    [
+     "Gefüllter Broiche",
+     "mit Powidl, Zwetschgenröster und Haselnusseis"
+    ]
+   ]
+  },
+  {
+   "name": "Unser Soufflé",
+   "preis": "63",
+   "gerichte": [
+    [
+     "Topfensoufflé",
+     "mit Williams Birnensauce"
+    ],
+    [
+     "Karamellisierter Strudelteig mit Birnen",
+     "„Pompona“ Vanillecrème und Birnensorbet"
+    ],
+    [
+     "Mandeleis"
+    ]
+   ]
+  },
+  {
+   "name": "Schokolade",
+   "preis": "68",
+   "gerichte": [
+    [
+     "Törtchen von Zartbitterschokolade und Pekannuss",
+     "mit altem Balsamico und Aprikosengel"
+    ],
+    [
+     "Schokoladensablé",
+     "mit Drambuicrème, Jivara Chantilly",
+     "Passionsfrucht und Bananeneis"
+    ],
+    [
+     "Schokoladenauflauf",
+     "mit Rumtopffrüchten und Vanille"
+    ],
+    [
+     "Dunkle Schokoladencrème",
+     "mit Sorbet von schwarzen Johannisbeeren"
+    ]
+   ]
+  }
+ ],
+ "nachsatz": [
+  {
+   "name": "Dessertweine",
+   "zeilen": [
+    "Zu Ihrem Dessert servieren wir Ihnen verschiedene",
+    "Dessertweine gerne auch glasweise."
+   ]
+  },
+  {
+   "name": "Käse",
+   "zeilen": [
+    "Unsere Käseauswahl vom Wagen mit ausgewählten",
+    "Rohmilchkäsen vom Tölzer Kasladen aus Bad Tölz."
+   ]
+  }
+ ]
+}

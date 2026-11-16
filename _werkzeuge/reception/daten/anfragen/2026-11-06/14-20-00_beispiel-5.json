@@ -1,0 +1,41 @@
+{
+ "zeit": "2026-11-06T14:20:00+01:00",
+ "art": "spa",
+ "name": "Sabine Wörner",
+ "kontakt": "sabine.woerner@example.com",
+ "datum": "28.11.2026",
+ "personen": 1,
+ "anliegen": "Eine Massage am Ankunftstag, danach noch in die Sauna.",
+ "sprache": "de",
+ "gespraech": "beispiel-5",
+ "verlauf": [
+  {
+   "rolle": "user",
+   "text": "Ich komme am 28. November an. Kann ich am Nachmittag eine Massage haben und danach in die Sauna?"
+  },
+  {
+   "rolle": "assistant",
+   "text": "Die Saunawelt ist täglich von 7.30 bis 19.30 Uhr geöffnet. Den Termin für die Massage gebe ich gerne an das Team im Beauty & Spa weiter: Wie heißen Sie, und wie erreicht man Sie?"
+  },
+  {
+   "rolle": "user",
+   "text": "Sabine Wörner, sabine.woerner@example.com"
+  },
+  {
+   "rolle": "assistant",
+   "text": "Danke. Dies ist ein Entwurf von Tasty Studios: Die Anfrage geht nicht an das Haus, sie liegt nur zur Ansicht im Gästebuch."
+  }
+ ],
+ "status": "gelesen",
+ "beispiel": true,
+ "abteilung": "Beauty & Spa",
+ "entwurf": {
+  "betreff": "Ihre Zeit im Beauty & Spa",
+  "text": "Sehr geehrte Frau Wörner,\n\nherzlichen Dank für Ihre Nachricht. Gerne halten wir Ihnen Ihre Zeit im Bareiss Beauty & Spa frei [Termin im Beauty & Spa prüfen].\n\nNach Ihrer Anwendung erwartet Sie die Saunawelt, täglich von 7.30 bis 19.30 Uhr geöffnet, und das Meerwasser mit ganzjährig 34 Grad.\n\nDamit wir alles für Sie vorbereiten können:\n- Ihr Wunschtag und die Uhrzeit\n- die Anwendung\n\nHerzliche Grüße aus Mitteltal\n\nIhre Familie Bareiss\nHotel Bareiss",
+  "team": "Grundlage: Wellness (Website), Wissenswertes (Sauna-Knigge)\nOffen: Termin, Anwendung, Preis der Anwendung",
+  "vorlage": "spa",
+  "absender": "Telefon +49 7442 47-0 · info@bareiss.com",
+  "zeit": "2026-11-10T19:08:04+08:00",
+  "fassung": 1
+ }
+}

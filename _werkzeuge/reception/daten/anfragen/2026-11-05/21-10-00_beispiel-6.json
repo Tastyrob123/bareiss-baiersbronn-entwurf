@@ -1,0 +1,51 @@
+{
+ "zeit": "2026-11-05T21:10:00+01:00",
+ "art": "zimmer",
+ "name": "Sarah Whitfield",
+ "kontakt": "sarah.whitfield@example.com",
+ "datum": "14.01.2027 bis 17.01.2027",
+ "personen": 2,
+ "anliegen": "Three nights in January for two; she has coeliac disease and asks about gluten-free meals.",
+ "sprache": "en",
+ "gespraech": "beispiel-6",
+ "verlauf": [
+  {
+   "rolle": "user",
+   "text": "Hello, we would like to stay three nights in January, two of us. I have coeliac disease. Can the kitchen cook gluten-free?"
+  },
+  {
+   "rolle": "assistant",
+   "text": "The hotel's pages do not set out a rule for this; I will gladly pass your details to the team, who will clarify them with the kitchen. Could you give me your name and an email address?"
+  },
+  {
+   "rolle": "user",
+   "text": "Sarah Whitfield, sarah.whitfield@example.com, 14 to 17 January"
+  },
+  {
+   "rolle": "assistant",
+   "text": "Thank you. This is a draft by Tasty Studios: your request does not go to the hotel, it is only kept for viewing in the host tool."
+  }
+ ],
+ "status": "gelesen",
+ "beispiel": true,
+ "abteilung": "Zimmer",
+ "entwurf": {
+  "betreff": "Your stay at the Hotel Bareiss in January",
+  "text": "Dear Ms Whitfield,\n\nthank you very much for your enquiry. We will gladly check which room is free for you from 14 to 17 January [check availability].\n\nYour half board begins at 7.00 am with small treats, tea and coffee at the pool oasis and ends with dinner between 7.00 and 8.00 pm. Please tell us about your coeliac disease in detail, so that our kitchen can prepare for your stay [inform the kitchen].\n\nDouble rooms start from 373 € per person and night, including the Bareiss half board; we will send you the price for your dates [price for your dates]. On the day of arrival your room is ready from 3.00 pm.\n\nWarm regards from Mitteltal\n\nIhre Familie Bareiss\nHotel Bareiss",
+  "team": "Grundlage: Wissenswertes (Bareiss Halbpension, Zeiten), Zimmer (Doppelzimmer).\nOffen: Zimmer, Verfügbarkeit, Preis für die Tage, Küche informieren (Zöliakie).",
+  "vorlage": "zimmer",
+  "absender": "Telefon +49 7442 47-0 · info@bareiss.com",
+  "zeit": "2026-11-05T21:10:00+01:00",
+  "deutsch": {
+   "betreff": "Ihr Aufenthalt im Hotel Bareiss im Januar",
+   "text": "Sehr geehrte Frau Whitfield,\n\nherzlichen Dank für Ihre Anfrage. Gerne schauen wir, welches Zimmer vom 14. bis 17. Januar für Sie frei ist [Verfügbarkeit prüfen].\n\nIhre Halbpension beginnt ab 7.00 Uhr mit Kleinigkeiten, Tee und Kaffee in der Pooloase und endet mit dem Dinner zwischen 19.00 und 20.00 Uhr. Bitte schildern Sie uns Ihre Zöliakie genau, damit sich unsere Küche auf Ihren Aufenthalt einstellen kann [Küche informieren].\n\nDoppelzimmer gibt es ab 373 € pro Person und Nacht, inklusive der Bareiss Halbpension; den Preis für Ihre Tage schicken wir Ihnen [Preis für die Tage]. Am Ankunftstag ist Ihr Zimmer ab 15.00 Uhr bezugsfertig.\n\nHerzliche Grüße aus Mitteltal\n\nIhre Familie Bareiss\nHotel Bareiss",
+   "quelle": "9eb8ae8c79c3"
+  }
+ },
+ "verlauf_de": [
+  "Guten Tag, wir möchten im Januar drei Nächte zu zweit kommen. Ich habe Zöliakie. Kann die Küche glutenfrei kochen?",
+  "Dazu nennen die Seiten des Hauses keine Regel; ich gebe Ihre Angabe gerne an das Team weiter, das sie mit der Küche klärt. Möchten Sie mir Ihren Namen und eine E-Mail-Adresse geben?",
+  "Sarah Whitfield, sarah.whitfield@example.com, 14. bis 17. Januar",
+  "Danke. Dies ist ein Entwurf von Tasty Studios: Die Anfrage geht nicht an das Haus, sie liegt nur zur Ansicht im Gästebuch."
+ ]
+}

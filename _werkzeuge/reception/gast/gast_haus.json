@@ -1,0 +1,25 @@
+{
+ "name": "Hotel Bareiss",
+ "ort": "Baiersbronn-Mitteltal",
+ "tel": "+49 7442 47-0",
+ "mail": "info@bareiss.com",
+ "kontakt": "dem Reservierungsteam am Telefon unter +49 7442 47-0 oder per E-Mail an info@bareiss.com",
+ "adresse": "Hotel Bareiss, Hermine-Bareiss-Weg, 72270 Baiersbronn-Mitteltal",
+ "zeiten": "Zimmer am Ankunftstag ab 15.00 Uhr bezugsfertig, am Abreisetag bis 11.00 Uhr freizugeben",
+ "art": "5-Sterne-Superior-Resort im Nordschwarzwald, inhabergeführt in dritter Generation von der Familie Bareiss, mit dem 3-Sterne-Restaurant Bareiss, der Bareiss Halbpension und dem Kinderdörfle",
+ "ruhetage": "3-Sterne-Restaurant Bareiss: Montag, Dienstag und Mittwoch Ruhetage",
+ "fahrplan": "",
+ "kategorien": [
+  "Einzelzimmer",
+  "Doppelzimmer",
+  "Doppelzimmer-Appartements",
+  "Familien-Appartements",
+  "Suiten",
+  "Penthouse",
+  "Wohnen im Landhaus"
+ ],
+ "orte": [],
+ "reservation": "/zimmer.html",
+ "reservation_name": "Zimmer buchen",
+ "muster": "Frage: Ab wann ist das Zimmer bereit?\nAntwort: Am Ankunftstag ab 15.00 Uhr.\n- Abreisetag: Zimmer bis 11.00 Uhr freigeben\n- Late Check-out: je nach Verfügbarkeit bis 18 Uhr, Tageszimmer-Zuschlag 150 € pro Zimmer\n- Gepäck: bewahrt das Haus gern für Sie auf\n\nFrage: Ist das Hotel barrierefrei?\nAntwort: Dazu steht nichts in meinen Unterlagen. Fragen Sie am besten direkt:\n- Telefon: +49 7442 47-0\n- E-Mail: info@bareiss.com"
+}

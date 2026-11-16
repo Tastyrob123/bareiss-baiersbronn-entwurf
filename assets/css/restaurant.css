@@ -1,0 +1,721 @@
+/* Restaurant Bareiss, 15 Fassungen je Abschnitt (13.11.2026, _bau/restaurantfassungen.py). Präfixe rh ru rk rm ra rn rz. */
+:where(.rb,.rh,.rz) figure{margin:0}
+.rbf{position:relative;overflow:hidden;border-radius:var(--r)}
+.rbf img,.rb img{display:block;width:100%;height:100%;object-fit:cover}
+.rbf figcaption{position:absolute;left:14px;bottom:12px;padding:7px 12px;border-radius:999px;background:rgba(31,38,33,.78);color:#f2ede1;font:500 13px/1.2 var(--sans);letter-spacing:.06em}
+.rb .knoepfe.rb-kn,.rh .knoepfe.rb-kn{justify-content:flex-start;margin-top:30px}
+.rb .wappen{margin:0 0 22px}
+.rb-salbei{background:var(--salbei)}
+.rb .rb-sterne{flex-direction:row;flex-wrap:wrap;justify-content:flex-start;gap:10px;margin:24px 0 0}
+.rb .rb-sterne svg,.rh .rb-sterne svg{margin:0}
+.rb .rb-sterne span,.rh .rb-sterne span{flex-basis:100%;margin:6px 0 0}
+.rb .tafel h3,.rb h3{font:420 1.35rem/1.2 var(--serif)}
+.rb .tafel p{font-size:15.5px;line-height:1.6;margin-top:8px}
+.rb .titel+p{margin-top:22px}
+.rb .marke+.titel{margin-top:0;padding-top:22px}
+.rh .marke+h1{margin-top:0;padding-top:24px}
+.rb .wahl button{font-size:13px!important}.rb .km__von{font-size:13px!important}
+
+/* ============================== 1 Kopf ============================== */
+.rh{min-height:max(100svh,680px);padding:118px var(--rand) clamp(40px,4.4vw,64px);overflow:clip;background:var(--tanne);color:#f2ede1}
+.rh .satz{color:#d9d3c4;max-width:54ch}
+.rh h1 .ak{color:var(--gold-hell)}
+.rh .marke,.rh .wappen{color:var(--gold)}
+.rh h1{font-size:clamp(2.8rem,6vw,6.4rem)}
+.rh .rb-sterne{flex-direction:row;flex-wrap:wrap;justify-content:flex-start;gap:10px;margin:26px 0 0}
+/* 1 Tafel über dem Saal */
+.rh1{padding:0;display:flex;align-items:flex-end;position:relative}
+.rh1-b{position:absolute;inset:0}
+.rh1-t{position:relative;z-index:1;width:min(60%,900px);padding:clamp(36px,3.6vw,56px) var(--rand) clamp(40px,4vw,60px);background:var(--tanne);border-radius:0 var(--ecke) 0 0}
+/* 2 Panorama unten */
+.rh2{display:flex;flex-direction:column;justify-content:space-between;align-items:center;text-align:center;padding-bottom:0;gap:clamp(30px,3.4vw,50px)}
+.rh2-t{display:flex;flex-direction:column;align-items:center;max-width:1180px}
+.rh2-t .wappen{margin:0 auto 18px}.rh2-t .satz{margin-inline:auto;max-width:62ch}.rh2-t .knoepfe{justify-content:center}
+.rh2-b{width:calc(100% + 2*var(--rand));height:clamp(260px,38svh,460px);border-radius:var(--ecke) var(--ecke) 0 0;overflow:hidden}
+/* 3 Passepartout */
+.rh3{display:grid;grid-template-columns:1fr 1.2fr;gap:clamp(30px,4vw,76px);align-items:center}
+.rh3-b{padding:clamp(16px,2vw,30px);background:var(--papier);border-radius:var(--r);box-shadow:0 0 0 1px rgba(201,177,1,.5) inset}
+.rh3-m{height:min(70svh,700px);overflow:hidden;border-radius:4px}
+/* 4 Sterne über dem Saal */
+.rh4{position:relative;display:flex;align-items:center;justify-content:center;text-align:center}
+.rh4-b{position:absolute;inset:0}
+.rh4-b::after{content:"";position:absolute;inset:0;background:rgba(20,26,22,.64)}
+.rh4-t{position:relative;z-index:1;display:flex;flex-direction:column;align-items:center;max-width:1100px}
+.rh4-t .wappen{margin:0 auto 18px}.rh4-t .satz{margin-inline:auto;color:#ece6d8}.rh4-t .knoepfe{justify-content:center}
+.rh4 .rb-sterne{justify-content:center;order:-1;margin:0 0 26px}.rh4 .rb-sterne span{text-align:center;color:rgba(242,237,225,.75)}
+/* 5 Titel unter dem Bild */
+.rh5{display:flex;flex-direction:column;gap:clamp(28px,3vw,46px)}
+.rh5-b{height:clamp(300px,50svh,560px);border-radius:var(--r);overflow:hidden}
+.rh5-t{display:grid;grid-template-columns:1.35fr 1fr;gap:clamp(24px,4vw,70px);align-items:end}
+.rh5-t h1{margin-top:12px}.rh5-s .satz{margin-top:0}
+/* 6 Titel über der Kante */
+.rh6{display:flex;flex-direction:column}
+.rh6-t{position:relative;z-index:2}
+.rh6-t h1{font-size:clamp(3rem,8.4vw,9rem);line-height:.98;margin-bottom:-.42em}
+.rh6-b{position:relative;z-index:1;height:clamp(320px,52svh,620px);border-radius:var(--r);overflow:hidden}
+.rh6-b img{filter:brightness(.62)}
+.rh6-s{display:flex;justify-content:space-between;align-items:flex-start;gap:40px;margin-top:28px}.rh6-s .satz{margin-top:0}.rh6-s .knoepfe.rb-kn{margin-top:0;flex:none}
+/* 7 Hohes Fenster */
+.rh7{display:grid;grid-template-columns:1fr auto;gap:clamp(30px,5vw,96px);align-items:center}
+.rh7-b{position:relative;width:min(38vw,560px);height:min(80svh,820px);border-radius:999px 999px var(--r) var(--r);overflow:hidden}
+.rh7-b::after{content:"";position:absolute;inset:14px;border:1px solid rgba(226,210,122,.75);border-radius:999px 999px 8px 8px;pointer-events:none}
+/* 8 Saal und Dessert */
+.rh8{display:grid;grid-template-columns:1fr 1.25fr;gap:clamp(40px,6vw,110px);align-items:center}
+.rh8-w{position:relative}
+.rh8-g{height:min(74svh,760px);border-radius:var(--r);overflow:hidden}
+.rh8-k{position:absolute;left:-14%;bottom:-5%;width:38%;aspect-ratio:4/5;border-radius:var(--r);overflow:hidden;border:8px solid var(--tanne)}
+/* 9 Goldener Bilderrahmen */
+.rh9{position:relative;display:flex;align-items:flex-end}
+.rh9-b{position:absolute;inset:0}
+.rh9-b::after{content:"";position:absolute;inset:0;background:linear-gradient(to top,rgba(20,26,22,.9),rgba(20,26,22,.55) 46%,rgba(20,26,22,.1) 80%)}
+.rh9-b i{position:absolute;z-index:1;inset:clamp(14px,1.6vw,24px);top:96px;border:1px solid rgba(226,210,122,.8);border-radius:10px}
+.rh9-t{position:relative;z-index:2;max-width:880px;padding:0 clamp(10px,2vw,30px) clamp(10px,2vw,30px)}
+/* 10 Naht mit Karte */
+.rh10{padding:0;display:flex;flex-direction:column}
+.rh10-o{padding:130px var(--rand) clamp(90px,9vw,140px)}
+.rh10-o h1{max-width:12ch}
+.rh10-u{position:relative;flex:1;min-height:clamp(300px,46svh,520px)}
+.rh10-u>img{position:absolute;inset:0}
+.rh10-k{position:absolute;z-index:1;right:var(--rand);top:calc(-1*clamp(70px,8vw,120px));width:min(470px,40%);padding:clamp(26px,2.6vw,40px);background:var(--papier);color:var(--tinte);border-radius:var(--r)}
+.rh10-k .satz{color:#4a423e;margin-top:0}
+/* 11 Bild links, Sterne am Fuss */
+.rh11{padding:0;display:grid;grid-template-columns:58% 1fr}
+.rh11-b{position:relative;overflow:hidden}
+.rh11-t{display:flex;flex-direction:column;justify-content:space-between;padding:130px var(--rand) clamp(40px,4vw,60px) clamp(30px,4vw,70px)}
+.rh11 h1{font-size:clamp(2.6rem,4.8vw,5.4rem)}
+/* 12 Durchs Rautenfenster */
+.rh12{padding:0;display:grid;grid-template-columns:42% 1fr}
+.rh12-t{display:flex;flex-direction:column;justify-content:center;padding:130px clamp(30px,4vw,70px) 60px var(--rand)}
+.rh12 h1{font-size:clamp(2.6rem,5vw,5.6rem)}
+.rh12-b{position:relative;overflow:hidden}
+.rh12-b i{position:absolute;inset:0;pointer-events:none;opacity:.85;
+  background:repeating-linear-gradient(60deg,transparent 0 calc(9vw - 2px),rgba(226,210,122,.95) calc(9vw - 2px) 9vw),repeating-linear-gradient(-60deg,transparent 0 calc(9vw - 2px),rgba(226,210,122,.95) calc(9vw - 2px) 9vw)}
+/* 13 Ein Bild in drei Teilen */
+.rh13{display:flex;flex-direction:column;gap:clamp(28px,3vw,46px)}
+.rh13-t{display:grid;grid-template-columns:1.3fr 1fr;gap:clamp(24px,4vw,70px);align-items:end}.rh13-t .satz{margin-top:0}
+.rh13-b{display:grid;grid-template-columns:repeat(3,1fr);gap:clamp(8px,1vw,14px);height:clamp(280px,44svh,520px)}
+.rh13-s{position:relative;overflow:hidden;border-radius:var(--r)}
+.rh13-s img{position:absolute;top:0;height:100%;width:calc(300% + 2*clamp(8px,1vw,14px));max-width:none}
+.rh13-s1 img{left:0}.rh13-s2 img{left:calc(-100% - clamp(8px,1vw,14px))}.rh13-s3 img{left:calc(-200% - 2*clamp(8px,1vw,14px))}
+/* 14 Galeriebild */
+.rh14{display:grid;grid-template-columns:auto 1fr;gap:clamp(40px,6vw,110px);align-items:center;padding-left:clamp(40px,8vw,140px)}
+.rh14-b{width:min(42vw,620px);aspect-ratio:4/5;border-radius:4px;overflow:hidden;outline:1px solid rgba(201,177,1,.6);outline-offset:14px}
+.rh14 h1{font-size:clamp(2.6rem,5vw,5.6rem)}
+/* 15 Karte am Bildrand */
+.rh15{position:relative;display:flex;align-items:center;justify-content:flex-end;padding-left:0}
+.rh15-b{position:absolute;top:96px;bottom:clamp(40px,4.4vw,64px);left:0;width:68%;border-radius:0 var(--r) var(--r) 0;overflow:hidden}
+.rh15-t{position:relative;z-index:1;width:min(44%,640px);padding:clamp(30px,3.2vw,52px);background:var(--papier);color:var(--tinte);border-radius:var(--r)}
+.rh15-t .satz{color:#4a423e}.rh15-t h1 .ak{color:var(--gold-tief)}.rh15-t .marke,.rh15-t .wappen{color:var(--gold-tief)}
+.rh15 h1{font-size:clamp(2.6rem,4.6vw,5.2rem)}
+
+/* ============================== 2 Der kleine, feine Unterschied ============================== */
+.rb .rb-zeiten{max-width:560px}
+/* 1 Die Woche */
+.ru1-k{text-align:center;display:flex;flex-direction:column;align-items:center}.ru1-k .wappen{margin:0 auto 18px}.ru1-k .satz{margin-inline:auto}
+.ru1-w{display:grid;grid-template-columns:repeat(7,1fr);gap:8px;margin:clamp(34px,4vw,56px) 0 14px}
+.ru1-w>div{padding:18px 10px;border-radius:12px;text-align:center;display:flex;flex-direction:column;gap:6px;border-top:2px solid var(--gold)}
+.ru1-w b{font:420 1.6rem/1 var(--serif)}
+.ru1-w span{font:500 13px/1.2 var(--sans);letter-spacing:.08em}
+.ru1-w .auf{background:var(--tanne);color:#f2ede1}.ru1-w .auf span{color:var(--gold-hell)}
+.ru1-w .zu{background:var(--leinen);color:var(--grau);border-top-color:transparent}
+.ru1-u{text-align:center;font-size:15px;color:var(--grau);max-width:80ch;margin:0 auto}
+.ru1-f{display:grid;grid-template-columns:1.7fr 1fr 1fr;gap:12px;height:clamp(240px,30vw,440px);margin-top:clamp(30px,3vw,46px)}
+/* 2 Im Service */
+.ru2-g{display:grid;grid-template-columns:.9fr 1.1fr;gap:clamp(30px,5vw,96px);align-items:center}
+.ru2-b{height:clamp(420px,46vw,700px)}
+/* 3 Drei Bilder über dem Text */
+.ru3-f{display:grid;grid-template-columns:1fr 1.35fr 1fr;gap:12px;height:clamp(260px,30vw,460px);align-items:end}
+.ru3-f .rbf:nth-child(2){height:100%}.ru3-f .rbf:nth-child(1),.ru3-f .rbf:nth-child(3){height:78%}
+.ru3-t{display:grid;grid-template-columns:1.2fr 1fr;gap:clamp(30px,5vw,90px);align-items:end;margin-top:clamp(34px,4vw,60px)}
+.ru3-t .rb-zeiten{margin-top:0}
+/* 4 Tischkarte auf Tanne */
+.ru4{padding:0;overflow:hidden}
+.ru4-b{position:absolute;inset:0}
+.ru4-b::after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(20,26,22,.92) 30%,rgba(20,26,22,.35) 70%,rgba(20,26,22,.15))}
+.ru4-g{position:relative;z-index:1;display:grid;grid-template-columns:1.1fr .8fr;gap:clamp(30px,5vw,90px);align-items:center;padding-block:var(--polster)}
+.ru4-karte{background:var(--papier);color:var(--tinte);padding:clamp(26px,2.6vw,40px);border-radius:6px;transform:rotate(-1.5deg);box-shadow:0 1px 0 var(--gold) inset}
+.ru4-karte p{font-size:15.5px;line-height:1.6;color:#4a423e}.ru4-karte p.marke{color:var(--gold-tief);margin-bottom:10px}
+.ru4-karte hr{border:0;border-top:1px solid rgba(150,132,1,.45);margin:16px 0}
+/* 5 Der Satz gross */
+.ru5 .in{display:flex;flex-direction:column;align-items:center;text-align:center}
+.ru5 .wappen{margin:0 auto 18px}
+.ru5 .titel{font-size:clamp(1.6rem,2.4vw,2.2rem)}
+.ru5-s{font:420 clamp(1.8rem,3.4vw,3.2rem)/1.22 var(--serif);max-width:30ch;margin-top:26px;text-wrap:balance}
+.ru5-f{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;width:min(100%,1000px);height:clamp(180px,20vw,300px);margin-top:clamp(34px,4vw,56px)}
+.ru5-z{text-align:left;margin-top:22px}
+/* 6 Bild bis an den Rand */
+.ru6{padding:0;display:grid;grid-template-columns:62% 1fr;min-height:min(100svh,900px)}
+.ru6-b{position:relative;overflow:hidden}
+.ru6-t{padding:var(--polster) var(--rand) var(--polster) clamp(30px,4vw,70px);display:flex;flex-direction:column;justify-content:center}
+.ru6-k{height:180px;margin-top:22px}
+/* 7 Zwei Ebenen */
+.ru7-g{display:grid;grid-template-columns:1fr 1.15fr;gap:clamp(30px,5vw,96px);align-items:center}
+.ru7-w{position:relative;padding:0 0 12% 18%}
+.ru7-h{height:clamp(360px,40vw,600px)}
+.ru7-v{position:absolute;left:0;bottom:0;width:46%;aspect-ratio:3/4;border:8px solid var(--papier)}
+/* 8 Mittag und Abend */
+.ru8-k{display:grid;grid-template-columns:1fr 1fr;gap:clamp(30px,5vw,90px);align-items:end}.ru8-k .wappen{grid-column:1/-1;margin:0}.ru8-k .satz{margin-top:0}
+.ru8-l{display:flex;align-items:center;gap:20px;margin-top:clamp(40px,4vw,64px)}
+.ru8-p{flex:1}.ru8-l i{flex:0 0 60px}
+.ru8-l i{height:1px;background:var(--gold)}
+.ru8-p{display:flex;flex-direction:column;gap:8px}
+.ru8-p .rbf{height:clamp(240px,24vw,380px);margin-bottom:12px}
+.ru8-p b{font:420 clamp(2rem,3.2vw,3rem)/1 var(--serif)}
+.ru8-p span{font:500 13px/1 var(--sans);letter-spacing:.2em;text-transform:uppercase;color:var(--gold-tief)}
+.ru8-u{margin-top:28px;font-size:15px;color:var(--grau);max-width:90ch}
+/* 9 Fächer */
+.ru9-g{display:grid;grid-template-columns:1fr 1fr;gap:clamp(30px,5vw,96px);align-items:center}
+.ru9-w{position:relative;height:clamp(420px,42vw,620px)}
+.ru9-f{position:absolute;top:8%;width:52%;height:78%;border:6px solid var(--papier)}
+.ru9-f1{left:0;transform:rotate(-6deg)}.ru9-f2{left:24%;top:2%;z-index:2}.ru9-f3{right:0;transform:rotate(6deg)}
+/* 10 Tafel auf dem Foto */
+.ru10{padding:0;min-height:min(100svh,920px);display:flex;align-items:center;justify-content:center}
+.ru10-b{position:absolute;inset:0}
+.ru10-t{position:relative;z-index:1;width:min(92%,820px);margin:var(--polster) auto;padding:clamp(32px,3.6vw,56px);background:var(--papier);border-radius:var(--r);text-align:center}
+.ru10-t .wappen{margin:0 auto 18px}.ru10-t .satz{margin-inline:auto}
+.ru10-z{display:grid;grid-template-columns:1fr 1fr;gap:24px;margin-top:26px;padding-top:22px;border-top:1px solid rgba(150,132,1,.4);text-align:left}
+.ru10-z p{font-size:15px;line-height:1.6;color:#4a423e;margin-top:6px}
+/* 11 Band zum Wischen */
+.ru11-k{display:grid;grid-template-columns:1fr 1fr;gap:clamp(30px,5vw,90px);align-items:end}.ru11-k .satz{margin-top:0}
+.ru11-band{display:flex;gap:12px;overflow-x:auto;scroll-snap-type:x mandatory;padding:clamp(34px,4vw,56px) var(--rand) 8px;scrollbar-width:none}
+.ru11-band::-webkit-scrollbar{display:none}
+.ru11-band .rbf{flex:0 0 min(34vw,520px);height:clamp(300px,30vw,460px);scroll-snap-align:start}
+/* 12 Raster mit Tafeln */
+.ru12-g{display:grid;grid-template-columns:repeat(4,1fr);grid-template-rows:auto auto;gap:12px}
+.ru12-t{grid-column:1/3;padding:clamp(26px,3vw,46px);background:var(--papier);border-radius:var(--r)}
+.ru12-a{grid-column:3/5;grid-row:1/3;min-height:clamp(420px,40vw,640px)}
+.ru12-b,.ru12-c{min-height:220px}
+.ru12-z{grid-column:1/3;padding:clamp(22px,2.4vw,34px);background:var(--tanne);color:#ece6d8;border-radius:var(--r)}
+.ru12-z p{font-size:15px;line-height:1.6;margin-top:8px;color:#d9d3c4}
+.ru12-g{grid-template-areas:"t t a a" "b c a a" "z z a a"}
+.ru12-t{grid-area:t}.ru12-a{grid-area:a}.ru12-b{grid-area:b}.ru12-c{grid-area:c}.ru12-z{grid-area:z}
+/* 13 Dunkel mit drei Bildern */
+.ru13-k{text-align:center;display:flex;flex-direction:column;align-items:center}.ru13-k .wappen{margin:0 auto 18px}.ru13-k .satz{margin-inline:auto}
+.ru13-z{display:grid;grid-template-columns:1fr 1fr;gap:clamp(20px,3vw,50px);max-width:980px;margin:clamp(30px,3vw,46px) auto 0;padding:24px 0;border-block:1px solid rgba(201,177,1,.45)}
+.ru13-z h3{color:var(--gold-hell)}.ru13-z p{font-size:15.5px;line-height:1.6;margin-top:8px;color:#d9d3c4}
+.ru13-f{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;height:clamp(260px,28vw,420px);margin-top:clamp(34px,4vw,56px)}
+/* 14 Treppe */
+.ru14-g{display:grid;grid-template-columns:1.1fr 1fr 1fr 1fr;gap:12px;align-items:stretch}
+.ru14-t{padding-right:clamp(10px,2vw,40px)}
+.ru14-s{min-height:300px}
+.ru14-s2{margin-top:clamp(60px,7vw,110px)}.ru14-s3{margin-top:clamp(120px,14vw,220px)}
+/* 15 Zwischen zwei Hochformaten */
+.ru15-g{display:grid;grid-template-columns:1fr 1.25fr 1fr;gap:clamp(24px,4vw,70px);align-items:center}
+.ru15-l,.ru15-r{height:clamp(420px,42vw,640px)}
+.ru15-r{margin-top:clamp(60px,8vw,120px)}.ru15-l{margin-bottom:clamp(60px,8vw,120px)}
+.ru15-t{text-align:center;display:flex;flex-direction:column;align-items:center}.ru15-t .wappen{margin:0 auto 18px}.ru15-t .satz{margin-inline:auto}.ru15-t .rb-zeiten{text-align:left}
+
+/* ============================== 3 Die Köche ============================== */
+.rk-namen{list-style:none;margin:28px 0 0;padding:0;display:grid;grid-template-columns:1fr 1fr;gap:0 24px}
+.rk-namen li{display:flex;flex-direction:column;gap:4px;padding:14px 0;border-top:1px solid rgba(201,177,1,.4)}
+.rk-namen b{font:420 1.25rem/1.2 var(--serif)}.rk-namen span{font:500 13px/1.2 var(--sans);letter-spacing:.12em;text-transform:uppercase;color:var(--gold)}
+/* 1 Hohes Porträt */
+.rk1-g{display:grid;grid-template-columns:.75fr 1.25fr;gap:clamp(30px,6vw,110px);align-items:center}
+.rk1-b{height:clamp(480px,50vw,760px)}
+/* 2 Die Mannschaft */
+.rk2{padding-top:0;overflow:hidden}
+.rk2-b{height:clamp(320px,46svh,560px);margin-bottom:clamp(40px,5vw,80px)}
+.rk2-t{display:grid;grid-template-columns:1fr 1fr;gap:clamp(30px,5vw,90px)}.rk2-t>div:last-child .satz:first-child{margin-top:0}
+.rk2-n{grid-template-columns:repeat(4,1fr)}
+/* 3 Sein Weg */
+.rk3-k{max-width:900px}
+.rk3-w{list-style:none;margin:clamp(34px,4vw,56px) 0;padding:0;display:grid;grid-template-columns:repeat(4,1fr);gap:24px;position:relative}
+.rk3-w::before{content:"";position:absolute;left:0;right:0;top:7px;height:1px;background:rgba(201,177,1,.6)}
+.rk3-w li{position:relative;padding-top:34px;display:flex;flex-direction:column;gap:10px}
+.rk3-w li::before{content:"";position:absolute;top:0;left:0;width:14px;height:14px;transform:rotate(45deg);background:var(--gold)}
+.rk3-w b{font:420 1.4rem/1.2 var(--serif);color:var(--gold-hell)}.rk3-w span{font-size:16px;line-height:1.55;color:#d9d3c4}
+.rk3-u{display:grid;grid-template-columns:1.2fr 1fr .9fr;gap:clamp(20px,3vw,50px);align-items:center}
+.rk3-u .rbf{height:clamp(260px,24vw,380px)}
+/* 4 Küche über die Breite */
+.rk4{padding-top:0}
+.rk4-b{height:clamp(340px,56svh,640px);margin-bottom:clamp(40px,5vw,80px)}
+.rk4-t{display:grid;grid-template-columns:1fr 1fr;gap:clamp(30px,5vw,90px)}.rk4-t>div:last-child .satz:first-child{margin-top:0}
+/* 5 Küche und Keller */
+.rk5-g{display:grid;grid-template-columns:1fr 1.25fr 1fr;gap:clamp(24px,4vw,70px);align-items:center}
+.rk5-g>.rbf{height:clamp(380px,38vw,600px)}
+.rk5-t{text-align:center;display:flex;flex-direction:column;align-items:center}.rk5-t .wappen{margin:0 auto 18px}.rk5-t .satz{margin-inline:auto}
+/* 6 Am Pass */
+.rk6-k{text-align:center;display:flex;flex-direction:column;align-items:center;margin-bottom:clamp(30px,3vw,46px)}.rk6-k .wappen{margin:0 auto 18px}
+.rk6-b{height:clamp(320px,42vw,640px);width:min(100%,1180px);margin:0 auto}
+.rk6-s{display:grid;grid-template-columns:1fr 1fr;gap:clamp(30px,5vw,90px);max-width:1180px;margin:clamp(24px,3vw,40px) auto 0}
+/* 7 Ein Satz vorne */
+.rk7-g{display:grid;grid-template-columns:1.3fr .7fr;gap:clamp(30px,5vw,96px);align-items:center}
+.rk7-h{font-size:clamp(1.5rem,2vw,1.9rem)}
+.rk7-q{font:420 clamp(2rem,3.8vw,3.6rem)/1.15 var(--serif);margin:22px 0 0;color:#f2ede1;text-wrap:balance}
+.rk7-b{height:clamp(440px,44vw,680px)}
+/* 8 Filmstreifen */
+.rk8-k{display:grid;grid-template-columns:1fr 1fr;gap:clamp(30px,5vw,90px);align-items:end}.rk8-k>.satz{margin-top:0}
+.rk8-f{display:grid;grid-template-columns:repeat(3,1fr);gap:6px;margin-top:clamp(34px,4vw,56px);padding:18px 0;border-block:6px dotted rgba(201,177,1,.35)}
+.rk8-f .rbf{height:clamp(220px,22vw,340px);border-radius:4px}
+.rk8-u{max-width:70ch}
+/* 9 Tafel über dem Team */
+.rk9{padding:var(--polster) var(--rand);display:grid;grid-template-columns:1.3fr .9fr;align-items:center}
+.rk9-b{grid-column:1/2;grid-row:1;height:clamp(460px,48vw,720px);border-radius:var(--r);overflow:hidden}
+.rk9-k{grid-column:1/3;grid-row:1;justify-self:end;width:min(46%,620px);position:relative;z-index:1;padding:clamp(30px,3.4vw,54px);background:var(--papier);color:var(--tinte);border-radius:var(--r)}
+.rk9-k .satz{color:#4a423e}.rb .rk9-k .ak{color:var(--gold-tief)}.rb .rk9-k .wappen{color:var(--gold-tief)}.rb .rk9-k .titel{color:var(--tinte)}
+/* 10 Ungleiches Mosaik */
+.rk10-g{display:grid;grid-template-columns:1.2fr 1fr 1fr;grid-template-areas:"t a b" "t a c" "d d e";gap:12px}
+.rk10-t{grid-area:t;padding-right:clamp(10px,2vw,40px)}
+.rk10-a{grid-area:a;min-height:440px}.rk10-b{grid-area:b;min-height:210px}.rk10-c{grid-area:c;min-height:210px}.rk10-d{grid-area:d;min-height:300px}.rk10-e{grid-area:e;min-height:300px}
+/* 11 Halb und halb */
+.rk11{padding:0;display:grid;grid-template-columns:1fr 1fr}
+.rk11-b{position:relative;overflow:hidden;min-height:min(100svh,900px)}
+.rk11-t{padding:var(--polster) var(--rand) var(--polster) clamp(30px,4vw,80px);display:flex;flex-direction:column;justify-content:center}
+.rk11-u{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:30px}.rk11-u .rbf{height:170px}
+/* 12 Die Namen gross */
+.rk12-g{display:grid;grid-template-columns:1.2fr .8fr;gap:clamp(30px,5vw,96px);align-items:center}
+.rk12-n{list-style:none;margin:30px 0 0;padding:0}
+.rk12-n li{display:grid;grid-template-columns:160px 1fr;align-items:baseline;gap:20px;padding:12px 0;border-top:1px solid rgba(201,177,1,.4)}
+.rk12-n span{font:500 13px/1.3 var(--sans);letter-spacing:.14em;text-transform:uppercase;color:var(--gold)}
+.rk12-n b{font:420 clamp(1.5rem,2.4vw,2.2rem)/1.15 var(--serif)}
+.rk12-b{height:clamp(420px,42vw,640px)}
+/* 13 Zwei Hochformate */
+.rk13-g{display:grid;grid-template-columns:1fr 1fr;gap:clamp(30px,5vw,96px);align-items:center}
+.rk13-w{display:grid;grid-template-columns:1fr 1fr;gap:14px;align-items:start}
+.rk13-a{height:clamp(380px,36vw,560px)}.rk13-b{height:clamp(380px,36vw,560px);margin-top:clamp(70px,8vw,130px)}
+/* 14 Hell, drei Bilder */
+.rk14-k{text-align:center;display:flex;flex-direction:column;align-items:center}.rk14-k .wappen{margin:0 auto 18px}
+.rk14-g{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-top:clamp(30px,3vw,46px);height:clamp(300px,30vw,460px)}
+.rk14-s{display:grid;grid-template-columns:1fr 1fr;gap:clamp(30px,5vw,90px);margin-top:clamp(20px,2.4vw,34px)}
+/* 15 Mit Bildlegende */
+.rk15-g{display:grid;grid-template-columns:1.6fr .6fr;gap:clamp(20px,3vw,50px);align-items:end}
+.rk15-b{height:clamp(380px,40vw,620px)}
+.rk15-n{grid-template-columns:1fr;margin:0}
+.rk15-t{display:grid;grid-template-columns:1fr 1fr;gap:clamp(30px,5vw,90px);margin-top:clamp(34px,4vw,56px)}.rk15-t>div:last-child .satz:first-child{margin-top:0}
+
+/* ============================== 4 Das Menu ============================== */
+.rm-k{margin-bottom:clamp(36px,4vw,60px)}
+.rm-k--m{text-align:center;display:flex;flex-direction:column;align-items:center}.rm-k--m .wappen{margin:0 auto 18px}
+.rm-k .marke{margin-bottom:14px}
+.rm-k--m .rb-sterne{justify-content:center}.rm-k--m .rb-sterne span{text-align:center}
+.rb.ab--tanne .km,.rb.ab--tanne .kg{background:var(--salbei);color:#ece6d8}
+.rb.ab--tanne .speisekarte,.rb.ab--tanne .km h3,.rb.ab--tanne .kk h3,.rb.ab--tanne .kg h4{color:#f2ede1}
+.rb.ab--tanne .wahl{background:rgba(255,255,255,.08)}
+.rb.ab--tanne .wahl button{color:#ece6d8}
+.rb.ab--tanne .karte__fuss a{color:#d9d3c4}
+/* 1 Reiter links */
+.rm1-g{display:grid;grid-template-columns:280px 1fr;gap:clamp(30px,4vw,70px);align-items:start}
+.rm1-g .speisekarte{display:contents}
+.rm1-g .wahl{grid-column:1;grid-row:2;flex-direction:column;align-items:stretch;border-radius:14px;margin:0;position:sticky;top:110px;width:auto}
+.rm1-g .wahl button{text-align:left}
+.rm1-g .texte{grid-column:2;grid-row:1/4}
+.rm1-g .karte__fuss{grid-column:1;grid-row:3}
+.rm1-k{grid-column:1;grid-row:1}
+.rm1 .km-reihe{grid-template-columns:1fr 1fr}
+/* 3 Menus nebeneinander zum Wischen */
+.rm3-w{padding:0 var(--rand)}
+.rm3 .km-reihe{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;gap:14px;padding-bottom:10px;scrollbar-width:thin}
+.rm3 .km-reihe .km{flex:0 0 min(420px,82vw);scroll-snap-align:start}
+.rm3 .kspalten,.rm3 .kpane[data-teil="desserts"]{max-width:var(--breit);margin-inline:auto}
+/* 4 Gedruckte Karte */
+.rm4-buch{max-width:1080px;margin:0 auto;padding:clamp(34px,4vw,70px);background:var(--papier);border-radius:6px;outline:1px solid rgba(150,132,1,.6);outline-offset:-14px;box-shadow:0 0 0 6px var(--papier),0 0 0 7px rgba(150,132,1,.35)}
+.rm4 .km-reihe{grid-template-columns:1fr 1fr}
+.rm4 .km{background:none;border-top:0}
+/* 5 Grosse Wörter */
+.rm5 .wahl{background:none;gap:clamp(20px,4vw,60px);padding:0;border-radius:0}
+.rm5 .wahl button{background:none!important;color:var(--grau)!important;font:420 clamp(1.6rem,3vw,2.8rem)/1.2 var(--serif)!important;letter-spacing:0!important;text-transform:none!important;padding:0 0 8px!important;border-radius:0!important;border-bottom:2px solid transparent;height:auto!important;box-shadow:none!important}
+.rm5 .wahl button[aria-pressed="true"]{color:var(--tinte)!important;border-bottom-color:var(--gold)}
+/* 6 Kopf links auf Tanne */
+.rm6-g{display:grid;grid-template-columns:300px 1fr;gap:clamp(30px,4vw,70px);align-items:start}
+.rm6-k{position:sticky;top:110px}
+.rm6 .km-reihe{grid-template-columns:1fr 1fr}
+/* 7 Ein Menu je Zeile */
+.rm7 .km-reihe{grid-template-columns:1fr;gap:12px}
+.rm7 .km{display:grid;grid-template-columns:260px 1fr;grid-template-rows:auto 1fr auto;gap:10px 40px;align-items:start;text-align:left;padding:28px 32px}
+.rm7 .km h3{grid-column:1}.rm7 .km .km__von{grid-column:1;grid-row:2;margin:0}
+.rm7 .km__g{grid-column:2;grid-row:1/4;display:flex;flex-wrap:wrap;gap:6px 0;margin:0}
+.rm7 .km__g li{display:inline;padding:0 14px 0 0;margin:0;text-align:left}
+.rm7 .km__g li::after,.rm7 .km__g li::before{display:none!important}
+.rm7 .km__g li .zl{display:inline}
+.rm7 .km__g li+li::before{content:"◆"!important;display:inline!important;position:static!important;color:var(--gold);margin-right:14px;font-size:10px;vertical-align:middle}
+.rm7 .km__preis{grid-column:1;grid-row:3;align-self:end;margin:0;padding-top:12px;text-align:left}.rm7 .km__preis::before{display:none}
+/* 8 Goldlinien, Michelin-Sterne */
+.rm8 .km-reihe{gap:0}
+.rm8 .km{background:none!important;border-top:0;border-left:1px solid rgba(201,177,1,.45);border-radius:0}
+.rm8 .km:first-child{border-left:0}
+.rm8 .kg{background:none!important;border-top:1px solid rgba(201,177,1,.4);border-radius:0}
+/* 9 Mit Rautentapete */
+.rm9{isolation:isolate}
+.rm9::before{content:"";position:absolute;inset:0;z-index:-1;opacity:.12;background:repeating-linear-gradient(60deg,transparent 0 46px,var(--gold-tief) 46px 47px),repeating-linear-gradient(-60deg,transparent 0 46px,var(--gold-tief) 46px 47px)}
+.rm9 .km,.rm9 .kg{background:var(--papier)}
+/* 10 Preis zuerst */
+.rm10 .km{display:flex;flex-direction:column}
+.rm10 .km__preis{font:420 clamp(2.8rem,3.8vw,3.8rem)/1 var(--serif);color:var(--gold-tief);padding-top:26px;border-top:1px solid rgba(150,132,1,.4);margin-top:auto}
+.rm10 .km__preis::before{display:none}
+/* 11 Wie gedruckt, zwei Spalten */
+.rm11 .wahl{background:none;gap:28px}
+.rm11 .wahl button{background:none!important;color:var(--grau)!important;box-shadow:none!important;border-bottom:1px solid transparent;border-radius:0!important}
+.rm11 .wahl button[aria-pressed="true"]{color:var(--tinte)!important;border-bottom-color:var(--gold)}
+.rm11 .km-reihe{grid-template-columns:1fr 1fr;gap:0 clamp(40px,6vw,110px)}
+.rm11 .km,.rm11 .kg{background:none;border-top:0;border-bottom:1px solid rgba(150,132,1,.4);border-radius:0;padding-inline:0}
+/* 12 Gestaffelt */
+.rm12 .km:nth-child(2n){transform:translateY(clamp(30px,4vw,70px))}
+.rm12 .km-reihe{padding-bottom:clamp(30px,4vw,70px)}
+.rm12 .km,.rm12 .kg{background:var(--papier)}
+/* 13 Schmale Karte */
+.rm13-k{max-width:720px;margin:0 auto}
+.rm13 .km-reihe,.rm13 .kspalten{grid-template-columns:1fr!important}
+.rm13 .km+.km{margin-top:12px}
+/* 14 Dunkle Tafel */
+.rm14-t{background:var(--tanne);color:#ece6d8;border-radius:var(--ecke);padding:clamp(40px,5vw,90px) clamp(20px,4vw,70px)}
+.rm14-t .km,.rm14-t .kg{background:var(--salbei);color:#ece6d8}
+.rm14-t .km h3,.rm14-t .kk h3,.rm14-t .kg h4,.rm14-t .titel{color:#f2ede1}.rm14-t .ak{color:var(--gold-hell)}.rm14-t .wappen,.rm14-t .marke{color:var(--gold)}
+.rm14-t .wahl{background:rgba(255,255,255,.08)}.rm14-t .wahl button{color:#ece6d8}.rm14-t .karte__fuss a{color:#d9d3c4}
+/* 15 Zum Aufklappen */
+.rm15 .km-reihe{display:grid!important;grid-template-columns:1fr!important;margin-inline:0!important;padding:0!important;overflow:visible!important}
+.rm15 details.km{flex:none!important;width:100%}
+.rm15 .km-reihe{grid-template-columns:1fr;gap:10px}
+.rm15 details.km{padding:0;text-align:left;background:var(--papier)}
+.rm15 details.km summary{list-style:none;cursor:pointer;display:flex;justify-content:space-between;align-items:center;padding:24px 30px}
+.rm15 details.km summary::-webkit-details-marker{display:none}
+.rm15 details.km summary::after{content:"+";font:300 2rem/1 var(--serif);color:var(--gold-tief)}
+.rm15 details.km[open] summary::after{content:"–"}
+.rm15 details.km>*:not(summary){padding-inline:30px}
+.rm15 details.km .km__g{columns:2;column-gap:40px;display:block}
+.rm15 details.km .km__g li{break-inside:avoid}
+.rm15 details.km .km__preis{padding-bottom:24px}
+
+/* ============================== 5 Ausgezeichnet ============================== */
+.ra-k{margin-bottom:clamp(34px,4vw,56px)}
+.ra-k--m{text-align:center;display:flex;flex-direction:column;align-items:center}.ra-k--m .wappen{margin:0 auto 18px}.ra-k--m .satz{margin-inline:auto}
+.ra-l{list-style:none;margin:0;padding:0}
+.ra-l li{display:flex;flex-direction:column;gap:4px;padding:14px 0;border-top:1px solid rgba(150,132,1,.4)}
+.ra-l span{font:500 13px/1.2 var(--sans);letter-spacing:.14em;text-transform:uppercase;color:var(--gold-tief)}
+.ra-l b{font:420 1.35rem/1.2 var(--serif)}
+.ab--tanne .ra-l span{color:var(--gold)}.ab--tanne .ra-l li{border-top-color:rgba(201,177,1,.35)}
+/* 1 Laufband */
+.ra1-lb{overflow:hidden;border-block:1px solid rgba(150,132,1,.45);padding:12px 0;margin-bottom:clamp(30px,3vw,46px)}
+.ra1-lb>div{display:flex;width:max-content;animation:ra1-lauf 60s linear infinite}
+.ra1-lb span{font:500 13px/1.4 var(--sans);letter-spacing:.14em;text-transform:uppercase;color:var(--gold-tief);padding:0 28px;white-space:nowrap;display:flex;align-items:center}
+.ra1-lb b{font:420 16px/1 var(--serif);letter-spacing:0;text-transform:none;color:var(--tinte);margin-left:8px}
+@keyframes ra1-lauf{to{transform:translateX(-50%)}}
+@media (prefers-reduced-motion:reduce){.ra1-lb>div{animation:none}}
+.ra1-f{display:grid;grid-template-columns:1.4fr 1fr 1fr 1.4fr;gap:12px;height:clamp(300px,32vw,500px);align-items:center}
+.ra1-a,.ra1-d{height:100%}.ra1-b,.ra1-c{height:72%}
+/* 2 Wie eine Weinkarte */
+.ra2-g{display:grid;grid-template-columns:1.2fr .8fr;gap:clamp(30px,5vw,96px);align-items:center}
+.ra2-l li{flex-direction:row;align-items:baseline;gap:12px;border-top:0;padding:10px 0}
+.ra2-l li span{order:1;white-space:nowrap}
+.ra2-l li::after{content:"";order:2;flex:1;border-bottom:1px dotted rgba(150,132,1,.6);transform:translateY(-4px)}
+.ra2-l li b{order:3;white-space:nowrap;font-size:1.2rem}
+.ra2-f{display:grid;grid-template-rows:1fr 1fr;gap:12px;height:clamp(460px,46vw,700px)}
+/* 3 Michelin vorn */
+.ra3-g{display:grid;grid-template-columns:1fr 1fr;gap:clamp(30px,5vw,96px);align-items:center;margin-bottom:clamp(34px,4vw,56px)}
+.ra3-m{display:flex;flex-direction:column;align-items:center;text-align:center;padding:clamp(30px,3.4vw,54px);border:1px solid rgba(201,177,1,.5);border-radius:var(--r)}
+.ra3-m>span{font:500 13px/1 var(--sans);letter-spacing:.22em;text-transform:uppercase;color:var(--gold)}
+.ra3-m b{font:420 clamp(1.8rem,2.8vw,2.6rem)/1.15 var(--serif);margin-top:8px}
+.ra3 .ra3-st{justify-content:center;margin:20px 0 12px}.ra3 .ra3-st svg{width:clamp(44px,4.4vw,64px)}.ra3 .ra3-st span{display:none}
+.ra3-l{display:grid;grid-template-columns:repeat(7,1fr);gap:0 16px}
+.ra3-l li b{font-size:1.1rem}
+.ra3-f{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;height:clamp(220px,22vw,340px);margin-top:clamp(30px,3vw,46px)}
+/* 4 Teller mit Urteil */
+.ra4-g{display:grid;grid-template-columns:repeat(4,1fr);gap:clamp(12px,1.6vw,24px)}
+.ra4-s .rbf{height:clamp(260px,26vw,400px);margin-bottom:10px}
+/* 5 Grosses Foto mit Liste */
+.ra5{padding:var(--polster) var(--rand);min-height:min(100svh,940px);display:flex;align-items:center}
+.ra5-b{position:absolute;inset:0}
+.ra5-t{position:relative;z-index:1;width:min(48%,620px);padding:clamp(30px,3.4vw,54px);background:rgba(31,38,33,.94);border-radius:var(--r)}
+.ra5-l{display:grid;grid-template-columns:1fr 1fr;gap:0 24px;margin-top:22px}
+/* 6 Mittelachse */
+.ra6-g{display:grid;grid-template-columns:1fr 1.3fr 1fr;gap:clamp(20px,3vw,50px);align-items:center}
+.ra6-s{display:grid;grid-template-rows:1fr 1fr;gap:12px;height:clamp(460px,48vw,720px)}
+.ra6-m .ra-k{margin-bottom:20px}
+.ra6-l{display:grid;grid-template-columns:1fr 1fr;gap:0 20px;text-align:center}
+.ra6-l li{align-items:center}
+/* 7 Treppe */
+.ra7-g{display:grid;grid-template-columns:.9fr 1.1fr;gap:clamp(30px,5vw,96px);align-items:stretch}
+.ra7-l{display:flex;flex-direction:column;justify-content:space-between}
+.ra7-b{height:clamp(320px,30vw,460px)}
+.ra7-l li{padding-left:calc(var(--n,0) * clamp(14px,2vw,34px))}
+.ra7-l li:nth-child(1){--n:0}.ra7-l li:nth-child(2){--n:1}.ra7-l li:nth-child(3){--n:2}.ra7-l li:nth-child(4){--n:3}.ra7-l li:nth-child(5){--n:4}.ra7-l li:nth-child(6){--n:5}.ra7-l li:nth-child(7){--n:6}.ra7-l li:nth-child(8){--n:7}
+.ra7-l b{font-size:clamp(1.4rem,2vw,1.9rem)}
+/* 8 Urkunden */
+.ra8{padding-top:0}
+.ra8-b{height:clamp(240px,30svh,360px);margin-bottom:clamp(40px,5vw,80px)}
+.ra8-g{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}
+.ra8-u{display:flex;flex-direction:column;gap:8px;align-items:center;text-align:center;padding:26px 16px;background:var(--papier);border-radius:4px;outline:1px solid rgba(150,132,1,.55);outline-offset:-8px}
+.ra8-u span{font:500 12.5px/1.2 var(--sans);letter-spacing:.14em;text-transform:uppercase;color:var(--gold-tief)}.ra8-u b{font:420 1.3rem/1.2 var(--serif)}
+.ra8-f{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;height:clamp(220px,22vw,340px);margin-top:12px}
+/* 9 Die Werte gross */
+.ra9-g{display:grid;grid-template-columns:repeat(4,1fr);gap:0}
+.ra9-w{display:flex;flex-direction:column;gap:6px;padding:26px clamp(10px,1.6vw,26px);border-top:1px solid rgba(201,177,1,.4);border-left:1px solid rgba(201,177,1,.25)}
+.ra9-w:nth-child(4n+1){border-left:0}
+.ra9-w b{font:420 clamp(2.6rem,4.6vw,4.6rem)/1 var(--serif);color:var(--gold-hell)}
+.ra9-w em{font-style:normal;font:420 1.2rem/1.2 var(--serif)}
+.ra9-w span{font:500 12.5px/1.3 var(--sans);letter-spacing:.12em;text-transform:uppercase;color:rgba(242,237,225,.66)}
+.ra9-f{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;height:clamp(200px,18vw,280px);margin-top:clamp(30px,3vw,46px)}
+/* 10 Zum Wischen */
+.ra10-w{display:flex;gap:14px;overflow-x:auto;scroll-snap-type:x mandatory;padding:0 var(--rand) 10px;scrollbar-width:none}
+.ra10-w::-webkit-scrollbar{display:none}
+.ra10-c{flex:0 0 min(30vw,460px);scroll-snap-align:start;background:var(--papier);border-radius:var(--r);overflow:hidden}
+.ra10-c>img{height:clamp(260px,24vw,360px)}
+.ra10-l{padding:6px 22px 16px}
+/* 11 Bildstreifen oben */
+.ra11{padding-top:0}
+.ra11-f{display:grid;grid-template-columns:repeat(4,1fr);height:clamp(220px,24vw,360px);margin-bottom:clamp(40px,5vw,80px)}
+.ra11-f>div{overflow:hidden}
+.ra11-g{display:grid;grid-template-columns:1fr 1fr;gap:clamp(30px,5vw,96px);align-items:start}
+.ra11-l{display:grid;grid-template-columns:1fr 1fr;gap:0 24px}
+/* 12 Bild wechselt beim Zeigen */
+.ra12-g{display:grid;grid-template-columns:1fr 1fr;gap:clamp(30px,5vw,96px);align-items:center}
+.ra12-l{display:grid;grid-template-columns:1fr 1fr;gap:0 24px}
+.ra12-l li{cursor:default;transition:color .3s}
+.ra12-b{position:relative;height:clamp(460px,48vw,720px);border-radius:var(--r);overflow:hidden}
+.ra12-f{position:absolute;inset:0;opacity:0;transition:opacity .5s}
+.ra12-f0{opacity:1}
+.ra12-g:has(.ra12-i1:hover) .ra12-f0,.ra12-g:has(.ra12-i2:hover) .ra12-f0,.ra12-g:has(.ra12-i3:hover) .ra12-f0{opacity:0}
+.ra12-g:has(.ra12-i1:hover) .ra12-f1,.ra12-g:has(.ra12-i2:hover) .ra12-f2,.ra12-g:has(.ra12-i3:hover) .ra12-f3{opacity:1}
+.ra12-l li:hover b{color:var(--gold-hell)}
+/* 13 In einem Satz */
+.ra13-p{font:420 clamp(1.4rem,2.2vw,2rem)/1.6 var(--serif);text-align:center;max-width:1100px;margin:0 auto;color:var(--grau);text-wrap:balance}
+.ra13-p b{font-weight:420;color:var(--tinte)}
+.ra13-p i{font-style:normal;color:var(--gold);font-size:.6em;vertical-align:middle;margin:0 .4em}
+.ra13-f{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;align-items:end;margin-top:clamp(34px,4vw,56px);height:clamp(300px,30vw,460px)}
+.ra13-0{height:70%}.ra13-1{height:100%}.ra13-2{height:84%}.ra13-3{height:60%}
+/* 14 Urteil im Bild */
+.ra14-g{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}
+.ra14-c{position:relative;height:clamp(380px,36vw,560px);border-radius:var(--r);overflow:hidden}
+.ra14-c figcaption{position:absolute;inset:auto 0 0;padding:60px 20px 20px;background:linear-gradient(to top,rgba(20,26,22,.92),rgba(20,26,22,.6) 60%,transparent);display:flex;flex-direction:column;gap:2px}
+.ra14-c figcaption span{font:500 13px/1.2 var(--sans);letter-spacing:.14em;text-transform:uppercase;color:var(--gold);margin-top:10px}
+.ra14-c figcaption b{font:420 1.2rem/1.2 var(--serif);color:#f2ede1}
+/* 15 Zwei Hälften */
+.ra15{padding:0;display:grid;grid-template-columns:1fr 1fr}
+.ra15-t{padding:var(--polster) clamp(30px,4vw,80px) var(--polster) var(--rand)}
+.ra15-l{display:grid;grid-template-columns:1fr 1fr;gap:0 24px;margin-top:26px}
+.ra15-f{display:grid;grid-template-columns:1fr 1fr;grid-template-rows:1fr 1fr;gap:6px}
+.ra15-f>div{overflow:hidden}
+
+/* ============================== 6 Nahaufnahmen ============================== */
+/* 1 Schuber mit zwei Bänden */
+.rn1-g{display:grid;grid-template-columns:auto 1fr .8fr;gap:clamp(30px,5vw,90px);align-items:center}
+.rn1-s{display:flex;gap:6px;padding:14px;background:#d8cfbb;border-radius:6px;height:clamp(380px,36vw,520px)}
+.rn1-s i{display:flex;flex-direction:column;justify-content:space-between;align-items:center;width:clamp(64px,6vw,90px);padding:24px 0;background:var(--tanne);border-radius:3px;color:var(--gold-hell)}
+.rn1-s b{writing-mode:vertical-rl;transform:rotate(180deg);font:420 1.3rem/1 var(--serif);letter-spacing:.06em}
+.rn1-s em{font-style:normal;font:420 1.1rem/1 var(--serif)}
+.rn1-f{height:clamp(380px,36vw,520px)}
+/* 2 Aufgeschlagenes Buch */
+.rn2-buch{display:grid;grid-template-columns:1fr 1fr;gap:2px;max-width:1180px;margin:0 auto;padding:12px;background:var(--leinen);border-radius:8px;height:clamp(320px,36vw,560px)}
+.rn2-buch img{border-radius:4px 0 0 4px}.rn2-buch img+img{border-radius:0 4px 4px 0}
+.rn2-t{max-width:760px;margin:clamp(30px,3vw,46px) auto 0;text-align:center;display:flex;flex-direction:column;align-items:center}.rn2-t .wappen{margin:0 auto 18px}.rn2-t .satz{margin-inline:auto}.rn2-t .knoepfe.rb-kn{justify-content:center}
+/* 3 Tafel auf dem Foto */
+.rn3{padding:var(--polster) var(--rand);min-height:min(100svh,880px);display:flex;align-items:flex-end;justify-content:flex-end}
+.rn3-b{position:absolute;inset:0}
+.rn3-t{position:relative;z-index:1;width:min(46%,600px);padding:clamp(30px,3.4vw,54px);background:var(--tanne);border-radius:var(--r)}
+/* 4 Versetzt */
+.rn4-g{display:grid;grid-template-columns:1fr 1.1fr 1fr;gap:clamp(24px,4vw,70px);align-items:start}
+.rn4-a{height:clamp(380px,36vw,560px)}.rn4-b{height:clamp(380px,36vw,560px);margin-top:clamp(80px,10vw,160px)}
+.rn4-t{padding-top:clamp(30px,4vw,70px)}
+/* 5 Lesebändchen */
+.rn5-g{display:grid;grid-template-columns:1fr 1.1fr;gap:clamp(30px,5vw,96px);align-items:center}
+.rn5-t{position:relative;padding:clamp(40px,4vw,60px) clamp(30px,3vw,50px) clamp(40px,4vw,60px) clamp(60px,6vw,96px);background:var(--papier);border-radius:var(--r)}
+.rn5-band{position:absolute;left:clamp(20px,2vw,34px);top:-14px;width:16px;height:62%;background:var(--rot);clip-path:polygon(0 0,100% 0,100% 100%,50% 88%,0 100%)}
+.rn5-f{height:clamp(420px,42vw,640px)}
+/* 6 Das Buch in Zahlen */
+.rn6-k{max-width:900px}
+.rn6-z{display:grid;grid-template-columns:repeat(3,1fr);margin:clamp(30px,3vw,46px) 0}
+.rn6-z>div{padding:22px 24px 22px 0;border-top:1px solid rgba(150,132,1,.45);display:flex;flex-direction:column;gap:6px}
+.rn6-z b{font:420 clamp(2.8rem,5vw,5rem)/1 var(--serif);color:var(--gold-tief)}
+.rn6-z span{font:500 13px/1.3 var(--sans);letter-spacing:.12em;text-transform:uppercase;color:var(--grau)}
+.rn6-f{display:grid;grid-template-columns:1fr 1fr;gap:12px;height:clamp(280px,30vw,460px)}
+/* 7 Im Licht */
+.rn7 .in{display:flex;flex-direction:column;align-items:center;text-align:center}
+.rn7-k{max-width:760px;display:flex;flex-direction:column;align-items:center}.rn7-k .wappen{margin:0 auto 18px}.rn7-k .satz{margin-inline:auto}.rn7-k .knoepfe.rb-kn{justify-content:center}
+.rn7-b{width:min(100%,1100px);height:clamp(320px,40vw,600px);margin-top:clamp(34px,4vw,56px)}
+/* 8 Ein Satz gross */
+.rn8-g{display:grid;grid-template-columns:1.25fr .75fr;gap:clamp(30px,5vw,96px);align-items:center}
+.rn8-q{font:420 clamp(2rem,3.8vw,3.6rem)/1.15 var(--serif);margin-top:20px;text-wrap:balance}
+.rn8-f{height:clamp(440px,44vw,680px)}
+/* 9 Bild im Wort */
+.rn9-h{font:420 clamp(3.4rem,13vw,13rem)/.9 var(--serif);margin:0 0 clamp(26px,3vw,46px);letter-spacing:-.02em}
+.rn9-h span{color:var(--gold-hell)}
+.rn9-g{display:grid;grid-template-columns:1.1fr .9fr;gap:clamp(30px,5vw,96px);align-items:end}
+.rn9-g .rbf{height:clamp(300px,30vw,460px)}
+.rn9-g .satz:first-child{margin-top:0}
+/* 10 Leinen-Etikett */
+.rn10-g{display:grid;grid-template-columns:1.2fr 1fr;align-items:center}
+.rn10-f{grid-column:1/2;grid-row:1;height:clamp(460px,46vw,700px)}
+.rn10-e{grid-column:1/3;grid-row:1;justify-self:end;width:min(48%,600px);position:relative;z-index:1;padding:clamp(34px,3.6vw,56px);border-radius:6px;background:#e3dac7;
+  background-image:repeating-linear-gradient(0deg,rgba(47,42,39,.04) 0 1px,transparent 1px 3px),repeating-linear-gradient(90deg,rgba(47,42,39,.04) 0 1px,transparent 1px 3px);outline:1px solid rgba(150,132,1,.55);outline-offset:-10px}
+/* 11 Bild bis an den Rand */
+.rn11{padding:0;display:grid;grid-template-columns:55% 1fr}
+.rn11-b{position:relative;overflow:hidden;min-height:min(90svh,820px)}
+.rn11-t{padding:var(--polster) var(--rand) var(--polster) clamp(30px,4vw,80px);display:flex;flex-direction:column;justify-content:center}
+/* 12 Zwei übereinander */
+.rn12-g{display:grid;grid-template-columns:1fr 1fr;gap:clamp(30px,5vw,96px);align-items:center}
+.rn12-t{border-left:1px solid var(--gold);padding-left:clamp(24px,3vw,46px)}
+.rn12-s{display:grid;grid-template-rows:1fr 1fr;gap:12px;height:clamp(520px,52vw,780px)}
+/* 13 Band mit Text */
+.rn13{padding-top:0}
+.rn13-b{display:grid;grid-template-columns:1fr 1fr;height:clamp(300px,42svh,520px)}
+.rn13-t{position:relative;z-index:1;margin-top:calc(-1*clamp(60px,7vw,110px));padding:clamp(30px,3.4vw,54px);background:var(--papier);border-radius:var(--r);max-width:900px;display:flex;flex-direction:column;align-items:center;text-align:center}
+.rn13-t .wappen{margin:0 auto 18px}.rn13-t .satz{margin-inline:auto}.rn13-t .knoepfe.rb-kn{justify-content:center}
+/* 14 Zwei Drittel */
+.rn14-k{margin-bottom:clamp(26px,3vw,40px)}
+.rn14-g{display:grid;grid-template-columns:2fr 1fr;gap:12px;height:clamp(320px,34vw,520px)}
+.rn14-s{display:grid;grid-template-columns:1fr auto;gap:clamp(30px,5vw,90px);align-items:start;margin-top:clamp(20px,2.4vw,34px)}
+.rn14-s .satz{margin-top:0}.rn14-s .knoepfe.rb-kn{margin-top:0}
+/* 15 Hochformat in der Mitte */
+.rn15-g{display:grid;grid-template-columns:1fr 1fr .6fr;gap:clamp(24px,4vw,70px);align-items:center}
+.rn15-m{height:clamp(460px,46vw,700px)}
+.rn15-r{height:clamp(240px,22vw,340px);align-self:end}
+
+/* ============================== 7 Ausklang ============================== */
+.rz{overflow:hidden}
+.rz img{display:block;width:100%;height:100%;object-fit:cover}
+.rz .in{width:100%}
+.rz [class*="-b"],.rz12-f{overflow:hidden}
+.rz .rz-s{font:420 clamp(1.8rem,3.2vw,2.8rem)/1.15 var(--serif);text-wrap:balance}
+.rz--tanne{background:var(--tanne);color:#f2ede1}
+.rz--dunkel{color:#fff}
+.rz .wappen{margin:0 auto 22px;color:var(--gold-tief)}.rz--tanne .wappen{color:var(--gold)}
+/* 1 Sommernacht */
+.rz1{padding-block:clamp(110px,12vw,180px)}
+.rz1-b{position:absolute;inset:0;z-index:-1}
+.rz1-b::after{content:"";position:absolute;inset:0;background:rgba(14,20,28,.5)}
+.rz1{isolation:isolate}
+/* 2 Mit den drei Sternen */
+.rz .rz2-st{justify-content:center;flex-direction:row;margin:0 0 26px}.rz .rz2-st span{flex-basis:100%;text-align:center;color:var(--grau)}
+/* 4 Satz links, Buchen rechts */
+.rz4-g{display:grid;grid-template-columns:1fr auto;gap:clamp(30px,5vw,90px);align-items:center;text-align:left}
+.rz4-g .knoepfe{margin-top:0}
+/* 5 Bild links */
+.rz5{padding:0;display:grid;grid-template-columns:1fr 1fr;text-align:left}
+.rz5-b{position:relative;min-height:clamp(380px,40vw,560px)}
+.rz5-t{padding:clamp(50px,6vw,100px) var(--rand) clamp(50px,6vw,100px) clamp(30px,4vw,80px);display:flex;flex-direction:column;justify-content:center}
+.rz5-t .knoepfe{justify-content:flex-start}
+/* 6 Panorama oben */
+.rz6{padding-top:0}
+.rz6-b{height:clamp(220px,28svh,340px);margin:0 calc(-1*var(--rand)) clamp(50px,6vw,90px)}
+/* 7 Der Satz über die Breite */
+.rz7{text-align:left}
+.rz7 .rz-s{font-size:clamp(2.4rem,5.6vw,5.6rem);line-height:1.04}
+.rz7 .knoepfe{justify-content:flex-end}
+/* 8 Zwischen Goldlinien */
+.rz8-l{display:block;width:min(280px,60%);height:1px;background:var(--gold);margin:0 auto 30px}
+.rz8 .rz-s+.rz8-l{margin:30px auto 0}
+/* 9 Tisch und Zimmer */
+.rz9-g{display:grid;grid-template-columns:auto 1fr;gap:clamp(24px,4vw,60px);align-items:end;justify-content:center;margin:clamp(34px,4vw,52px) auto 0;width:max-content;max-width:100%;text-align:left}
+.rz9-g .marke{margin-bottom:12px;font:500 12.5px/1.2 var(--sans);letter-spacing:.16em;color:var(--gold)}
+.rz9-g .rz-tisch{display:inline-flex}
+/* 10 Fenster mit Karte */
+.rz10-g{display:grid;grid-template-columns:1.4fr 1fr;align-items:center;text-align:left}
+.rz10-b{grid-column:1;grid-row:1;height:clamp(380px,38vw,560px);border-radius:var(--r);overflow:hidden}
+.rz10-k{grid-column:1/3;grid-row:1;justify-self:end;width:min(52%,700px);position:relative;z-index:1;padding:clamp(30px,3.4vw,54px);background:var(--papier);border-radius:var(--r)}
+.rz10-k .knoepfe{justify-content:flex-start}
+/* 11 Wappen gross */
+.rz .rz11-w{width:clamp(90px,8vw,130px);margin:0 auto 30px}
+/* 12 Postkarte */
+.rz12-g{display:flex;flex-direction:column;align-items:center}
+.rz12-k{display:grid;grid-template-columns:1fr 1fr;width:min(100%,1000px);background:var(--papier);border-radius:6px;padding:14px;gap:clamp(20px,3vw,46px);text-align:left;align-items:center}
+.rz12-f{height:clamp(260px,26vw,380px);border-radius:3px;overflow:hidden}
+.rz12-t{padding-right:clamp(10px,2vw,30px);border-left:1px solid rgba(150,132,1,.45);padding-left:clamp(20px,3vw,46px)}
+.rz12-t .wappen{margin:0 0 18px}
+.rz12 .rz-s,.rz4 .rz-s{font-size:clamp(1.6rem,2.4vw,2.3rem)}
+/* 13 Schmale Leiste */
+.rz13{padding-block:clamp(40px,4vw,60px)}
+.rz13-g{display:grid;grid-template-columns:1fr auto;gap:clamp(24px,4vw,60px);align-items:center;text-align:left}
+.rz13 .rz-s{font-size:clamp(1.4rem,2.2vw,2rem)}
+.rz13-g .knoepfe{margin-top:0}
+/* 14 Haus unter dem Satz */
+.rz14{padding-bottom:0}
+.rz14-b{height:clamp(240px,30svh,380px);margin:clamp(50px,6vw,90px) calc(-1*var(--rand)) 0}
+/* 15 Tag und Nacht */
+.rz15{padding-top:0}
+.rz15-b{display:grid;grid-template-columns:1fr 1fr;gap:6px;height:clamp(240px,30svh,380px);margin:0 calc(-1*var(--rand)) clamp(50px,6vw,90px)}
+.rz15-b>div{overflow:hidden}
+
+/* ============================== Handy ============================== */
+@media (max-width:800px){
+  .rh{min-height:0;padding:104px var(--rand) 44px}
+  .rh h1,.rh6-t h1{font-size:clamp(2.6rem,11vw,3.4rem)}
+  .rh1,.rh4,.rh9,.rh15{min-height:0;padding:0;display:flex;flex-direction:column;align-items:stretch}
+  .rh1-b,.rh4-b,.rh9-b,.rh15-b{position:relative;inset:auto;height:56svh;width:auto;top:auto;bottom:auto;border-radius:0}
+  .rh1-t,.rh15-t{width:auto;border-radius:0;padding:36px var(--rand) 44px}
+  .rh15-t{background:var(--papier)}
+  .rh4-b{position:absolute;inset:0;height:auto}.rh4{padding:104px var(--rand) 60px}
+  .rh9-b{position:absolute;inset:0;height:auto}.rh9{padding:200px var(--rand) 30px}.rh9-b i{top:80px}
+  .rh3,.rh5-t,.rh7,.rh8,.rh13-t,.rh14{grid-template-columns:1fr}
+  .rh3-m{height:52svh}
+  .rh5-b,.rh6-b,.rh13-b{height:44svh}
+  .rh6-s{flex-direction:column;gap:0}.rh6-s .knoepfe.rb-kn{margin-top:26px}
+  .rh7-b{width:100%;height:60svh;order:-1}
+  .rh8-w{padding:0 0 18% 0}.rh8-g{height:46svh}.rh8-k{left:auto;right:6%;bottom:0;width:42%}
+  .rh10-o{padding:104px var(--rand) 110px}.rh10-u{min-height:44svh}.rh10-k{position:relative;top:auto;right:auto;width:auto;margin:-70px var(--rand) 30px}
+  .rh11,.rh12{grid-template-columns:1fr}.rh11-b,.rh12-b{height:52svh}.rh11-t,.rh12-t{padding:36px var(--rand) 44px}
+  .rh12-b i{background-size:auto}
+  .rh13-b{gap:6px}
+  .rh14{padding-left:var(--rand)}.rh14-b{width:auto;outline-offset:8px;margin:8px}
+  .rb [class*="-g"]:not(.ru12-g):not(.rk10-g):not(.ra4-g):not(.ra14-g):not(.ra8-g):not(.ra9-g):not(.rn2-buch),
+  .ru2-g,.ru3-t,.ru4-g,.ru8-k,.ru11-k,.rk2-t,.rk4-t,.rk6-s,.rk8-k,.rk14-s,.rk15-t,.rk3-u,.ra3-g,.rn14-s,.rz4-g,.rz9-g,.rz13-g{grid-template-columns:1fr!important}
+  .rb .rbf{height:auto;aspect-ratio:4/3;min-height:0;margin:0}
+  .ru1-w{grid-template-columns:repeat(7,minmax(0,1fr));gap:4px}.ru1-w>div{padding:12px 2px}.ru1-w b{font-size:1.1rem}.ru1-w span{font-size:11px;letter-spacing:0}
+  .ru1-f,.ru3-f,.ru5-f,.ru13-f,.rk14-g,.rk8-f,.ra1-f,.ra3-f,.ra8-f,.ra9-f,.ra13-f,.rn6-f,.rn14-g{grid-template-columns:1fr 1fr!important;height:auto}
+  .ru3-f .rbf,.ra1-f .rbf,.ra13-f .rbf{height:auto!important}
+  .ru4-g{padding-block:60px}.ru4-b::after{background:rgba(20,26,22,.82)}
+  .ru6,.rk11,.ra15,.rn11,.rz5{grid-template-columns:1fr}
+  .ru6-b,.rk11-b,.rn11-b,.rz5-b{min-height:0;height:50svh}
+  .ru6-t,.rk11-t,.ra15-t,.rn11-t,.rz5-t{padding:44px var(--rand) 56px}
+  .ru7-w{padding:0 0 22% 0}.ru7-v{width:50%}
+  .ru8-l{grid-template-columns:1fr;gap:20px}.ru8-l i{display:none}
+  .ru9-w{height:380px}
+  .ru10-z{grid-template-columns:1fr}
+  .ru11-band .rbf{flex-basis:78vw;height:300px;aspect-ratio:auto}
+  .ru12-g{grid-template-columns:1fr 1fr;grid-template-areas:"t t" "a a" "b c" "z z"}.ru12-a{min-height:0}
+  .ru14-s2,.ru14-s3,.ru15-r,.ru15-l,.rk13-b,.rn4-b{margin:0!important}
+  .ru15-l,.ru15-r{height:auto}
+  .rk-namen,.rk2-n{grid-template-columns:1fr 1fr}
+  .rk3-w{grid-template-columns:1fr 1fr;gap:28px 18px}.rk3-w::before{display:none}
+  .rk5-g>.rbf{height:auto}
+  .rk9{display:flex;flex-direction:column;padding:60px var(--rand)}.rk9-b{height:50svh;width:100%}.rk9-k{width:auto;margin:-60px 12px 0}
+  .rk10-g{grid-template-columns:1fr 1fr;grid-template-areas:"t t" "a b" "a c" "d e"}.rk10-a{min-height:0}
+  .rk12-n li{grid-template-columns:1fr;gap:4px}
+  .rk13-w{grid-template-columns:1fr 1fr}
+  .rm1-g,.rm6-g,.rm15-g{display:block}
+  .rm1-g .speisekarte{display:block}.rm1-g .wahl{position:static;flex-direction:row;margin:0 auto 24px;width:max-content;max-width:100%}
+  .rm6-k{position:static;margin-bottom:30px}
+  .rm1 .km-reihe,.rm4 .km-reihe,.rm6 .km-reihe,.rm11 .km-reihe{grid-template-columns:1fr}
+  .rm4-buch{padding:28px 18px}
+  .rm7 .km{grid-template-columns:1fr;padding:22px}.rm7 .km__g,.rm7 .km__preis{grid-column:1;grid-row:auto;text-align:left}
+  .rm8 .km{border-left:0;border-top:1px solid rgba(201,177,1,.45)}
+  .rm12 .km:nth-child(2n){transform:none}
+  .rm15 details.km .km__g{columns:1}
+  .rm5 .wahl{gap:18px}.rm5 .wahl button{font-size:1.4rem!important}
+  .ra2-f,.ra6-s,.ra12-b,.rn12-s{height:auto;grid-template-rows:none;grid-template-columns:1fr 1fr}
+  .ra12-b{height:60svh;grid-template-columns:none}
+  .ra2-l li{flex-wrap:wrap}.ra2-l li::after{display:none}.ra2-l li span{white-space:normal;flex-basis:100%}
+  .ra3-l{grid-template-columns:1fr 1fr}
+  .ra4-g,.ra14-g,.ra8-g{grid-template-columns:1fr 1fr}
+  .ra4-s .rbf{height:auto}
+  .ra5{display:block;padding:0}.ra5-b{position:relative;height:50svh}.ra5-t{width:auto;border-radius:0;background:var(--tanne)}
+  .ra5-l,.ra6-l,.ra11-l,.ra12-l,.ra15-l{grid-template-columns:1fr}
+  .ra7-l li{padding-left:0!important}
+  .ra9-g{grid-template-columns:1fr 1fr}.ra9-w{border-left:0}
+  .ra10-c{flex-basis:80vw}
+  .ra11-f{grid-template-columns:1fr 1fr;height:auto}.ra11-f>div{height:160px}
+  .ra14-c{height:300px}
+  .ra15-f{height:auto;grid-template-rows:none}.ra15-f>div{height:180px}
+  .rn1-s{height:300px;justify-content:center}.rn1-f{height:auto}
+  .rn2-buch{height:auto}.rn2-buch img{height:220px}
+  .rn3{display:block;padding:0}.rn3-b{position:relative;height:50svh}.rn3-t{width:auto;border-radius:0}
+  .rn6-z{grid-template-columns:1fr}
+  .rn10-g{display:flex;flex-direction:column}.rn10-f{height:auto;width:100%}.rn10-e{width:auto;margin:-50px 12px 0}
+  .rn13-b{height:260px}.rn13-t{margin:-40px 0 0}
+  .rn14-g{height:auto}
+  .rn15-m,.rn15-r{height:auto}
+  .rz10-g{display:flex;flex-direction:column}.rz10-b{height:300px;width:100%}.rz10-k{width:auto;margin:-50px 12px 0}
+  .rz12-k{grid-template-columns:1fr}.rz12-t{border-left:0;padding:10px}
+  .rz9-g{width:auto}
+  .rz7 .knoepfe{justify-content:flex-start}
+  .rz15-b,.rz14-b,.rz6-b{height:200px}
+  .ru1-f>:first-child,.ru3-f>:nth-child(2),.ru5-f>:first-child,.ru13-f>:first-child,.rk8-f>:first-child,.ra8-f>:first-child{grid-column:1/-1}
+  .ru3-f>:nth-child(2){order:-1}
+  .ra14-g{grid-template-columns:1fr}.ra14-c{height:340px}
+  .rh9{padding:200px calc(var(--rand) + 16px) 40px}
+  .ru9-w{height:340px}.ru9-f{width:56%}
+  .ru1-w{grid-template-columns:1fr!important;gap:6px}.ru1-w>div{flex-direction:row;align-items:baseline;gap:14px;padding:12px 16px;text-align:left}.ru1-w b{font-size:1.2rem;width:2.2em}.ru1-w span{font-size:13px;letter-spacing:.06em}
+  .rn1-g{display:flex!important;flex-direction:column;align-items:stretch}.rn1-s{order:2;height:200px;width:max-content;align-self:center}.rn1-f{order:3}
+  .ru9-f{height:78%!important;aspect-ratio:auto!important}
+  .ru8-l{flex-direction:column;align-items:stretch}
+  .ru14-s{min-height:0}
+  .rm7 .km{grid-template-rows:none}.rm7 .km h3,.rm7 .km .km__von{grid-row:auto}
+}

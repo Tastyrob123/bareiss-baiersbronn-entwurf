@@ -1,0 +1,134 @@
+[
+ {
+  "name": "Tanne",
+  "hex": "#1f2621",
+  "rgb": [
+   31,
+   38,
+   33
+  ],
+  "rolle": "die Wände des Restaurants Bareiss: Grund der dunklen Flächen, Kopf und Fuß",
+  "gruppe": "tanne",
+  "woher": "Wert der Website (bareiss.css)"
+ },
+ {
+  "name": "Salbei",
+  "hex": "#3f4a40",
+  "rgb": [
+   63,
+   74,
+   64
+  ],
+  "rolle": "zweite dunkle Fläche, das Kapitel Restaurant Bareiss",
+  "gruppe": "tanne",
+  "woher": "Wert der Website (bareiss.css)"
+ },
+ {
+  "name": "Salbei hell",
+  "hex": "#5b6658",
+  "rgb": [
+   91,
+   102,
+   88
+  ],
+  "rolle": "ruhige Fläche und Linie auf Salbei",
+  "gruppe": "tanne",
+  "woher": "Wert der Website (bareiss.css)"
+ },
+ {
+  "name": "Papier",
+  "hex": "#f5f2ea",
+  "rgb": [
+   245,
+   242,
+   234
+  ],
+  "rolle": "das Tischtuch: Grund der hellen Seiten, nie reines Weiß",
+  "gruppe": "raum",
+  "woher": "Wert der Website (bareiss.css)"
+ },
+ {
+  "name": "Leinen",
+  "hex": "#ece6d8",
+  "rgb": [
+   236,
+   230,
+   216
+  ],
+  "rolle": "Fläche auf Papier, Kachel im hellen Kapitel",
+  "gruppe": "raum",
+  "woher": "Wert der Website (bareiss.css)"
+ },
+ {
+  "name": "Tinte",
+  "hex": "#2f2a27",
+  "rgb": [
+   47,
+   42,
+   39
+  ],
+  "rolle": "Titel und Lesetext auf Papier, nie reines Schwarz",
+  "gruppe": "raum",
+  "woher": "Wert der Website (bareiss.css)"
+ },
+ {
+  "name": "Hausgrau",
+  "hex": "#6b625d",
+  "rgb": [
+   107,
+   98,
+   93
+  ],
+  "rolle": "kleine Zeilen und Nebentext auf Papier",
+  "gruppe": "raum",
+  "woher": "Wert der Website (bareiss.css)"
+ },
+ {
+  "name": "Hausgold",
+  "hex": "#c9b101",
+  "rgb": [
+   201,
+   177,
+   1
+  ],
+  "rolle": "das Gold des Logos: Linie, Zeichen, Hauptknopf auf Tanne",
+  "gruppe": "gold",
+  "woher": "Wert der Website (bareiss.css)"
+ },
+ {
+  "name": "Hausgold hell",
+  "hex": "#e2d27a",
+  "rgb": [
+   226,
+   210,
+   122
+  ],
+  "rolle": "Glanz im Gold, Akzent in der Schrift auf Tanne",
+  "gruppe": "gold",
+  "woher": "Wert der Website (bareiss.css)"
+ },
+ {
+  "name": "Hausgold tief",
+  "hex": "#968401",
+  "rgb": [
+   150,
+   132,
+   1
+  ],
+  "rolle": "Etikett und Zeichen auf Papier, wo Hausgold zu hell steht",
+  "gruppe": "gold",
+  "woher": "Wert der Website (bareiss.css)"
+ },
+ {
+  "name": "Herzrot",
+  "hex": "#b4302c",
+  "rgb": [
+   180,
+   48,
+   44
+  ],
+  "rolle": "das Herz an der Zimmertür: nur als Punkt, nie als Fläche",
+  "gruppe": "herz",
+  "woher": "Wert der Website (bareiss.css)"
+ }
+]

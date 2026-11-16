@@ -1,0 +1,105 @@
+{
+ "_hinweis": "Knopf-Namen der Tafeln «So geht’s» je Werkzeug, aus dem Code der Werkzeuge gelesen (M20; Hotel Bareiss 09.11.2026). bau.py prüft jeden «Namen» gegen den Code des Werkzeugs und meldet, was fehlt. Inhalt: was das Werkzeug für das Hotel Bareiss tut.",
+ "bureau": [
+  [
+   "stift",
+   "Text oder Foto ändern",
+   "Den Bereich wählen, in der Vorschau auf den Text oder das Foto klicken und ändern, oder «Eigenes Foto hochladen». «Speichern» legt es in den Entwurf."
+  ],
+  [
+   "uhr",
+   "Zimmer, Preise, Termine",
+   "Unter «Zimmerkategorien» stehen die sieben Kategorien mit Preis und Fotos, unter «Themenwochen» die Arrangements mit ihren Terminen. Einmal ändern, jede Seite der Website folgt."
+  ],
+  [
+   "waage",
+   "Erst ansehen, dann online",
+   "«Vorher, nachher» zeigt beide Stände nebeneinander, «Veröffentlichen» stellt sie auf die Website. Unter «Frühere Fassungen» lässt sich jeder Stand mit «Zurückholen» wieder holen."
+  ]
+ ],
+ "carte": [
+  [
+   "stift",
+   "Die Menüs pflegen",
+   "Die Menüs des Restaurants Bareiss stehen im Wortlaut, Gang für Gang mit den Preisen des Hauses; ein weiterer Gang kommt mit «Neuer Eintrag» dazu. Daneben die Stuben."
+  ],
+  [
+   "pdf",
+   "Erst ansehen",
+   "«Probe-PDF» zeigt die Karte genau so, wie sie am Tisch liegt. «Vorher, nachher» vergleicht mit dem letzten Stand."
+  ],
+  [
+   "zurueck",
+   "Speichern und zeigen",
+   "«Speichern» legt den Entwurf ab, «Veröffentlichen» setzt die PDF neu. Unter «Frühere Fassungen» liegt jede frühere Karte bereit."
+  ]
+ ],
+ "imprimerie": [
+  [
+   "satz",
+   "Den Anlass wählen",
+   "Unter «Anlässe & Events» oder «Hinweise im Haus» den Anlass wählen, etwa ein Arrangement oder das Programm im Kinderdörfle; mit «Neu erstellen» beginnt ein eigenes Blatt."
+  ],
+  [
+   "fuenf",
+   "Fünf Vorschläge",
+   "Oben eintragen, was entstehen soll, und «Fünf Entwürfe» wählen: fünf Vorschläge in Tanne und Hausgold, mit dem Wappen, den Schriften und den Fotos des Hauses."
+  ],
+  [
+   "druck",
+   "Drucken",
+   "«Druckfertig speichern» legt das Blatt als PDF für den Aushang im Haus oder die Druckerei ab, dazu Bilder für Beiträge."
+  ]
+ ],
+ "reception": [
+  [
+   "blase",
+   "Gäste fragen im Chat",
+   "Auf jeder Seite der Website können Gäste fragen. Mit «Chat ausprobieren» sehen Sie, was der Chat antwortet, wenn ein Gast nach Zimmern, dem Ferientag oder der Anreise fragt."
+  ],
+  [
+   "eingang",
+   "Anfragen beantworten",
+   "Im «Eingang» steht jede Anfrage mit einem Brief im Ton des Hauses. «Text kopieren» oder «Als PDF speichern»: verschickt wird nur, was Sie selbst schicken."
+  ],
+  [
+   "liste",
+   "Lücken schließen",
+   "Wusste der Chat etwas nicht, steht die Frage offen. Mit «Antwort nachtragen» ergänzen Sie es einmal; unter «Das weiß der Chat» sehen Sie, woraus er antwortet."
+  ]
+ ],
+ "livre": [
+  [
+   "foto",
+   "Ein Foto holen",
+   "Im «Bildarchiv» ein Foto anklicken und die Größe wählen: für Instagram, die Website oder den Druck."
+  ],
+  [
+   "datei",
+   "Das Wappen weitergeben",
+   "Unter «Logo & Dateien» liegen das Logo, das Wappen, der Schriftzug, die Farben und Schriften bereit; «Alle Dateien (ZIP)» gibt alles auf einmal, für Agentur oder Druckerei."
+  ],
+  [
+   "farbe",
+   "Einen Entwurf prüfen",
+   "In der «Markenprüfung» einen Prospekt oder eine Anzeige hineinziehen. Sie sagt Punkt für Punkt, was zum Haus passt."
+  ]
+ ],
+ "registre": [
+  [
+   "karte",
+   "Woher die Gäste kommen",
+   "Unter «Herkunft» Länder und Orte der Besuche, ohne Cookies und nie mit Namen."
+  ],
+  [
+   "liste",
+   "Was sie sich ansehen",
+   "Unter «Seiten» steht, welche Zimmer, Arrangements und Seiten gefragt sind und wie lange die Gäste bleiben."
+  ],
+  [
+   "uhr",
+   "Weiter zur Buchung",
+   "«Zur Buchung» zeigt, wie oft ein Besuch weiter zur Buchung des Hauses führt; «Als Tabelle sichern» gibt die Zahlen mit."
+  ]
+ ]
+}

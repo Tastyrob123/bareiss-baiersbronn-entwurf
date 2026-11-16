@@ -1,0 +1,270 @@
+{
+ "ziel": "karte",
+ "art": "satz",
+ "key": "karte",
+ "name": "À la carte",
+ "unter": "Kaviar bis Fleischgerichte",
+ "gruppe": "Restaurant Bareiss",
+ "ab": "",
+ "plakat": "",
+ "foto": "r-kaviar",
+ "quelle": "_bau/karte.py (Wortlaut und Preise aus der PDF des Hauses RB_Menu_15.10.26_D.pdf), gebaut auf restaurant-bareiss.html#karte",
+ "seiten": [
+  [
+   {
+    "titel": "Kaviar",
+    "gruppen": [
+     {
+      "name": "Langostinos und Premium Lachsforelle mit Selektions-Kaviar",
+      "preis": "",
+      "gerichte": [
+       [
+        "Gebratener Langostino mit Crustacéglace"
+       ],
+       [
+        "Langostinencarpaccio mit Zitronenvinaigrette mariniert"
+       ],
+       [
+        "Gebeiztes und geräuchertes Premium Lachsforellenfilet",
+        "aus dem Bulbach"
+       ],
+       [
+        "Crème Fraîche mit Kräutermousse und Blini",
+        "und wahlweise mit einer exklusiv selektierten Kaviar-Dose",
+        "unserer Premium Partner:"
+       ]
+      ],
+      "dosen": [
+       {
+        "name": "Imperial Osietra Superieur Kaviar 30 g von Imperial Caviar Berlin",
+        "preis": "185",
+        "zeilen": [
+         "Hellbraune-graue Körner vom Gueldenstaedtii Stör",
+         "mit crèmiger Textur und einzigartigem aromatischen Charakter"
+        ]
+       },
+       {
+        "name": "Kaluga Réserve Kaviar 30 g von N25 Caviar",
+        "preis": "225",
+        "zeilen": [
+         "Kaluga Stör ist einer der seltensten Störart Huso Dauricus",
+         "großperlig buttrig, mit Finesse und Eleganz im Geschmack"
+        ]
+       },
+       {
+        "name": "Beluga Kaviar 30 g Selektion von Altona Kaviar Haus",
+        "preis": "240",
+        "zeilen": [
+         "Original Beluga vom Huso Huso Stör, stahlgraues, großes Korn",
+         "mild crèmig, mit einmaligem charakteristischem Geschmack"
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "titel": "Vorspeisen",
+    "gruppen": [
+     {
+      "name": "Saibling aus der Forellenzucht Buhlbach",
+      "preis": "125",
+      "gerichte": [
+       [
+        "Saiblingsfilet in Zitronenöl konfiert",
+        "mit Karotte, Sauerrahm und Yuzu"
+       ],
+       [
+        "Leicht geräuchertes Saiblingsfilet „Bareiss Style“",
+        "mit Sauerrahm und Imperial Kaviar"
+       ],
+       [
+        "Ceviche vom Saibling mit rotem Shiso Eis"
+       ]
+      ],
+      "dosen": []
+     },
+     {
+      "name": "Gänsestopfleber",
+      "preis": "158",
+      "gerichte": [
+       [
+        "Terrine von marmorierter Gänseleber",
+        "mit gesalzenem Karamell und Portwein"
+       ],
+       [
+        "Törtchen von Gänselebercrème mit Haselnuss und Portwein"
+       ],
+       [
+        "Gänseleberpraline mit Mandel"
+       ],
+       [
+        "Glacierte Ravioli von der Gänseleber"
+       ],
+       [
+        "Gebratene Gänseleber mit glaciertem Apfel und Calvados"
+       ]
+      ],
+      "dosen": []
+     },
+     {
+      "name": "Hummer",
+      "preis": "160",
+      "gerichte": [
+       [
+        "Lauwarmer bretonischer Hummer",
+        "mit Kürbis, Verbene und Glace de Crustacés"
+       ],
+       [
+        "Cassolette vom Hummer mit Cognac- Bisque"
+       ],
+       [
+        "Tartlette mit Hummertatar und Safran"
+       ]
+      ],
+      "dosen": []
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "titel": "Zwischengerichte",
+    "gruppen": [
+     {
+      "name": "Milchkalbsbries",
+      "preis": "86",
+      "gerichte": [
+       [
+        "knusprig gebratenes Milchkalbsbries",
+        "auf weißem Bohnenpüree und Chipotle-Glace"
+       ]
+      ],
+      "dosen": []
+     },
+     {
+      "name": "Blumenkohl",
+      "preis": "79",
+      "gerichte": [
+       [
+        "Gebratener Blumenkohl mit Kichererbse, Dattel, Cashewnüsse",
+        "und Garam Masala"
+       ]
+      ],
+      "dosen": []
+     }
+    ]
+   },
+   {
+    "titel": "Fischgerichte",
+    "gruppen": [
+     {
+      "name": "Wolfsbarsch",
+      "preis": "145",
+      "gerichte": [
+       [
+        "Kross gebratener Wolfsbarsch",
+        "mit Belugalinsen, Feige und Senfkornsauce"
+       ],
+       [
+        "Konfierter Wolfsbarsch und Tia Maraa Auster",
+        "mit Röstzwiebel und Federweißer"
+       ],
+       [
+        "Marinierter Wolfsbarsch mit geräuchertem Mais, Cassis",
+        "und Crème Fraîche"
+       ]
+      ],
+      "dosen": []
+     },
+     {
+      "name": "Bretonischer Steinbutt",
+      "preis": "175",
+      "gerichte": [
+       [
+        "Bretonischer Steinbutt mit Ochsenmarkkruste gratiniert",
+        "gebratenen Waldpilzen, Lauchschoten und Gewürztomaten"
+       ],
+       [
+        "Konfierter Steinbutt mit Imperial Kaviar und Spinat"
+       ],
+       [
+        "Gebratener Steinbutt auf Spitzkohlsalat mit grünem Apfel und Walnuss"
+       ]
+      ],
+      "dosen": []
+     },
+     {
+      "name": "Seeteufel für 2 Personen",
+      "preis": "p/P 125",
+      "gerichte": [
+       [
+        "Ganzer Seeteufel mit Kürbiskernen gebraten",
+        "auf geschmortem Kürbis und Zitronenverbene"
+       ],
+       [
+        "Seeteufelmedaillon gebraten, mit Curry, Kichererbse und Blumenkohl"
+       ]
+      ],
+      "dosen": []
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "titel": "Fleischgerichte",
+    "gruppen": [
+     {
+      "name": "Taube aus dem Elsass",
+      "preis": "146",
+      "gerichte": [
+       [
+        "Lackierte Taubenbrust mit Sellerie, Lauch und Tonkabohne"
+       ],
+       [
+        "Taubenfilet mit Sweet Chili und asiatischem Sud"
+       ],
+       [
+        "Geschmorte Taubenkeule und Herz",
+        "mit Royal Brioche und Albuferasauce"
+       ]
+      ],
+      "dosen": []
+     },
+     {
+      "name": "Ochse „Black Angus“",
+      "preis": "156",
+      "gerichte": [
+       [
+        "Gebratenes Ochsenfilet auf Rotwein-Pfefferglace",
+        "mit Waldpilzen und geräucherter Kartoffel"
+       ],
+       [
+        "Geschmortes Wagyu Brisket mit Chili und grünen Bohnen"
+       ],
+       [
+        "Tatar vom Ochsenfilet mit Crostini und Beurre Rouge"
+       ]
+      ],
+      "dosen": []
+     },
+     {
+      "name": "Milchkalbsniere für 2 Personen",
+      "preis": "p/P 98",
+      "gerichte": [
+       [
+        "Milchkalbsniere im eigenen Fett gegart",
+        "auf Blattspinat und Balsamicoglace"
+       ],
+       [
+        "Kalbskopf und Bries mit Schnittlauchsauce"
+       ]
+      ],
+      "dosen": []
+     }
+    ]
+   }
+  ]
+ ]
+}

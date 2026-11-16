@@ -1,0 +1,132 @@
+[
+ {
+  "vor": [
+   0,
+   10,
+   20
+  ],
+  "sprache": "de",
+  "belegt": true,
+  "frage": "Ist über Weihnachten noch ein Zimmer frei?",
+  "buchung": true,
+  "antwort": "Mit «Zimmer buchen» sehen Sie die freien Zimmer für Ihre Tage.\n- Zimmer: sieben Kategorien, vom Einzelzimmer ab 345 € pro Person und Nacht bis zum Penthouse\n- Am Ankunftstag: Zimmer ab 15.00 Uhr bezugsfertig",
+  "thema": ""
+ },
+ {
+  "vor": [
+   0,
+   8,
+   55
+  ],
+  "sprache": "de",
+  "belegt": true,
+  "frage": "Wie warm ist das Meerwasser?",
+  "antwort": "Ganzjährig 34 Grad, innen und außen.\n- Süßwasserpool: 28 °C\n- Whirlpool: 38 °C",
+  "thema": "",
+  "buchung": false
+ },
+ {
+  "vor": [
+   1,
+   19,
+   5
+  ],
+  "sprache": "de",
+  "belegt": true,
+  "frage": "Ab wann ist das Zimmer bereit?",
+  "antwort": "Am Ankunftstag ab 15.00 Uhr.\n- Abreisetag: Zimmer bis 11.00 Uhr freigeben\n- Late Check-out: je nach Verfügbarkeit bis 18 Uhr, Tageszimmer-Zuschlag 150 € pro Zimmer",
+  "thema": "",
+  "buchung": false
+ },
+ {
+  "vor": [
+   1,
+   13,
+   40
+  ],
+  "sprache": "de",
+  "belegt": true,
+  "frage": "Darf mein Hund mit?",
+  "antwort": "Ja, Hunde sind im Bareiss herzlich willkommen.\n- Anmelden: mit Ihrer Buchung, mit Hundekorb\n- Preis: 35 € pro Hund und Tag, ohne Verpflegung\n- Im Haus: nicht in den Restaurants, der Bar und den Wellnessbereichen",
+  "thema": "",
+  "buchung": false
+ },
+ {
+  "vor": [
+   2,
+   17,
+   25
+  ],
+  "sprache": "de",
+  "belegt": true,
+  "frage": "Wann hat das Restaurant Bareiss geöffnet?",
+  "antwort": "Donnerstag bis Sonntag, mittags ab 12.00 Uhr und abends ab 19.00 Uhr.\n- Ruhetage: Montag, Dienstag und Mittwoch\n- Urlaub: 21. bis 24. Dezember 2026 und 30. Dezember 2026 bis 1. Januar 2027\n- Tisch: an der Rezeption, Durchwahl -325",
+  "thema": "",
+  "buchung": false
+ },
+ {
+  "vor": [
+   2,
+   9,
+   10
+  ],
+  "sprache": "de",
+  "belegt": true,
+  "frage": "Ist die Sauna textilfrei?",
+  "antwort": "Ja, die gesamte Saunawelt ist textilfrei.\n- Geöffnet: täglich 7.30 bis 19.30 Uhr\n- Familiensauna: 12.00 bis 15.00 Uhr, Kinder nur dort",
+  "thema": "",
+  "buchung": false
+ },
+ {
+  "vor": [
+   3,
+   12,
+   30
+  ],
+  "sprache": "de",
+  "belegt": false,
+  "thema": "Barrierefreiheit",
+  "frage": "Ist das Hotel barrierefrei?",
+  "antwort": "Dazu steht nichts in meinen Unterlagen. Fragen Sie am besten direkt:\n- Telefon: +49 7442 47-0\n- E-Mail: info@bareiss.com",
+  "buchung": false
+ },
+ {
+  "vor": [
+   3,
+   15,
+   45
+  ],
+  "sprache": "en",
+  "belegt": true,
+  "frage": "Do you have a kids club?",
+  "antwort": "Yes: the Bareiss Kinderdörfle, with Villa Kunterbunt, Villa Sternenstaub and the Haus der Spiele.\n- Holidays: open daily from 9.00 am to 11.00 pm\n- Ages: Minis 3–6, Maxis 7–11, Teens from 12",
+  "thema": "",
+  "buchung": false
+ },
+ {
+  "vor": [
+   4,
+   11,
+   0
+  ],
+  "sprache": "de",
+  "belegt": false,
+  "thema": "Preis Massage",
+  "frage": "Was kostet eine Massage im Beauty & Spa?",
+  "antwort": "Dazu steht nichts in meinen Unterlagen. Fragen Sie am besten direkt:\n- Telefon: +49 7442 47-0\n- E-Mail: info@bareiss.com",
+  "buchung": false
+ },
+ {
+  "vor": [
+   4,
+   18,
+   20
+  ],
+  "sprache": "de",
+  "belegt": true,
+  "frage": "Wie komme ich mit dem Zug?",
+  "antwort": "Mit der Bahn bis zum Bahnhof Baiersbronn.\n- Abholen: das Haus schickt gern einen Chauffeur oder organisiert ein Taxi\n- Limousinenservice: auf Anfrage bis direkt vor die Tür",
+  "thema": "",
+  "buchung": false
+ }
+]

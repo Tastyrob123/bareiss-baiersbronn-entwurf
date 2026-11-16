@@ -1,0 +1,33 @@
+{
+ "zeit": "2026-11-06T14:20:00+01:00",
+ "art": "spa",
+ "name": "Sabine Wörner",
+ "kontakt": "sabine.woerner@example.com",
+ "datum": "28.11.2026",
+ "personen": 1,
+ "anliegen": "Eine Massage am Ankunftstag, danach noch in die Sauna.",
+ "sprache": "de",
+ "gespraech": "beispiel-5",
+ "verlauf": [
+  {
+   "rolle": "user",
+   "text": "Ich komme am 28. November an. Kann ich am Nachmittag eine Massage haben und danach in die Sauna?"
+  },
+  {
+   "rolle": "assistant",
+   "text": "Die Saunawelt ist täglich von 7.30 bis 19.30 Uhr geöffnet. Den Termin für die Massage gebe ich gerne an das Team im Beauty & Spa weiter: Wie heißen Sie, und wie erreicht man Sie?"
+  },
+  {
+   "rolle": "user",
+   "text": "Sabine Wörner, sabine.woerner@example.com"
+  },
+  {
+   "rolle": "assistant",
+   "text": "Danke. Dies ist ein Entwurf von Tasty Studios: Die Anfrage geht nicht an das Haus, sie liegt nur zur Ansicht im Gästebuch."
+  }
+ ],
+ "status": "gelesen",
+ "beispiel": true,
+ "abteilung": "Beauty & Spa",
+ "entwurf": null
+}

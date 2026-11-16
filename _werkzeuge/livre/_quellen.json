@@ -1,0 +1,1277 @@
+{
+ "teich-tag": {
+  "druck": "Bareiss Baiersbronn/_quelle/original2/Aussenansicht_Hotel_Bareiss_mit_Naturschwimmteich_3_WEB.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "teich-nacht": {
+  "druck": "Bareiss Baiersbronn/_quelle/original/001_Hotel__Hotel_Sommernacht.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "teich-liegen": {
+  "druck": "Bareiss Baiersbronn/_quelle/original2/bareiss_0718-0821_Aussenansicht.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "herz-tuer": {
+  "druck": "Bareiss Baiersbronn/_quelle/original2/bareiss_0718-1403_bea_korr.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "vorfahrt": {
+  "druck": "Bareiss Baiersbronn/_quelle/original2/web_bareiss_0725-1419-min.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "familie": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/c_csm_web_bareiss_0324-0568_Familie_Bareiss_Hermann_Bareiss_-_Britta___Hannes_Bareiss_05704e23dc.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "garten-licht": {
+  "druck": "Bareiss Baiersbronn/_quelle/original/001_Hotel___DSC6236_bea.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "z-einzel": {
+  "druck": "Bareiss Baiersbronn/_quelle/original/__fileadmin__user_upload__web_bareiss_0324-0024.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "z-doppel": {
+  "druck": "Bareiss Baiersbronn/_quelle/original/003_Zimmer-Suiten__00_SORTIERUNG_FINAL__Haupthaus__02_Doppelzimmer__Doppelzimmer__Weissenbachtal-Orspach1-Eulengrund1__39__69__4.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "z-doppel2": {
+  "druck": "Bareiss Baiersbronn/_quelle/original/003_Zimmer-Suiten__00_SORTIERUNG_FINAL__Haupthaus__02_Doppelzimmer__Doppelzimmer__Orspach2-Eulengrund2___G2A9968_bea_NEU.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "z-gross": {
+  "druck": "Bareiss Baiersbronn/_quelle/original/003_Zimmer-Suiten__00_SORTIERUNG_FINAL__Haupthaus__02_Doppelzimmer__Grosse-Doppelzimmer__Bergmosis___G2A9197_web.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "z-gross2": {
+  "druck": "Bareiss Baiersbronn/_quelle/original/003_Zimmer-Suiten__00_SORTIERUNG_FINAL__Haupthaus__02_Doppelzimmer__Grosse-Doppelzimmer__Weissenbachtal_2__90_2.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "z-appartement": {
+  "druck": "Bareiss Baiersbronn/_quelle/original/003_Zimmer-Suiten__00_SORTIERUNG_FINAL__Haupthaus__02_Doppelzimmer__Doppelzimmer-Appartements__Doppelzimmer-Appartements-I__EulengrundWeissenbachtal__248_1.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "z-appartement2": {
+  "druck": "Bareiss Baiersbronn/_quelle/original/003_Zimmer-Suiten__00_SORTIERUNG_FINAL__Haupthaus__02_Doppelzimmer__Doppelzimmer-Appartements__Doppelzimmer-Appartements-I__Ellbachtal__210_5.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "z-appartement3": {
+  "druck": "Bareiss Baiersbronn/_quelle/original/003_Zimmer-Suiten__00_SORTIERUNG_FINAL__Haupthaus__02_Doppelzimmer__Doppelzimmer-Appartements__Doppelzimmer-Appartements-II__Gartenfluegel___G2A8834_bea_NEU_web.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "z-appartement4": {
+  "druck": "Bareiss Baiersbronn/_quelle/original/003_Zimmer-Suiten__00_SORTIERUNG_FINAL__Haupthaus__02_Doppelzimmer__Doppelzimmer-Appartements__Doppelzimmer-Appartements-II__Ellbach__235_TV_alt.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "z-familie": {
+  "druck": "Bareiss Baiersbronn/_quelle/original/003_Zimmer-Suiten__00_SORTIERUNG_FINAL__Haupthaus__03_Familienappartements__Orspach-III__ORSP3.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "z-familie2": {
+  "druck": "Bareiss Baiersbronn/_quelle/original/003_Zimmer-Suiten__00_SORTIERUNG_FINAL__Haupthaus__03_Familienappartements__Orspach-II___F1A7677_bea_Zimmer_23.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "z-familie3": {
+  "druck": "Bareiss Baiersbronn/_quelle/original/003_Zimmer-Suiten__00_SORTIERUNG_FINAL__Haupthaus__03_Familienappartements__Orspach-I__12_1.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "z-suite": {
+  "druck": "Bareiss Baiersbronn/_quelle/original/003_Zimmer-Suiten__00_SORTIERUNG_FINAL__Haupthaus__04_Suiten__Suite-II__Penthouse-Suite-II___G2A7213_web.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "z-landhaussuite": {
+  "druck": "Bareiss Baiersbronn/_quelle/original/003_Zimmer-Suiten__Suiten__Landhaus-SuiteI.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "z-landhaussuite2": {
+  "druck": "Bareiss Baiersbronn/_quelle/original/003_Zimmer-Suiten__00_SORTIERUNG_FINAL__Landhaus__03_Suiten__Suite-II__Landhaus-Suite-II__LH_21_1.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "z-penthouse": {
+  "druck": "Bareiss Baiersbronn/_quelle/original/003_Zimmer-Suiten__00_SORTIERUNG_FINAL__Haupthaus__Penthouse__113_Schlafen.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "z-penthouse2": {
+  "druck": "Bareiss Baiersbronn/_quelle/original/003_Zimmer-Suiten__00_SORTIERUNG_FINAL__Haupthaus__Penthouse__103__web_bareiss_0924-1121_Schlafen_103.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "z-landhaus-einzel": {
+  "druck": "Bareiss Baiersbronn/_quelle/original/003_Zimmer-Suiten__00_SORTIERUNG_FINAL__Landhaus__01_Einzelzimmer__EZ_Landhaus__LH_10_1.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "z-landhaus-doppel": {
+  "druck": "Bareiss Baiersbronn/_quelle/original/003_Zimmer-Suiten__00_SORTIERUNG_FINAL__Landhaus__02_Doppelzimmer__Doppelzimmer__WeissenbachOrspach1Eulengrund1__LH_11_1.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "z-landhaus-gross": {
+  "druck": "Bareiss Baiersbronn/_quelle/original/003_Zimmer-Suiten__00_SORTIERUNG_FINAL__Landhaus__02_Doppelzimmer__Grosses-Doppelzimmer__Landhaus-I__LH_13_grosses_Doppelzimmer.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "z-landhaus-app": {
+  "druck": "Bareiss Baiersbronn/_quelle/original/003_Zimmer-Suiten__00_SORTIERUNG_FINAL__Landhaus__02_Doppelzimmer__Doppelzimmer-Appartement-I__Landhaus-II__LH_25_5.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "t-pool-morgen": {
+  "druck": "Bareiss Baiersbronn/_quelle/original/004_Kulinarik-Gastlichkeit__Pool_Service_web.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "t-fruehstueck": {
+  "druck": "Bareiss Baiersbronn/_quelle/original2/Fruehstueck_Biedermaierzimmer.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "t-dinner": {
+  "druck": "Bareiss Baiersbronn/_quelle/original/007_Aktivitaeten__Kulinarik__Wintergarten_Hotel-Restaurant.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "t-bar": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/e_csm__69A6619_pt_Bar_df32c688ef.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "r-saal": {
+  "druck": "Bareiss Baiersbronn/_quelle/original2/web_bareiss_0324-0815.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "r-tisch": {
+  "druck": "Bareiss Baiersbronn/_quelle/original/__fileadmin__user_upload__web_bareiss_0324-0074.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "r-lumpp": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/d_csm_druck_bareiss_0324-0149_web_8b76d4a462.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "r-team": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/f_csm_druck_bareiss_0324-0384_web_1754b5db5a.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "r-gruen": {
+  "druck": "Bareiss Baiersbronn/_quelle/original2/20250526-20250526-DSC00603-2-Poprawione-Szum-Edytuj-Edytuj-Edytuj.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "r-taube": {
+  "druck": "Bareiss Baiersbronn/_quelle/original2/20250526-20250526-DSC00547-2-2-Poprawione-Szum-Edytuj-Edytuj.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "r-kaviar": {
+  "druck": "Bareiss Baiersbronn/_quelle/original2/20250526-20250526-DSC00008-Poprawione-Szum-Edytuj.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "r-blatt": {
+  "druck": "Bareiss Baiersbronn/_quelle/original2/20250526-20250526-DSC00432-2-Poprawione-Szum-Edytuj.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "r-kueche": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/f_csm_bareiss053_6cc8bd54e6.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "r-pass": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/7_csm_bareiss046_6cea9815a7.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "r-leitner": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/1_csm_bareiss030_2292452017.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "r-mezda": {
+  "druck": "Bareiss Baiersbronn/_quelle/original2/Sommelier_Teoman_Mezda_im_Weinkeller.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "r-brandt": {
+  "druck": "Bareiss Baiersbronn/_quelle/original2/web_bareiss_0324-0103.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "s-kaminstube": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/3_csm_Kaminstube_Nahaufnahme_Blume_df4838f93a.jpeg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "s-dorfstube": {
+  "druck": "Bareiss Baiersbronn/_quelle/original/004_Kulinarik-Gastlichkeit__A-la-carte-Impressionen__DST_6.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "s-weinkeller": {
+  "druck": "Bareiss Baiersbronn/_quelle/original/004_Kulinarik-Gastlichkeit__Weinkeller_bareiss_0617-6595_bea.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "s-kaminstube-dessert": {
+  "druck": "Bareiss Baiersbronn/_quelle/original/004_Kulinarik-Gastlichkeit__Kaminstubendessert_DSC9731.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "w-meerwasser": {
+  "druck": "Bareiss Baiersbronn/_quelle/original2/Meerwasser_Aussenpool_im_Hotel_Bareiss_2.jpeg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "w-pool": {
+  "druck": "Bareiss Baiersbronn/_quelle/original2/druck_bareiss_0723-2249_bea_NEU_2_web_01.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "w-abend": {
+  "druck": "Bareiss Baiersbronn/_quelle/original2/PoolSonnenuntergang_bareiss-3782_bea.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "w-ruhe": {
+  "druck": "Bareiss Baiersbronn/_quelle/original2/Sauna_Relaxation_Room_1.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "w-aerial": {
+  "druck": "Bareiss Baiersbronn/_quelle/original2/Bareiss_Aussenansicht_Pools_mit_Bareiss_Akademie.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "k-baelle": {
+  "druck": "Bareiss Baiersbronn/_quelle/original2/bareiss-0616-2116.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "k-wasser": {
+  "druck": "Bareiss Baiersbronn/_quelle/original/009_JungeGaeste__Ferien_Kinder_01.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "k-kochen": {
+  "druck": "Bareiss Baiersbronn/_quelle/original2/0223_Kochen.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "k-schiff": {
+  "druck": "Bareiss Baiersbronn/_quelle/original2/Piratenschiff.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "k-pferd": {
+  "druck": "Bareiss Baiersbronn/_quelle/original/009_JungeGaeste__Bildmotive__high-res_bareiss_0922-7513.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "k-billard": {
+  "druck": "Bareiss Baiersbronn/_quelle/original2/high-res_bareiss_0922-6789.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "k-club": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/6_csm_high-res_bareiss_0922-6773_bbd45b84c8.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "k-kicker": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/a_csm_high-res_bareiss_0922-6637_75cd4ffcc2.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "k-baumhaus": {
+  "druck": "Bareiss Baiersbronn/_quelle/original2/Nickerchen2.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "k-ponys": {
+  "druck": "Bareiss Baiersbronn/_quelle/original/009_JungeGaeste__Bildmotive___F1A0538_bea_korr2.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "k-damwild": {
+  "druck": "Bareiss Baiersbronn/_quelle/original2/bareiss_1018-6646_bea_Wildgehege.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "k-ziegen-schnee": {
+  "druck": "Bareiss Baiersbronn/_quelle/original/__fileadmin__user_upload___F1A1636_Zwergziegen_im_Streichelzoo_Hotel_Bareiss_Winter.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "g-britta-hannes": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/d_csm_Britta_und_Hannes_Bareiss_1_8cfe8e5205.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "g-winter": {
+  "druck": "Bareiss Baiersbronn/_quelle/original/001_Hotel__Aussenansicht_Hotel_Bareiss___F1A3387_Hotel_Bareiss_im_Winter_bea_NEU.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "tal-buhlbach": {
+  "druck": "Bareiss Baiersbronn/_quelle/original/__fileadmin__user_upload__web_bareiss_0723-0272_bea_NEU.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "tal-nationalpark": {
+  "druck": "Bareiss Baiersbronn/_quelle/original/002_Schwarzwald__NationalparkSee_DSC0168_korr.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "tal-forellenhof": {
+  "druck": "Bareiss Baiersbronn/_quelle/original/001_Hotel__Forellenhof__Aussenaufnahme_Forellenhof_Buhlbach_im_Sommer.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "tal-sattelei": {
+  "druck": "Bareiss Baiersbronn/_quelle/original/00_Outlets__Sattelei__Wanderhuette_Sattelei_02.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "tal-morlokhof": {
+  "druck": "Bareiss Baiersbronn/_quelle/original/00_Outlets__Morlokhof__Morlokhof_01.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "tal-wandern": {
+  "druck": "Bareiss Baiersbronn/_quelle/original/006_Sport__bareiss_1018-5553_wandern.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "t-kuchen": {
+  "druck": "Bareiss Baiersbronn/_quelle/original/004_Kulinarik-Gastlichkeit__Kulinarischer_Ferientag__Kaffee_und_Kuchen_am_Nachmittag_1.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "g-hermann": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/0_csm_Hermann_Bareiss_3_mod_01_2c5dc785dd.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "k-baumhaus-aussen": {
+  "druck": "Bareiss Baiersbronn/_quelle/original2/_DSC9000_bea.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "u-kamin": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/a_csm_Kaminstube_Tischarrangement_Kamin_24829f49c5.jpeg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "u-kamin-service": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/b_csm_Kaminstube_Service_Hotel_Bareiss_db58d4511c.jpeg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "u-kamin-oel": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/9_csm_Kaminstube_Tischarrangement_OEl_ef153e2207.jpeg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "u-dorfstuben": {
+  "druck": null,
+  "ausschnitt": null,
+  "original": null
+ },
+ "u-dorfstuben3": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/e_csm_Restaurant_Dorfstuben_3_62f5455d9f.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "u-bar": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/1_csm_Bar_00_0c8f65245e.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "u-hotelgast": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/d_csm_Kulinarischer_Ferientag_in_den_Hotel-Restaurants_1_0d46834845.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "u-hermine-stube": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/5_csm_Hermine-Bareiss-Stube_4_d0cab8d823.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "u-poolbar": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/a_csm__DSC9705_Poolbar_4fde0fcd67.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "u-oase": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/b_csm_Pool_Oase_im_Hotel_Bareiss_7aee631062.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "u-gericht": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/f_csm_Gericht_Restaurant_Bareiss_495e5f81f5.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "u-dessert": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/2_csm_Dessert_Restaurant_Bareiss_683a80bf59.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "u-pulpo": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/3_csm_Pulpo_Restaurant_Bareiss_fcef3fcd47.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "u-leitner": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/2_csm_Stefan_Leitner_in_der_P_C3_A2tisserie_Restaurant_Bareiss_3__8585ae81b4.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "u-sauna": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/a_csm_Finnische_Sauna_4_61b0100297.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "u-biosauna": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/7_csm_Biosauna_9a2f31972d.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "u-ruhe-sauna": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/f_csm_Ruhebereich_Sauna_584ae6bc49.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "u-whirlpool": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/5_csm_Whirlpool_in_der_Badelanschaft_des_Hotel_Bareiss_072023_93da4f6073.jpeg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "u-meer-innen": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/3_csm_Meerwasserinnenbecken_in_der_Badelanschaft_des_Hotel_Bareiss_2023_e51779b059.jpeg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "u-beauty": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/a_csm_Beauty_bareiss915-9113_korr_14d40c3e4f.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "u-massage": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/3_csm_Massage_Frau_bareiss_0917-7157_bea_korr_8072fb50ae.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "u-yoga": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/d_csm_Yoga_bareiss915-8705_korr_2_024302c026.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "u-aussenwhirl": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/5_csm_Sauna-Aussenwhirlpools_1_c2b7008def.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "u-villa": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/d_csm_Ville_Kunterbunt_at_the_Hotel_Bareiss_web_bareiss_0821-0858_5bfbfaf80f.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "u-villa-aussen": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/f_csm_VillaKunterbunt_EXTERIEUR-BAREISS-JEROMEMONDIERE_0687dc5793.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "u-baumhaus": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/c_csm_Baumhaus_acd921b775.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "u-hds": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/f_csm_HausderSpiele_bareiss-0616-2829_a981719b66.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "u-zoo": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/b_csm_Bareiss_Streichelzoo_3c580939c7.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "u-reiten": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/2_csm_Reiterhoefle_Lucy_1_3ddf6a3922.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "u-reitplatz": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/6_csm_Reitplatz_mit_Kindern_im_Hotel_Bareiss_1_c40dc0a650.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "u-mikroskop": {
+  "druck": null,
+  "ausschnitt": null,
+  "original": null
+ },
+ "u-vorfahrt2": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/9_csm_web_bareiss_0725-1423-min_237b8e6b59.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "u-oldtimerbus": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/6_csm_Oldtimerbus_bareiss_0718-0771_058026541d.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "u-limousine": {
+  "druck": "Bareiss Baiersbronn/_quelle/original/__fileadmin__user_upload__bareiss_0617-5598.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "u-wegweiser": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/f_csm_Wegweiser_DSC0213_527043cbf2.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "u-waldweg": {
+  "druck": null,
+  "ausschnitt": null,
+  "original": null
+ },
+ "u-np2": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/5_csm_Nationalpark_DSC0148_269e456c08.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "u-forellen": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/6_csm__90A6246_bea_Forellenteich_e5cdfead5b.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "u-fischgericht": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/a_csm_Fischgericht_HG_e59a9fc8df.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "u-forellenhof2": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/a_csm_Forellenhof_aed1c00816.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "u-kraeuter": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/7_csm_Kraeuter_DSC8622_5f98a9a7d5.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "u-morlok-stube": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/f_csm_Morlokhof_Gruene_Stube_I_971f12ed42.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "u-morlok-heuboden": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/1_csm_Morlokhof_Nostalgische_Kaffeetafel_Heuboden_1_5b65971c18.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "u-morlok-dach": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/4_csm_Morlokhof_Dachboden_Festlich_eingedeckte_Tische_99ca13501e.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "u-hermann2": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/1_csm_Hermann_Bareiss_B_b0b74f6a4b.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "u-sattelei2": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/d_csm_Wanderhuette_Sattelei_02_294f031e44.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "f-terrasse": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/2_csm_Hotelterrasse_2_e56015b61a.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "f-biedermeier": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/8_csm_Hotel-Restaurant_Biedermeierzimmer_2_07c01bd147.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "f-hotelgast3": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/e_csm_Hotelgastrestaurants_03_241e1297b4.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "f-dinerabend": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/004_Ku_dinerAbend.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "f-terrasse-ku": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/004_Ku_Terrasse.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "f-kaffee2": {
+  "druck": "Bareiss Baiersbronn/_quelle/website/bilder/7_csm_Kaffee_und_Kuchen_am_Nachmittag_1_9125c1f49b.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "tal-forellenhof-oben": {
+  "druck": "Bareiss Baiersbronn/_quelle/original/__fileadmin__user_upload__web_bareiss_0723-0283_bea_NEU.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-ez-eulengrund-0": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-ez-eulengrund-0.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-ez-eulengrund-plan0": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-ez-eulengrund-plan0.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-ez-app-0": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-ez-app-0.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-ez-app-1": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-ez-app-1.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-ez-app-3": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-ez-app-3.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-ez-app-4": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-ez-app-4.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-ez-app-5": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-ez-app-5.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-ez-app-plan0": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-ez-app-plan0.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-ez-landhaus-0": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-ez-landhaus-0.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-ez-landhaus-1": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-ez-landhaus-1.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-ez-landhaus-2": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-ez-landhaus-2.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-ez-landhaus-plan0": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-ez-landhaus-plan0.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-dz-wob-0": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-dz-wob-0.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-dz-wob-1": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-dz-wob-1.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-dz-wob-2": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-dz-wob-2.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-dz-wob-plan0": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-dz-wob-plan0.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-dz-oe-plan0": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-dz-oe-plan0.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-gdz-bergmosis-1": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-gdz-bergmosis-1.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-gdz-bergmosis-2": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-gdz-bergmosis-2.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-gdz-bergmosis-3": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-gdz-bergmosis-3.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-gdz-bergmosis-plan0": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-gdz-bergmosis-plan0.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-gdz-wb1-0": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-gdz-wb1-0.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-gdz-wb1-1": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-gdz-wb1-1.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-gdz-wb1-2": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-gdz-wb1-2.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-gdz-wb1-plan0": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-gdz-wb1-plan0.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-gdz-wb2-plan0": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-gdz-wb2-plan0.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-dza-ew-0": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-dza-ew-0.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-dza-ew-1": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-dza-ew-1.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-dza-ew-2": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-dza-ew-2.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-dza-ew-3": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-dza-ew-3.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-dza-ew-plan0": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-dza-ew-plan0.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-dza-ellbachtal-0": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-dza-ellbachtal-0.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-dza-ellbachtal-1": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-dza-ellbachtal-1.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-dza-ellbachtal-2": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-dza-ellbachtal-2.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-dza-ellbachtal-plan0": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-dza-ellbachtal-plan0.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-dza-garten-1": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-dza-garten-1.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-dza-garten-2": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-dza-garten-2.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-dza-garten-3": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-dza-garten-3.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-dza-rundbau-0": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-dza-rundbau-0.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-dza-rundbau-1": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-dza-rundbau-1.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-dza-rundbau-2": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-dza-rundbau-2.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-dza-rundbau-plan0": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-dza-rundbau-plan0.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-fa-orspach1-0": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-fa-orspach1-0.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-fa-orspach1-plan0": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-fa-orspach1-plan0.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-fa-orspach2-0": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-fa-orspach2-0.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-fa-orspach2-plan0": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-fa-orspach2-plan0.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-fa-orspach3-0": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-fa-orspach3-0.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-fa-orspach3-1": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-fa-orspach3-1.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-fa-orspach3-2": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-fa-orspach3-2.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-fa-garten-0": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-fa-garten-0.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-fa-garten-1": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-fa-garten-1.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-fa-garten-2": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-fa-garten-2.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-fa-garten-plan0": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-fa-garten-plan0.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-su-landhausstil-0": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-su-landhausstil-0.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-su-landhausstil-1": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-su-landhausstil-1.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-su-landhausstil-2": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-su-landhausstil-2.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-su-landhausstil-plan0": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-su-landhausstil-plan0.png",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-su-pg1-plan0": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-su-pg1-plan0.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-su-pg2-plan0": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-su-pg2-plan0.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-su-panorama-plan0": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-su-panorama-plan0.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-su-familien-plan0": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-su-familien-plan0.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-su-familien-plan1": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-su-familien-plan1.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-su-wellness-plan0": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-su-wellness-plan0.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-ph-1-plan0": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-ph-1-plan0.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-ph-2-plan0": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-ph-2-plan0.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-ph-3-plan0": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-ph-3-plan0.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-ph-4-plan0": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-ph-4-plan0.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-ph-5-plan0": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-ph-5-plan0.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-lh-dz-0": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-lh-dz-0.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-lh-dz-1": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-lh-dz-1.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-lh-dz-2": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-lh-dz-2.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-lh-dz-plan0": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-lh-dz-plan0.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-lh-gdz-1": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-lh-gdz-1.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-lh-gdz-2": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-lh-gdz-2.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-lh-gdz-plan0": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-lh-gdz-plan0.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-lh-app-0": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-lh-app-0.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-lh-app-1": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-lh-app-1.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-lh-app-2": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-lh-app-2.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-lh-app-plan0": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-lh-app-plan0.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-lh-s1-1": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-lh-s1-1.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-lh-s1-2": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-lh-s1-2.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-lh-s1-plan0": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-lh-s1-plan0.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-lh-s2-0": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-lh-s2-0.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-lh-s2-plan0": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-lh-s2-plan0.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-ph-1-0": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-ph-1-0.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-ph-1-1": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-ph-1-1.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-ph-1-2": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-ph-1-2.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-ph-1-3": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-ph-1-3.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-ph-1-4": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-ph-1-4.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-ph-1-5": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-ph-1-5.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-ph-2-0": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-ph-2-0.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-ph-2-1": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-ph-2-1.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-ph-2-2": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-ph-2-2.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-ph-2-3": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-ph-2-3.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-ph-3-0": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-ph-3-0.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-ph-3-1": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-ph-3-1.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-ph-3-2": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-ph-3-2.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-ph-3-3": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-ph-3-3.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-ph-3-4": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-ph-3-4.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-ph-4-0": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-ph-4-0.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-ph-4-1": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-ph-4-1.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-ph-4-2": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-ph-4-2.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-ph-4-3": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-ph-4-3.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-ph-4-4": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-ph-4-4.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-ph-5-0": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-ph-5-0.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-ph-5-1": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-ph-5-1.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-ph-5-2": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-ph-5-2.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-ph-5-3": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-ph-5-3.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-ph-5-4": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-ph-5-4.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-su-pg1-0": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-su-pg1-0.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-su-pg1-1": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-su-pg1-1.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-su-pg1-2": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-su-pg1-2.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-su-pg1-3": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-su-pg1-3.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-su-pg2-0": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-su-pg2-0.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-su-pg2-1": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-su-pg2-1.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-su-pg2-2": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-su-pg2-2.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-su-pg2-3": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-su-pg2-3.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-su-familien-0": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-su-familien-0.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-su-familien-1": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-su-familien-1.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-su-familien-2": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-su-familien-2.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-su-familien-3": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-su-familien-3.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-su-familien-4": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-su-familien-4.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-su-familien-5": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-su-familien-5.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-su-familien-6": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-su-familien-6.jpg",
+  "ausschnitt": null,
+  "original": null
+ },
+ "zi-su-familien-7": {
+  "druck": "Bareiss Baiersbronn/_quelle/zimmerbilder/auswahl/zi-su-familien-7.jpg",
+  "ausschnitt": null,
+  "original": null
+ }
+}

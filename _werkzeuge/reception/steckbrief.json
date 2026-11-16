@@ -1,0 +1,789 @@
+{
+ "stand": 1794208399.444527,
+ "bereiche": [
+  {
+   "bereich": "Das Haus",
+   "gruppen": [
+    {
+     "gruppe": "Auf einen Blick",
+     "zeilen": [
+      {
+       "fid": "30b02e0d06",
+       "was": "Was es ist",
+       "angabe": "Hotel Bareiss, das Resort im Schwarzwald, in Baiersbronn-Mitteltal seit 1951",
+       "beleg": "Das Resort im Schwarzwald.",
+       "datei": "gast_wissen.txt",
+       "mehr": [
+        "Baiersbronn-Mitteltal · seit 1951"
+       ]
+      },
+      {
+       "fid": "973f3bf8f7",
+       "was": "Gastgeber",
+       "angabe": "inhabergeführt in dritter Generation: Hermann Bareiss, seit 2015 mit Britta und Hannes Bareiss",
+       "beleg": "Seit 2015 führen Britta und Hannes Bareiss das Haus mit ihm als familiäre Dreierspitze.",
+       "datei": "gast_wissen.txt",
+       "mehr": []
+      },
+      {
+       "fid": "20b60158f9",
+       "was": "Seit",
+       "angabe": "1. Mai 1951: Hermine Bareiss eröffnet das »Kurhotel Mitteltal« als 25-Betten-Haus",
+       "beleg": "Am 1. Mai 1951 eröffnet Hermine Bareiss das »Kurhotel Mitteltal« als 25-Betten-Haus.",
+       "datei": "gast_wissen.txt",
+       "mehr": []
+      },
+      {
+       "fid": "c1f8a3869e",
+       "was": "Haltung",
+       "angabe": "Zu Gast in der Familie: Gastfreundschaft, die von Herzen kommt",
+       "beleg": "Gastfreundschaft, die von Herzen kommt.",
+       "datei": "gast_wissen.txt",
+       "mehr": []
+      }
+     ]
+    },
+    {
+     "gruppe": "Auszeichnungen",
+     "zeilen": [
+      {
+       "fid": "bff5e6e9a8",
+       "was": "Guide Michelin 2026",
+       "angabe": "drei Sterne für das Restaurant Bareiss",
+       "beleg": "Drei Sterne für das Restaurant Bareiss",
+       "datei": "gast_wissen.txt",
+       "mehr": []
+      },
+      {
+       "fid": "990a855c1f",
+       "was": "Prix Villégiature 2022",
+       "angabe": "Weltbestes Hotel für Kinder",
+       "beleg": "Weltbestes Hotel für Kinder",
+       "datei": "gast_wissen.txt",
+       "mehr": []
+      },
+      {
+       "fid": "02dacde746",
+       "was": "Falstaff Hotelguide 2025",
+       "angabe": "98 von 100 Punkten, Platz 1 Familie",
+       "beleg": "98 von 100 Punkten, Platz 1 Familie",
+       "datei": "gast_wissen.txt",
+       "mehr": []
+      },
+      {
+       "fid": "e8e90cd148",
+       "was": "Die 101 besten Hotels 2025",
+       "angabe": "Platz 1 Luxury Culinary Hotels",
+       "beleg": "Platz 1 Luxury Culinary Hotels",
+       "datei": "gast_wissen.txt",
+       "mehr": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "bereich": "Zimmer & Preise",
+   "gruppen": [
+    {
+     "gruppe": "Die sieben Kategorien",
+     "zeilen": [
+      {
+       "fid": "32aa10de72",
+       "was": "Einzelzimmer",
+       "angabe": "ab 345 € pro Person und Nacht, ab 4 Übernachtungen ab 305 €",
+       "beleg": "Einzelzimmer (Eulengrund · Weißenbachtal · Ellbachtal · Landhaus): ab 345 € pro Person und Nacht · ab 4 Übernachtungen ab 305 €",
+       "datei": "gast_wissen.txt",
+       "mehr": []
+      },
+      {
+       "fid": "ae502123ce",
+       "was": "Doppelzimmer",
+       "angabe": "ab 373 € pro Person und Nacht, Großes Doppelzimmer ab 398 €",
+       "beleg": "ab 373 € pro Person und Nacht · ab 4 Übernachtungen ab 310 € · Großes Doppelzimmer ab 398 €",
+       "datei": "gast_wissen.txt",
+       "mehr": []
+      },
+      {
+       "fid": "68d57517b0",
+       "was": "Doppelzimmer-Appartements",
+       "angabe": "ab 448 € pro Person und Nacht",
+       "beleg": "Doppelzimmer-Appartements (Eulengrund · Weißenbachtal · Ellbachtal · Gartenflügel · Rundbau): ab 448 € pro Person und Nacht",
+       "datei": "gast_wissen.txt",
+       "mehr": []
+      },
+      {
+       "fid": "6fd31ba862",
+       "was": "Familien-Appartements",
+       "angabe": "ab 1.145 € pro Zimmer und Nacht für 3 Personen",
+       "beleg": "ab 1.145 € pro Zimmer und Nacht für 3 Personen",
+       "datei": "gast_wissen.txt",
+       "mehr": []
+      },
+      {
+       "fid": "504d581344",
+       "was": "Suiten",
+       "angabe": "ab 538 € pro Person und Nacht, Bareiss Luxus-Suiten mit 95 bis 155 m² ab 1.950 € pro Zimmer und Nacht",
+       "beleg": "Bareiss Luxus-Suiten mit 95 bis 155 m² ab 1.950 € pro Zimmer und Nacht",
+       "datei": "gast_wissen.txt",
+       "mehr": []
+      },
+      {
+       "fid": "239fa8e0db",
+       "was": "Penthouse",
+       "angabe": "Penthouse I bis V, 45 bis 70 m², ab 1.175 € pro Zimmer und Nacht für 2 Personen",
+       "beleg": "Penthouse (Penthouse I bis V · 45 bis 70 m²): ab 1.175 € pro Zimmer und Nacht für 2 Personen",
+       "datei": "gast_wissen.txt",
+       "mehr": []
+      },
+      {
+       "fid": "aaaa925845",
+       "was": "Wohnen im Landhaus",
+       "angabe": "ab 373 € pro Person und Nacht, Landhaus-Suite II ab 618 €",
+       "beleg": "Landhaus-Suite II ab 618 €",
+       "datei": "gast_wissen.txt",
+       "mehr": []
+      }
+     ]
+    },
+    {
+     "gruppe": "Was inklusive ist",
+     "zeilen": [
+      {
+       "fid": "2a61021358",
+       "was": "Halbpension",
+       "angabe": "die Bareiss Halbpension, der Kulinarische Ferientag",
+       "beleg": "Die Bareiss Halbpension, der Kulinarische Ferientag vom frühen Morgen bis in den späten Abend.",
+       "datei": "gast_wissen.txt",
+       "mehr": []
+      },
+      {
+       "fid": "1bed775823",
+       "was": "Im Zimmer",
+       "angabe": "Obst und frische Blumen, Kosmetikprodukte, die Beauty&Spa-Tasche, tägliche kleine Aufmerksamkeiten",
+       "beleg": "Obst und frische Blumen, hochwertige Kosmetikprodukte, die Beauty&Spa-Tasche und tägliche kleine Aufmerksamkeiten sind inklusive",
+       "datei": "gast_wissen.txt",
+       "mehr": []
+      },
+      {
+       "fid": "0d2dc73264",
+       "was": "Im Haus",
+       "angabe": "Badelandschaft, Saunawelt und Fitness, Bibliothek, Waldpark, Haus der Spiele, Ferienprogramm",
+       "beleg": "Dazu Badelandschaft, Saunawelt und Fitness, die Bibliothek, der Waldpark, das Haus der Spiele und das Bareiss Ferienprogramm für Erwachsene und Kinder.",
+       "datei": "gast_wissen.txt",
+       "mehr": []
+      }
+     ]
+    },
+    {
+     "gruppe": "Gut zu wissen",
+     "zeilen": [
+      {
+       "fid": "f542c22fa6",
+       "was": "Bestimmter Zimmertyp",
+       "angabe": "erst ab 4 Übernachtungen buchbar",
+       "beleg": "Das Buchen eines bestimmten Typs ist erst ab 4 Übernachtungen möglich.",
+       "datei": "gast_wissen.txt",
+       "mehr": []
+      },
+      {
+       "fid": "243568bf13",
+       "was": "Einzelnutzung",
+       "angabe": "Doppelzimmer, Appartement oder Suite: je nach Verfügbarkeit 180 € pro Nacht Ermäßigung",
+       "beleg": "erhalten Sie eine Ermäßigung von 180 € pro Nacht",
+       "datei": "gast_wissen.txt",
+       "mehr": []
+      },
+      {
+       "fid": "8ea0bdc800",
+       "was": "Hunde",
+       "angabe": "willkommen, mit der Buchung anmelden, 35 € pro Tag (ohne Verpflegung)",
+       "beleg": "Hunde sind bei uns im Bareiss herzlich willkommen!",
+       "datei": "gast_wissen.txt",
+       "mehr": [
+        "Preis pro Hund und pro Tag (ohne Verpflegung):"
+       ]
+      },
+      {
+       "fid": "20ad51a533",
+       "was": "Nichtraucher",
+       "angabe": "ausschließlich Nichtraucherzimmer",
+       "beleg": "Unser Haus verfügt ausschließlich über Nichtraucherzimmer.",
+       "datei": "gast_wissen.txt",
+       "mehr": []
+      },
+      {
+       "fid": "b8807845d8",
+       "was": "Stornierung",
+       "angabe": "bis drei Wochen vor Anreise kostenfrei, ausgenommen die Weihnachtszeit; sonst 80 %",
+       "beleg": "Bis zu drei Wochen vor Anreise haben Sie selbstverständlich die Möglichkeit, kostenfrei von Ihrer Reservierung zurückzutreten",
+       "datei": "gast_wissen.txt",
+       "mehr": [
+        "mit 80% des Zimmerpreises in Rechnung zu stellen"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "bereich": "Halbpension & Ferientag",
+   "gruppen": [
+    {
+     "gruppe": "Der Kulinarische Ferientag",
+     "zeilen": [
+      {
+       "fid": "68883acb5b",
+       "was": "Pooloase",
+       "angabe": "ab 7.00 Uhr: Kleinigkeiten, Tee und Kaffee",
+       "beleg": "Wir eröffnen den Reigen ab 7.00 Uhr mit erlesenen Kleinigkeiten, Tee und Kaffee in der Pooloase",
+       "datei": "gast_wissen.txt",
+       "mehr": []
+      },
+      {
+       "fid": "a8d8f24fec",
+       "was": "Frühstück",
+       "angabe": "8.00 bis 11.30 Uhr, das Bareiss Frühstücksbuffet",
+       "beleg": "von 8.00 Uhr bis 11.30 Uhr beim legendären Bareiss Frühstücksbuffet",
+       "datei": "gast_wissen.txt",
+       "mehr": []
+      },
+      {
+       "fid": "f04b536b52",
+       "was": "Nachmittag",
+       "angabe": "13.30 bis 17.00 Uhr Kuchen und Gebäck",
+       "beleg": "Am Nachmittag servieren wir von 13.30 Uhr bis 17.00 Uhr Kuchen und Gebäck",
+       "datei": "gast_wissen.txt",
+       "mehr": []
+      },
+      {
+       "fid": "295116d19d",
+       "was": "Dinner",
+       "angabe": "zwischen 19.00 und 20.00 Uhr in den Hausgastrestaurants",
+       "beleg": "am Abend bitten wir zwischen 19.00 und 20.00 Uhr zum Dinner in den Hausgastrestaurants",
+       "datei": "gast_wissen.txt",
+       "mehr": []
+      },
+      {
+       "fid": "b171b570d6",
+       "was": "Mitternachtsimbiss",
+       "angabe": "täglich ab 23.45 Uhr in der Bar und in der Smokers Lounge",
+       "beleg": "Für Nachtschwärmer reichen wir täglich ab 23.45 Uhr einen Mitternachtsimbiss in der Bar und in der Smokers Lounge.",
+       "datei": "gast_wissen.txt",
+       "mehr": []
+      },
+      {
+       "fid": "f977d6d72e",
+       "was": "Dresscode",
+       "angabe": "zum Diner in angemessener Garderobe",
+       "beleg": "zum Diner in angemessener Garderobe zu erscheinen",
+       "datei": "gast_wissen.txt",
+       "mehr": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "bereich": "Restaurant Bareiss",
+   "gruppen": [
+    {
+     "gruppe": "Drei Michelin-Sterne seit 2007",
+     "zeilen": [
+      {
+       "fid": "067f78286c",
+       "was": "Öffnungszeiten",
+       "angabe": "Donnerstag bis Sonntag, mittags ab 12.00 Uhr und abends ab 19.00 Uhr",
+       "beleg": "Donnerstag bis Sonntag, mittags ab 12.00 Uhr und abends ab 19.00 Uhr.",
+       "datei": "gast_wissen.txt",
+       "mehr": []
+      },
+      {
+       "fid": "5cf5e78d0d",
+       "was": "Ruhetage",
+       "angabe": "Montag, Dienstag und Mittwoch",
+       "beleg": "Montag, Dienstag und Mittwoch sind Ruhetage.",
+       "datei": "gast_wissen.txt",
+       "mehr": []
+      },
+      {
+       "fid": "7a17b6fd3b",
+       "was": "Urlaub",
+       "angabe": "21. bis 24. Dezember 2026 und 30. Dezember 2026 bis 1. Januar 2027; 8. Februar bis 5. März 2027",
+       "beleg": "Urlaub: 21. bis 24. Dezember 2026 und 30. Dezember 2026 bis 1. Januar 2027",
+       "datei": "gast_wissen.txt",
+       "mehr": []
+      },
+      {
+       "fid": "310ca3803f",
+       "was": "Küchenchef",
+       "angabe": "Claus-Peter Lumpp, mit Pâtissier Stefan Leitner, Maître Thomas Brandt und Sommelier Teoman Mezda",
+       "beleg": "Ihm zur Seite stehen Pâtissier Stefan Leitner, Maître Thomas Brandt im Service und Teoman Mezda als Sommelier",
+       "datei": "gast_wissen.txt",
+       "mehr": []
+      }
+     ]
+    },
+    {
+     "gruppe": "Die Menüs",
+     "zeilen": [
+      {
+       "fid": "4ddeb1052e",
+       "was": "Degustationsmenu",
+       "angabe": "von Claus-Peter Lumpp, 350 €",
+       "beleg": "Das Degustationsmenu",
+       "datei": "gast_wissen.txt",
+       "mehr": [
+        "350 €"
+       ]
+      },
+      {
+       "fid": "ca2b3796e9",
+       "was": "Mittagsmenu",
+       "angabe": "195 €",
+       "beleg": "Das Mittagsmenu",
+       "datei": "gast_wissen.txt",
+       "mehr": [
+        "195 €"
+       ]
+      },
+      {
+       "fid": "9e81c3f0c7",
+       "was": "Vegetarisches Menu",
+       "angabe": "295 €",
+       "beleg": "Das vegetarische Menu",
+       "datei": "gast_wissen.txt",
+       "mehr": [
+        "295 €"
+       ]
+      },
+      {
+       "fid": "c0d17cf367",
+       "was": "Tisch reservieren",
+       "angabe": "an der Rezeption, Durchwahl -325; auch für externe Gäste",
+       "beleg": "Bitte wenden Sie sich dazu an die Rezeption, Durchwahl -325.",
+       "datei": "gast_wissen.txt",
+       "mehr": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "bereich": "Stuben & Bar",
+   "gruppen": [
+    {
+     "gruppe": "À la carte im Haus",
+     "zeilen": [
+      {
+       "fid": "642221d800",
+       "was": "Kaminstube",
+       "angabe": "Montag bis Sonntag 19.00 bis 22.30 Uhr; Samstag, Sonntag und an Feiertagen auch 12.30 bis 14.30 Uhr",
+       "beleg": "Montag bis Sonntag 19.00 bis 22.30 Uhr",
+       "datei": "gast_wissen.txt",
+       "mehr": [
+        "Samstag, Sonntag und an Feiertagen auch 12.30 bis 14.30 Uhr"
+       ]
+      },
+      {
+       "fid": "c42bb94d4a",
+       "was": "Dorfstuben",
+       "angabe": "Montag bis Donnerstag 12.00 bis 14.30 und 18.30 bis 23.00 Uhr; Freitag bis Sonntag 12.00 bis 23.00 Uhr; Bib Gourmand",
+       "beleg": "Montag bis Donnerstag 12.00 bis 14.30 und 18.30 bis 23.00 Uhr",
+       "datei": "gast_wissen.txt",
+       "mehr": [
+        "Guide Michelin 2026: Bib Gourmand"
+       ]
+      },
+      {
+       "fid": "67b8b74df6",
+       "was": "Weinkeller",
+       "angabe": "über 1000 Positionen, Kellerführungen und Degustationen",
+       "beleg": "Der Weinkeller ist mit über 1000 Positionen reich bestückt",
+       "datei": "gast_wissen.txt",
+       "mehr": []
+      },
+      {
+       "fid": "b82a1daaaa",
+       "was": "Hotelbar",
+       "angabe": "mit dem Mann am Piano; Mitternachtsimbiss ab 23.45 Uhr",
+       "beleg": "In der Hotelbar halten wir an unserem Mann am Piano fest, und für Nachtschwärmer gibt es dort ab 23.45 Uhr den Mitternachtsimbiss.",
+       "datei": "gast_wissen.txt",
+       "mehr": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "bereich": "Wellness & Spa",
+   "gruppen": [
+    {
+     "gruppe": "Badelandschaft",
+     "zeilen": [
+      {
+       "fid": "529ef692ce",
+       "was": "Meerwasser",
+       "angabe": "innen und außen, ganzjährig 34 Grad",
+       "beleg": "Meerwasser innen und außen, ganzjährig 34 Grad",
+       "datei": "gast_wissen.txt",
+       "mehr": []
+      },
+      {
+       "fid": "765c2c6b26",
+       "was": "Süßwasserpool",
+       "angabe": "28 °C; Whirlpool 38 °C",
+       "beleg": "Süßwasserpool",
+       "datei": "gast_wissen.txt",
+       "mehr": [
+        "38 °C"
+       ]
+      },
+      {
+       "fid": "0a8442aac3",
+       "was": "Freibad und Badeteich",
+       "angabe": "von Mai bis Oktober, 24–26 °C",
+       "beleg": "Von Mai bis Oktober dazu das Süßwasserfreibad und der Naturbadeteich mit Liegewiese.",
+       "datei": "gast_wissen.txt",
+       "mehr": [
+        "24–26 °C"
+       ]
+      }
+     ]
+    },
+    {
+     "gruppe": "Saunawelt",
+     "zeilen": [
+      {
+       "fid": "62a30fb1bb",
+       "was": "Öffnungszeiten",
+       "angabe": "täglich 7.30 bis 19.30 Uhr",
+       "beleg": "Die Saunawelt im Hotel Bareiss ist täglich von 7.30 bis 19.30 Uhr geöffnet.",
+       "datei": "gast_wissen.txt",
+       "mehr": []
+      },
+      {
+       "fid": "687fb77034",
+       "was": "Textilfrei",
+       "angabe": "ja; Familiensauna 12.00 bis 15.00 Uhr, Kinder nur dort",
+       "beleg": "Ausnahmen sind während der Familiensaunazeiten von 12.00 bis 15.00 Uhr möglich.",
+       "datei": "gast_wissen.txt",
+       "mehr": [
+        "Kindern ist der Zutritt ausschließlich zur Familiensauna gestattet."
+       ]
+      },
+      {
+       "fid": "dda277e68b",
+       "was": "Saunen",
+       "angabe": "Finnische Sauna 90 °C, Biosauna und Sanarium 60 °C, Dampfbäder 42 °C",
+       "beleg": "Finnische Sauna, Biosauna und Sanarium, Kräuter- und Rosendampfbad, Sauna-Whirlpools im Außenbereich und eine Innenruhezone mit Kaminlounge.",
+       "datei": "gast_wissen.txt",
+       "mehr": [
+        "90 °C",
+        "60 °C",
+        "42 °C"
+       ]
+      }
+     ]
+    },
+    {
+     "gruppe": "Beauty & Spa",
+     "zeilen": [
+      {
+       "fid": "96e2e223c6",
+       "was": "Angebot",
+       "angabe": "Kosmetik, Massagen und Friseursalon",
+       "beleg": "Bareiss Beauty & Spa: Kosmetik, Massagen und Friseursalon, großzügig, topmodern und stilvoll gestaltet.",
+       "datei": "gast_wissen.txt",
+       "mehr": []
+      },
+      {
+       "fid": "8fc6daca3e",
+       "was": "Fitness",
+       "angabe": "Fitnessstudio mit täglichem Kursprogramm",
+       "beleg": "Fitnessstudio mit täglichem Kursprogramm",
+       "datei": "gast_wissen.txt",
+       "mehr": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "bereich": "Kinder & Familie",
+   "gruppen": [
+    {
+     "gruppe": "Das Kinderdörfle",
+     "zeilen": [
+      {
+       "fid": "cbf67179b7",
+       "was": "Was es ist",
+       "angabe": "Villa Kunterbunt, Villa Sternenstaub, Haus der Spiele, Abenteuer- und Wasserspielplatz, Baumhaus",
+       "beleg": "Villa Kunterbunt, Villa Sternenstaub und das Haus der Spiele, Abenteuer- und Wasserspielplatz, Baumhaus",
+       "datei": "gast_wissen.txt",
+       "mehr": []
+      },
+      {
+       "fid": "6a0f350ec6",
+       "was": "Öffnungszeiten",
+       "angabe": "in den Ferienzeiten täglich 9.00 bis 23.00 Uhr",
+       "beleg": "In den Ferienzeiten ist das Kinderdörfle täglich von 9.00 bis 23.00 Uhr geöffnet.",
+       "datei": "gast_wissen.txt",
+       "mehr": []
+      },
+      {
+       "fid": "35216670d8",
+       "was": "Altersgruppen",
+       "angabe": "Minis 3–6, Maxis 7–11, Teens ab 12",
+       "beleg": "Minis 3–6",
+       "datei": "gast_wissen.txt",
+       "mehr": [
+        "Maxis 7–11",
+        "Teens ab 12"
+       ]
+      },
+      {
+       "fid": "5cd7bddf20",
+       "was": "Reiterhöfle und Tierwelt",
+       "angabe": "Ponys und Pferde, Hasen, Ziegen und Damwild",
+       "beleg": "mit Hasen und Ziegen, Ponys und Damwild",
+       "datei": "gast_wissen.txt",
+       "mehr": []
+      }
+     ]
+    },
+    {
+     "gruppe": "Betten für die Kleinen",
+     "zeilen": [
+      {
+       "fid": "3ce6a98a72",
+       "was": "Bis 3 Jahre",
+       "angabe": "eingeladen",
+       "beleg": "Kinder bis 3 Jahre sind eingeladen.",
+       "datei": "gast_wissen.txt",
+       "mehr": []
+      },
+      {
+       "fid": "fe0026f565",
+       "was": "Zustellbett",
+       "angabe": "4–6 Jahre 125 €, 7–11 Jahre 155 €, 12–17 Jahre 190 €, ab 18 Jahren 210 €",
+       "beleg": "4–6 Jahre 125 €",
+       "datei": "gast_wissen.txt",
+       "mehr": [
+        "7–11 Jahre 155 €",
+        "12–17 Jahre 190 €",
+        "ab 18 Jahren 210 €"
+       ]
+      },
+      {
+       "fid": "537731edf7",
+       "was": "Ferienzeiten",
+       "angabe": "Kinder von 4 bis 17 Jahren ab 4 Übernachtungen 30 % Ermäßigung",
+       "beleg": "In den Ferienzeiten erhalten Kinder von 4 bis 17 Jahren ab 4 Übernachtungen im Zustellbett im Zimmer der Eltern 30 % Ermäßigung.",
+       "datei": "gast_wissen.txt",
+       "mehr": []
+      },
+      {
+       "fid": "1ac9b1ac20",
+       "was": "Babysitter",
+       "angabe": "nach Verfügbarkeit, 25 € pro angefangener Stunde",
+       "beleg": "Preis pro angefangener Stunde: 25 €",
+       "datei": "gast_wissen.txt",
+       "mehr": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "bereich": "Anreise & Zeiten",
+   "gruppen": [
+    {
+     "gruppe": "Ankommen und Abreisen",
+     "zeilen": [
+      {
+       "fid": "c87a54550c",
+       "was": "Zimmer bereit",
+       "angabe": "am Ankunftstag ab 15.00 Uhr",
+       "beleg": "Die Zimmer sind am Ankunftstag ab 15.00 Uhr bezugsfertig",
+       "datei": "gast_wissen.txt",
+       "mehr": []
+      },
+      {
+       "fid": "90a7c1de6c",
+       "was": "Abreise",
+       "angabe": "Zimmer bis 11.00 Uhr freigeben; Gepäck bewahrt das Haus auf",
+       "beleg": "am Abreisetag bis 11.00 Uhr freizugeben",
+       "datei": "gast_wissen.txt",
+       "mehr": [
+        "Ihr Gepäck bewahren wir gerne für Sie auf."
+       ]
+      },
+      {
+       "fid": "9465134d35",
+       "was": "Late Check-out",
+       "angabe": "je nach Verfügbarkeit bis 18 Uhr, Tageszimmer-Zuschlag 150 € pro Zimmer",
+       "beleg": "Sie können Ihr Zimmer sowie alle Angebote des Hauses an diesem Tag noch bis 18 Uhr nutzen.",
+       "datei": "gast_wissen.txt",
+       "mehr": [
+        "Tageszimmer-Zuschlag: 150 € / Zimmer."
+       ]
+      }
+     ]
+    },
+    {
+     "gruppe": "Der Weg ins Tal",
+     "zeilen": [
+      {
+       "fid": "65e6b3ec02",
+       "was": "Mit dem Auto",
+       "angabe": "über die B 500, die Schwarzwaldhochstraße, bis zum Ruhestein, dann über Obertal nach Mitteltal",
+       "beleg": "Wir empfehlen Ihnen, über die B 500, die Schwarzwaldhochstraße, anzureisen und bis zum Ruhestein zu fahren.",
+       "datei": "gast_wissen.txt",
+       "mehr": []
+      },
+      {
+       "fid": "469eeb772f",
+       "was": "Mit der Bahn",
+       "angabe": "bis Bahnhof Baiersbronn, das Haus schickt gern einen Chauffeur oder ein Taxi",
+       "beleg": "Mit der Bahn erreichen Sie den Bahnhof Baiersbronn. Im Falle der Zugreise schicken wir Ihnen gern einen Chauffeur oder organisieren ein Taxi.",
+       "datei": "gast_wissen.txt",
+       "mehr": []
+      },
+      {
+       "fid": "09a1495da1",
+       "was": "Garage",
+       "angabe": "22 € pro Tag, Unterstellplatz 18 €",
+       "beleg": "Garage: pro Tag 22 €",
+       "datei": "gast_wissen.txt",
+       "mehr": [
+        "Unterstellplatz: pro Tag 18 €"
+       ]
+      },
+      {
+       "fid": "43842c1b02",
+       "was": "E-Laden",
+       "angabe": "16 E-Ladestationen, nach Verfügbarkeit",
+       "beleg": "sind 16 E-Ladestationen eingerichtet",
+       "datei": "gast_wissen.txt",
+       "mehr": []
+      },
+      {
+       "fid": "3347a60d58",
+       "was": "Bezahlen",
+       "angabe": "bar, EC-Karte oder Kreditkarte (VISA oder MasterCard)",
+       "beleg": "können bar, mit EC-Karte oder Kreditkarte (VISA oder MasterCard) beglichen werden.",
+       "datei": "gast_wissen.txt",
+       "mehr": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "bereich": "Im Tal",
+   "gruppen": [
+    {
+     "gruppe": "Die eigenen Betriebe",
+     "zeilen": [
+      {
+       "fid": "3620bea3ad",
+       "was": "Forellenhof Buhlbach",
+       "angabe": "in fußläufiger Entfernung; Gaststuben täglich 11.30 bis 17.30 Uhr, freitags bis 22.00 Uhr",
+       "beleg": "in fußläufiger Entfernung zum Hotel",
+       "datei": "gast_wissen.txt",
+       "mehr": [
+        "Gaststuben täglich 11.30 bis 17.30 Uhr, freitags bis 22.00 Uhr"
+       ]
+      },
+      {
+       "fid": "4541537ee4",
+       "was": "Wanderhütte Sattelei",
+       "angabe": "auf 706 Metern, gute Dreiviertelstunde zu Fuß, ganzjährig geöffnet",
+       "beleg": "Auf 706 Metern zwischen Mitteltal und dem Tonbachtal",
+       "datei": "gast_wissen.txt",
+       "mehr": [
+        "in einer guten Dreiviertelstunde erreicht, ganzjährig geöffnet."
+       ]
+      },
+      {
+       "fid": "35e9ff867a",
+       "was": "Morlokhof",
+       "angabe": "erbaut 1789, nur im Rahmen von Veranstaltungen geöffnet",
+       "beleg": "Der Morlokhof ist nur im Rahmen von Veranstaltungen geöffnet.",
+       "datei": "gast_wissen.txt",
+       "mehr": [
+        "Anno 1789 erbaute Johann Georg Morlok den Hof"
+       ]
+      }
+     ]
+    },
+    {
+     "gruppe": "Natur",
+     "zeilen": [
+      {
+       "fid": "871a246544",
+       "was": "Nationalpark Schwarzwald",
+       "angabe": "10.000 Hektar",
+       "beleg": "Nationalpark Schwarzwald",
+       "datei": "gast_wissen.txt",
+       "mehr": [
+        "10.000 Hektar"
+       ]
+      },
+      {
+       "fid": "523916c512",
+       "was": "Baiersbronner Wanderhimmel",
+       "angabe": "Wegenetz von 550 Kilometern",
+       "beleg": "auf einem Wegenetz von 550 Kilometern",
+       "datei": "gast_wissen.txt",
+       "mehr": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "bereich": "Kontakt",
+   "gruppen": [
+    {
+     "gruppe": "So erreichen Sie das Haus",
+     "zeilen": [
+      {
+       "fid": "3bd9d70082",
+       "was": "Telefon",
+       "angabe": "+49 7442 47-0",
+       "beleg": "Telefon: +49 7442 47-0.",
+       "datei": "gast_umgebung.txt",
+       "mehr": []
+      },
+      {
+       "fid": "2879f0035d",
+       "was": "E-Mail",
+       "angabe": "info@bareiss.com",
+       "beleg": "E-Mail: info@bareiss.com.",
+       "datei": "gast_wissen.txt",
+       "mehr": []
+      },
+      {
+       "fid": "987cb7f94a",
+       "was": "Adresse",
+       "angabe": "Hermine-Bareiss-Weg, 72270 Baiersbronn-Mitteltal",
+       "beleg": "Hermine-Bareiss-Weg (vormals Gärtenbühlweg 14), 72270 Baiersbronn-Mitteltal",
+       "datei": "gast_umgebung.txt",
+       "mehr": []
+      },
+      {
+       "fid": "098c2b731d",
+       "was": "Zimmer buchen",
+       "angabe": "«Zimmer buchen» auf der Website: Datum, Abreise, Gäste",
+       "beleg": "Zimmer buchen: mit «Zimmer buchen» auf der Website",
+       "datei": "gast_umgebung.txt",
+       "mehr": []
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

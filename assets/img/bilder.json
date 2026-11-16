@@ -1,0 +1,3024 @@
+{
+ "teich-tag": {
+  "w": 2560,
+  "h": 1709,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original2/Aussenansicht_Hotel_Bareiss_mit_Naturschwimmteich_3_WEB.jpg"
+ },
+ "teich-nacht": {
+  "w": 2560,
+  "h": 1707,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original/001_Hotel__Hotel_Sommernacht.jpg"
+ },
+ "teich-liegen": {
+  "w": 2560,
+  "h": 1709,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original2/bareiss_0718-0821_Aussenansicht.jpg"
+ },
+ "herz-tuer": {
+  "w": 2550,
+  "h": 1702,
+  "b": [
+   640,
+   1200,
+   1920,
+   2550
+  ],
+  "q": "original2/bareiss_0718-1403_bea_korr.jpg"
+ },
+ "vorfahrt": {
+  "w": 3251,
+  "h": 2167,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original2/web_bareiss_0725-1419-min.jpg"
+ },
+ "familie": {
+  "w": 1800,
+  "h": 1201,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/c_csm_web_bareiss_0324-0568_Familie_Bareiss_Hermann_Bareiss_-_Britta___Hannes_Bareiss_05704e23dc.jpg"
+ },
+ "garten-licht": {
+  "w": 2560,
+  "h": 1707,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original/001_Hotel___DSC6236_bea.jpg"
+ },
+ "z-einzel": {
+  "w": 3302,
+  "h": 2202,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original/__fileadmin__user_upload__web_bareiss_0324-0024.jpg"
+ },
+ "z-doppel": {
+  "w": 2560,
+  "h": 1707,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original/003_Zimmer-Suiten__00_SORTIERUNG_FINAL__Haupthaus__02_Doppelzimmer__Doppelzimmer__Weissenbachtal-Orspach1-Eulengrund1__39__69__4.jpg"
+ },
+ "z-doppel2": {
+  "w": 3838,
+  "h": 2560,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original/003_Zimmer-Suiten__00_SORTIERUNG_FINAL__Haupthaus__02_Doppelzimmer__Doppelzimmer__Orspach2-Eulengrund2___G2A9968_bea_NEU.jpg"
+ },
+ "z-gross": {
+  "w": 2560,
+  "h": 1708,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original/003_Zimmer-Suiten__00_SORTIERUNG_FINAL__Haupthaus__02_Doppelzimmer__Grosse-Doppelzimmer__Bergmosis___G2A9197_web.jpg"
+ },
+ "z-gross2": {
+  "w": 2560,
+  "h": 1689,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original/003_Zimmer-Suiten__00_SORTIERUNG_FINAL__Haupthaus__02_Doppelzimmer__Grosse-Doppelzimmer__Weissenbachtal_2__90_2.jpg"
+ },
+ "z-appartement": {
+  "w": 2560,
+  "h": 1707,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original/003_Zimmer-Suiten__00_SORTIERUNG_FINAL__Haupthaus__02_Doppelzimmer__Doppelzimmer-Appartements__Doppelzimmer-Appartements-I__EulengrundWeissenbachtal__248_1.jpg"
+ },
+ "z-appartement2": {
+  "w": 2560,
+  "h": 1707,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original/003_Zimmer-Suiten__00_SORTIERUNG_FINAL__Haupthaus__02_Doppelzimmer__Doppelzimmer-Appartements__Doppelzimmer-Appartements-I__Ellbachtal__210_5.jpg"
+ },
+ "z-appartement3": {
+  "w": 2560,
+  "h": 1708,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original/003_Zimmer-Suiten__00_SORTIERUNG_FINAL__Haupthaus__02_Doppelzimmer__Doppelzimmer-Appartements__Doppelzimmer-Appartements-II__Gartenfluegel___G2A8834_bea_NEU_web.jpg"
+ },
+ "z-appartement4": {
+  "w": 2560,
+  "h": 1683,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original/003_Zimmer-Suiten__00_SORTIERUNG_FINAL__Haupthaus__02_Doppelzimmer__Doppelzimmer-Appartements__Doppelzimmer-Appartements-II__Ellbach__235_TV_alt.jpg"
+ },
+ "z-familie": {
+  "w": 3838,
+  "h": 2560,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original/003_Zimmer-Suiten__00_SORTIERUNG_FINAL__Haupthaus__03_Familienappartements__Orspach-III__ORSP3.jpg"
+ },
+ "z-familie2": {
+  "w": 2560,
+  "h": 1707,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original/003_Zimmer-Suiten__00_SORTIERUNG_FINAL__Haupthaus__03_Familienappartements__Orspach-II___F1A7677_bea_Zimmer_23.jpg"
+ },
+ "z-familie3": {
+  "w": 2560,
+  "h": 1518,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original/003_Zimmer-Suiten__00_SORTIERUNG_FINAL__Haupthaus__03_Familienappartements__Orspach-I__12_1.jpg"
+ },
+ "z-suite": {
+  "w": 2560,
+  "h": 1708,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original/003_Zimmer-Suiten__00_SORTIERUNG_FINAL__Haupthaus__04_Suiten__Suite-II__Penthouse-Suite-II___G2A7213_web.jpg"
+ },
+ "z-landhaussuite": {
+  "w": 2560,
+  "h": 1709,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original/003_Zimmer-Suiten__Suiten__Landhaus-SuiteI.jpg"
+ },
+ "z-landhaussuite2": {
+  "w": 2560,
+  "h": 1707,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original/003_Zimmer-Suiten__00_SORTIERUNG_FINAL__Landhaus__03_Suiten__Suite-II__Landhaus-Suite-II__LH_21_1.jpg"
+ },
+ "z-penthouse": {
+  "w": 2560,
+  "h": 1708,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original/003_Zimmer-Suiten__00_SORTIERUNG_FINAL__Haupthaus__Penthouse__113_Schlafen.jpg"
+ },
+ "z-penthouse2": {
+  "w": 2560,
+  "h": 1707,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original/003_Zimmer-Suiten__00_SORTIERUNG_FINAL__Haupthaus__Penthouse__103__web_bareiss_0924-1121_Schlafen_103.jpg"
+ },
+ "z-landhaus-einzel": {
+  "w": 2560,
+  "h": 1707,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original/003_Zimmer-Suiten__00_SORTIERUNG_FINAL__Landhaus__01_Einzelzimmer__EZ_Landhaus__LH_10_1.jpg"
+ },
+ "z-landhaus-doppel": {
+  "w": 2560,
+  "h": 1707,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original/003_Zimmer-Suiten__00_SORTIERUNG_FINAL__Landhaus__02_Doppelzimmer__Doppelzimmer__WeissenbachOrspach1Eulengrund1__LH_11_1.jpg"
+ },
+ "z-landhaus-gross": {
+  "w": 2560,
+  "h": 1686,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original/003_Zimmer-Suiten__00_SORTIERUNG_FINAL__Landhaus__02_Doppelzimmer__Grosses-Doppelzimmer__Landhaus-I__LH_13_grosses_Doppelzimmer.jpg"
+ },
+ "z-landhaus-app": {
+  "w": 2560,
+  "h": 1707,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original/003_Zimmer-Suiten__00_SORTIERUNG_FINAL__Landhaus__02_Doppelzimmer__Doppelzimmer-Appartement-I__Landhaus-II__LH_25_5.jpg"
+ },
+ "t-pool-morgen": {
+  "w": 2560,
+  "h": 1707,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original/004_Kulinarik-Gastlichkeit__Pool_Service_web.jpg"
+ },
+ "t-fruehstueck": {
+  "w": 7360,
+  "h": 4912,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original2/Fruehstueck_Biedermaierzimmer.jpg"
+ },
+ "t-dinner": {
+  "w": 1981,
+  "h": 1321,
+  "b": [
+   640,
+   1200,
+   1920,
+   1981
+  ],
+  "q": "original/007_Aktivitaeten__Kulinarik__Wintergarten_Hotel-Restaurant.jpg"
+ },
+ "t-bar": {
+  "w": 1500,
+  "h": 1500,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "website/bilder/e_csm__69A6619_pt_Bar_df32c688ef.jpg"
+ },
+ "r-saal": {
+  "w": 3302,
+  "h": 2161,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original2/web_bareiss_0324-0815.jpg"
+ },
+ "r-tisch": {
+  "w": 3276,
+  "h": 2198,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original/__fileadmin__user_upload__web_bareiss_0324-0074.jpg"
+ },
+ "r-lumpp": {
+  "w": 1500,
+  "h": 2174,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "website/bilder/d_csm_druck_bareiss_0324-0149_web_8b76d4a462.jpg"
+ },
+ "r-team": {
+  "w": 1800,
+  "h": 1201,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/f_csm_druck_bareiss_0324-0384_web_1754b5db5a.jpg"
+ },
+ "r-gruen": {
+  "w": 4526,
+  "h": 5658,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original2/20250526-20250526-DSC00603-2-Poprawione-Szum-Edytuj-Edytuj-Edytuj.jpg"
+ },
+ "r-taube": {
+  "w": 5901,
+  "h": 3934,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original2/20250526-20250526-DSC00547-2-2-Poprawione-Szum-Edytuj-Edytuj.jpg"
+ },
+ "r-kaviar": {
+  "w": 4809,
+  "h": 3847,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original2/20250526-20250526-DSC00008-Poprawione-Szum-Edytuj.jpg"
+ },
+ "r-blatt": {
+  "w": 4944,
+  "h": 3954,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original2/20250526-20250526-DSC00432-2-Poprawione-Szum-Edytuj.jpg"
+ },
+ "r-kueche": {
+  "w": 1500,
+  "h": 1124,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "website/bilder/f_csm_bareiss053_6cc8bd54e6.jpg"
+ },
+ "r-pass": {
+  "w": 1500,
+  "h": 1125,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "website/bilder/7_csm_bareiss046_6cea9815a7.jpg"
+ },
+ "r-leitner": {
+  "w": 1500,
+  "h": 1125,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "website/bilder/1_csm_bareiss030_2292452017.jpg"
+ },
+ "r-mezda": {
+  "w": 2944,
+  "h": 1965,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original2/Sommelier_Teoman_Mezda_im_Weinkeller.jpg"
+ },
+ "r-brandt": {
+  "w": 3249,
+  "h": 2166,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original2/web_bareiss_0324-0103.jpg"
+ },
+ "s-kaminstube": {
+  "w": 4019,
+  "h": 2679,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "website/bilder/3_csm_Kaminstube_Nahaufnahme_Blume_df4838f93a.jpeg"
+ },
+ "s-dorfstube": {
+  "w": 2560,
+  "h": 1704,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original/004_Kulinarik-Gastlichkeit__A-la-carte-Impressionen__DST_6.jpg"
+ },
+ "s-weinkeller": {
+  "w": 2560,
+  "h": 1760,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original/004_Kulinarik-Gastlichkeit__Weinkeller_bareiss_0617-6595_bea.jpg"
+ },
+ "s-kaminstube-dessert": {
+  "w": 2560,
+  "h": 1707,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original/004_Kulinarik-Gastlichkeit__Kaminstubendessert_DSC9731.jpg"
+ },
+ "w-meerwasser": {
+  "w": 2560,
+  "h": 1781,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original2/Meerwasser_Aussenpool_im_Hotel_Bareiss_2.jpeg"
+ },
+ "w-pool": {
+  "w": 2560,
+  "h": 1707,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original2/druck_bareiss_0723-2249_bea_NEU_2_web_01.jpg"
+ },
+ "w-abend": {
+  "w": 2560,
+  "h": 1709,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original2/PoolSonnenuntergang_bareiss-3782_bea.jpg"
+ },
+ "w-ruhe": {
+  "w": 5950,
+  "h": 3955,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original2/Sauna_Relaxation_Room_1.jpg"
+ },
+ "w-aerial": {
+  "w": 2152,
+  "h": 1443,
+  "b": [
+   640,
+   1200,
+   1920,
+   2152
+  ],
+  "q": "original2/Bareiss_Aussenansicht_Pools_mit_Bareiss_Akademie.jpg"
+ },
+ "k-baelle": {
+  "w": 2560,
+  "h": 1709,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original2/bareiss-0616-2116.jpg"
+ },
+ "k-wasser": {
+  "w": 2250,
+  "h": 1500,
+  "b": [
+   640,
+   1200,
+   1920,
+   2250
+  ],
+  "q": "original/009_JungeGaeste__Ferien_Kinder_01.jpg"
+ },
+ "k-kochen": {
+  "w": 2560,
+  "h": 3840,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original2/0223_Kochen.jpg"
+ },
+ "k-schiff": {
+  "w": 2560,
+  "h": 1707,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original2/Piratenschiff.jpg"
+ },
+ "k-pferd": {
+  "w": 2560,
+  "h": 1707,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original/009_JungeGaeste__Bildmotive__high-res_bareiss_0922-7513.jpg"
+ },
+ "k-billard": {
+  "w": 2560,
+  "h": 1707,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original2/high-res_bareiss_0922-6789.jpg"
+ },
+ "k-club": {
+  "w": 1500,
+  "h": 1500,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "website/bilder/6_csm_high-res_bareiss_0922-6773_bbd45b84c8.jpg"
+ },
+ "k-kicker": {
+  "w": 1500,
+  "h": 1500,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "website/bilder/a_csm_high-res_bareiss_0922-6637_75cd4ffcc2.jpg"
+ },
+ "k-baumhaus": {
+  "w": 2560,
+  "h": 3840,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original2/Nickerchen2.jpg"
+ },
+ "k-ponys": {
+  "w": 2560,
+  "h": 1707,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original/009_JungeGaeste__Bildmotive___F1A0538_bea_korr2.jpg"
+ },
+ "k-damwild": {
+  "w": 2560,
+  "h": 1700,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original2/bareiss_1018-6646_bea_Wildgehege.jpg"
+ },
+ "k-ziegen-schnee": {
+  "w": 6720,
+  "h": 4480,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original/__fileadmin__user_upload___F1A1636_Zwergziegen_im_Streichelzoo_Hotel_Bareiss_Winter.jpg"
+ },
+ "g-1951": {
+  "w": 2560,
+  "h": 1784,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original/001_Hotel__Geschichte__1951_KurhotelMitteltal_greyed.jpg"
+ },
+ "g-hermine": {
+  "w": 1066,
+  "h": 1040,
+  "b": [
+   640,
+   1066
+  ],
+  "q": "original2/Portrait_Hermine_Bareiss_ohne_Rand.jpg"
+ },
+ "g-britta-hannes": {
+  "w": 1500,
+  "h": 1126,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "website/bilder/d_csm_Britta_und_Hannes_Bareiss_1_8cfe8e5205.jpg"
+ },
+ "g-winter": {
+  "w": 6583,
+  "h": 4389,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original/001_Hotel__Aussenansicht_Hotel_Bareiss___F1A3387_Hotel_Bareiss_im_Winter_bea_NEU.jpg"
+ },
+ "tal-buhlbach": {
+  "w": 2186,
+  "h": 1456,
+  "b": [
+   640,
+   1200,
+   1920,
+   2186
+  ],
+  "q": "original/__fileadmin__user_upload__web_bareiss_0723-0272_bea_NEU.jpg"
+ },
+ "tal-nationalpark": {
+  "w": 2560,
+  "h": 1707,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original/002_Schwarzwald__NationalparkSee_DSC0168_korr.jpg"
+ },
+ "tal-forellenhof": {
+  "w": 2560,
+  "h": 1709,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original/001_Hotel__Forellenhof__Aussenaufnahme_Forellenhof_Buhlbach_im_Sommer.jpg"
+ },
+ "tal-sattelei": {
+  "w": 2361,
+  "h": 1500,
+  "b": [
+   640,
+   1200,
+   1920,
+   2361
+  ],
+  "q": "original/00_Outlets__Sattelei__Wanderhuette_Sattelei_02.jpg"
+ },
+ "tal-morlokhof": {
+  "w": 2250,
+  "h": 1500,
+  "b": [
+   640,
+   1200,
+   1920,
+   2250
+  ],
+  "q": "original/00_Outlets__Morlokhof__Morlokhof_01.jpg"
+ },
+ "tal-wandern": {
+  "w": 2560,
+  "h": 1709,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original/006_Sport__bareiss_1018-5553_wandern.jpg"
+ },
+ "t-kuchen": {
+  "w": 1452,
+  "h": 968,
+  "b": [
+   640,
+   1200,
+   1452
+  ],
+  "q": "original/004_Kulinarik-Gastlichkeit__Kulinarischer_Ferientag__Kaffee_und_Kuchen_am_Nachmittag_1.jpg"
+ },
+ "g-hermann": {
+  "w": 1800,
+  "h": 1013,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/0_csm_Hermann_Bareiss_3_mod_01_2c5dc785dd.jpg"
+ },
+ "k-baumhaus-aussen": {
+  "w": 2560,
+  "h": 3840,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original2/_DSC9000_bea.jpg"
+ },
+ "u-kamin": {
+  "w": 1800,
+  "h": 1351,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/a_csm_Kaminstube_Tischarrangement_Kamin_24829f49c5.jpeg"
+ },
+ "u-kamin-service": {
+  "w": 1800,
+  "h": 1198,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/b_csm_Kaminstube_Service_Hotel_Bareiss_db58d4511c.jpeg"
+ },
+ "u-kamin-oel": {
+  "w": 1800,
+  "h": 1351,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/9_csm_Kaminstube_Tischarrangement_OEl_ef153e2207.jpeg"
+ },
+ "u-dorfstuben": {
+  "w": 1800,
+  "h": 1196,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/d_csm_Dorfstuben_01_92a233d5c8.jpg"
+ },
+ "u-dorfstuben3": {
+  "w": 1800,
+  "h": 1013,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/e_csm_Restaurant_Dorfstuben_3_62f5455d9f.jpg"
+ },
+ "u-bar": {
+  "w": 1800,
+  "h": 1200,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/1_csm_Bar_00_0c8f65245e.jpg"
+ },
+ "u-hotelgast": {
+  "w": 1800,
+  "h": 1200,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/d_csm_Kulinarischer_Ferientag_in_den_Hotel-Restaurants_1_0d46834845.jpg"
+ },
+ "u-hermine-stube": {
+  "w": 1800,
+  "h": 1202,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/5_csm_Hermine-Bareiss-Stube_4_d0cab8d823.jpg"
+ },
+ "u-poolbar": {
+  "w": 1800,
+  "h": 1201,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/a_csm__DSC9705_Poolbar_4fde0fcd67.jpg"
+ },
+ "u-oase": {
+  "w": 1800,
+  "h": 1202,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/b_csm_Pool_Oase_im_Hotel_Bareiss_7aee631062.jpg"
+ },
+ "u-gericht": {
+  "w": 1800,
+  "h": 1201,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/f_csm_Gericht_Restaurant_Bareiss_495e5f81f5.jpg"
+ },
+ "u-dessert": {
+  "w": 1800,
+  "h": 1201,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/2_csm_Dessert_Restaurant_Bareiss_683a80bf59.jpg"
+ },
+ "u-pulpo": {
+  "w": 1800,
+  "h": 1020,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/3_csm_Pulpo_Restaurant_Bareiss_fcef3fcd47.jpg"
+ },
+ "u-leitner": {
+  "w": 1400,
+  "h": 1052,
+  "b": [
+   640,
+   1200,
+   1400
+  ],
+  "q": "website/bilder/2_csm_Stefan_Leitner_in_der_P_C3_A2tisserie_Restaurant_Bareiss_3__8585ae81b4.jpg"
+ },
+ "u-sauna": {
+  "w": 1800,
+  "h": 1202,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/a_csm_Finnische_Sauna_4_61b0100297.jpg"
+ },
+ "u-biosauna": {
+  "w": 1800,
+  "h": 1179,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/7_csm_Biosauna_9a2f31972d.jpg"
+ },
+ "u-ruhe-sauna": {
+  "w": 1800,
+  "h": 1201,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/f_csm_Ruhebereich_Sauna_584ae6bc49.jpg"
+ },
+ "u-whirlpool": {
+  "w": 1800,
+  "h": 1201,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/5_csm_Whirlpool_in_der_Badelanschaft_des_Hotel_Bareiss_072023_93da4f6073.jpeg"
+ },
+ "u-meer-innen": {
+  "w": 1500,
+  "h": 1021,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "website/bilder/3_csm_Meerwasserinnenbecken_in_der_Badelanschaft_des_Hotel_Bareiss_2023_e51779b059.jpeg"
+ },
+ "u-beauty": {
+  "w": 1800,
+  "h": 1260,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/a_csm_Beauty_bareiss915-9113_korr_14d40c3e4f.jpg"
+ },
+ "u-massage": {
+  "w": 1800,
+  "h": 1202,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/3_csm_Massage_Frau_bareiss_0917-7157_bea_korr_8072fb50ae.jpg"
+ },
+ "u-yoga": {
+  "w": 1800,
+  "h": 1202,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/d_csm_Yoga_bareiss915-8705_korr_2_024302c026.jpg"
+ },
+ "u-aussenwhirl": {
+  "w": 1800,
+  "h": 1202,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/5_csm_Sauna-Aussenwhirlpools_1_c2b7008def.jpg"
+ },
+ "u-villa": {
+  "w": 1800,
+  "h": 1165,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/d_csm_Ville_Kunterbunt_at_the_Hotel_Bareiss_web_bareiss_0821-0858_5bfbfaf80f.jpg"
+ },
+ "u-villa-aussen": {
+  "w": 1500,
+  "h": 964,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "website/bilder/f_csm_VillaKunterbunt_EXTERIEUR-BAREISS-JEROMEMONDIERE_0687dc5793.jpg"
+ },
+ "u-baumhaus": {
+  "w": 1500,
+  "h": 1502,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "website/bilder/c_csm_Baumhaus_acd921b775.jpg"
+ },
+ "u-hds": {
+  "w": 1800,
+  "h": 1202,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/f_csm_HausderSpiele_bareiss-0616-2829_a981719b66.jpg"
+ },
+ "u-zoo": {
+  "w": 1500,
+  "h": 1000,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "website/bilder/b_csm_Bareiss_Streichelzoo_3c580939c7.jpg"
+ },
+ "u-reiten": {
+  "w": 1800,
+  "h": 1201,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/2_csm_Reiterhoefle_Lucy_1_3ddf6a3922.jpg"
+ },
+ "u-reitplatz": {
+  "w": 1800,
+  "h": 1194,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/6_csm_Reitplatz_mit_Kindern_im_Hotel_Bareiss_1_c40dc0a650.jpg"
+ },
+ "u-mikroskop": {
+  "w": 1800,
+  "h": 1239,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/d_csm_Mikroskop_bareiss-0616-2180_bea_6ebc4d0297.jpg"
+ },
+ "u-vorfahrt2": {
+  "w": 1800,
+  "h": 1201,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/9_csm_web_bareiss_0725-1423-min_237b8e6b59.jpg"
+ },
+ "u-oldtimerbus": {
+  "w": 1500,
+  "h": 1002,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "website/bilder/6_csm_Oldtimerbus_bareiss_0718-0771_058026541d.jpg"
+ },
+ "u-limousine": {
+  "w": 2944,
+  "h": 1965,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "original/__fileadmin__user_upload__bareiss_0617-5598.jpg"
+ },
+ "u-wegweiser": {
+  "w": 1800,
+  "h": 1201,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/f_csm_Wegweiser_DSC0213_527043cbf2.jpg"
+ },
+ "u-waldweg": {
+  "w": 1800,
+  "h": 1201,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/e_csm_Waldweg_DSC4590_302e6675bd.jpg"
+ },
+ "u-np2": {
+  "w": 1800,
+  "h": 1201,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/5_csm_Nationalpark_DSC0148_269e456c08.jpg"
+ },
+ "u-forellen": {
+  "w": 1800,
+  "h": 1201,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/6_csm__90A6246_bea_Forellenteich_e5cdfead5b.jpg"
+ },
+ "u-fischgericht": {
+  "w": 1800,
+  "h": 1159,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/a_csm_Fischgericht_HG_e59a9fc8df.jpg"
+ },
+ "u-forellenhof2": {
+  "w": 1500,
+  "h": 1125,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "website/bilder/a_csm_Forellenhof_aed1c00816.jpg"
+ },
+ "u-kraeuter": {
+  "w": 1500,
+  "h": 1001,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "website/bilder/7_csm_Kraeuter_DSC8622_5f98a9a7d5.jpg"
+ },
+ "u-morlok-stube": {
+  "w": 1800,
+  "h": 1201,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/f_csm_Morlokhof_Gruene_Stube_I_971f12ed42.jpg"
+ },
+ "u-morlok-heuboden": {
+  "w": 1800,
+  "h": 1201,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/1_csm_Morlokhof_Nostalgische_Kaffeetafel_Heuboden_1_5b65971c18.jpg"
+ },
+ "u-morlok-dach": {
+  "w": 1800,
+  "h": 1201,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/4_csm_Morlokhof_Dachboden_Festlich_eingedeckte_Tische_99ca13501e.jpg"
+ },
+ "u-hermann2": {
+  "w": 1800,
+  "h": 1201,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/1_csm_Hermann_Bareiss_B_b0b74f6a4b.jpg"
+ },
+ "u-sattelei2": {
+  "w": 1500,
+  "h": 1126,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "website/bilder/d_csm_Wanderhuette_Sattelei_02_294f031e44.jpg"
+ },
+ "f-terrasse": {
+  "w": 1800,
+  "h": 1201,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/2_csm_Hotelterrasse_2_e56015b61a.jpg"
+ },
+ "f-biedermeier": {
+  "w": 1800,
+  "h": 773,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/8_csm_Hotel-Restaurant_Biedermeierzimmer_2_07c01bd147.jpg"
+ },
+ "f-hotelgast3": {
+  "w": 1500,
+  "h": 1500,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "website/bilder/e_csm_Hotelgastrestaurants_03_241e1297b4.jpg"
+ },
+ "f-dinerabend": {
+  "w": 1140,
+  "h": 646,
+  "b": [
+   640,
+   1140
+  ],
+  "q": "website/bilder/004_Ku_dinerAbend.jpg"
+ },
+ "f-terrasse-ku": {
+  "w": 1500,
+  "h": 998,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "website/bilder/004_Ku_Terrasse.jpg"
+ },
+ "f-kaffee2": {
+  "w": 1500,
+  "h": 1500,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "website/bilder/7_csm_Kaffee_und_Kuchen_am_Nachmittag_1_9125c1f49b.jpg"
+ },
+ "tal-forellenhof-oben": {
+  "w": 2186,
+  "h": 1456,
+  "b": [
+   640,
+   1200,
+   1920,
+   2186
+  ],
+  "q": "original/__fileadmin__user_upload__web_bareiss_0723-0283_bea_NEU.jpg"
+ },
+ "zi-ez-eulengrund-0": {
+  "w": 1500,
+  "h": 1001,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-ez-eulengrund-0.jpg"
+ },
+ "zi-ez-eulengrund-plan0": {
+  "w": 1500,
+  "h": 2305,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-ez-eulengrund-plan0.jpg"
+ },
+ "zi-ez-app-0": {
+  "w": 1500,
+  "h": 991,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-ez-app-0.jpg"
+ },
+ "zi-ez-app-1": {
+  "w": 1500,
+  "h": 1021,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-ez-app-1.jpg"
+ },
+ "zi-ez-app-2": {
+  "w": 1800,
+  "h": 1201,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "zimmerbilder/auswahl/zi-ez-app-2.jpg"
+ },
+ "zi-ez-app-3": {
+  "w": 1800,
+  "h": 1201,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "zimmerbilder/auswahl/zi-ez-app-3.jpg"
+ },
+ "zi-ez-app-4": {
+  "w": 1500,
+  "h": 1001,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-ez-app-4.jpg"
+ },
+ "zi-ez-app-5": {
+  "w": 1500,
+  "h": 1021,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-ez-app-5.jpg"
+ },
+ "zi-ez-app-plan0": {
+  "w": 1500,
+  "h": 4355,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-ez-app-plan0.jpg"
+ },
+ "zi-ez-landhaus-0": {
+  "w": 1500,
+  "h": 983,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-ez-landhaus-0.jpg"
+ },
+ "zi-ez-landhaus-1": {
+  "w": 1500,
+  "h": 1125,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-ez-landhaus-1.jpg"
+ },
+ "zi-ez-landhaus-2": {
+  "w": 1500,
+  "h": 1126,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-ez-landhaus-2.jpg"
+ },
+ "zi-ez-landhaus-plan0": {
+  "w": 1500,
+  "h": 2305,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-ez-landhaus-plan0.jpg"
+ },
+ "zi-dz-wob-0": {
+  "w": 1500,
+  "h": 1007,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-dz-wob-0.jpg"
+ },
+ "zi-dz-wob-1": {
+  "w": 1500,
+  "h": 1000,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-dz-wob-1.jpg"
+ },
+ "zi-dz-wob-2": {
+  "w": 1500,
+  "h": 1001,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-dz-wob-2.jpg"
+ },
+ "zi-dz-wob-plan0": {
+  "w": 1500,
+  "h": 2526,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-dz-wob-plan0.jpg"
+ },
+ "zi-dz-oe-plan0": {
+  "w": 1500,
+  "h": 1498,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-dz-oe-plan0.jpg"
+ },
+ "zi-gdz-bergmosis-0": {
+  "w": 2560,
+  "h": 1708,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "zimmerbilder/auswahl/zi-gdz-bergmosis-0.jpg"
+ },
+ "zi-gdz-bergmosis-1": {
+  "w": 1500,
+  "h": 1001,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-gdz-bergmosis-1.jpg"
+ },
+ "zi-gdz-bergmosis-2": {
+  "w": 1500,
+  "h": 1001,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-gdz-bergmosis-2.jpg"
+ },
+ "zi-gdz-bergmosis-3": {
+  "w": 1500,
+  "h": 1000,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-gdz-bergmosis-3.jpg"
+ },
+ "zi-gdz-bergmosis-plan0": {
+  "w": 1500,
+  "h": 4575,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-gdz-bergmosis-plan0.jpg"
+ },
+ "zi-gdz-wb1-0": {
+  "w": 1500,
+  "h": 1002,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-gdz-wb1-0.jpg"
+ },
+ "zi-gdz-wb1-1": {
+  "w": 1500,
+  "h": 844,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-gdz-wb1-1.jpg"
+ },
+ "zi-gdz-wb1-2": {
+  "w": 1500,
+  "h": 843,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-gdz-wb1-2.jpg"
+ },
+ "zi-gdz-wb1-plan0": {
+  "w": 1500,
+  "h": 2079,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-gdz-wb1-plan0.jpg"
+ },
+ "zi-gdz-wb2-0": {
+  "w": 1500,
+  "h": 990,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-gdz-wb2-0.jpg"
+ },
+ "zi-gdz-wb2-plan0": {
+  "w": 1500,
+  "h": 2010,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-gdz-wb2-plan0.jpg"
+ },
+ "zi-dza-ew-0": {
+  "w": 1500,
+  "h": 1001,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-dza-ew-0.jpg"
+ },
+ "zi-dza-ew-1": {
+  "w": 1800,
+  "h": 1201,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "zimmerbilder/auswahl/zi-dza-ew-1.jpg"
+ },
+ "zi-dza-ew-2": {
+  "w": 1500,
+  "h": 999,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-dza-ew-2.jpg"
+ },
+ "zi-dza-ew-3": {
+  "w": 1500,
+  "h": 1000,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-dza-ew-3.jpg"
+ },
+ "zi-dza-ew-plan0": {
+  "w": 1500,
+  "h": 1409,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-dza-ew-plan0.jpg"
+ },
+ "zi-dza-ellbachtal-0": {
+  "w": 1500,
+  "h": 970,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-dza-ellbachtal-0.jpg"
+ },
+ "zi-dza-ellbachtal-1": {
+  "w": 1500,
+  "h": 1001,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-dza-ellbachtal-1.jpg"
+ },
+ "zi-dza-ellbachtal-2": {
+  "w": 1500,
+  "h": 1001,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-dza-ellbachtal-2.jpg"
+ },
+ "zi-dza-ellbachtal-plan0": {
+  "w": 1500,
+  "h": 3298,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-dza-ellbachtal-plan0.jpg"
+ },
+ "zi-dza-garten-0": {
+  "w": 1500,
+  "h": 1001,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-dza-garten-0.jpg"
+ },
+ "zi-dza-garten-1": {
+  "w": 1500,
+  "h": 1001,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-dza-garten-1.jpg"
+ },
+ "zi-dza-garten-2": {
+  "w": 1500,
+  "h": 1001,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-dza-garten-2.jpg"
+ },
+ "zi-dza-garten-3": {
+  "w": 1500,
+  "h": 1001,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-dza-garten-3.jpg"
+ },
+ "zi-dza-rundbau-0": {
+  "w": 1500,
+  "h": 1001,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-dza-rundbau-0.jpg"
+ },
+ "zi-dza-rundbau-1": {
+  "w": 1500,
+  "h": 1001,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-dza-rundbau-1.jpg"
+ },
+ "zi-dza-rundbau-2": {
+  "w": 1500,
+  "h": 1000,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-dza-rundbau-2.jpg"
+ },
+ "zi-dza-rundbau-plan0": {
+  "w": 1500,
+  "h": 1739,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-dza-rundbau-plan0.jpg"
+ },
+ "zi-fa-orspach1-0": {
+  "w": 1500,
+  "h": 910,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-fa-orspach1-0.jpg"
+ },
+ "zi-fa-orspach1-plan0": {
+  "w": 1500,
+  "h": 2009,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-fa-orspach1-plan0.jpg"
+ },
+ "zi-fa-orspach2-0": {
+  "w": 1500,
+  "h": 892,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-fa-orspach2-0.jpg"
+ },
+ "zi-fa-orspach2-plan0": {
+  "w": 1500,
+  "h": 2150,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-fa-orspach2-plan0.jpg"
+ },
+ "zi-fa-orspach3-0": {
+  "w": 1500,
+  "h": 1001,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-fa-orspach3-0.jpg"
+ },
+ "zi-fa-orspach3-1": {
+  "w": 1500,
+  "h": 1001,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-fa-orspach3-1.jpg"
+ },
+ "zi-fa-orspach3-2": {
+  "w": 1500,
+  "h": 1001,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-fa-orspach3-2.jpg"
+ },
+ "zi-fa-garten-0": {
+  "w": 1500,
+  "h": 994,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-fa-garten-0.jpg"
+ },
+ "zi-fa-garten-1": {
+  "w": 1500,
+  "h": 1020,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-fa-garten-1.jpg"
+ },
+ "zi-fa-garten-2": {
+  "w": 1500,
+  "h": 1020,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-fa-garten-2.jpg"
+ },
+ "zi-fa-garten-plan0": {
+  "w": 1500,
+  "h": 1950,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-fa-garten-plan0.jpg"
+ },
+ "zi-su-landhausstil-0": {
+  "w": 1500,
+  "h": 1001,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-su-landhausstil-0.jpg"
+ },
+ "zi-su-landhausstil-1": {
+  "w": 1500,
+  "h": 1000,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-su-landhausstil-1.jpg"
+ },
+ "zi-su-landhausstil-2": {
+  "w": 1500,
+  "h": 1001,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-su-landhausstil-2.jpg"
+ },
+ "zi-su-landhausstil-plan0": {
+  "w": 1500,
+  "h": 1500,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-su-landhausstil-plan0.png"
+ },
+ "zi-su-pg1-plan0": {
+  "w": 1500,
+  "h": 1500,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-su-pg1-plan0.jpg"
+ },
+ "zi-su-pg2-plan0": {
+  "w": 1500,
+  "h": 1500,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-su-pg2-plan0.jpg"
+ },
+ "zi-su-panorama-plan0": {
+  "w": 1500,
+  "h": 1500,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-su-panorama-plan0.jpg"
+ },
+ "zi-su-familien-plan0": {
+  "w": 1500,
+  "h": 1500,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-su-familien-plan0.jpg"
+ },
+ "zi-su-familien-plan1": {
+  "w": 1500,
+  "h": 1500,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-su-familien-plan1.jpg"
+ },
+ "zi-su-wellness-plan0": {
+  "w": 1500,
+  "h": 1500,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-su-wellness-plan0.jpg"
+ },
+ "zi-ph-1-plan0": {
+  "w": 1500,
+  "h": 1500,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-ph-1-plan0.jpg"
+ },
+ "zi-ph-2-plan0": {
+  "w": 1500,
+  "h": 1500,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-ph-2-plan0.jpg"
+ },
+ "zi-ph-3-plan0": {
+  "w": 1500,
+  "h": 1500,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-ph-3-plan0.jpg"
+ },
+ "zi-ph-4-plan0": {
+  "w": 1500,
+  "h": 1500,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-ph-4-plan0.jpg"
+ },
+ "zi-ph-5-plan0": {
+  "w": 1500,
+  "h": 1500,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-ph-5-plan0.jpg"
+ },
+ "zi-lh-dz-0": {
+  "w": 1500,
+  "h": 1000,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-lh-dz-0.jpg"
+ },
+ "zi-lh-dz-1": {
+  "w": 1500,
+  "h": 1001,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-lh-dz-1.jpg"
+ },
+ "zi-lh-dz-2": {
+  "w": 1500,
+  "h": 1001,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-lh-dz-2.jpg"
+ },
+ "zi-lh-dz-plan0": {
+  "w": 1500,
+  "h": 2678,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-lh-dz-plan0.jpg"
+ },
+ "zi-lh-gdz-0": {
+  "w": 1500,
+  "h": 988,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-lh-gdz-0.jpg"
+ },
+ "zi-lh-gdz-1": {
+  "w": 1500,
+  "h": 1022,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-lh-gdz-1.jpg"
+ },
+ "zi-lh-gdz-2": {
+  "w": 1500,
+  "h": 978,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-lh-gdz-2.jpg"
+ },
+ "zi-lh-gdz-plan0": {
+  "w": 1500,
+  "h": 1753,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-lh-gdz-plan0.jpg"
+ },
+ "zi-lh-app-0": {
+  "w": 1500,
+  "h": 1000,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-lh-app-0.jpg"
+ },
+ "zi-lh-app-1": {
+  "w": 1500,
+  "h": 1000,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-lh-app-1.jpg"
+ },
+ "zi-lh-app-2": {
+  "w": 1500,
+  "h": 1000,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-lh-app-2.jpg"
+ },
+ "zi-lh-app-plan0": {
+  "w": 1500,
+  "h": 1372,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-lh-app-plan0.jpg"
+ },
+ "zi-lh-s1-0": {
+  "w": 1500,
+  "h": 1002,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-lh-s1-0.jpg"
+ },
+ "zi-lh-s1-1": {
+  "w": 1500,
+  "h": 984,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-lh-s1-1.jpg"
+ },
+ "zi-lh-s1-2": {
+  "w": 1500,
+  "h": 986,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-lh-s1-2.jpg"
+ },
+ "zi-lh-s1-plan0": {
+  "w": 1500,
+  "h": 1148,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-lh-s1-plan0.jpg"
+ },
+ "zi-lh-s2-0": {
+  "w": 1500,
+  "h": 1038,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-lh-s2-0.jpg"
+ },
+ "zi-lh-s2-plan0": {
+  "w": 1500,
+  "h": 1099,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-lh-s2-plan0.jpg"
+ },
+ "zi-ph-1-0": {
+  "w": 1500,
+  "h": 1500,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-ph-1-0.jpg"
+ },
+ "zi-ph-1-1": {
+  "w": 1500,
+  "h": 1001,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-ph-1-1.jpg"
+ },
+ "zi-ph-1-2": {
+  "w": 1500,
+  "h": 1001,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-ph-1-2.jpg"
+ },
+ "zi-ph-1-3": {
+  "w": 1800,
+  "h": 1210,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "zimmerbilder/auswahl/zi-ph-1-3.jpg"
+ },
+ "zi-ph-1-4": {
+  "w": 1500,
+  "h": 991,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-ph-1-4.jpg"
+ },
+ "zi-ph-1-5": {
+  "w": 1800,
+  "h": 1201,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "zimmerbilder/auswahl/zi-ph-1-5.jpg"
+ },
+ "zi-ph-2-0": {
+  "w": 1800,
+  "h": 1201,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "zimmerbilder/auswahl/zi-ph-2-0.jpg"
+ },
+ "zi-ph-2-1": {
+  "w": 1800,
+  "h": 1201,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "zimmerbilder/auswahl/zi-ph-2-1.jpg"
+ },
+ "zi-ph-2-2": {
+  "w": 1800,
+  "h": 1201,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "zimmerbilder/auswahl/zi-ph-2-2.jpg"
+ },
+ "zi-ph-2-3": {
+  "w": 1800,
+  "h": 1201,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "zimmerbilder/auswahl/zi-ph-2-3.jpg"
+ },
+ "zi-ph-3-0": {
+  "w": 2557,
+  "h": 1438,
+  "b": [
+   640,
+   1200,
+   1920,
+   2557
+  ],
+  "q": "zimmerbilder/auswahl/zi-ph-3-0.jpg"
+ },
+ "zi-ph-3-1": {
+  "w": 1800,
+  "h": 1201,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "zimmerbilder/auswahl/zi-ph-3-1.jpg"
+ },
+ "zi-ph-3-2": {
+  "w": 1800,
+  "h": 1201,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "zimmerbilder/auswahl/zi-ph-3-2.jpg"
+ },
+ "zi-ph-3-3": {
+  "w": 1800,
+  "h": 1201,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "zimmerbilder/auswahl/zi-ph-3-3.jpg"
+ },
+ "zi-ph-3-4": {
+  "w": 1800,
+  "h": 1201,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "zimmerbilder/auswahl/zi-ph-3-4.jpg"
+ },
+ "zi-ph-4-0": {
+  "w": 2556,
+  "h": 1438,
+  "b": [
+   640,
+   1200,
+   1920,
+   2556
+  ],
+  "q": "zimmerbilder/auswahl/zi-ph-4-0.jpg"
+ },
+ "zi-ph-4-1": {
+  "w": 1800,
+  "h": 1201,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "zimmerbilder/auswahl/zi-ph-4-1.jpg"
+ },
+ "zi-ph-4-2": {
+  "w": 1800,
+  "h": 1201,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "zimmerbilder/auswahl/zi-ph-4-2.jpg"
+ },
+ "zi-ph-4-3": {
+  "w": 1800,
+  "h": 1201,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "zimmerbilder/auswahl/zi-ph-4-3.jpg"
+ },
+ "zi-ph-4-4": {
+  "w": 1800,
+  "h": 1201,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "zimmerbilder/auswahl/zi-ph-4-4.jpg"
+ },
+ "zi-ph-5-0": {
+  "w": 2557,
+  "h": 1438,
+  "b": [
+   640,
+   1200,
+   1920,
+   2557
+  ],
+  "q": "zimmerbilder/auswahl/zi-ph-5-0.jpg"
+ },
+ "zi-ph-5-1": {
+  "w": 1800,
+  "h": 1201,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "zimmerbilder/auswahl/zi-ph-5-1.jpg"
+ },
+ "zi-ph-5-2": {
+  "w": 1800,
+  "h": 1201,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "zimmerbilder/auswahl/zi-ph-5-2.jpg"
+ },
+ "zi-ph-5-3": {
+  "w": 1800,
+  "h": 1201,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "zimmerbilder/auswahl/zi-ph-5-3.jpg"
+ },
+ "zi-ph-5-4": {
+  "w": 1800,
+  "h": 1201,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "zimmerbilder/auswahl/zi-ph-5-4.jpg"
+ },
+ "zi-su-pg1-0": {
+  "w": 1800,
+  "h": 1201,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "zimmerbilder/auswahl/zi-su-pg1-0.jpg"
+ },
+ "zi-su-pg1-1": {
+  "w": 1500,
+  "h": 1500,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-su-pg1-1.jpg"
+ },
+ "zi-su-pg1-2": {
+  "w": 1800,
+  "h": 1201,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "zimmerbilder/auswahl/zi-su-pg1-2.jpg"
+ },
+ "zi-su-pg1-3": {
+  "w": 1800,
+  "h": 1201,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "zimmerbilder/auswahl/zi-su-pg1-3.jpg"
+ },
+ "zi-su-pg2-0": {
+  "w": 2557,
+  "h": 1438,
+  "b": [
+   640,
+   1200,
+   1920,
+   2557
+  ],
+  "q": "zimmerbilder/auswahl/zi-su-pg2-0.jpg"
+ },
+ "zi-su-pg2-1": {
+  "w": 1500,
+  "h": 1001,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-su-pg2-1.jpg"
+ },
+ "zi-su-pg2-2": {
+  "w": 1800,
+  "h": 1201,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "zimmerbilder/auswahl/zi-su-pg2-2.jpg"
+ },
+ "zi-su-pg2-3": {
+  "w": 1500,
+  "h": 1001,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-su-pg2-3.jpg"
+ },
+ "zi-su-familien-0": {
+  "w": 2557,
+  "h": 1438,
+  "b": [
+   640,
+   1200,
+   1920,
+   2557
+  ],
+  "q": "zimmerbilder/auswahl/zi-su-familien-0.jpg"
+ },
+ "zi-su-familien-1": {
+  "w": 1800,
+  "h": 1201,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "zimmerbilder/auswahl/zi-su-familien-1.jpg"
+ },
+ "zi-su-familien-2": {
+  "w": 1800,
+  "h": 1201,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "zimmerbilder/auswahl/zi-su-familien-2.jpg"
+ },
+ "zi-su-familien-3": {
+  "w": 1800,
+  "h": 1201,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "zimmerbilder/auswahl/zi-su-familien-3.jpg"
+ },
+ "zi-su-familien-4": {
+  "w": 1500,
+  "h": 1001,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-su-familien-4.jpg"
+ },
+ "zi-su-familien-5": {
+  "w": 1800,
+  "h": 1201,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "zimmerbilder/auswahl/zi-su-familien-5.jpg"
+ },
+ "zi-su-familien-6": {
+  "w": 1500,
+  "h": 1001,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "zimmerbilder/auswahl/zi-su-familien-6.jpg"
+ },
+ "zi-su-familien-7": {
+  "w": 1800,
+  "h": 1201,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "zimmerbilder/auswahl/zi-su-familien-7.jpg"
+ },
+ "u-kamin-spiegel": {
+  "w": 1800,
+  "h": 772,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/0_csm_Kaminstube_Tischarrangement_Spiegel_f645030154.jpg"
+ },
+ "u-kamin-innen": {
+  "w": 1800,
+  "h": 772,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/c_csm_Kaminstube_Restaurant_Innenbereich_9826771f83.jpeg"
+ },
+ "d-impression": {
+  "w": 1800,
+  "h": 772,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/0_csm_Dorfstuben_Impression_4_27a48c6dbd.jpg"
+ },
+ "d-stube": {
+  "w": 1221,
+  "h": 809,
+  "b": [
+   640,
+   1200,
+   1221
+  ],
+  "q": "original/004_Kulinarik-Gastlichkeit___69A6328_pt_Dorfstuben.jpg"
+ },
+ "d-ente": {
+  "w": 1200,
+  "h": 800,
+  "b": [
+   640,
+   1200
+  ],
+  "q": "original/__fileadmin__user_upload__Bareiss_DS_Rohrente_FB.jpg"
+ },
+ "u-bar-tresen": {
+  "w": 1163,
+  "h": 718,
+  "b": [
+   640,
+   1163
+  ],
+  "q": "original/004_Kulinarik-Gastlichkeit__Bar_01_klein.jpg"
+ },
+ "fen-kraeuter": {
+  "w": 3000,
+  "h": 2002,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "hoch/fenster-kraeuter-2x.png"
+ },
+ "fen-terrasse": {
+  "w": 3000,
+  "h": 1996,
+  "b": [
+   640,
+   1200,
+   1920,
+   2560
+  ],
+  "q": "hoch/fenster-terrasse-2x.png"
+ },
+ "wl-gesicht": {
+  "w": 1800,
+  "h": 1202,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/0_csm_Skinvitalkonzept_bareiss915-9105_598ea6bdec.jpg"
+ },
+ "wl-stempel": {
+  "w": 1800,
+  "h": 1202,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/3_csm_Massagen_02_a81895b136.jpg"
+ },
+ "wl-steine": {
+  "w": 1800,
+  "h": 772,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/2_csm_Massagen_03_fe32067359.jpg"
+ },
+ "wl-oele": {
+  "w": 1800,
+  "h": 1200,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/4_csm_Massagen_04_dcfddc2261.jpg"
+ },
+ "wl-wintergarten": {
+  "w": 1800,
+  "h": 1213,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/e_csm_Saunawelt_04_aa068fe869.jpg"
+ },
+ "wl-kamin": {
+  "w": 1800,
+  "h": 771,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/0_csm_Saunawelt_06_9d8ab80236.jpg"
+ },
+ "wl-suess": {
+  "w": 1800,
+  "h": 1229,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/2_csm_Suesswasserinnenbecken_in_der_Badelanschaft_2023_2_836c86ec28.jpeg"
+ },
+ "wl-teich-abend": {
+  "w": 1800,
+  "h": 1199,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/3_csm_Abend_Naturbadeteich_5b089820bc.jpg"
+ },
+ "wl-liegeinsel": {
+  "w": 1800,
+  "h": 1201,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/3_csm_web_bareiss_0922-6416_614c3dfd2b.jpg"
+ },
+ "wl-schwall": {
+  "w": 1800,
+  "h": 1201,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/1_csm_web_bareiss_0922-9441_a998ded227.jpg"
+ },
+ "wl-wasserfall": {
+  "w": 1800,
+  "h": 1202,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/1_csm_bareiss_0617-5661_525df26868.jpg"
+ },
+ "wl-schaukel": {
+  "w": 1800,
+  "h": 1202,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/5_csm_bareiss_0917-7786_2948144c1a.jpg"
+ },
+ "wl-finn": {
+  "w": 1800,
+  "h": 771,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/a_csm_Finnische_Sauna_2_c8a692c94a.jpg"
+ },
+ "wl-garten-abend": {
+  "w": 1800,
+  "h": 1202,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/1_csm_bareiss_0917-7106_52755959ed.jpg"
+ },
+ "r-tarte": {
+  "w": 1500,
+  "h": 1125,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "website/bilder/a_csm_54_Claus-Peter_Lumpp_Restaurant_Bareiss_d3cc265780.jpg"
+ },
+ "r-blueten": {
+  "w": 1500,
+  "h": 1093,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "website/bilder/3_csm_bareiss032_3aa391dbcc.jpg"
+ },
+ "r-zwei": {
+  "w": 1800,
+  "h": 1243,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/7_csm_druck_bareiss_0324-0259_web_9282493927.jpg"
+ },
+ "r-zwei2": {
+  "w": 1800,
+  "h": 1201,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/c_csm_druck_bareiss_0324-0264_web_c30913156c.jpg"
+ },
+ "r-fenster": {
+  "w": 1500,
+  "h": 1125,
+  "b": [
+   640,
+   1200,
+   1500
+  ],
+  "q": "website/bilder/9_csm_druck_bareiss_0324-0780_web_99d75576db.jpg"
+ },
+ "r-kerze": {
+  "w": 1800,
+  "h": 1201,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/d_csm_druck_bareiss_0324-0788_web_31d33bf5e5.jpg"
+ },
+ "r-paar": {
+  "w": 1800,
+  "h": 771,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/f_csm_web_bareiss_0324-0146_1393af75ce.jpg"
+ },
+ "r-glas": {
+  "w": 1800,
+  "h": 772,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/4_csm_web_bareiss_0324-0784_f23691328d.jpg"
+ },
+ "r-kabeljau": {
+  "w": 1800,
+  "h": 1192,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/4_eljau_in_Traubenkernoel_pochiert_mit_Kuerbis__Verveine_und_Trompetenpilzen_-_Restaurant_Bareiss_7c8cee0b16.jpg"
+ },
+ "r-praline": {
+  "w": 1800,
+  "h": 1200,
+  "b": [
+   640,
+   1200,
+   1800
+  ],
+  "q": "website/bilder/f_csm_gepackene_Schokoladenpraline_mit_Mango_und_Kakaobohnenstreusel_a3f56537d1.jpg"
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "zeit": "2026-11-09T08:40:00+01:00",
+ "art": "zimmer",
+ "name": "Katrin Hellwig",
+ "kontakt": "katrin.hellwig@example.com",
+ "datum": "11.03.2027 bis 15.03.2027",
+ "personen": 2,
+ "anliegen": "Das Große Doppelzimmer »Bergmosis« für vier Nächte zum Hochzeitstag, Ankunft mit der Bahn gegen 12.30 Uhr.",
+ "sprache": "de",
+ "gespraech": "beispiel-1",
+ "verlauf": [
+  {
+   "rolle": "user",
+   "text": "Über ein Formular der Website (Seite Zimmer: Doppelzimmer): Zimmer: Großes Doppelzimmer »Bergmosis«\nAnreise: 11.03.2027\nAbreise: 15.03.2027\nGäste: 2 Erwachsene\nIhre Nachricht: Wir feiern unseren Hochzeitstag und kommen mit der Bahn, gegen 12.30 Uhr sind wir in Baiersbronn."
+  }
+ ],
+ "status": "gelesen",
+ "beispiel": true,
+ "an": "Telefon +49 7442 47-0 · info@bareiss.com",
+ "abteilung": "Zimmer",
+ "seite": "/zimmer-doppelzimmer.html",
+ "seite_name": "Zimmer: Doppelzimmer",
+ "web": true,
+ "nachricht": "Zimmer: Großes Doppelzimmer »Bergmosis«\nAnreise: 11.03.2027\nAbreise: 15.03.2027\nGäste: 2 Erwachsene\nIhre Nachricht: Wir feiern unseren Hochzeitstag und kommen mit der Bahn, gegen 12.30 Uhr sind wir in Baiersbronn.",
+ "formular": "zimmer",
+ "platz": "Großes Doppelzimmer »Bergmosis«",
+ "entwurf": null
+}

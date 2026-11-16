@@ -1,0 +1,422 @@
+{
+ "haus": "bareiss",
+ "stand": "2026-11-09",
+ "quelle": "CHARAKTER.md Abschnitt 4, assets/css/bareiss.css (Titel Source Serif 4 Display 440, Lauf Source Sans 3 400, kleine Zeilen Source Sans 3 500 in Versalien gesperrt wie .marke), kleid/bareiss.css, Logo des Hauses (assets/zeichen/)",
+ "masseinheit": "u = kurze Seite des Formats in mm; Schriftgrad gr in mm",
+ "rollen": {
+  "titel": {
+   "rolle": [
+    "titel"
+   ],
+   "schrift": "Source Serif 4 Titel",
+   "versalien": false,
+   "kursiv": false,
+   "fett": false,
+   "quelle": "Titel der Website: Source Serif 4, Display-Schnitt 440, nie fett, nie kursiv"
+  },
+  "kapitale": {
+   "rolle": [
+    "kapitale"
+   ],
+   "schrift": [
+    "Source Serif 4 Text"
+   ],
+   "versalien": false,
+   "kursiv": false,
+   "fett": false,
+   "quelle": "Source Serif 4 im Textschnitt für Namen, Gerichte und Leistungen"
+  },
+  "text": {
+   "rolle": [
+    "text",
+    "kursiv"
+   ],
+   "schrift": [
+    "Source Sans 3",
+    "Source Sans 3 Medium"
+   ],
+   "kursiv": false,
+   "quelle": "Lauf der Website: Source Sans 3 400; Betonung über die Stärke 500, nie kursiv"
+  },
+  "etikett": {
+   "rolle": [
+    "mono"
+   ],
+   "schrift": [
+    "Source Sans 3 Medium"
+   ],
+   "schnitt": "Source Sans 3 500",
+   "versalien": true,
+   "sperr": [
+    0.04,
+    0.12
+   ],
+   "ziffern": "proportional",
+   "quelle": "assets/css/bareiss.css .marke: Source Sans 3 500, Versalien gesperrt"
+  },
+  "plakat": {
+   "rolle": [
+    "plakat",
+    "plakatfett",
+    "kopf"
+   ],
+   "schrift": [
+    "Source Serif 4 Plakat",
+    "Source Serif 4 Halbfett"
+   ],
+   "versalien": false,
+   "quelle": "grosse Zeilen auf Plakaten in Source Serif 4 Display wie die Website, nie fett"
+  }
+ },
+ "verboten": {
+  "versalien_in_rolle": [
+   "titel",
+   "kapitale",
+   "text",
+   "kursiv"
+  ],
+  "sperr_max": 0.12,
+  "rollen_fremd": "jede Rolle außer titel, kapitale, text, kursiv, mono, plakat, plakatfett, detail, kopf",
+  "schriften_fremd": "nur Source Serif 4 und Source Sans 3 (die variablen Schriften der Website, hier als feste Instanzen); jede andere Schrift ist fremd"
+ },
+ "trenner": {
+  "menue": " · ",
+  "karte": " · ",
+  "ort": " · ",
+  "wahl": "Zeilen der Gerichte wie die Karte des Restaurants Bareiss (Gericht, darunter die Beilagen)",
+  "umbruch": "nur zwischen Gliedern, Trenner am Zeilenende entfällt"
+ },
+ "achse": {
+  "regel": "eine Achse je Seite; Textelemente außer Zeitleiste und Aufbau 'geteilt' mittig",
+  "mittig_toleranz_mm": 0.8,
+  "ausnahmen_aufbau": [
+   "ansicht",
+   "geteilt",
+   "gutschein",
+   "gutscheinrueck",
+   "kartengruss",
+   "programm",
+   "preisliste"
+  ],
+  "ausnahme_zeitleiste": "Elemente mit ausr 'l' in Paaren (Uhrzeit in Versalien | Schritt) dürfen links stehen, wenn der Block als Ganzes mittig ist",
+  "ausnahmen_quer": [
+   "fenster",
+   "geteilt",
+   "einladung",
+   "rueckseite",
+   "deckel",
+   "gutschein"
+  ],
+  "ausnahmen_quer_grund": "Querformat mit Bild links und Textspalte rechts: Achse ist die Mitte der Textspalte (Entscheid Oberchef 29.10.); Einladung und Rückseite in A6/DL quer zweispaltig (Entscheid Oberchef 30.10., siehe zweispaltig_quer)",
+  "zweispaltig_quer": {
+   "aufbauten": [
+    "einladung",
+    "rueckseite",
+    "deckel",
+    "gutschein"
+   ],
+   "formate": [
+    "a6q",
+    "dlq",
+    "a5q"
+   ],
+   "regel": "zwei Spalten, jede mit eigener Mittelachse: links Zeichen, Etikett, Titel, Linie (Spaltenmitte bei 7 % u + 23 % der Innenbreite), rechts Datum, Ort, Satz, Instagram; beide Gruppen auf derselben optischen Mitte; Etiketten beider Spalten gleich gross",
+   "grund": "wenig Höhe und wenig Inhalt: zweispaltig größer statt einspaltig klein (Robert «wenig Inhalt = grösser», Entscheid Oberchef 30.10.2026)",
+   "pruefung": "jeder Text steht mittig auf einer der zwei Spaltenachsen (Toleranz mittig_toleranz_mm); die Achsen sind die Mitten der linken und der rechten Textgruppe"
+  }
+ },
+ "komposition": {
+  "optische_mitte": "Gruppenmitte 4 % der freien Hoehe ueber der geometrischen Mitte zwischen Kopf- und Fußzeile",
+  "toleranz_mitte_anteil": 0.06,
+  "fuellung_min": 0.45,
+  "fuellung_max": 0.78,
+  "kopf_fuss_gleich_toleranz_mm": 1.0,
+  "zeichen_in_gruppe": "Abstand Zeichen zur naechsten Zeile hoechstens 0.6 x Zeichenbreite; Zeichen nie naeher als 8 % u am Rahmen ohne Nachbar",
+  "loch_max_textzeilen": 2.5,
+  "fuellung_max_aufbau": {
+   "menue": 0.92,
+   "karte": 0.9,
+   "grund": "Karten verteilen die Drinks über die Höhe (keine Leere unten)"
+  }
+ },
+ "groessen_anteil_u": {
+  "aushang": {
+   "formate": [
+    "a3h",
+    "a4h",
+    "a5h"
+   ],
+   "titel": 0.105,
+   "text": 0.038,
+   "etikett": 0.0165,
+   "zeichen": 0.13
+  },
+  "karte": {
+   "formate": [
+    "a6h",
+    "dlh"
+   ],
+   "titel": 0.118,
+   "text": 0.047,
+   "etikett": 0.02,
+   "zeichen": 0.15
+  },
+  "quer": {
+   "formate": [
+    "a7q",
+    "a6q"
+   ],
+   "titel": 0.14,
+   "text": 0.055,
+   "etikett": 0.022,
+   "zeichen": 0.13
+  },
+  "handy": {
+   "formate": [
+    "story",
+    "mail",
+    "insta",
+    "ig11"
+   ],
+   "titel": 0.115,
+   "text": 0.046,
+   "etikett": 0.02,
+   "zeichen": 0.15
+  },
+  "kurzer_titel": {
+   "zeichen_max": 16,
+   "faktor_max": 1.3
+  }
+ },
+ "verhaeltnisse": {
+  "titel_zu_text": [
+   2.5,
+   3.2
+  ],
+  "etikett_zu_text": [
+   0.4,
+   0.5
+  ],
+  "zeichenbreite_zu_titelgrad": [
+   1.2,
+   1.4
+  ]
+ },
+ "mindestgrade_mm": {
+  "a3h": {
+   "titel": 15,
+   "text": 6,
+   "etikett": 2.6
+  },
+  "a4h": {
+   "titel": 15,
+   "text": 6,
+   "etikett": 2.6
+  },
+  "a5h": {
+   "titel": 11,
+   "text": 4.2,
+   "etikett": 2.0
+  },
+  "a6h": {
+   "titel": 6,
+   "text": 2.1,
+   "etikett": 1.5
+  },
+  "dlh": {
+   "titel": 6,
+   "text": 2.1,
+   "etikett": 1.5
+  },
+  "a7q": {
+   "titel": 5,
+   "text": 2.0,
+   "etikett": 1.5
+  },
+  "story": {
+   "titel": 7,
+   "text": 3.6,
+   "etikett": 1.6
+  },
+  "insta": {
+   "titel": 7,
+   "text": 3.6,
+   "etikett": 1.6
+  },
+  "mail": {
+   "titel": 7,
+   "text": 3.6,
+   "etikett": 1.6
+  },
+  "_detail": "Rolle 'detail' (Drink unter dem Gericht, Menükarte/Karte) darf eine Stufe kleiner sein; Untergrenze 2.1 mm"
+ },
+ "farben": {
+  "hell": {
+   "grund": [
+    "weiss"
+   ],
+   "titel": [
+    "tanne"
+   ],
+   "text": [
+    "tinte"
+   ],
+   "etikett": [
+    "taupe"
+   ],
+   "linie": [
+    "gold"
+   ],
+   "zeichen": [
+    "taupe"
+   ]
+  },
+  "creme": {
+   "grund": [
+    "papier"
+   ],
+   "titel": [
+    "tanne"
+   ],
+   "text": [
+    "tinte"
+   ],
+   "etikett": [
+    "taupe"
+   ],
+   "linie": [
+    "gold"
+   ],
+   "zeichen": [
+    "taupe"
+   ]
+  },
+  "dunkel": {
+   "grund": [
+    "navy"
+   ],
+   "titel": [
+    "weiss"
+   ],
+   "text": [
+    "papier"
+   ],
+   "etikett": [
+    "gold"
+   ],
+   "linie": [
+    "gold"
+   ],
+   "zeichen": [
+    "logo"
+   ]
+  },
+  "salbei": {
+   "grund": [
+    "salbei"
+   ],
+   "titel": [
+    "weiss"
+   ],
+   "text": [
+    "papier"
+   ],
+   "etikett": [
+    "hellgold"
+   ],
+   "linie": [
+    "gold"
+   ],
+   "zeichen": [
+    "hellgold"
+   ],
+   "nur": "zweiter dunkler Grund (Wände des Restaurants Bareiss)"
+  },
+  "werte": {
+   "tanne": "#1F2621",
+   "tanne_tief": "#151A16",
+   "salbei": "#3F4A40",
+   "papier": "#F5F2EA",
+   "leinen": "#ECE6D8",
+   "blattweiss": "#FBF9F4",
+   "hausgold": "#C9B101",
+   "hausgold_hell": "#E2D27A",
+   "hausgold_tief": "#7D6E01",
+   "tinte": "#2F2A27",
+   "herzrot": "#B4302C"
+  },
+  "regel": "Hausgold nur als Linie, Etikett und Zeichen (auf Hell das tiefere Hausgold); Tanne und Salbei als dunkle Flächen; Herzrot nur als Punkt; kein Nachtblau, kein Pink, nie Weiß auf Weiß"
+ },
+ "linien": {
+  "rahmen": {
+   "abstand_anteil_u": 0.045,
+   "abstand_min_mm": 4.5,
+   "staerke_anteil_u": 0.0018,
+   "staerke_min_mm": 0.25,
+   "ecke_anteil_u": 0.011
+  },
+  "titellinie": {
+   "laenge_anteil_u": [
+    0.08,
+    0.1
+   ],
+   "staerke_anteil_u": 0.0024,
+   "staerke_min_mm": 0.3
+  },
+  "zwischen_posten": "keine groben Linien; nur Luft oder feine Haarlinie in Hausgold, Stärke 0,2–0,25 mm"
+ },
+ "raender_anteil_u": {
+  "rahmen": 0.045,
+  "satz_innen": [
+   0.08,
+   0.09
+  ],
+  "kopf_fuss_innen": 0.055,
+  "lesetext_max_breite": 0.74
+ },
+ "marke": {
+  "wortmarke_je_seite_max": 1,
+  "zeichen_und_wortmarke_zusammen": false,
+  "zeichen": "das Wappen HB mit drei Kugeln (Logo des Hauses, assets/zeichen/wappen.svg), nie als Schrift nachgebaut; der Name als Schriftzug des Logos (assets/zeichen/wortmarke.svg)"
+ },
+ "bilder": {
+  "plakatmotiv_anschnitt": false,
+  "verzerren": false,
+  "quelle": "nur Fotos der Website (assets/img, Register bilder.json), jedes Foto einmal je Blatt; Zimmerkategorien nur mit den Fotos, die KAT_DATEN ihnen gibt; keine Porträts als Startbild; keine Schwarz-Weiß-Bilder"
+ },
+ "umbruch": {
+  "einzelwort_letzte_zeile": false,
+  "ausnahme": "Titel aus einem Wort"
+ },
+ "schmuck": {
+  "zeichen_je_haus": "Wappen HB mit drei Kugeln",
+  "zierzeichen_verboten": [
+   "x",
+   "×",
+   "*",
+   "◆",
+   "♦",
+   "•",
+   "✕"
+  ],
+  "ausnahme": "«&» in «Beauty & Spa», «Wine & Dine», «Familie & Kinder»",
+  "akzent_voll_max": 1
+ },
+ "mindestgrade_zweck": {
+  "tisch": {
+   "aufbau": [
+    "menue"
+   ],
+   "wie": "dlh",
+   "grund": "Karten liegen am Platz und werden aus Armlänge gelesen"
+  }
+ },
+ "schreibung": {
+  "anrede": "Sie, deutsche Schreibung mit ß, Anführung »…« wie die Website des Hauses",
+  "datum": "wie die Website: «20.07.–24.07.2026», «Anreise am 13.12.26», im Kalender «Sonntag, 22. November 2026»",
+  "uhrzeit": "wie die Website: «8.00 bis 11.30 Uhr», «ab 19.00 Uhr»",
+  "preis": "im Wortlaut des Hauses: «ab 1.490 € Einzelzimmer», Menüs «350 €»; Preise nur, wo das Haus sie nennt",
+  "adresse": "Hotel Bareiss · Hermine-Bareiss-Weg 1 · 72270 Baiersbronn-Mitteltal (Impressum)",
+  "name": "Hotel Bareiss, kurz das Bareiss; Restaurant Bareiss (drei Michelin-Sterne)"
+ }
+}

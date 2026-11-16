@@ -1,0 +1,295 @@
+{
+ "stand": "2026-11-09 15:17:17",
+ "quelle": "Karten & Preislisten (_werkzeuge/carte/_daten/stand/)",
+ "karten": {
+  "menus": {
+   "menus": [
+    [
+     "Das Degustationsmenu",
+     [
+      "Apéro Etagère",
+      "Kaltes & warmes Amuse Bouche",
+      "Variation von der Gänsestopfleber\nmit Fragolino Trauben und schwarzen Walnüssen",
+      "Sautierter Langostino\nmit Kürbis, Verbene und Crustacéglace",
+      "Kross gebratener Wolfsbarsch\nmit geräuchertem Mais, Cassis und Sauerrahm",
+      "Blumenkohl\nmit Kichererbse, Dattel, Cashewnüsse\nund Garam Masalasauce",
+      [
+       "„Reh aus der Bareiss- Jagd“",
+       [
+        "Gebratener Rehrücken\nmit Maitake, Sellerie und Zitronenthymian",
+        "In Rotwein pochierte Rehnüsschen\nmit Waldpilzragoût und Pfirsich"
+       ]
+      ],
+      "Käseauswahl vom Wagen",
+      "Mascarponemousse\nmit Apfel, Sanddorn\nSternrenette-Hibiskus Sauce und Apfeltarte",
+      "Friandises",
+      "Confiserie & Pralinen vom Wagen"
+     ],
+     "350"
+    ],
+    [
+     "Das Mittagsmenu",
+     [
+      "Apéro Etagère",
+      "Kaltes & warmes Amuse Bouche",
+      "Marinierter Kingfisch\nmit Karotte, roter Shiso und Yuzu",
+      [
+       "„Lamm von der Älbler Wacholderheide“",
+       [
+        "Gebratener Lammrücken\nmit Spitzkohl, konfierter Kartoffel\nund Thymianglace",
+        "Lammschulter\nmit Chipotle und Salat vom Spitzkohl"
+       ]
+      ],
+      "Birnen-Schokoladentörtchen\nmit Williamsbirnensorbet, Praliné\nund Karamelleis",
+      "Friandises",
+      "Confiserie & Pralinen vom Wagen"
+     ],
+     "195"
+    ],
+    [
+     "Das vegetarische Menu",
+     [
+      "Apéro Etagère",
+      "Kaltes & warmes Amuse Bouche",
+      "Gewürzter Ricotta\nmit Karotte, roter Shiso und Yuzu",
+      "Marinierter Seidentofu\nmit Variation vom Kürbis und Verbene",
+      "Geräucherter Mais mit Cassis\nund Sauerrahm",
+      "Blumenkohl\nmit Kichererbse, Dattel, Cashewnüsse\nund Garam Masalasauce",
+      [
+       null,
+       [
+        "Waldpilzrisotto\nmit Pfirsich und Zitronenthymian",
+        "Gebratener Ofensellerie\nmit Röstzwiebel und Federweisser"
+       ]
+      ],
+      "Käseauswahl vom Wagen",
+      "Mascarponemousse\nmit Apfel, Sanddorn\nSternrenette-Hibiskus Sauce und Apfeltarte",
+      "Friandises",
+      "Confiserie & Pralinen vom Wagen"
+     ],
+     "295"
+    ],
+    [
+     "Das Herbstmenu",
+     [
+      "Apéro Etagère",
+      "Kaltes & warmes Amuse Bouche",
+      "Marinierter Kingfish\nmit Karotte, roter Shiso und Yuzu",
+      "Konfierter weißer Heilbutt\nmit Tia Maraa Auster, Lauch, Röstzwiebel\nund Federweißer",
+      [
+       "„Lamm von der Älbler Wacholderheide“",
+       [
+        "Gebratener Lammrücken\nmit Spitzkohl, konfierter Kartoffel\nund Thymianglace",
+        "Lammschulter\nmit Chipotle und Salat vom Spitzkohl"
+       ]
+      ],
+      "Käseauswahl vom Wagen",
+      "Birnen-Schokoladentörtchen\nWilliamsbirnensorbet, Praliné\nund Karamelleis",
+      "Friandises",
+      "Confiserie & Pralinen vom Wagen"
+     ],
+     "295"
+    ]
+   ],
+   "name": "Die Menus"
+  },
+  "karte": {
+   "kaviar": [
+    "Langostinos und Premium Lachsforelle mit Selektions-Kaviar",
+    [
+     "Gebratener Langostino mit Crustacéglace",
+     "Langostinencarpaccio mit Zitronenvinaigrette mariniert",
+     "Gebeiztes und geräuchertes Premium Lachsforellenfilet\naus dem Bulbach",
+     "Crème Fraîche mit Kräutermousse und Blini\nund wahlweise mit einer exklusiv selektierten Kaviar-Dose\nunserer Premium Partner:"
+    ],
+    [
+     [
+      "Imperial Osietra Superieur Kaviar 30 g von Imperial Caviar Berlin",
+      "185",
+      "Hellbraune-graue Körner vom Gueldenstaedtii Stör\nmit crèmiger Textur und einzigartigem aromatischen Charakter"
+     ],
+     [
+      "Kaluga Réserve Kaviar 30 g von N25 Caviar",
+      "225",
+      "Kaluga Stör ist einer der seltensten Störart Huso Dauricus\ngroßperlig buttrig, mit Finesse und Eleganz im Geschmack"
+     ],
+     [
+      "Beluga Kaviar 30 g Selektion von Altona Kaviar Haus",
+      "240",
+      "Original Beluga vom Huso Huso Stör, stahlgraues, großes Korn\nmild crèmig, mit einmaligem charakteristischem Geschmack"
+     ]
+    ]
+   ],
+   "karte": [
+    [
+     "Vorspeisen",
+     [
+      [
+       "Saibling aus der Forellenzucht Buhlbach",
+       "125",
+       [
+        "Saiblingsfilet in Zitronenöl konfiert\nmit Karotte, Sauerrahm und Yuzu",
+        "Leicht geräuchertes Saiblingsfilet „Bareiss Style“\nmit Sauerrahm und Imperial Kaviar",
+        "Ceviche vom Saibling mit rotem Shiso Eis"
+       ]
+      ],
+      [
+       "Gänsestopfleber",
+       "158",
+       [
+        "Terrine von marmorierter Gänseleber\nmit gesalzenem Karamell und Portwein",
+        "Törtchen von Gänselebercrème mit Haselnuss und Portwein",
+        "Gänseleberpraline mit Mandel",
+        "Glacierte Ravioli von der Gänseleber",
+        "Gebratene Gänseleber mit glaciertem Apfel und Calvados"
+       ]
+      ],
+      [
+       "Hummer",
+       "160",
+       [
+        "Lauwarmer bretonischer Hummer\nmit Kürbis, Verbene und Glace de Crustacés",
+        "Cassolette vom Hummer mit Cognac- Bisque",
+        "Tartlette mit Hummertatar und Safran"
+       ]
+      ]
+     ]
+    ],
+    [
+     "Zwischengerichte",
+     [
+      [
+       "Milchkalbsbries",
+       "86",
+       [
+        "knusprig gebratenes Milchkalbsbries\nauf weißem Bohnenpüree und Chipotle-Glace"
+       ]
+      ],
+      [
+       "Blumenkohl",
+       "79",
+       [
+        "Gebratener Blumenkohl mit Kichererbse, Dattel, Cashewnüsse\nund Garam Masala"
+       ]
+      ]
+     ]
+    ],
+    [
+     "Fischgerichte",
+     [
+      [
+       "Wolfsbarsch",
+       "145",
+       [
+        "Kross gebratener Wolfsbarsch\nmit Belugalinsen, Feige und Senfkornsauce",
+        "Konfierter Wolfsbarsch und Tia Maraa Auster\nmit Röstzwiebel und Federweißer",
+        "Marinierter Wolfsbarsch mit geräuchertem Mais, Cassis\nund Crème Fraîche"
+       ]
+      ],
+      [
+       "Bretonischer Steinbutt",
+       "175",
+       [
+        "Bretonischer Steinbutt mit Ochsenmarkkruste gratiniert\ngebratenen Waldpilzen, Lauchschoten und Gewürztomaten",
+        "Konfierter Steinbutt mit Imperial Kaviar und Spinat",
+        "Gebratener Steinbutt auf Spitzkohlsalat mit grünem Apfel und Walnuss"
+       ]
+      ],
+      [
+       "Seeteufel für 2 Personen",
+       "p/P 125",
+       [
+        "Ganzer Seeteufel mit Kürbiskernen gebraten\nauf geschmortem Kürbis und Zitronenverbene",
+        "Seeteufelmedaillon gebraten, mit Curry, Kichererbse und Blumenkohl"
+       ]
+      ]
+     ]
+    ],
+    [
+     "Fleischgerichte",
+     [
+      [
+       "Taube aus dem Elsass",
+       "146",
+       [
+        "Lackierte Taubenbrust mit Sellerie, Lauch und Tonkabohne",
+        "Taubenfilet mit Sweet Chili und asiatischem Sud",
+        "Geschmorte Taubenkeule und Herz\nmit Royal Brioche und Albuferasauce"
+       ]
+      ],
+      [
+       "Ochse „Black Angus“",
+       "156",
+       [
+        "Gebratenes Ochsenfilet auf Rotwein-Pfefferglace\nmit Waldpilzen und geräucherter Kartoffel",
+        "Geschmortes Wagyu Brisket mit Chili und grünen Bohnen",
+        "Tatar vom Ochsenfilet mit Crostini und Beurre Rouge"
+       ]
+      ],
+      [
+       "Milchkalbsniere für 2 Personen",
+       "p/P 98",
+       [
+        "Milchkalbsniere im eigenen Fett gegart\nauf Blattspinat und Balsamicoglace",
+        "Kalbskopf und Bries mit Schnittlauchsauce"
+       ]
+      ]
+     ]
+    ]
+   ],
+   "name": "À la carte"
+  },
+  "desserts": {
+   "desserts": [
+    [
+     "Apfel",
+     "60",
+     [
+      "Praliné Törtchen mit geschmortem Apfel\nSanddorn, eingelegten Berberitzen\nund Bratapfelsorbet",
+      "Apfelparfait\nmit Pastissauce, Sauerampfer und grünem Apfel",
+      "Mille feuille mit Apfelragoût, Zimtchantilly\nund rotem Apfelsorbet"
+     ]
+    ],
+    [
+     "Zwetschge",
+     "60",
+     [
+      "Mohn Chantilly mit Zwetschgen\nauf Mohnkuchen und Zwetschgen-Portweinsud",
+      "„Île flottante“ mit Zwetschgensorbet\nund Mandelbaiser auf Madagaskar-Vanillesauce",
+      "Gefüllter Broiche\nmit Powidl, Zwetschgenröster und Haselnusseis"
+     ]
+    ],
+    [
+     "Unser Soufflé",
+     "63",
+     [
+      "Topfensoufflé\nmit Williams Birnensauce",
+      "Karamellisierter Strudelteig mit Birnen\n„Pompona“ Vanillecrème und Birnensorbet",
+      "Mandeleis"
+     ]
+    ],
+    [
+     "Schokolade",
+     "68",
+     [
+      "Törtchen von Zartbitterschokolade und Pekannuss\nmit altem Balsamico und Aprikosengel",
+      "Schokoladensablé\nmit Drambuicrème, Jivara Chantilly\nPassionsfrucht und Bananeneis",
+      "Schokoladenauflauf\nmit Rumtopffrüchten und Vanille",
+      "Dunkle Schokoladencrème\nmit Sorbet von schwarzen Johannisbeeren"
+     ]
+    ]
+   ],
+   "nachsatz": [
+    [
+     "Dessertweine",
+     "Zu Ihrem Dessert servieren wir Ihnen verschiedene\nDessertweine gerne auch glasweise."
+    ],
+    [
+     "Käse",
+     "Unsere Käseauswahl vom Wagen mit ausgewählten\nRohmilchkäsen vom Tölzer Kasladen aus Bad Tölz."
+    ]
+   ],
+   "name": "Desserts"
+  }
+ }
+}
