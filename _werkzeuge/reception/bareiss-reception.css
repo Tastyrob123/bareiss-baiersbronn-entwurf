@@ -456,3 +456,6 @@ html.probe-offen{overflow:visible}
 
 /* Prüfung 20.11.2026: am Handy brechen lange Hinweise («Mehrere Gäste», «Küche informieren») in der Anfrage-Karte um, rechts wird nichts mehr abgeschnitten */
 @media (max-width:600px){.re-a .re-gl{display:block;white-space:normal;padding-left:1.6em;text-indent:-1.6em}}
+/* Prüfung 20.11.2026 (Prüfpunkt 21, bei gedrosselter Rechenleistung nachgestellt): «Zuletzt angefragt» und «Zuletzt gefragt» erscheinen an ihrem Platz wie die Karten darunter, die Überschrift fliegt nicht mehr über die Fotos */
+.re-start__sp>.wo-zw[data-sw]:not(.sw-da){translate:none!important;scale:none!important}
+.re-start__sp>.wo-zw[data-sw].sw-da{animation:none!important}
