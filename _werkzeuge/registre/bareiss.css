@@ -236,3 +236,9 @@
    am Handy steht das Siegel über dem Ort */
 .rg .besuchsblatt__kopf>div{min-width:0}
 @media (max-width:600px){.rg .besuchsblatt__kopf{flex-direction:column-reverse;align-items:flex-start;gap:10px}}
+
+/* Prüfung 20.11.2026: am Handy darf der Ortsname umbrechen, wenn rechts «Zur Buchung» steht (Feld schmaler als «Breisgau, Deutschland») */
+@media (max-width:600px){.rg .besuch__n b span{white-space:normal}}
+/* Prüfung 20.11.2026: Zwischenüberschrift schwebt mit demselben Weg wie die Blätter darüber, damit «Zuletzt zu Besuch» beim Einflug nie über der letzten Zeile des Blatts liegt (Prüfpunkt 21, 1920 px) */
+.rg .zw[data-r]:not(.rg-da){translate:0 clamp(80px,9vw,140px);scale:.93}
+.rg .zw[data-r].rg-da{animation-name:rg-feder}
