@@ -455,4 +455,4 @@ html.probe-offen{overflow:visible}
 @media (min-width:1181px) and (max-width:1360px){.re-start .re-a{grid-template-columns:auto minmax(0,1fr)}.re-start .re-a__st{grid-column:2;margin-top:-6px}}
 
 /* Prüfung 20.11.2026: am Handy brechen lange Hinweise («Mehrere Gäste», «Küche informieren») in der Anfrage-Karte um, rechts wird nichts mehr abgeschnitten */
-@media (max-width:600px){.re-a .re-gl{white-space:normal}}
+@media (max-width:600px){.re-a .re-gl{display:block;white-space:normal;padding-left:1.6em;text-indent:-1.6em}}

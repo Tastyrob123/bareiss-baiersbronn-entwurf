@@ -1439,10 +1439,11 @@ main:has(>#register)>.fl:not(:first-child,#register,#vergleich,#gaeste,#k5,#gepr
 main:has(>#briefpapier) .fl.tapete-leicht,main:has(>#tuerhaenger) #tuerhaenger.fl.tapete-leicht{background-image:linear-gradient(var(--tl),var(--tl)),var(--muster)!important;background-size:auto,var(--musterb) auto;background-position:0 0,50% 0}main:has(>#ki-stellen) #ki-stellen.fl,main:has(>#o4) #o4.fl,main:has(>#o-sticker) #o-sticker.fl{background-image:var(--muster)!important;background-size:var(--musterb) auto;background-position:50% 0}#ki-hand{background-image:none!important}
 
 /* Prüfung 20.11.2026 (Prüfskript Punkte 36, Robert 16.11.2026 «zu klein und unleserlich»; Weg wie Seiler au Lac): Sperrschrift mindestens 14 px.
-   Flächen schneiden seitlich ab, was ein Band über den Bildschirmrand hinausträgt (dort ohnehin nicht sichtbar) */
+*/
 .insel__m span,.insel nav a,.leiste .glanz,.kn .tm,.kn .tm-l,.auftakt>.in>span,.kap span,.rh-gruss__n span,.wfa__zahl,.wfa__zahl span,
 .in>.r>a,.in>.r>span{font-size:14px!important}
-.fl{overflow-x:clip}
 .ins-t__r{font-size:14px!important;letter-spacing:.12em!important;text-indent:.12em!important}
 /* «Website bearbeiten» passt in die Spalte des Werkzeug-Reiters (Prüfpunkt 22, 1728 und 1920 px) */
 section .ins-t h3{font-size:clamp(2.5rem,4.2vw,4.1rem)}
+/* Werkzeug-Reiter: Text steht senkrecht mittig neben dem Laptop, keine Leerfläche unter dem Knopf (Prüfpunkt 10) */
+.ins-texte>.ins-t{display:flex;flex-direction:column;justify-content:center}
