@@ -453,3 +453,6 @@ html.probe-offen{overflow:visible}
 .re-start > .re-start__sp:first-child .wo-zw{margin-top:0}
 /* Keine schmale Textspalte (Robert 10.11.2026): in den zwei Spalten der Übersicht steht «Beantwortet»/Zeit unter dem Text, sobald die Karte schmal wird (wie am Handy) */
 @media (min-width:1181px) and (max-width:1360px){.re-start .re-a{grid-template-columns:auto minmax(0,1fr)}.re-start .re-a__st{grid-column:2;margin-top:-6px}}
+
+/* Prüfung 20.11.2026: am Handy brechen lange Hinweise («Mehrere Gäste», «Küche informieren») in der Anfrage-Karte um, rechts wird nichts mehr abgeschnitten */
+@media (max-width:600px){.re-a .re-gl{white-space:normal}}

@@ -626,3 +626,6 @@ h1.m-f5__titel{padding-top:.12em}   /* Prüfpunkt 21 (14.11.2026): Titel berühr
 #livre .m-schirme--zwei{padding-bottom:0}#livre .m-schirme--zwei .m-schirm--neben{display:none}
 #registre .m-schirme--zwei{padding-bottom:0}#registre .m-schirme--zwei .m-schirm--neben{display:none}}
 /* ---- Ende Spaltenhöhe je Saal ---- */
+
+/* Prüfung 20.11.2026: «So geht's» reicht in jedem Saal genau so hoch wie die Bildschirme daneben (Karten nie versetzt, Prüfpunkt 35) */
+@media (min-width:1101px){.m-saal__feld{align-items:stretch!important}}

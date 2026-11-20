@@ -198,3 +198,6 @@ h1,h2,h3,h4,figcaption{text-wrap:balance}
   .wo-marke{padding-top:7.3px;padding-bottom:4.7px}
   .wo-wahl button{padding-top:11.8px;padding-bottom:10.2px}
 }
+
+/* Prüfung 20.11.2026: am Handy bricht ein langer Werkzeugname im Kopf um («Karten & Preislisten» lief unter den Knopf «Bereiche») */
+@media (max-width:520px){.wo-kopf .wo-marke-w b{white-space:normal;font-size:17px;line-height:1.05}}

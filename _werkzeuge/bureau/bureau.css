@@ -300,3 +300,6 @@ textarea.ws-langfeld{display:block;width:100%;box-sizing:border-box;resize:none;
 /* Zimmerkategorien zwischen 561 und 1100 px: zwei Einträge je Reihe statt vier; die kleine Zeile («3 Nächte · Halbpension») steht so in einer Zeile,
    in den vier schmalen Spalten blieb «Halbpension» allein in der letzten (schnelle Prüfung 08.11.2026, 1000 px) */
 @media (min-width:561px) and (max-width:1320px){.ws.wo-app .ws-eintraege{--ws-pro:2!important}}   /* bis 1320 zwei je Reihe: bei vier stand die Preiszeile mit 16 Zeichen je Zeile (Robert 10.11.2026, keine schmalen Spalten; Vorlage Monte-Moro bis 1240) */   /* der Stamm setzt die Zahl je Reihe als style-Attribut */
+
+/* Prüfung 20.11.2026 (Leerraum-Regel, feste Spaltenzahl nach Stückzahl): zehn Bereiche stehen am Rechner zu zwei je Reihe, fünf volle Reihen, keine Karte allein */
+@media (min-width:1101px){.ws.wo-app .wo-ber:has(>.wo-bk:nth-child(10):last-child){grid-template-columns:repeat(2,minmax(0,1fr))!important}}

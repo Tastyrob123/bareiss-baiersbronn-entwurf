@@ -38,7 +38,7 @@ const klein = n => n.replace(/^(Das|Die|Der) /, a => a.toLowerCase());   // Name
    wie online auf derselben Adresse: so ist «Website ansehen» auch erreichbar, wenn der Website-Server nicht läuft (Vorlage Wild Side). */
 const PORTE = (window.WO_HAUS && WO_HAUS.ports) || { zentrale: 9741, website: 9742, karten: 9743, gaeste: 9744, marke: 9745, besuche: 9746, druck: 9747, werkbank: 9748, website_lokal: 9749 };
 const HAUS = '/';
-const WERKBANK = location.port ? location.protocol + '//127.0.0.1:' + PORTE.werkbank + '/werkbank/' : '/werkbank/';
+const WERKBANK = location.port ? location.protocol + '//127.0.0.1:' + PORTE.werkbank + '/werkbank/' : '/_werkbank/werkbank/';   // online liegt die Werkbank unter _werkbank/werkbank/ (Prüfung 20.11.2026)
 const PORT_WERKZEUG = PORTE;
 const API = '/_werkzeuge/carte/api/';   // lokal (serve.py) und online derselbe Weg
 /* Wo die Karte auf der Website steht: alle drei auf restaurant-bareiss.html im Abschnitt #karte, dort je ein Teil (Knöpfe «Menus», «À la carte»,

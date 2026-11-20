@@ -18,7 +18,7 @@ const KOPF_EIGEN = (G, k) => !!(G && G[k] && typeof G[k].t === 'string' && G[k].
    (sonst öffnet z. B. die Zentrale auf 9744 ohne ihren Server) und nie localhost (Fehlerbuch 10a). Online bleiben die Wege relativ. */
 (() => { const H = window.WO_HAUS || {}, P = H.ports || {}, W = H.wege || {};
   if (/^(127\.0\.0\.1|localhost|\[::1\])$/.test(location.hostname)) Object.keys(W).forEach(k => { if (k !== 'gaeste' && P[k] && /^\//.test(W[k])) W[k] = 'http://127.0.0.1:' + P[k] + W[k]; }); })();
-const STUBE = /\/_werkzeuge\//.test(location.pathname) ? 'http://127.0.0.1:' + ((window.WO_HAUS || {}).ports || {}).zentrale + '/_werkzeuge/maison/' : '/maison/';   // die Zentrale: lokal auf ihrem eigenen Server (WO_HAUS.ports, nie localhost), online /maison/
+const STUBE = /^(127\.0\.0\.1|localhost|\[::1\])$/.test(location.hostname) && /\/_werkzeuge\//.test(location.pathname) ? 'http://127.0.0.1:' + ((window.WO_HAUS || {}).ports || {}).zentrale + '/_werkzeuge/maison/' : '../maison/';   // online (Prüfung 20.11.2026): Kontrollpanel im selben Entwurf   // die Zentrale: lokal auf ihrem eigenen Server (WO_HAUS.ports, nie localhost), online /maison/
 const SYM = {
   buch: '<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M2.5 3.2c2-.8 3.8-.6 5.5.6 1.7-1.2 3.5-1.4 5.5-.6v9.6c-2-.8-3.8-.6-5.5.6-1.7-1.2-3.5-1.4-5.5-.6z"/><path d="M8 3.8v9.6"/></svg>',
   haus: '<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M2.5 7.2 8 2.8l5.5 4.4V13a.5.5 0 0 1-.5.5H3a.5.5 0 0 1-.5-.5z"/><path d="M6.5 13.5v-4h3v4"/></svg>',
